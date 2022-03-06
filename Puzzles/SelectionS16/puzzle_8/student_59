@@ -1,0 +1,127 @@
+Problem No. 8
+Using Template # 2006
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+System.out.print( "Enter the price of the stock");
+else
+double sharePrice;
+System.out.print( "Enter the earnings of the stock");
+{
+{
+earnPerShare = stdin.nextDouble();
+} // End of else-clause
+System.out.print( "Sell the stock")
+System.out.print( "Sell the stock");
+if( sharePrice  /  earnPerShare  <=  19.0 )
+double earnPerShare;
+System.out.print( "Buy the stock");
+} // End of if-clause
+sharePrice = stdin.nextDouble();
+sharePrice == stdin.nextDouble();
+Using Template # 2006
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare sharePrice
+// Declare earnPerShare
+// Read sharePrice
+// Read earnPerShare
+// Compute and print the smaller value of sharePrice and earnPerShare
+}  // End of method main
+} // End of class Problem
+Using Template # 2006
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Moved from problem to solution at line 9: double sharePrice;
+Moved from problem to solution at line 13: earnPerShare = stdin.nextDouble();
+Moved from problem to solution at line 11: double earnPerShare;
+Moved from problem to trash at line 0: sharePrice == stdin.nextDouble();
+Moved from problem to solution at line 13: sharePrice = stdin.nextDouble();
+Moved from problem to trash at line 1: } // End of else-clause
+Moved from problem to trash at line 1: } // End of if-clause
+Moved from problem to trash at line 3: {
+Moved from problem to trash at line 2: {
+Moved from problem to solution at line 14: System.out.print( "Enter the earnings of the stock");
+Reordered from line 14 to 16: System.out.print( "Enter the earnings of the stock");
+Reordered from line 16 to 15: System.out.print( "Enter the earnings of the stock");
+Moved from problem to solution at line 13: System.out.print( "Enter the price of the stock");
+Moved from problem to solution at line 19: if( sharePrice  /  earnPerShare  <=  19.0 )
+Moved from problem to solution at line 20: System.out.print( "Sell the stock");
+Moved from problem to solution at line 21: else
+Moved from problem to solution at line 21: System.out.print( "Buy the stock");
+Reordered from line 21 to 23: System.out.print( "Buy the stock");
+Reordered from line 23 to 22: System.out.print( "Buy the stock");
+Moved from problem to trash at line 2: System.out.print( "Sell the stock")
+Submit Parsons Solution clicked @ 1462077334570
+This line is not in its correct location: System.out.print( "Sell the stock");
+Move this line in its place: System.out.print( "Buy the stock");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 22 to 20: System.out.print( "Buy the stock");
+Reordered from line 22 to 21: else
+Submit Parsons Solution clicked @ 1462077346734
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare sharePrice
+Line 11 (1 moves): double sharePrice;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Declare earnPerShare
+Line 14 (1 moves): double earnPerShare;
+Moved from problem to solution at line 11
+Line 16 (0 moves): // Read sharePrice
+Line 17 (1 moves): System.out.print( "Enter the price of the stock");
+Moved from problem to solution at line 13
+Line 18 (1 moves): sharePrice = stdin.nextDouble();
+Moved from problem to solution at line 13
+Line 20 (0 moves): // Read earnPerShare
+Line 21 (3 moves): System.out.print( "Enter the earnings of the stock");
+Moved from problem to solution at line 14
+Reordered from line 14 to 16
+Reordered from line 16 to 15
+Line 22 (1 moves): earnPerShare = stdin.nextDouble();
+Moved from problem to solution at line 13
+Line 24 (0 moves): // Compute and print the smaller value of sharePrice and earnPerShare
+Line 25 (1 moves): if( sharePrice  /  earnPerShare  <=  19.0 )
+Moved from problem to solution at line 19
+Line 27 (4 moves): System.out.print( "Buy the stock");
+Moved from problem to solution at line 21
+Reordered from line 21 to 23
+Reordered from line 23 to 22
+Reordered from line 22 to 20
+Line 29 (2 moves): else
+Moved from problem to solution at line 21
+Reordered from line 22 to 21
+Line 31 (1 moves): System.out.print( "Sell the stock");
+Moved from problem to solution at line 20
+Line 33 (0 moves): }  // End of method main
+Line 35 (0 moves): } // End of class Problem
+LINE 18 (1 moves): sharePrice == stdin.nextDouble();
+Moved from problem to trash at line 0
+Line 32 (1 moves): } // End of else-clause
+Moved from problem to trash at line 1
+Line 28 (1 moves): } // End of if-clause
+Moved from problem to trash at line 1
+Line 26 (1 moves): {
+Moved from problem to trash at line 3
+Line 30 (1 moves): {
+Moved from problem to trash at line 2
+LINE 31 (1 moves): System.out.print( "Sell the stock")
+Moved from problem to trash at line 2
+Your Grade:
+You took 22 steps to solve a Parsons puzzle containing 16 lines of code.
+Next Problem clicked @ 1462077352221
+Time spent on this problem: 154 seconds
+<HR>

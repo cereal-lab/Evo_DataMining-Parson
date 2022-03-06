@@ -1,0 +1,605 @@
+Problem No. 1
+Using Template # 100
+The Problem:
+Int number1, number2;
+int number1, number2;
+int number1 number2;
+System.out.print("Wrong answer. Try again. What is "  + number1 + " + " + number2 + "? ");
+import java.util.Scanner;
+public static void main(String[] args) {
+number1 = (int)(Math.random() * 10);  number2 = (int)(Math.random() * 10);  // This is line X
+}}
+Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+System.out.println("You got it!");
+System.out.print( "What is " + number1 + " + " + number2 + "? ");
+public class RepeatAdditionQuiz {
+answer = input.nextInt();}
+while (number1 + number2 != answer) {
+int answer = input.nextInt();
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 15 lines.
+Re-assemble them with 16 (or fewer) moves for full credit
+Using Template # 100
+The Problem:
+Int number1, number2;
+int number1, number2;
+int number1 number2;
+System.out.print("Wrong answer. Try again. What is "  + number1 + " + " + number2 + "? ");
+import java.util.Scanner;
+public static void main(String[] args) {
+number1 = (int)(Math.random() * 10);  number2 = (int)(Math.random() * 10);  // This is line X
+}}
+Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+System.out.println("You got it!");
+System.out.print( "What is " + number1 + " + " + number2 + "? ");
+public class RepeatAdditionQuiz {
+answer = input.nextInt();}
+while (number1 + number2 != answer) {
+int answer = input.nextInt();
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+1. Moved from problem to solution at line 0:   public static void main(String[] args) {
+2. Moved from problem to solution at line 1:   }}
+3. Moved from problem to solution at line 1: public class RepeatAdditionQuiz {
+4. Reordered from line 2 to 3:   }}
+*  Indented line 3:   }}
+5. Moved from problem to solution at line 2:     Int number1, number2;
+6. Moved from problem to solution at line 3:     int number1, number2;
+7. Moved from problem to solution at line 1: import java.util.Scanner;
+8. Moved from problem to solution at line 3:     int answer = input.nextInt();
+Submit Parsons Solution clicked @ 1489446518780
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1489446521217
+Please clear all the lines from the left panel before submitting your answer.
+9. Moved from problem to solution at line 7:       System.out.print("Wrong answer. Try again. What is "  + number1 + " + " + number2 + "? ");
+10. Reordered from line 6 to 2:   public static void main(String[] args) {
+11. Moved from problem to solution at line 7:     number1 = (int)(Math.random() * 10);  number2 = (int)(Math.random() * 10);  // This is line X
+12. Moved from problem to solution at line 6:     System.out.println("You got it!");
+13. Moved from problem to solution at line 9:     System.out.print( "What is " + number1 + " + " + number2 + "? ");
+14. Moved from problem to solution at line 9:       answer = input.nextInt();}
+15. Moved from problem to solution at line 7:     int number1 number2;
+16. Moved from problem to solution at line 10:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+17. Moved from problem to solution at line 12:     while (number1 + number2 != answer) {
+Submit Parsons Solution clicked @ 1489446561291
+This line is not in its correct location:   public static void main(String[] args) {
+Move this line in its place: public class RepeatAdditionQuiz {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446569338
+This line is not in its correct location:   public static void main(String[] args) {
+Move this line in its place: public class RepeatAdditionQuiz {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446571745
+This line is not in its correct location:   public static void main(String[] args) {
+Move this line in its place: public class RepeatAdditionQuiz {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446572270
+This line is not in its correct location:   public static void main(String[] args) {
+Move this line in its place: public class RepeatAdditionQuiz {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446572676
+This line is not in its correct location:   public static void main(String[] args) {
+Move this line in its place: public class RepeatAdditionQuiz {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+18. Reordered from line 2 to 15:   public static void main(String[] args) {
+Submit Parsons Solution clicked @ 1489446582240
+This line is not in its correct location:     int answer = input.nextInt();
+Move this line in its place:   public static void main(String[] args) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446591100
+This line is not in its correct location:     int answer = input.nextInt();
+Move this line in its place:   public static void main(String[] args) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446591381
+This line is not in its correct location:     int answer = input.nextInt();
+Move this line in its place:   public static void main(String[] args) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446591772
+This line is not in its correct location:     int answer = input.nextInt();
+Move this line in its place:   public static void main(String[] args) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446592022
+This line is not in its correct location:     int answer = input.nextInt();
+Move this line in its place:   public static void main(String[] args) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446592233
+This line is not in its correct location:     int answer = input.nextInt();
+Move this line in its place:   public static void main(String[] args) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446592436
+This line is not in its correct location:     int answer = input.nextInt();
+Move this line in its place:   public static void main(String[] args) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446601734
+This line is not in its correct location:     int answer = input.nextInt();
+Move this line in its place:   public static void main(String[] args) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446601984
+This line is not in its correct location:     int answer = input.nextInt();
+Move this line in its place:   public static void main(String[] args) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446602421
+This line is not in its correct location:     int answer = input.nextInt();
+Move this line in its place:   public static void main(String[] args) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446602812
+This line is not in its correct location:     int answer = input.nextInt();
+Move this line in its place:   public static void main(String[] args) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+19. Reordered from line 3 to 5:     int answer = input.nextInt();
+Submit Parsons Solution clicked @ 1489446617040
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446617337
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446617571
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446617790
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446618009
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446618212
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446618431
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446618603
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446618853
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446619087
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+20. Reordered from line 15 to 1:   public static void main(String[] args) {
+21. Reordered from line 1 to 3:   public static void main(String[] args) {
+22. Reordered from line 12 to 3:     while (number1 + number2 != answer) {
+23. Reordered from line 3 to 5:     while (number1 + number2 != answer) {
+Submit Parsons Solution clicked @ 1489446654248
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446655202
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446655389
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446655608
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446655795
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446656202
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446656420
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446656623
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446656811
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446657014
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446657233
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446657452
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+24. Moved from solution to problem at line 15:     int number1 number2;
+25. Moved from solution to problem at line 15:     System.out.println("You got it!");
+*  Outdented line 3:   public static void main(String[] args) {
+Submit Parsons Solution clicked @ 1489446668375
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1489446668891
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1489446669125
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1489446669344
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1489446669547
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1489446669734
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1489446669937
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1489446670141
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1489446670531
+Please clear all the lines from the left panel before submitting your answer.
+26. Moved from problem to solution at line 5:     int number1 number2;
+27. Moved from problem to solution at line 13:     System.out.println("You got it!");
+Submit Parsons Solution clicked @ 1489446684557
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446685494
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446685729
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446685979
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446686213
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446696050
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446696269
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446696472
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446696659
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446697003
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446697206
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446697394
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446697566
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446697769
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446697956
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446698128
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446698300
+Sorry, that line has a bug
+Delete this line:     Int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+*  Indented line 15:   }}
+28. Reordered from line 10 to 4:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+29. Reordered from line 12 to 5:     System.out.print( "What is " + number1 + " + " + number2 + "? ");
+Submit Parsons Solution clicked @ 1489446731484
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446732109
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446732484
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446732812
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446733078
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446733328
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446733547
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446733781
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446734000
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446734234
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446734437
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446734656
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446734868
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446735086
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446735321
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446735540
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446735743
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446736040
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446736305
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446736571
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446737087
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446738977
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446739196
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446739352
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446764223
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446764473
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446764707
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489446861427
+This line is not in its correct location:     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+Move this line in its place:     int number1, number2;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+30. Reordered from line 12 to 7:       answer = input.nextInt();}
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Explain Parsons Solution clicked @ 1489446900511
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+7. Moved from problem to solution at line 1
+Line 2 (1 moves): public class RepeatAdditionQuiz {
+3. Moved from problem to solution at line 1
+Line 3 (6 moves):   public static void main(String[] args) {
+1. Moved from problem to solution at line 0
+10. Reordered from line 6 to 2
+18. Reordered from line 2 to 15
+20. Reordered from line 15 to 1
+21. Reordered from line 1 to 3
+*  Outdented line 3
+Line 5 (2 moves):     Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+16. Moved from problem to solution at line 10
+28. Reordered from line 10 to 4
+Line 7 (2 moves):     System.out.print( "What is " + number1 + " + " + number2 + "? ");
+13. Moved from problem to solution at line 9
+29. Reordered from line 12 to 5
+Line 4 (22) (1 moves):     Int number1, number2;
+5. Moved from problem to solution at line 2
+Line 11 (2 moves):       answer = input.nextInt();}
+14. Moved from problem to solution at line 9
+30. Reordered from line 12 to 7
+Line 4 (30) (3 moves):     int number1 number2;
+15. Moved from problem to solution at line 7
+24. Moved from solution to problem at line 15
+26. Moved from problem to solution at line 5
+Line 9 (3 moves):     while (number1 + number2 != answer) {
+17. Moved from problem to solution at line 12
+22. Reordered from line 12 to 3
+23. Reordered from line 3 to 5
+Line 8 (2 moves):     int answer = input.nextInt();
+8. Moved from problem to solution at line 3
+19. Reordered from line 3 to 5
+Line 4 (1 moves):     int number1, number2;
+6. Moved from problem to solution at line 3
+Line 6 (1 moves):     number1 = (int)(Math.random() * 10);  number2 = (int)(Math.random() * 10);  // This is line X
+11. Moved from problem to solution at line 7
+Line 12 (3 moves):     System.out.println("You got it!");
+12. Moved from problem to solution at line 6
+25. Moved from solution to problem at line 15
+27. Moved from problem to solution at line 13
+Line 10 (1 moves):       System.out.print("Wrong answer. Try again. What is "  + number1 + " + " + number2 + "? ");
+9. Moved from problem to solution at line 7
+Line 13 (4 moves):   }}
+2. Moved from problem to solution at line 1
+4. Reordered from line 2 to 3
+*  Indented line 3
+*  Indented line 15
+Since you quit, this problem is being marked as not attempted
+Your Grade:
+You took 30 steps before bailing out of a Parsons puzzle containing 15 lines of code.
+Your answer so far is as follows:
+import java.util.Scanner;
+public class RepeatAdditionQuiz {
+public static void main(String[] args) {
+Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+System.out.print( "What is " + number1 + " + " + number2 + "? ");
+Int number1, number2;
+answer = input.nextInt();}
+int number1 number2;
+while (number1 + number2 != answer) {
+int answer = input.nextInt();
+int number1, number2;
+number1 = (int)(Math.random() * 10);  number2 = (int)(Math.random() * 10);  // This is line X
+System.out.println("You got it!");
+System.out.print("Wrong answer. Try again. What is "  + number1 + " + " + number2 + "? ");
+}}
+The lines you deleted so far are as follows:
+The correct answer is as follows:
+import java.util.Scanner;
+public class RepeatAdditionQuiz {
+public static void main(String[] args) {
+int number1, number2;
+Scanner input = new Scanner(System.in);    //This line should immediately be placed before Line X
+number1 = (int)(Math.random() * 10);  number2 = (int)(Math.random() * 10);  // This is line X
+System.out.print( "What is " + number1 + " + " + number2 + "? ");
+int answer = input.nextInt();
+while (number1 + number2 != answer) {
+System.out.print("Wrong answer. Try again. What is "  + number1 + " + " + number2 + "? ");
+answer = input.nextInt();}
+System.out.println("You got it!");
+}}
+Click on 'Next Problem' button to go to the next problem
+Next Problem clicked @ 1489446902964
+Time spent on this problem: 474 seconds
+<HR>

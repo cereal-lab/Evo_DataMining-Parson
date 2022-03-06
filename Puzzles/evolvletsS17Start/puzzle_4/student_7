@@ -1,0 +1,104 @@
+Problem No. 4
+Using Template # 100
+The Problem:
+public static void main(String[] args) {
+else if (bmi < 25) //This line should be written before Line X
+System.out.println("Overweight");
+if (bmi < 18.5)
+System.out.println("Underweight")
+System.out.println("Underweight");
+int bmi = 24.60;
+double bmi = 24.60;
+}}
+else if (bmi < 30) // Line X
+System.out.println("Normal");
+public class BMIInterprete {
+System.out.println("Obese");
+else
+import java.util.Scanner;
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 15 lines.
+Re-assemble them with 16 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: }}
+2. Moved from problem to solution at line 1:   public static void main(String[] args) {
+3. Moved from problem to solution at line 1: public class BMIInterprete {
+4. Moved from problem to solution at line 1: import java.util.Scanner;
+5. Moved from problem to solution at line 4:     double bmi = 24.60;
+6. Moved from problem to solution at line 5:     if (bmi < 18.5)
+7. Moved from problem to solution at line 6:       System.out.println("Underweight");
+8. Moved from problem to trash at line 0:       System.out.println("Underweight")
+9. Moved from problem to trash at line 1:     int bmi = 24.60;
+10. Moved from problem to solution at line 7:     else
+11. Moved from problem to solution at line 8:       System.out.println("Overweight");
+12. Moved from problem to trash at line 2:       System.out.println("Obese");
+13. Moved from problem to trash at line 3:     else if (bmi < 30) // Line X
+14. Moved from problem to trash at line 1:       System.out.println("Normal");
+15. Moved from problem to trash at line 3:     else if (bmi < 25) //This line should be written before Line X
+Submit Parsons Solution clicked @ 1488999212610
+This line is not in its correct location:     else
+Insert this line in its place:     else if (bmi < 25) //This line should be written before Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+16. Moved from trash to solution at line 7:     else if (bmi < 25) //This line should be written before Line X
+17. Moved from trash to solution at line 8:     else if (bmi < 30) // Line X
+18. Moved from solution to trash at line 4:     else
+Submit Parsons Solution clicked @ 1488999230727
+This line is not in its correct location:     else if (bmi < 30) // Line X
+Insert this line in its place:       System.out.println("Normal");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+19. Moved from trash to solution at line 8:       System.out.println("Normal");
+Submit Parsons Solution clicked @ 1488999249718
+This line is not in its correct location: }}
+Insert this line in its place:     else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+20. Moved from trash to solution at line 11:     else
+21. Moved from trash to solution at line 12:       System.out.println("Obese");
+Submit Parsons Solution clicked @ 1488999260899
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+4. Moved from problem to solution at line 1
+Line 2 (1 moves): public class BMIInterprete {
+3. Moved from problem to solution at line 1
+Line 3 (1 moves):   public static void main(String[] args) {
+2. Moved from problem to solution at line 1
+Line 4 (1 moves):     double bmi = 24.60;
+5. Moved from problem to solution at line 4
+Line 5 (1 moves):     if (bmi < 18.5)
+6. Moved from problem to solution at line 5
+Line 6 (1 moves):       System.out.println("Underweight");
+7. Moved from problem to solution at line 6
+Line 7 (2 moves):     else if (bmi < 25) //This line should be written before Line X
+15. Moved from problem to trash at line 3
+16. Moved from trash to solution at line 7
+Line 8 (2 moves):       System.out.println("Normal");
+14. Moved from problem to trash at line 1
+19. Moved from trash to solution at line 8
+Line 9 (2 moves):     else if (bmi < 30) // Line X
+13. Moved from problem to trash at line 3
+17. Moved from trash to solution at line 8
+Line 10 (1 moves):       System.out.println("Overweight");
+11. Moved from problem to solution at line 8
+Line 11 (3 moves):     else
+10. Moved from problem to solution at line 7
+18. Moved from solution to trash at line 4
+20. Moved from trash to solution at line 11
+Line 12 (2 moves):       System.out.println("Obese");
+12. Moved from problem to trash at line 2
+21. Moved from trash to solution at line 12
+Line 13 (1 moves): }}
+1. Moved from problem to solution at line 0
+Line 6 (16) (1 moves):       System.out.println("Underweight")
+8. Moved from problem to trash at line 0
+Line 4 (34) (1 moves):     int bmi = 24.60;
+9. Moved from problem to trash at line 1
+Your Grade:
+You took 21 steps to solve a Parsons puzzle containing 15 lines of code.
+Next Problem clicked @ 1488999267185
+Time spent on this problem: 357 seconds
+<HR>

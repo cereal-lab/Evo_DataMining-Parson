@@ -1,0 +1,189 @@
+Problem No. 1
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+} // End of if-clause
+int secondNum;
+System.out.print( "Enter the first value");
+System.out.print( "Enter the second value");
+System.out.print( "Enter the second value")
+secondNum = stdin.nextInt();
+{
+else
+System.out.print( firstInput);
+System.out.print( secondNum);
+int firstInput;
+{
+if( firstInput  >  secondNum )
+if( firstInput  <  secondNum )
+} // End of else-clause
+firstInput = stdin.nextInt();
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare firstInput
+// Declare secondNum
+// Read firstInput
+// Read secondNum
+// If firstInput is less than secondNum, print firstInput. Otherwise, print secondNum
+}  // End of method main
+} // End of class Problem
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+} // End of if-clause
+int secondNum;
+System.out.print( "Enter the first value");
+System.out.print( "Enter the second value");
+System.out.print( "Enter the second value")
+secondNum = stdin.nextInt();
+{
+else
+System.out.print( firstInput);
+System.out.print( secondNum);
+int firstInput;
+{
+if( firstInput  >  secondNum )
+if( firstInput  <  secondNum )
+} // End of else-clause
+firstInput = stdin.nextInt();
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare firstInput
+// Declare secondNum
+// Read firstInput
+// Read secondNum
+// If firstInput is less than secondNum, print firstInput. Otherwise, print secondNum
+}  // End of method main
+} // End of class Problem
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Moved from problem to solution at line 11: System.out.print( "Enter the first value");
+Moved from problem to solution at line 13: System.out.print( "Enter the second value");
+Moved from problem to trash at line 0: System.out.print( "Enter the second value")
+Moved from problem to solution at line 12: firstInput = stdin.nextInt();
+Moved from problem to solution at line 15: secondNum = stdin.nextInt();
+Moved from problem to solution at line 17: if( firstInput  <  secondNum )
+Moved from problem to trash at line 1: if( firstInput  >  secondNum )
+Moved from problem to solution at line 9: int firstInput;
+Moved from problem to solution at line 14: int secondNum;
+Reordered from line 14 to 11: int secondNum;
+Moved from problem to solution at line 20: System.out.print( firstInput);
+Moved from problem to solution at line 21: else
+Moved from problem to solution at line 22: System.out.print( secondNum);
+Moved from problem to solution at line 23: } // End of if-clause
+Reordered from line 23 to 19: } // End of if-clause
+Reordered from line 19 to 21: } // End of if-clause
+Moved from problem to solution at line 24: } // End of else-clause
+Moved from problem to solution at line 8: {
+Moved from problem to trash at line 2: {
+Submit Parsons Solution clicked @ 1448232725526
+This line is not in its correct location: {
+Either delete it or move it past this line: // Declare firstInput
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 3: {
+Submit Parsons Solution clicked @ 1448232728857
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 22 to 21: else
+Submit Parsons Solution clicked @ 1448232737362
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: System.out.print( secondNum);
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 23 to 22: System.out.print( secondNum);
+Submit Parsons Solution clicked @ 1448232748209
+This line is not in its correct location: } // End of if-clause
+Either delete it or move it past this line: }  // End of method main
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 3: } // End of if-clause
+Submit Parsons Solution clicked @ 1448232753866
+This line is not in its correct location: } // End of else-clause
+Either delete it or move it past this line: }  // End of method main
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 3: } // End of else-clause
+Submit Parsons Solution clicked @ 1448232756578
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare firstInput
+Line 11 (1 moves): int firstInput;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Declare secondNum
+Line 14 (2 moves): int secondNum;
+Moved from problem to solution at line 14
+Reordered from line 14 to 11
+Line 16 (0 moves): // Read firstInput
+Line 17 (1 moves): System.out.print( "Enter the first value");
+Moved from problem to solution at line 11
+Line 18 (1 moves): firstInput = stdin.nextInt();
+Moved from problem to solution at line 12
+Line 20 (0 moves): // Read secondNum
+Line 21 (1 moves): System.out.print( "Enter the second value");
+Moved from problem to solution at line 13
+Line 22 (1 moves): secondNum = stdin.nextInt();
+Moved from problem to solution at line 15
+Line 24 (0 moves): // If firstInput is less than secondNum, print firstInput. Otherwise, print secondNum
+Line 25 (1 moves): if( firstInput  <  secondNum )
+Moved from problem to solution at line 17
+Line 27 (1 moves): System.out.print( firstInput);
+Moved from problem to solution at line 20
+Line 29 (2 moves): else
+Moved from problem to solution at line 21
+Reordered from line 22 to 21
+Line 31 (2 moves): System.out.print( secondNum);
+Moved from problem to solution at line 22
+Reordered from line 23 to 22
+Line 33 (0 moves): }  // End of method main
+Line 35 (0 moves): } // End of class Problem
+LINE 21 (1 moves): System.out.print( "Enter the second value")
+Moved from problem to trash at line 0
+LINE 25 (1 moves): if( firstInput  >  secondNum )
+Moved from problem to trash at line 1
+Line 26 (1 moves): {
+Moved from problem to trash at line 2
+Line 30 (2 moves): {
+Moved from problem to solution at line 8
+Moved from solution to trash at line 3
+Line 28 (4 moves): } // End of if-clause
+Moved from problem to solution at line 23
+Reordered from line 23 to 19
+Reordered from line 19 to 21
+Moved from solution to trash at line 3
+Line 32 (2 moves): } // End of else-clause
+Moved from problem to solution at line 24
+Moved from solution to trash at line 3
+Your Grade:
+You took 24 steps to solve a Parsons puzzle containing 16 lines of code.
+Next Problem clicked @ 1448232758209
+Time spent on this problem: 162 seconds
+<HR>

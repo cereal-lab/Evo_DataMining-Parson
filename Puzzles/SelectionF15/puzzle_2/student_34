@@ -1,0 +1,237 @@
+Problem No. 2
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+if( numGrade  >=  55 )
+else
+if( numGrade  >=  70 )
+gradeLetter  =  'F';
+} // End of else-clause
+else
+{
+} // End of if-clause
+System.out.print( gradeLetter);
+if( numGrade  >=  90 )
+gradeLetter  =  "A";
+gradeLetter  =  'A';
+short numGrade;
+gradeLetter  =  'D';
+char gradeLetter;
+{
+gradeLetter  =  'B';
+{
+{
+{
+} // End of else-clause
+else;
+else
+} // End of else-clause
+gradeLetter  =  'C';
+} // End of if-clause
+{
+} // End of if-clause
+else
+} // End of if-clause
+System.out.print( "Enter the numerical grade");
+numGrade = stdin.nextShort();
+{
+{
+if( numGrade  >=  80 )
+} // End of else-clause
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare numGrade
+// Declare gradeLetter
+// Read numGrade
+// Compute gradeLetter based on numGrade
+// Print gradeLetter
+}  // End of method main
+} // End of class Problem
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to trash at line 0: gradeLetter  =  "A";
+Moved from problem to solution at line 10: char gradeLetter;
+Moved from problem to solution at line 12: short numGrade;
+Reordered from line 12 to 9: short numGrade;
+Moved from problem to solution at line 13: System.out.print( "Enter the numerical grade");
+Moved from problem to solution at line 14: numGrade = stdin.nextShort();
+Moved from problem to solution at line 16: if( numGrade  >=  90 )
+Moved from problem to solution at line 17: gradeLetter  =  'A';
+Moved from problem to solution at line 18: else
+Moved from problem to solution at line 18: if( numGrade  >=  80 )
+Reordered from line 18 to 20: if( numGrade  >=  80 )
+Reordered from line 20 to 19: if( numGrade  >=  80 )
+Moved from problem to solution at line 20: gradeLetter  =  'B';
+Moved from problem to solution at line 22: System.out.print( gradeLetter);
+Moved from problem to solution at line 21: if( numGrade  >=  70 )
+Moved from problem to solution at line 22: gradeLetter  =  'C';
+Moved from problem to solution at line 23: if( numGrade  >=  55 )
+Moved from problem to solution at line 25: gradeLetter  =  'D';
+Reordered from line 25 to 24: gradeLetter  =  'D';
+Moved from problem to solution at line 25: gradeLetter  =  'F';
+Moved from problem to trash at line 1: else;
+Moved from problem to solution at line 25: else
+Moved from problem to solution at line 23: else
+Moved from problem to solution at line 21: else
+Moved from problem to solution at line 19: {
+Moved from problem to solution at line 17: {
+Moved from problem to solution at line 19: } // End of if-clause
+Moved from problem to solution at line 23: {
+Moved from problem to solution at line 25: } // End of if-clause
+Moved from problem to solution at line 28: {
+Moved from problem to solution at line 33: } // End of if-clause
+Moved from problem to solution at line 32: {
+Moved from problem to solution at line 37: } // End of else-clause
+Moved from problem to solution at line 36: {
+Moved from problem to solution at line 27: {
+Moved from problem to solution at line 32: {
+Moved from problem to solution at line 26: } // End of else-clause
+Moved from problem to solution at line 32: } // End of else-clause
+Moved from problem to solution at line 39: } // End of else-clause
+Moved from problem to trash at line 2: } // End of if-clause
+Submit Parsons Solution clicked @ 1448334817353
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 3: } // End of else-clause
+Submit Parsons Solution clicked @ 1448334823038
+This line is not in its correct location: } // End of else-clause
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 4: } // End of else-clause
+Submit Parsons Solution clicked @ 1448334827968
+This line is not in its correct location: else
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 31: } // End of if-clause
+Submit Parsons Solution clicked @ 1448334846384
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 2: } // End of else-clause
+Submit Parsons Solution clicked @ 1448334852337
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 3: {
+Moved from solution to trash at line 1: {
+Moved from solution to trash at line 4: {
+Submit Parsons Solution clicked @ 1448334892976
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare numGrade
+Line 11 (2 moves): short numGrade;
+Moved from problem to solution at line 12
+Reordered from line 12 to 9
+Line 13 (0 moves): // Declare gradeLetter
+Line 14 (1 moves): char gradeLetter;
+Moved from problem to solution at line 10
+Line 16 (0 moves): // Read numGrade
+Line 17 (1 moves): System.out.print( "Enter the numerical grade");
+Moved from problem to solution at line 13
+Line 18 (1 moves): numGrade = stdin.nextShort();
+Moved from problem to solution at line 14
+Line 20 (0 moves): // Compute gradeLetter based on numGrade
+Line 21 (1 moves): if( numGrade  >=  90 )
+Moved from problem to solution at line 16
+Line 22 (1 moves): {
+Moved from problem to solution at line 17
+Line 23 (1 moves): gradeLetter  =  'A';
+Moved from problem to solution at line 17
+Line 24 (1 moves): } // End of if-clause
+Moved from problem to solution at line 19
+Line 25 (1 moves): else
+Moved from problem to solution at line 18
+Line 27 (3 moves): if( numGrade  >=  80 )
+Moved from problem to solution at line 18
+Reordered from line 18 to 20
+Reordered from line 20 to 19
+Line 28 (1 moves): {
+Moved from problem to solution at line 23
+Line 29 (1 moves): gradeLetter  =  'B';
+Moved from problem to solution at line 20
+Line 30 (1 moves): } // End of if-clause
+Moved from problem to solution at line 25
+Line 31 (1 moves): else
+Moved from problem to solution at line 21
+Line 33 (1 moves): if( numGrade  >=  70 )
+Moved from problem to solution at line 21
+Line 34 (1 moves): {
+Moved from problem to solution at line 28
+Line 35 (1 moves): gradeLetter  =  'C';
+Moved from problem to solution at line 22
+Line 36 (2 moves): } // End of if-clause
+Moved from problem to trash at line 2
+Moved from trash to solution at line 31
+Line 37 (1 moves): else
+Moved from problem to solution at line 23
+Line 39 (1 moves): if( numGrade  >=  55 )
+Moved from problem to solution at line 23
+Line 40 (1 moves): {
+Moved from problem to solution at line 32
+Line 41 (2 moves): gradeLetter  =  'D';
+Moved from problem to solution at line 25
+Reordered from line 25 to 24
+Line 42 (1 moves): } // End of if-clause
+Moved from problem to solution at line 33
+Line 43 (1 moves): else
+Moved from problem to solution at line 25
+Line 44 (1 moves): {
+Moved from problem to solution at line 36
+Line 45 (1 moves): gradeLetter  =  'F';
+Moved from problem to solution at line 25
+Line 46 (1 moves): } // End of else-clause
+Moved from problem to solution at line 37
+Line 51 (0 moves): // Print gradeLetter
+Line 52 (1 moves): System.out.print( gradeLetter);
+Moved from problem to solution at line 22
+Line 53 (0 moves): }  // End of method main
+Line 55 (0 moves): } // End of class Problem
+LINE 23 (1 moves): gradeLetter  =  "A";
+Moved from problem to trash at line 0
+LINE 25 (1 moves): else;
+Moved from problem to trash at line 1
+Line 48 (2 moves): } // End of else-clause
+Moved from problem to solution at line 26
+Moved from solution to trash at line 3
+Line 49 (2 moves): } // End of else-clause
+Moved from problem to solution at line 32
+Moved from solution to trash at line 4
+Line 46 (2 moves): } // End of else-clause
+Moved from problem to solution at line 39
+Moved from solution to trash at line 2
+Line 32 (2 moves): {
+Moved from problem to solution at line 27
+Moved from solution to trash at line 3
+Line 26 (2 moves): {
+Moved from problem to solution at line 19
+Moved from solution to trash at line 1
+Line 38 (2 moves): {
+Moved from problem to solution at line 32
+Moved from solution to trash at line 4
+Your Grade:
+You took 47 steps to solve a Parsons puzzle containing 36 lines of code.
+Next Problem clicked @ 1448334901692
+Time spent on this problem: 469 seconds
+<HR>

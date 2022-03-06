@@ -1,0 +1,121 @@
+Problem No. 11
+Using Template # 2008
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+if( firstNum  >  second )
+{
+short firstNum;
+cin >> firstNum;
+short second;
+{
+} // End of if-clause
+} // End of else-clause
+cout << result;
+else
+result  =  firstNum  -  second;
+short result
+cout << "Enter the second number";
+short result;
+Cin >> firstNum;
+cout << "Enter the first number";
+result  =  second  -  firstNum;
+cin >> second;
+Using Template # 2008
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The C++ program
+#include <iostream>
+using namespace std;
+int main()
+{
+// Declare firstNum
+// Declare second
+// Declare result
+// Read firstNum
+// Read second
+// Compute and print whether second evenly divides firstNum
+// Print result
+}  // End of function main
+Using Template # 2008
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+About Topic selected  @ 1461952687147
+About Tutor selected  @ 1461952719722
+Using Tutor selected  @ 1461952725219
+Moved from problem to solution at line 6: short firstNum;
+Reordered from line 6 to 7: short firstNum;
+Moved from problem to solution at line 9: short second;
+Moved from problem to solution at line 11: short result;
+Moved from problem to solution at line 13: cout << "Enter the first number";
+Moved from problem to trash at line 0: Cin >> firstNum;
+Moved from problem to solution at line 14: cin >> firstNum;
+Moved from problem to solution at line 16: cout << "Enter the second number";
+Moved from problem to solution at line 17: cin >> second;
+Moved from problem to solution at line 19: if( firstNum  >  second )
+Moved from problem to solution at line 20: result  =  firstNum  -  second;
+Moved from problem to solution at line 20: {
+Moved from problem to solution at line 22: } // End of if-clause
+Moved from problem to solution at line 23: else
+Moved from problem to solution at line 24: {
+Moved from problem to solution at line 25: result  =  second  -  firstNum;
+Moved from problem to solution at line 26: } // End of else-clause
+Moved from problem to solution at line 28: cout << result;
+Moved from problem to trash at line 1: short result
+Submit Parsons Solution clicked @ 1461952897513
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The C++ program
+Line 2 (0 moves): #include <iostream>
+Line 3 (0 moves): using namespace std;
+Line 5 (0 moves): int main()
+Line 6 (0 moves): {
+Line 8 (0 moves): // Declare firstNum
+Line 9 (2 moves): short firstNum;
+Moved from problem to solution at line 6
+Reordered from line 6 to 7
+Line 11 (0 moves): // Declare second
+Line 12 (1 moves): short second;
+Moved from problem to solution at line 9
+Line 14 (0 moves): // Declare result
+Line 15 (1 moves): short result;
+Moved from problem to solution at line 11
+Line 17 (0 moves): // Read firstNum
+Line 18 (1 moves): cout << "Enter the first number";
+Moved from problem to solution at line 13
+Line 19 (1 moves): cin >> firstNum;
+Moved from problem to solution at line 14
+Line 21 (0 moves): // Read second
+Line 22 (1 moves): cout << "Enter the second number";
+Moved from problem to solution at line 16
+Line 23 (1 moves): cin >> second;
+Moved from problem to solution at line 17
+Line 25 (0 moves): // Compute and print whether second evenly divides firstNum
+Line 26 (1 moves): if( firstNum  >  second )
+Moved from problem to solution at line 19
+Line 27 (1 moves): {
+Moved from problem to solution at line 20
+Line 28 (1 moves): result  =  firstNum  -  second;
+Moved from problem to solution at line 20
+Line 29 (1 moves): } // End of if-clause
+Moved from problem to solution at line 22
+Line 30 (1 moves): else
+Moved from problem to solution at line 23
+Line 31 (1 moves): {
+Moved from problem to solution at line 24
+Line 32 (1 moves): result  =  second  -  firstNum;
+Moved from problem to solution at line 25
+Line 33 (1 moves): } // End of else-clause
+Moved from problem to solution at line 26
+Line 35 (0 moves): // Print result
+Line 36 (1 moves): cout << result;
+Moved from problem to solution at line 28
+Line 37 (0 moves): }  // End of function main
+LINE 19 (1 moves): Cin >> firstNum;
+Moved from problem to trash at line 0
+LINE 15 (1 moves): short result
+Moved from problem to trash at line 1
+Your Grade:
+You took 19 steps to solve a Parsons puzzle containing 18 lines of code.
+Next Problem clicked @ 1461952907184
+Time spent on this problem: 227 seconds
+<HR>

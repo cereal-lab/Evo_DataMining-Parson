@@ -1,0 +1,150 @@
+Problem No. 4
+Using Template # 2101
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+{
+} // End of else-clause
+if( inputDegrees  <=  180 )
+if( inputDegrees  <=  180 );
+{
+System.out.print( "Third quadrant");
+{
+inputDegrees = stdin.nextInt();
+if( inputDegrees  <=  270 )
+} // End of if-clause
+System.out.print( "Enter the location in degrees (1-360)");
+int inputDegrees;
+else
+Else
+} // End of else-clause
+if( inputDegrees  <=  90 )
+else
+else
+{
+System.out.print( "Second quadrant");
+} // End of if-clause
+} // End of else-clause
+{
+{
+System.out.print( "Fourth quadrant");
+} // End of if-clause
+System.out.print( "First quadrant");
+Using Template # 2101
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare inputDegrees
+// Read inputDegrees
+// Compute and print the quadrant based on inputDegrees
+}  // End of method main
+} // End of class Problem
+Using Template # 2101
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to solution at line 9: int inputDegrees;
+Moved from problem to solution at line 11: System.out.print( "Enter the location in degrees (1-360)");
+Moved from problem to solution at line 12: inputDegrees = stdin.nextInt();
+Moved from problem to solution at line 14: if( inputDegrees  <=  90 )
+Moved from problem to solution at line 15: {
+Moved from problem to solution at line 16: System.out.print( "First quadrant");
+Moved from problem to solution at line 17: } // End of if-clause
+Moved from problem to solution at line 18: else
+Moved from problem to solution at line 19: {
+Moved from problem to solution at line 20: if( inputDegrees  <=  180 )
+Moved from problem to solution at line 21: {
+Moved from problem to solution at line 22: System.out.print( "Second quadrant");
+Moved from problem to solution at line 23: } // End of if-clause
+Moved from problem to solution at line 24: else
+Moved from problem to solution at line 25: {
+Moved from problem to solution at line 26: if( inputDegrees  <=  270 )
+Moved from problem to solution at line 27: {
+Moved from problem to solution at line 28: System.out.print( "Third quadrant");
+Moved from problem to solution at line 29: } // End of if-clause
+Moved from problem to solution at line 30: else
+Moved from problem to solution at line 31: {
+Moved from problem to solution at line 32: System.out.print( "Fourth quadrant");
+Moved from problem to solution at line 33: } // End of else-clause
+Moved from problem to solution at line 34: } // End of else-clause
+Moved from problem to solution at line 35: } // End of else-clause
+Moved from problem to trash at line 0: if( inputDegrees  <=  180 );
+Moved from problem to trash at line 1: Else
+Submit Parsons Solution clicked @ 1462170324189
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare inputDegrees
+Line 11 (1 moves): int inputDegrees;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Read inputDegrees
+Line 14 (1 moves): System.out.print( "Enter the location in degrees (1-360)");
+Moved from problem to solution at line 11
+Line 15 (1 moves): inputDegrees = stdin.nextInt();
+Moved from problem to solution at line 12
+Line 17 (0 moves): // Compute and print the quadrant based on inputDegrees
+Line 18 (1 moves): if( inputDegrees  <=  90 )
+Moved from problem to solution at line 14
+Line 19 (1 moves): {
+Moved from problem to solution at line 15
+Line 20 (1 moves): System.out.print( "First quadrant");
+Moved from problem to solution at line 16
+Line 21 (1 moves): } // End of if-clause
+Moved from problem to solution at line 17
+Line 22 (1 moves): else
+Moved from problem to solution at line 18
+Line 23 (1 moves): {
+Moved from problem to solution at line 19
+Line 24 (1 moves): if( inputDegrees  <=  180 )
+Moved from problem to solution at line 20
+Line 25 (1 moves): {
+Moved from problem to solution at line 21
+Line 26 (1 moves): System.out.print( "Second quadrant");
+Moved from problem to solution at line 22
+Line 27 (1 moves): } // End of if-clause
+Moved from problem to solution at line 23
+Line 28 (1 moves): else
+Moved from problem to solution at line 24
+Line 29 (1 moves): {
+Moved from problem to solution at line 25
+Line 30 (1 moves): if( inputDegrees  <=  270 )
+Moved from problem to solution at line 26
+Line 31 (1 moves): {
+Moved from problem to solution at line 27
+Line 32 (1 moves): System.out.print( "Third quadrant");
+Moved from problem to solution at line 28
+Line 33 (1 moves): } // End of if-clause
+Moved from problem to solution at line 29
+Line 34 (1 moves): else
+Moved from problem to solution at line 30
+Line 35 (1 moves): {
+Moved from problem to solution at line 31
+Line 36 (1 moves): System.out.print( "Fourth quadrant");
+Moved from problem to solution at line 32
+Line 37 (1 moves): } // End of else-clause
+Moved from problem to solution at line 33
+Line 38 (1 moves): } // End of else-clause
+Moved from problem to solution at line 34
+Line 39 (1 moves): } // End of else-clause
+Moved from problem to solution at line 35
+Line 40 (0 moves): }  // End of method main
+Line 42 (0 moves): } // End of class Problem
+LINE 24 (1 moves): if( inputDegrees  <=  180 );
+Moved from problem to trash at line 0
+LINE 22 (1 moves): Else
+Moved from problem to trash at line 1
+Your Grade:
+You took 27 steps to solve a Parsons puzzle containing 27 lines of code.
+Next Problem clicked @ 1462170329600
+Time spent on this problem: 216 seconds
+<HR>

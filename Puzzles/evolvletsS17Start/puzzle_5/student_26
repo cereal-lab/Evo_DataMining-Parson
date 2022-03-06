@@ -1,0 +1,87 @@
+Problem No. 5
+Using Template # 100
+The Problem:
+System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 1) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+public class TestBooleanOperators {
+public static void main(String[] args) {
+import java.util.Scanner;
+}}
+Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+System.out.print("Enter an integer: "); // This is line X
+int number = input.nextInt();
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 10 lines.
+Re-assemble them with 11 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: import java.util.Scanner;
+2. Moved from problem to solution at line 1: public class TestBooleanOperators {
+3. Moved from problem to solution at line 2: }}
+4. Reordered from line 2 to 3: }}
+5. Moved from problem to solution at line 3:   public static void main(String[] args) {
+6. Moved from problem to solution at line 4:     Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+7. Moved from problem to solution at line 5:     System.out.print("Enter an integer: "); // This is line X
+8. Moved from problem to solution at line 6:     int number = input.nextInt();
+9. Moved from problem to solution at line 7:     System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+10. Moved from problem to trash at line 0:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+11. Moved from problem to trash at line 1:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 1) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+Submit Parsons Solution clicked @ 1489361830805
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+12. Reordered from line 2 to 1: import java.util.Scanner;
+Submit Parsons Solution clicked @ 1489361838938
+This line is not in its correct location:     System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+Insert this line in its place:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+13. Moved from solution to trash at line 2:     System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+14. Moved from trash to solution at line 7:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+Submit Parsons Solution clicked @ 1489361855007
+This line is not in its correct location: }}
+Insert this line in its place:     System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489361865099
+This line is not in its correct location: }}
+Insert this line in its place:     System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+15. Moved from trash to solution at line 8:     System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+Submit Parsons Solution clicked @ 1489361871327
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (2 moves): import java.util.Scanner;
+1. Moved from problem to solution at line 0
+12. Reordered from line 2 to 1
+Line 2 (1 moves): public class TestBooleanOperators {
+2. Moved from problem to solution at line 1
+Line 3 (1 moves):   public static void main(String[] args) {
+5. Moved from problem to solution at line 3
+Line 4 (1 moves):     Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+6. Moved from problem to solution at line 4
+Line 5 (1 moves):     System.out.print("Enter an integer: "); // This is line X
+7. Moved from problem to solution at line 5
+Line 6 (1 moves):     int number = input.nextInt();
+8. Moved from problem to solution at line 6
+Line 7 (2 moves):     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+10. Moved from problem to trash at line 0
+14. Moved from trash to solution at line 7
+Line 8 (3 moves):     System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+9. Moved from problem to solution at line 7
+13. Moved from solution to trash at line 2
+15. Moved from trash to solution at line 8
+Line 9 (2 moves): }}
+3. Moved from problem to solution at line 2
+4. Reordered from line 2 to 3
+Line 7 (7) (1 moves):     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 1) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+11. Moved from problem to trash at line 1
+Your Grade:
+You took 15 steps to solve a Parsons puzzle containing 10 lines of code.
+Next Problem clicked @ 1489361883406
+Time spent on this problem: 153 seconds
+<HR>

@@ -1,0 +1,338 @@
+Problem No. 1
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+if( firstValue  <  secondValue );
+if( firstValue  <  secondValue )
+System.out.print( "Enter the first value");
+} // End of else-clause
+System.out.print( firstValue);
+else
+short firstValue;
+{
+} // End of if-clause
+{
+secondValue = stdin.nextShort();
+firstValue = stdin.nextShort();
+System.out.print( "Enter the second value")
+System.out.print( "Enter the second value");
+short secondValue;
+System.out.print( secondValue);
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare firstValue
+// Declare secondValue
+// Read firstValue
+// Read secondValue
+// If firstValue is less than secondValue, print firstValue. Otherwise, print secondValue
+}  // End of method main
+} // End of class Problem
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+if( firstValue  <  secondValue );
+if( firstValue  <  secondValue )
+System.out.print( "Enter the first value");
+} // End of else-clause
+System.out.print( firstValue);
+else
+short firstValue;
+{
+} // End of if-clause
+{
+secondValue = stdin.nextShort();
+firstValue = stdin.nextShort();
+System.out.print( "Enter the second value")
+System.out.print( "Enter the second value");
+short secondValue;
+System.out.print( secondValue);
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare firstValue
+// Declare secondValue
+// Read firstValue
+// Read secondValue
+// If firstValue is less than secondValue, print firstValue. Otherwise, print secondValue
+}  // End of method main
+} // End of class Problem
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Moved from problem to solution at line 10: short secondValue;
+Moved from problem to solution at line 9: short firstValue;
+Moved from problem to solution at line 14: secondValue = stdin.nextShort();
+Moved from problem to solution at line 13: firstValue = stdin.nextShort();
+Moved from problem to solution at line 13: System.out.print( "Enter the first value");
+Moved from problem to solution at line 16: System.out.print( "Enter the second value");
+Moved from problem to trash at line 0: System.out.print( "Enter the second value")
+Moved from problem to solution at line 19: if( firstValue  <  secondValue );
+Moved from problem to solution at line 20: System.out.print( firstValue);
+Moved from problem to solution at line 20: {
+Moved from problem to solution at line 22: else
+Moved from problem to solution at line 23: System.out.print( secondValue);
+Moved from problem to solution at line 24: } // End of if-clause
+Moved from problem to trash at line 1: if( firstValue  <  secondValue )
+Moved from problem to trash at line 2: } // End of else-clause
+Moved from problem to trash at line 3: {
+Submit Parsons Solution clicked @ 1455335787634
+Semi-colon after if is an empty statement which becomes the if clause. As a result, the statement(s) after if will be executed whether or not the condition is true.
+Delete this line: if( firstValue  <  secondValue );
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 21 to 19: System.out.print( firstValue);
+Reordered from line 21 to 19: {
+Submit Parsons Solution clicked @ 1455335806458
+This line is not in its correct location: {
+Insert this line in its place: if( firstValue  <  secondValue )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 19 to 21: {
+Submit Parsons Solution clicked @ 1455335812510
+This line is not in its correct location: System.out.print( firstValue);
+Insert this line in its place: if( firstValue  <  secondValue )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 20 to 19: if( firstValue  <  secondValue );
+Reordered from line 20 to 22: System.out.print( firstValue);
+Reordered from line 21 to 23: else
+Reordered from line 22 to 24: System.out.print( secondValue);
+Submit Parsons Solution clicked @ 1455335834152
+Semi-colon after if is an empty statement which becomes the if clause. As a result, the statement(s) after if will be executed whether or not the condition is true.
+Delete this line: if( firstValue  <  secondValue );
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 20 to 18: {
+Submit Parsons Solution clicked @ 1455335844110
+This line is not in its correct location: {
+Either delete it or move it past this line: // If firstValue is less than secondValue, print firstValue. Otherwise, print secondValue
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 20: {
+Submit Parsons Solution clicked @ 1455335847485
+Semi-colon after if is an empty statement which becomes the if clause. As a result, the statement(s) after if will be executed whether or not the condition is true.
+Delete this line: if( firstValue  <  secondValue );
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 19 to 18: if( firstValue  <  secondValue );
+Submit Parsons Solution clicked @ 1455335850444
+Semi-colon after if is an empty statement which becomes the if clause. As a result, the statement(s) after if will be executed whether or not the condition is true.
+Delete this line: if( firstValue  <  secondValue );
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 20: if( firstValue  <  secondValue );
+Moved from trash to solution at line 21: if( firstValue  <  secondValue )
+Moved from solution to trash at line 3: if( firstValue  <  secondValue );
+Submit Parsons Solution clicked @ 1455335864758
+This line is not in its correct location: {
+Move this line in its place: if( firstValue  <  secondValue )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 19 to 21: {
+Reordered from line 22 to 20: else
+Submit Parsons Solution clicked @ 1455335875349
+This line is not in its correct location: else
+Move this line in its place: System.out.print( firstValue);
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 20 to 22: else
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Reordered from line 21 to 20: {
+Reordered from line 24 to 23: System.out.print( secondValue);
+Submit Parsons Solution clicked @ 1455335889952
+This line is not in its correct location: else
+Move this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 4: System.out.print( secondValue);
+Moved from trash to solution at line 23: System.out.print( "Enter the second value")
+Submit Parsons Solution clicked @ 1455335918449
+This line is not in its correct location: else
+Move this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 2: else
+Submit Parsons Solution clicked @ 1455335923148
+Every statement must end with a semi-colon ;
+Delete this line: System.out.print( "Enter the second value")
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 4: System.out.print( "Enter the second value")
+Moved from trash to solution at line 22: System.out.print( secondValue);
+Submit Parsons Solution clicked @ 1455335941381
+This line is not in its correct location: System.out.print( secondValue);
+Move this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 22: else
+Submit Parsons Solution clicked @ 1455335954151
+This line is not in its correct location: else
+Move this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 24: } // End of else-clause
+Submit Parsons Solution clicked @ 1455335962270
+This line is not in its correct location: else
+Move this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 22: {
+Submit Parsons Solution clicked @ 1455335973648
+This line is not in its correct location: {
+Move this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 2: {
+Submit Parsons Solution clicked @ 1455336153255
+This line is not in its correct location: else
+Move this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 3: else
+Submit Parsons Solution clicked @ 1455336156613
+This line is not in its correct location: System.out.print( secondValue);
+Move this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 23 to 22: } // End of else-clause
+Submit Parsons Solution clicked @ 1455336176006
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 24 to 22: } // End of if-clause
+Submit Parsons Solution clicked @ 1455336202395
+This line is not in its correct location: } // End of else-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 23: else
+Submit Parsons Solution clicked @ 1455336218923
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: System.out.print( secondValue);
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 24 to 26: } // End of else-clause
+Reordered from line 26 to 25: } // End of else-clause
+Submit Parsons Solution clicked @ 1455336230861
+This line is not in its correct location: } // End of else-clause
+Either delete it or move it past this line: }  // End of method main
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 25 to 27: } // End of else-clause
+Submit Parsons Solution clicked @ 1455336244889
+This line is redundant. Delete it: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 3: } // End of else-clause
+Submit Parsons Solution clicked @ 1455336256161
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare firstValue
+Line 11 (1 moves): short firstValue;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Declare secondValue
+Line 14 (1 moves): short secondValue;
+Moved from problem to solution at line 10
+Line 16 (0 moves): // Read firstValue
+Line 17 (1 moves): System.out.print( "Enter the first value");
+Moved from problem to solution at line 13
+Line 18 (1 moves): firstValue = stdin.nextShort();
+Moved from problem to solution at line 13
+Line 20 (0 moves): // Read secondValue
+Line 21 (1 moves): System.out.print( "Enter the second value");
+Moved from problem to solution at line 16
+Line 22 (1 moves): secondValue = stdin.nextShort();
+Moved from problem to solution at line 14
+Line 24 (0 moves): // If firstValue is less than secondValue, print firstValue. Otherwise, print secondValue
+Line 25 (2 moves): if( firstValue  <  secondValue )
+Moved from problem to trash at line 1
+Moved from trash to solution at line 21
+Line 26 (7 moves): {
+Moved from problem to solution at line 20
+Reordered from line 21 to 19
+Reordered from line 19 to 21
+Reordered from line 20 to 18
+Reordered from line 18 to 20
+Reordered from line 19 to 21
+Reordered from line 21 to 20
+Line 27 (3 moves): System.out.print( firstValue);
+Moved from problem to solution at line 20
+Reordered from line 21 to 19
+Reordered from line 20 to 22
+Line 28 (2 moves): } // End of if-clause
+Moved from problem to solution at line 24
+Reordered from line 24 to 22
+Line 29 (8 moves): else
+Moved from problem to solution at line 22
+Reordered from line 21 to 23
+Reordered from line 22 to 20
+Reordered from line 20 to 22
+Moved from solution to trash at line 2
+Moved from trash to solution at line 22
+Moved from solution to trash at line 3
+Moved from trash to solution at line 23
+Line 31 (5 moves): System.out.print( secondValue);
+Moved from problem to solution at line 23
+Reordered from line 22 to 24
+Reordered from line 24 to 23
+Moved from solution to trash at line 4
+Moved from trash to solution at line 22
+Line 33 (0 moves): }  // End of method main
+Line 35 (0 moves): } // End of class Problem
+LINE 25 (5 moves): if( firstValue  <  secondValue );
+Moved from problem to solution at line 19
+Reordered from line 20 to 19
+Reordered from line 19 to 18
+Reordered from line 18 to 20
+Moved from solution to trash at line 3
+LINE 21 (3 moves): System.out.print( "Enter the second value")
+Moved from problem to trash at line 0
+Moved from trash to solution at line 23
+Moved from solution to trash at line 4
+Line 30 (3 moves): {
+Moved from problem to trash at line 3
+Moved from trash to solution at line 22
+Moved from solution to trash at line 2
+Line 32 (7 moves): } // End of else-clause
+Moved from problem to trash at line 2
+Moved from trash to solution at line 24
+Reordered from line 23 to 22
+Reordered from line 24 to 26
+Reordered from line 26 to 25
+Reordered from line 25 to 27
+Moved from solution to trash at line 3
+Your Grade:
+You took 51 steps to solve a Parsons puzzle containing 16 lines of code.
+Next Problem clicked @ 1455336265295
+Time spent on this problem: 594 seconds
+<HR>

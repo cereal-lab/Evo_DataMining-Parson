@@ -1,0 +1,365 @@
+Problem No. 2
+Using Template # 100
+The Problem:
+Public class TestDoWhile {
+public class TestDoWhile {
+System.out.println("The sum is " + sum);
+data = sum = 0;
+} while (data != 0);
+}}
+import java.util.Scanner;
+int data, sum;   //This line should immediately be placed before Line X
+sum += data;
+System.out.print("Enter an int value (the program exits if the input is 0): ");
+data = input.nextInt();
+public static void main(String[] args) {
+Scanner input = new Scanner(System.in); // This is line X
+do{
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 14 lines.
+Re-assemble them with 15 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: public class TestDoWhile {
+2. Moved from problem to solution at line 1: import java.util.Scanner;
+3. Moved from problem to solution at line 2:   public static void main(String[] args) {
+4. Reordered from line 2 to 3:   public static void main(String[] args) {
+5. Moved from problem to solution at line 3:     data = sum = 0;
+6. Reordered from line 3 to 4:     data = sum = 0;
+7. Moved from problem to solution at line 4:     Scanner input = new Scanner(System.in); // This is line X
+8. Reordered from line 4 to 5:     Scanner input = new Scanner(System.in); // This is line X
+9. Moved from problem to solution at line 5:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+10. Reordered from line 5 to 6:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Submit Parsons Solution clicked @ 1493659069123
+Please clear all the lines from the left panel before submitting your answer.
+11. Moved from problem to trash at line 0: Public class TestDoWhile {
+12. Moved from problem to solution at line 6:     System.out.println("The sum is " + sum);
+13. Moved from problem to trash at line 1:     } while (data != 0);
+14. Moved from problem to trash at line 2:     int data, sum;   //This line should immediately be placed before Line X
+15. Moved from problem to trash at line 3:       sum += data;
+16. Moved from problem to trash at line 4:       data = input.nextInt();
+17. Moved from problem to trash at line 1:     do{
+18. Moved from problem to solution at line 7:  }}
+19. Reordered from line 7 to 8:  }}
+Submit Parsons Solution clicked @ 1493659099992
+This line is not in its correct location:     data = sum = 0;
+Insert this line in its place:     int data, sum;   //This line should immediately be placed before Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+20. Moved from solution to trash at line 5:     data = sum = 0;
+Submit Parsons Solution clicked @ 1493659103776
+This line is not in its correct location:     Scanner input = new Scanner(System.in); // This is line X
+Insert this line in its place:     int data, sum;   //This line should immediately be placed before Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+21. Moved from solution to trash at line 4:     Scanner input = new Scanner(System.in); // This is line X
+Submit Parsons Solution clicked @ 1493659106732
+This line is not in its correct location:     System.out.println("The sum is " + sum);
+Insert this line in its place:     int data, sum;   //This line should immediately be placed before Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+22. Moved from solution to trash at line 2:     System.out.println("The sum is " + sum);
+Submit Parsons Solution clicked @ 1493659109732
+This line is not in its correct location:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Insert this line in its place:     int data, sum;   //This line should immediately be placed before Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+23. Moved from solution to trash at line 2:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Submit Parsons Solution clicked @ 1493659112780
+This line is not in its correct location:  }}
+Insert this line in its place:     int data, sum;   //This line should immediately be placed before Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+24. Moved from solution to trash at line 4:  }}
+25. Moved from trash to solution at line 3:     int data, sum;   //This line should immediately be placed before Line X
+26. Reordered from line 3 to 4:     int data, sum;   //This line should immediately be placed before Line X
+Submit Parsons Solution clicked @ 1493659119302
+You have not yet identified all the lines. Insert:     Scanner input = new Scanner(System.in); // This is line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+27. Moved from trash to solution at line 4:       data = input.nextInt();
+28. Reordered from line 4 to 5:       data = input.nextInt();
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Submit Parsons Solution clicked @ 1493659131431
+This line is not in its correct location:       data = input.nextInt();
+Insert this line in its place:     Scanner input = new Scanner(System.in); // This is line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+29. Moved from solution to trash at line 4:       data = input.nextInt();
+30. Moved from trash to solution at line 4:     } while (data != 0);
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+31. Reordered from line 4 to 5:     } while (data != 0);
+Submit Parsons Solution clicked @ 1493659136799
+This line is not in its correct location:     } while (data != 0);
+Insert this line in its place:     Scanner input = new Scanner(System.in); // This is line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+32. Moved from solution to trash at line 4:     } while (data != 0);
+33. Moved from trash to solution at line 4:       sum += data;
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+34. Reordered from line 4 to 5:       sum += data;
+Submit Parsons Solution clicked @ 1493659142421
+This line is not in its correct location:       sum += data;
+Insert this line in its place:     Scanner input = new Scanner(System.in); // This is line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+35. Moved from solution to trash at line 2:       sum += data;
+36. Moved from trash to solution at line 4:     Scanner input = new Scanner(System.in); // This is line X
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+37. Reordered from line 4 to 5:     Scanner input = new Scanner(System.in); // This is line X
+Submit Parsons Solution clicked @ 1493659147833
+You have not yet identified all the lines. Insert:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+38. Moved from trash to solution at line 5:     System.out.println("The sum is " + sum);
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+39. Reordered from line 5 to 6:     System.out.println("The sum is " + sum);
+Submit Parsons Solution clicked @ 1493659153379
+This line is not in its correct location:     System.out.println("The sum is " + sum);
+Insert this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+40. Moved from solution to trash at line 3:     System.out.println("The sum is " + sum);
+41. Moved from trash to solution at line 5:       data = input.nextInt();
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+42. Reordered from line 5 to 6:       data = input.nextInt();
+Submit Parsons Solution clicked @ 1493659162615
+This line is not in its correct location:       data = input.nextInt();
+Insert this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+43. Moved from solution to trash at line 7:       data = input.nextInt();
+44. Moved from trash to solution at line 5:     data = sum = 0;
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+45. Reordered from line 5 to 6:     data = sum = 0;
+Submit Parsons Solution clicked @ 1493659170355
+You have not yet identified all the lines. Insert:     do{
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+46. Moved from trash to solution at line 6:     } while (data != 0);
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+47. Reordered from line 6 to 7:     } while (data != 0);
+Submit Parsons Solution clicked @ 1493659174921
+This line is not in its correct location:     } while (data != 0);
+Insert this line in its place:     do{
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+48. Moved from solution to trash at line 4:     } while (data != 0);
+49. Moved from trash to solution at line 6:     do{
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+50. Reordered from line 6 to 7:     do{
+Submit Parsons Solution clicked @ 1493659183050
+You have not yet identified all the lines. Insert:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+51. Moved from trash to solution at line 7:     System.out.println("The sum is " + sum);
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+52. Reordered from line 7 to 8:     System.out.println("The sum is " + sum);
+Submit Parsons Solution clicked @ 1493659194465
+This line is not in its correct location:     System.out.println("The sum is " + sum);
+Insert this line in its place:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+53. Moved from solution to trash at line 6:     System.out.println("The sum is " + sum);
+54. Moved from trash to solution at line 7:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+55. Reordered from line 7 to 8:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Submit Parsons Solution clicked @ 1493659199257
+You have not yet identified all the lines. Insert:       data = input.nextInt();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493659200505
+You have not yet identified all the lines. Insert:       data = input.nextInt();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+56. Moved from trash to solution at line 8:     } while (data != 0);
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+57. Reordered from line 8 to 9:     } while (data != 0);
+Submit Parsons Solution clicked @ 1493659206445
+This line is not in its correct location:     } while (data != 0);
+Insert this line in its place:       data = input.nextInt();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+58. Moved from solution to trash at line 3:     } while (data != 0);
+59. Moved from trash to solution at line 8:       sum += data;
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+60. Reordered from line 8 to 9:       sum += data;
+Submit Parsons Solution clicked @ 1493659211557
+This line is not in its correct location:       sum += data;
+Insert this line in its place:       data = input.nextInt();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+61. Moved from solution to trash at line 5:       sum += data;
+62. Moved from trash to solution at line 8:       data = input.nextInt();
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+63. Reordered from line 8 to 9:       data = input.nextInt();
+Submit Parsons Solution clicked @ 1493659217403
+You have not yet identified all the lines. Insert:       sum += data;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+64. Moved from trash to solution at line 9:     System.out.println("The sum is " + sum);
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+65. Reordered from line 9 to 10:     System.out.println("The sum is " + sum);
+Submit Parsons Solution clicked @ 1493659221575
+This line is not in its correct location:     System.out.println("The sum is " + sum);
+Insert this line in its place:       sum += data;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+66. Moved from solution to trash at line 4:     System.out.println("The sum is " + sum);
+67. Moved from trash to solution at line 9:     } while (data != 0);
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+68. Reordered from line 9 to 10:     } while (data != 0);
+Submit Parsons Solution clicked @ 1493659227593
+This line is not in its correct location:     } while (data != 0);
+Insert this line in its place:       sum += data;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+69. Moved from solution to trash at line 3:     } while (data != 0);
+70. Moved from trash to solution at line 9:  }}
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+71. Reordered from line 9 to 10:  }}
+Submit Parsons Solution clicked @ 1493659237233
+This line is not in its correct location:  }}
+Insert this line in its place:       sum += data;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+72. Moved from solution to trash at line 2:  }}
+73. Moved from trash to solution at line 9: Public class TestDoWhile {
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+74. Reordered from line 9 to 10: Public class TestDoWhile {
+Submit Parsons Solution clicked @ 1493659255355
+Sorry, that line has a bug
+Delete this line: Public class TestDoWhile {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+75. Moved from solution to trash at line 4: Public class TestDoWhile {
+76. Moved from trash to solution at line 9:       sum += data;
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+77. Reordered from line 9 to 10:       sum += data;
+Submit Parsons Solution clicked @ 1493659260589
+You have not yet identified all the lines. Insert:     } while (data != 0);
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+78. Moved from trash to solution at line 10:     } while (data != 0);
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+79. Reordered from line 10 to 11:     } while (data != 0);
+Submit Parsons Solution clicked @ 1493659264980
+You have not yet identified all the lines. Insert:     System.out.println("The sum is " + sum);
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+80. Moved from trash to solution at line 11:     System.out.println("The sum is " + sum);
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+81. Reordered from line 11 to 12:     System.out.println("The sum is " + sum);
+Submit Parsons Solution clicked @ 1493659268731
+You have not yet identified all the lines. Insert:  }}
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+82. Moved from trash to solution at line 12:  }}
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+83. Reordered from line 12 to 13:  }}
+Submit Parsons Solution clicked @ 1493659273145
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+2. Moved from problem to solution at line 1
+Line 2 (1 moves): public class TestDoWhile {
+1. Moved from problem to solution at line 0
+Line 3 (2 moves):   public static void main(String[] args) {
+3. Moved from problem to solution at line 2
+4. Reordered from line 2 to 3
+Line 4 (3 moves):     int data, sum;   //This line should immediately be placed before Line X
+14. Moved from problem to trash at line 2
+25. Moved from trash to solution at line 3
+26. Reordered from line 3 to 4
+Line 5 (5 moves):     Scanner input = new Scanner(System.in); // This is line X
+7. Moved from problem to solution at line 4
+8. Reordered from line 4 to 5
+21. Moved from solution to trash at line 4
+36. Moved from trash to solution at line 4
+37. Reordered from line 4 to 5
+Line 6 (5 moves):     data = sum = 0;
+5. Moved from problem to solution at line 3
+6. Reordered from line 3 to 4
+20. Moved from solution to trash at line 5
+44. Moved from trash to solution at line 5
+45. Reordered from line 5 to 6
+Line 7 (3 moves):     do{
+17. Moved from problem to trash at line 1
+49. Moved from trash to solution at line 6
+50. Reordered from line 6 to 7
+Line 8 (5 moves):       System.out.print("Enter an int value (the program exits if the input is 0): ");
+9. Moved from problem to solution at line 5
+10. Reordered from line 5 to 6
+23. Moved from solution to trash at line 2
+54. Moved from trash to solution at line 7
+55. Reordered from line 7 to 8
+Line 9 (9 moves):       data = input.nextInt();
+16. Moved from problem to trash at line 4
+27. Moved from trash to solution at line 4
+28. Reordered from line 4 to 5
+29. Moved from solution to trash at line 4
+41. Moved from trash to solution at line 5
+42. Reordered from line 5 to 6
+43. Moved from solution to trash at line 7
+62. Moved from trash to solution at line 8
+63. Reordered from line 8 to 9
+Line 10 (9 moves):       sum += data;
+15. Moved from problem to trash at line 3
+33. Moved from trash to solution at line 4
+34. Reordered from line 4 to 5
+35. Moved from solution to trash at line 2
+59. Moved from trash to solution at line 8
+60. Reordered from line 8 to 9
+61. Moved from solution to trash at line 5
+76. Moved from trash to solution at line 9
+77. Reordered from line 9 to 10
+Line 11 (15 moves):     } while (data != 0);
+13. Moved from problem to trash at line 1
+30. Moved from trash to solution at line 4
+31. Reordered from line 4 to 5
+32. Moved from solution to trash at line 4
+46. Moved from trash to solution at line 6
+47. Reordered from line 6 to 7
+48. Moved from solution to trash at line 4
+56. Moved from trash to solution at line 8
+57. Reordered from line 8 to 9
+58. Moved from solution to trash at line 3
+67. Moved from trash to solution at line 9
+68. Reordered from line 9 to 10
+69. Moved from solution to trash at line 3
+78. Moved from trash to solution at line 10
+79. Reordered from line 10 to 11
+Line 12 (13 moves):     System.out.println("The sum is " + sum);
+12. Moved from problem to solution at line 6
+22. Moved from solution to trash at line 2
+38. Moved from trash to solution at line 5
+39. Reordered from line 5 to 6
+40. Moved from solution to trash at line 3
+51. Moved from trash to solution at line 7
+52. Reordered from line 7 to 8
+53. Moved from solution to trash at line 6
+64. Moved from trash to solution at line 9
+65. Reordered from line 9 to 10
+66. Moved from solution to trash at line 4
+80. Moved from trash to solution at line 11
+81. Reordered from line 11 to 12
+Line 13 (8 moves):  }}
+18. Moved from problem to solution at line 7
+19. Reordered from line 7 to 8
+24. Moved from solution to trash at line 4
+70. Moved from trash to solution at line 9
+71. Reordered from line 9 to 10
+72. Moved from solution to trash at line 2
+82. Moved from trash to solution at line 12
+83. Reordered from line 12 to 13
+Line 2 (33) (4 moves): Public class TestDoWhile {
+11. Moved from problem to trash at line 0
+73. Moved from trash to solution at line 9
+74. Reordered from line 9 to 10
+75. Moved from solution to trash at line 4
+Your Grade:
+You took 83 steps to solve a Parsons puzzle containing 14 lines of code.
+Next Problem clicked @ 1493659436131
+Time spent on this problem: 436 seconds
+<HR>

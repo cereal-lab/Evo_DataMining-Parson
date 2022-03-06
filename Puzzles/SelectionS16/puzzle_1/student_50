@@ -1,0 +1,162 @@
+Problem No. 1
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+if( firstValue  <  secondNum );
+if( firstValue  <  secondNum )
+System.out.print( secondNum);
+{
+int firstValue;
+} // End of else-clause
+System.out.print( firstValue);
+System.out.print( "Enter the first value")
+System.out.print( "Enter the first value");
+secondNum = stdin.nextInt();
+else
+firstValue = stdin.nextInt();
+System.out.print( "Enter the second value");
+{
+int secondNum;
+} // End of if-clause
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare firstValue
+// Declare secondNum
+// Read firstValue
+// Read secondNum
+// If firstValue is less than secondNum, print firstValue. Otherwise, print secondNum
+}  // End of method main
+} // End of class Problem
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+if( firstValue  <  secondNum );
+if( firstValue  <  secondNum )
+System.out.print( secondNum);
+{
+int firstValue;
+} // End of else-clause
+System.out.print( firstValue);
+System.out.print( "Enter the first value")
+System.out.print( "Enter the first value");
+secondNum = stdin.nextInt();
+else
+firstValue = stdin.nextInt();
+System.out.print( "Enter the second value");
+{
+int secondNum;
+} // End of if-clause
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare firstValue
+// Declare secondNum
+// Read firstValue
+// Read secondNum
+// If firstValue is less than secondNum, print firstValue. Otherwise, print secondNum
+}  // End of method main
+} // End of class Problem
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Moved from problem to solution at line 9: int firstValue;
+Moved from problem to solution at line 11: int secondNum;
+Moved from problem to solution at line 13: firstValue = stdin.nextInt();
+Moved from problem to solution at line 15: secondNum = stdin.nextInt();
+Moved from problem to solution at line 17: if( firstValue  <  secondNum );
+Moved from problem to solution at line 18: {
+Moved from problem to solution at line 19: System.out.print( firstValue);
+Moved from problem to solution at line 20: } // End of if-clause
+Moved from problem to solution at line 22: else
+Reordered from line 22 to 21: else
+Moved from problem to solution at line 22: {
+Moved from problem to solution at line 23: System.out.print( secondNum);
+Moved from problem to solution at line 24: } // End of else-clause
+Moved from problem to solution at line 12: System.out.print( "Enter the first value");
+Reordered from line 12 to 13: System.out.print( "Enter the first value");
+Moved from problem to solution at line 16: System.out.print( "Enter the second value");
+Moved from problem to trash at line 0: System.out.print( "Enter the first value")
+Moved from problem to trash at line 1: if( firstValue  <  secondNum )
+Submit Parsons Solution clicked @ 1455236700000
+Semi-colon after if is an empty statement which becomes the if clause. As a result, the statement(s) after if will be executed whether or not the condition is true.
+Delete this line: if( firstValue  <  secondNum );
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 2: if( firstValue  <  secondNum );
+Moved from trash to solution at line 19: if( firstValue  <  secondNum )
+Submit Parsons Solution clicked @ 1455236769575
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare firstValue
+Line 11 (1 moves): int firstValue;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Declare secondNum
+Line 14 (1 moves): int secondNum;
+Moved from problem to solution at line 11
+Line 16 (0 moves): // Read firstValue
+Line 17 (2 moves): System.out.print( "Enter the first value");
+Moved from problem to solution at line 12
+Reordered from line 12 to 13
+Line 18 (1 moves): firstValue = stdin.nextInt();
+Moved from problem to solution at line 13
+Line 20 (0 moves): // Read secondNum
+Line 21 (1 moves): System.out.print( "Enter the second value");
+Moved from problem to solution at line 16
+Line 22 (1 moves): secondNum = stdin.nextInt();
+Moved from problem to solution at line 15
+Line 24 (0 moves): // If firstValue is less than secondNum, print firstValue. Otherwise, print secondNum
+Line 25 (2 moves): if( firstValue  <  secondNum )
+Moved from problem to trash at line 1
+Moved from trash to solution at line 19
+Line 26 (1 moves): {
+Moved from problem to solution at line 18
+Line 27 (1 moves): System.out.print( firstValue);
+Moved from problem to solution at line 19
+Line 28 (1 moves): } // End of if-clause
+Moved from problem to solution at line 20
+Line 29 (2 moves): else
+Moved from problem to solution at line 22
+Reordered from line 22 to 21
+Line 30 (1 moves): {
+Moved from problem to solution at line 22
+Line 31 (1 moves): System.out.print( secondNum);
+Moved from problem to solution at line 23
+Line 32 (1 moves): } // End of else-clause
+Moved from problem to solution at line 24
+Line 33 (0 moves): }  // End of method main
+Line 35 (0 moves): } // End of class Problem
+LINE 17 (1 moves): System.out.print( "Enter the first value")
+Moved from problem to trash at line 0
+LINE 25 (2 moves): if( firstValue  <  secondNum );
+Moved from problem to solution at line 17
+Moved from solution to trash at line 2
+Your Grade:
+You took 20 steps to solve a Parsons puzzle containing 16 lines of code.
+Next Problem clicked @ 1455236777152
+Time spent on this problem: 298 seconds
+<HR>

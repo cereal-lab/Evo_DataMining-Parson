@@ -1,0 +1,319 @@
+Problem No. 1
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+System.out.print( secondNum);
+} // End of else-clause
+secondNum = stdin.nextInt();
+firstNum == stdin.nextInt();
+firstNum = stdin.nextInt();
+System.out.print( "Enter the first value");
+{
+{
+else
+System.out.print( firstNum);
+if( firstNum  <  secondNum )
+int secondNum;
+} // End of if-clause
+int firstNum;
+System.out.print( "Enter the second value");
+System.out.print( "Enter the second value")
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare firstNum
+// Declare secondNum
+// Read firstNum
+// Read secondNum
+// If firstNum is less than secondNum, print firstNum. Otherwise, print secondNum
+}  // End of method main
+} // End of class Problem
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+System.out.print( secondNum);
+} // End of else-clause
+secondNum = stdin.nextInt();
+firstNum == stdin.nextInt();
+firstNum = stdin.nextInt();
+System.out.print( "Enter the first value");
+{
+{
+else
+System.out.print( firstNum);
+if( firstNum  <  secondNum )
+int secondNum;
+} // End of if-clause
+int firstNum;
+System.out.print( "Enter the second value");
+System.out.print( "Enter the second value")
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare firstNum
+// Declare secondNum
+// Read firstNum
+// Read secondNum
+// If firstNum is less than secondNum, print firstNum. Otherwise, print secondNum
+}  // End of method main
+} // End of class Problem
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Moved from problem to solution at line 8: firstNum == stdin.nextInt();
+Moved from problem to solution at line 10: secondNum = stdin.nextInt();
+Attempted to reorder // Declare firstNum
+This line was provided to you in its correct order. Do not reorder it.
+Attempted to reorder // Declare firstNum
+This line was provided to you in its correct order. Do not reorder it.
+Moved from problem to solution at line 12: System.out.print( firstNum);
+Moved from problem to solution at line 10: System.out.print( "Enter the second value");
+Moved from problem to solution at line 8: System.out.print( "Enter the first value");
+Moved from problem to solution at line 7: int firstNum;
+Moved from problem to solution at line 8: int secondNum;
+Moved from problem to solution at line 19: if( firstNum  <  secondNum )
+Moved from problem to solution at line 19: {
+Reordered from line 19 to 21: {
+Reordered from line 21 to 20: {
+Moved from problem to solution at line 21: } // End of if-clause
+Reordered from line 16 to 20: System.out.print( firstNum);
+Moved from problem to solution at line 22: System.out.print( secondNum);
+Moved from problem to solution at line 22: else
+Moved from problem to solution at line 23: {
+Moved from problem to solution at line 25: } // End of else-clause
+Attempted to reorder // Declare secondNum
+This line was provided to you in its correct order. Do not reorder it.
+Reordered from line 11 to 28: firstNum == stdin.nextInt();
+Moved from problem to solution at line 11: firstNum = stdin.nextInt();
+Moved from solution to problem at line 10: firstNum == stdin.nextInt();
+Moved from problem to solution at line 20: firstNum == stdin.nextInt();
+Moved from problem to solution at line 27: System.out.print( "Enter the second value")
+Submit Parsons Solution clicked @ 1455306357030
+This line is not in its correct location: int firstNum;
+Either delete it or move it past this line: Scanner stdin = new Scanner( System.in );
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 7 to 12: int firstNum;
+Submit Parsons Solution clicked @ 1455306375365
+This line is not in its correct location: int secondNum;
+Either delete it or move it past this line: Scanner stdin = new Scanner( System.in );
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 7 to 18: int secondNum;
+Reordered from line 18 to 17: int secondNum;
+Submit Parsons Solution clicked @ 1455306382357
+This line is not in its correct location: System.out.print( "Enter the first value");
+Either delete it or move it past this line: // Declare firstNum
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 17 to 15: int secondNum;
+Reordered from line 8 to 12: System.out.print( "Enter the first value");
+Attempted to reorder Scanner stdin = new Scanner( System.in );
+This line was provided to you in its correct order. Do not reorder it.
+Reordered from line 8 to 16: firstNum = stdin.nextInt();
+Reordered from line 11 to 15: System.out.print( "Enter the first value");
+Reordered from line 10 to 17: System.out.print( "Enter the second value");
+Reordered from line 10 to 17: secondNum = stdin.nextInt();
+Submit Parsons Solution clicked @ 1455306518862
+This line is not in its correct location: if( firstNum  <  secondNum )
+Either delete it or move it past this line: // If firstNum is less than secondNum, print firstNum. Otherwise, print secondNum
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 19: if( firstNum  <  secondNum )
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Reordered from line 19 to 18: if( firstNum  <  secondNum )
+Reordered from line 18 to 28: if( firstNum  <  secondNum )
+Reordered from line 18 to 28: {
+Reordered from line 18 to 28: firstNum == stdin.nextInt();
+Reordered from line 18 to 28: System.out.print( firstNum);
+Reordered from line 18 to 29: } // End of if-clause
+Attempted to reorder } // End of class Problem
+This line was provided to you in its correct order. Do not reorder it.
+Reordered from line 29 to 27: } // End of if-clause
+Reordered from line 27 to 28: } // End of if-clause
+Reordered from line 18 to 28: else
+Reordered from line 19 to 28: System.out.print( secondNum);
+Reordered from line 18 to 27: {
+Reordered from line 18 to 28: } // End of else-clause
+Submit Parsons Solution clicked @ 1455306586293
+Every statement must end with a semi-colon ;
+Delete this line: System.out.print( "Enter the second value")
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 27: System.out.print( "Enter the second value")
+Reordered from line 27 to 26: System.out.print( "Enter the second value")
+Submit Parsons Solution clicked @ 1455306601421
+== is comparison operator. Use = operator to assign to firstNum
+Delete this line: firstNum == stdin.nextInt();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 21 to 22: firstNum == stdin.nextInt();
+Submit Parsons Solution clicked @ 1455306610813
+== is comparison operator. Use = operator to assign to firstNum
+Delete this line: firstNum == stdin.nextInt();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 22 to 27: firstNum == stdin.nextInt();
+Submit Parsons Solution clicked @ 1455306615761
+Every statement must end with a semi-colon ;
+Delete this line: System.out.print( "Enter the second value")
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 26 to 25: System.out.print( secondNum);
+Submit Parsons Solution clicked @ 1455306622321
+Every statement must end with a semi-colon ;
+Delete this line: System.out.print( "Enter the second value")
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 26 to 28: System.out.print( "Enter the second value")
+Moved from solution to problem at line 10: System.out.print( "Enter the second value")
+Moved from solution to problem at line 14: } // End of else-clause
+Moved from problem to solution at line 26: } // End of else-clause
+Moved from solution to problem at line 5: firstNum == stdin.nextInt();
+Moved from problem to solution at line 26: firstNum == stdin.nextInt();
+Reordered from line 26 to 27: firstNum == stdin.nextInt();
+Moved from problem to solution at line 27: System.out.print( "Enter the second value")
+Submit Parsons Solution clicked @ 1455306677948
+Every statement must end with a semi-colon ;
+Delete this line: System.out.print( "Enter the second value")
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 27 to 28: System.out.print( "Enter the second value")
+Submit Parsons Solution clicked @ 1455306682393
+== is comparison operator. Use = operator to assign to firstNum
+Delete this line: firstNum == stdin.nextInt();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 27 to 30: firstNum == stdin.nextInt();
+Reordered from line 27 to 30: System.out.print( "Enter the second value")
+Submit Parsons Solution clicked @ 1455306696084
+== is comparison operator. Use = operator to assign to firstNum
+Delete this line: firstNum == stdin.nextInt();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 0: firstNum == stdin.nextInt();
+Moved from solution to trash at line 1: System.out.print( "Enter the second value")
+Submit Parsons Solution clicked @ 1455306708104
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (1 moves): Scanner stdin = new Scanner( System.in );
+Attempted to reorder line 8
+Line 10 (2 moves): // Declare firstNum
+Attempted to reorder line 10
+Attempted to reorder line 10
+Line 11 (2 moves): int firstNum;
+Moved from problem to solution at line 7
+Reordered from line 7 to 12
+Line 13 (1 moves): // Declare secondNum
+Attempted to reorder line 13
+Line 14 (4 moves): int secondNum;
+Moved from problem to solution at line 8
+Reordered from line 7 to 18
+Reordered from line 18 to 17
+Reordered from line 17 to 15
+Line 16 (0 moves): // Read firstNum
+Line 17 (3 moves): System.out.print( "Enter the first value");
+Moved from problem to solution at line 8
+Reordered from line 8 to 12
+Reordered from line 11 to 15
+Line 18 (2 moves): firstNum = stdin.nextInt();
+Moved from problem to solution at line 11
+Reordered from line 8 to 16
+Line 20 (0 moves): // Read secondNum
+Line 21 (2 moves): System.out.print( "Enter the second value");
+Moved from problem to solution at line 10
+Reordered from line 10 to 17
+Line 22 (2 moves): secondNum = stdin.nextInt();
+Moved from problem to solution at line 10
+Reordered from line 10 to 17
+Line 24 (0 moves): // If firstNum is less than secondNum, print firstNum. Otherwise, print secondNum
+Line 25 (4 moves): if( firstNum  <  secondNum )
+Moved from problem to solution at line 19
+Reordered from line 18 to 19
+Reordered from line 19 to 18
+Reordered from line 18 to 28
+Line 26 (4 moves): {
+Moved from problem to solution at line 19
+Reordered from line 19 to 21
+Reordered from line 21 to 20
+Reordered from line 18 to 28
+Line 27 (3 moves): System.out.print( firstNum);
+Moved from problem to solution at line 12
+Reordered from line 16 to 20
+Reordered from line 18 to 28
+Line 28 (4 moves): } // End of if-clause
+Moved from problem to solution at line 21
+Reordered from line 18 to 29
+Reordered from line 29 to 27
+Reordered from line 27 to 28
+Line 29 (2 moves): else
+Moved from problem to solution at line 22
+Reordered from line 18 to 28
+Line 30 (2 moves): {
+Moved from problem to solution at line 23
+Reordered from line 18 to 27
+Line 31 (3 moves): System.out.print( secondNum);
+Moved from problem to solution at line 22
+Reordered from line 19 to 28
+Reordered from line 26 to 25
+Line 32 (4 moves): } // End of else-clause
+Moved from problem to solution at line 25
+Reordered from line 18 to 28
+Moved from solution to problem at line 14
+Moved from problem to solution at line 26
+Line 33 (0 moves): }  // End of method main
+Line 35 (1 moves): } // End of class Problem
+Attempted to reorder line 35
+LINE 18 (12 moves): firstNum == stdin.nextInt();
+Moved from problem to solution at line 8
+Reordered from line 11 to 28
+Moved from solution to problem at line 10
+Moved from problem to solution at line 20
+Reordered from line 18 to 28
+Reordered from line 21 to 22
+Reordered from line 22 to 27
+Moved from solution to problem at line 5
+Moved from problem to solution at line 26
+Reordered from line 26 to 27
+Reordered from line 27 to 30
+Moved from solution to trash at line 0
+LINE 21 (9 moves): System.out.print( "Enter the second value")
+Moved from problem to solution at line 27
+Reordered from line 18 to 27
+Reordered from line 27 to 26
+Reordered from line 26 to 28
+Moved from solution to problem at line 10
+Moved from problem to solution at line 27
+Reordered from line 27 to 28
+Reordered from line 27 to 30
+Moved from solution to trash at line 1
+Your Grade:
+You took 62 steps to solve a Parsons puzzle containing 16 lines of code.
+Next Problem clicked @ 1455306715328
+Time spent on this problem: 736 seconds
+<HR>

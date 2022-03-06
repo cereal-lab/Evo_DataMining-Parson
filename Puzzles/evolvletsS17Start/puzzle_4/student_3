@@ -1,0 +1,88 @@
+Problem No. 4
+Using Template # 100
+The Problem:
+else if (bmi < 30) // Line X
+public static void main(String[] args) {
+System.out.println("Obese");
+import java.util.Scanner;
+}}
+if (bmi < 18.5)
+System.out.println("Underweight")
+System.out.println("Underweight");
+System.out.println("Overweight");
+System.out.println("Normal");
+double bmi = 24.60;
+int bmi = 24.60;
+else
+else if (bmi < 25) //This line should be written before Line X
+public class BMIInterprete {
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 15 lines.
+Re-assemble them with 16 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: }}
+2. Moved from problem to solution at line 1:       System.out.println("Obese");
+3. Moved from problem to solution at line 1:     else
+4. Moved from problem to solution at line 1:     else if (bmi < 30) // Line X
+5. Moved from problem to solution at line 2:       System.out.println("Normal");
+6. Moved from problem to solution at line 1:       System.out.println("Overweight");
+7. Moved from problem to solution at line 1:     else if (bmi < 25) //This line should be written before Line X
+8. Moved from problem to solution at line 1:       System.out.println("Underweight");
+9. Moved from problem to solution at line 1:     if (bmi < 18.5)
+10. Moved from problem to solution at line 1:   public static void main(String[] args) {
+11. Moved from problem to solution at line 2:     double bmi = 24.60;
+12. Moved from problem to solution at line 1: public class BMIInterprete {
+13. Moved from problem to solution at line 1: import java.util.Scanner;
+14. Moved from problem to trash at line 0:       System.out.println("Underweight")
+15. Moved from problem to trash at line 1:     int bmi = 24.60;
+Submit Parsons Solution clicked @ 1489030531465
+This line is not in its correct location:       System.out.println("Overweight");
+Move this line in its place:       System.out.println("Normal");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+16. Reordered from line 10 to 8:       System.out.println("Normal");
+17. Reordered from line 9 to 11:       System.out.println("Overweight");
+18. Reordered from line 11 to 10:       System.out.println("Overweight");
+Submit Parsons Solution clicked @ 1489030559300
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+13. Moved from problem to solution at line 1
+Line 2 (1 moves): public class BMIInterprete {
+12. Moved from problem to solution at line 1
+Line 3 (1 moves):   public static void main(String[] args) {
+10. Moved from problem to solution at line 1
+Line 4 (1 moves):     double bmi = 24.60;
+11. Moved from problem to solution at line 2
+Line 5 (1 moves):     if (bmi < 18.5)
+9. Moved from problem to solution at line 1
+Line 6 (1 moves):       System.out.println("Underweight");
+8. Moved from problem to solution at line 1
+Line 7 (1 moves):     else if (bmi < 25) //This line should be written before Line X
+7. Moved from problem to solution at line 1
+Line 8 (2 moves):       System.out.println("Normal");
+5. Moved from problem to solution at line 2
+16. Reordered from line 10 to 8
+Line 9 (1 moves):     else if (bmi < 30) // Line X
+4. Moved from problem to solution at line 1
+Line 10 (3 moves):       System.out.println("Overweight");
+6. Moved from problem to solution at line 1
+17. Reordered from line 9 to 11
+18. Reordered from line 11 to 10
+Line 11 (1 moves):     else
+3. Moved from problem to solution at line 1
+Line 12 (1 moves):       System.out.println("Obese");
+2. Moved from problem to solution at line 1
+Line 13 (1 moves): }}
+1. Moved from problem to solution at line 0
+Line 6 (16) (1 moves):       System.out.println("Underweight")
+14. Moved from problem to trash at line 0
+Line 4 (34) (1 moves):     int bmi = 24.60;
+15. Moved from problem to trash at line 1
+Your Grade:
+You took 18 steps to solve a Parsons puzzle containing 15 lines of code.
+Next Problem clicked @ 1489030565160
+Time spent on this problem: 252 seconds
+<HR>

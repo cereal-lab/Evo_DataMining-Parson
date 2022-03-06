@@ -1,0 +1,240 @@
+Problem No. 1
+Using Template # 100
+The Problem:
+System.out.print("Enter first integer: "); //This line should immediately be placed before Line X
+if (n1 / k == 0 && n2 % k == 0)
+if (n1 % k == 0 && n2 % k == 0)
+int n2 = input.nextInt();                   // This is line Y
+k++;}
+System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+while (k <= n1 && k <= n2) {
+import java.util.Scanner;
+int gcd, k;
+k = 2; gcd = 1;
+public class GreatestCommonDivisor {
+System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+gcd = k;
+Scanner input = new Scanner(System.in)
+Scanner input = new Scanner(System.in);
+int n1 = input.nextInt();                  // This is line X
+}}
+public static void main(String[] args) {
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 18 lines.
+Re-assemble them with 19 (or fewer) moves for full credit
+Using Template # 100
+The Problem:
+System.out.print("Enter first integer: "); //This line should immediately be placed before Line X
+if (n1 / k == 0 && n2 % k == 0)
+if (n1 % k == 0 && n2 % k == 0)
+int n2 = input.nextInt();                   // This is line Y
+k++;}
+System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+while (k <= n1 && k <= n2) {
+import java.util.Scanner;
+int gcd, k;
+k = 2; gcd = 1;
+public class GreatestCommonDivisor {
+System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+gcd = k;
+Scanner input = new Scanner(System.in)
+Scanner input = new Scanner(System.in);
+int n1 = input.nextInt();                  // This is line X
+}}
+public static void main(String[] args) {
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+1. Moved from problem to solution at line 0: }}
+2. Moved from problem to solution at line 1: import java.util.Scanner;
+3. Moved from problem to solution at line 2: public class GreatestCommonDivisor {
+4. Moved from solution to trash at line 0: public class GreatestCommonDivisor {
+5. Moved from problem to solution at line 2:   public static void main(String[] args) {
+6. Moved from problem to solution at line 3:     Scanner input = new Scanner(System.in);
+7. Moved from problem to solution at line 4:     System.out.print("Enter first integer: "); //This line should immediately be placed before Line X
+8. Moved from problem to solution at line 5:     int n1 = input.nextInt();                  // This is line X
+9. Moved from problem to solution at line 6:     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+10. Moved from problem to solution at line 7:     int n2 = input.nextInt();                   // This is line Y
+11. Moved from problem to solution at line 8:     int gcd, k;
+12. Moved from problem to solution at line 9:     while (k <= n1 && k <= n2) {
+13. Moved from problem to solution at line 10:       if (n1 % k == 0 && n2 % k == 0)
+14. Moved from problem to solution at line 11:         gcd = k;
+15. Moved from problem to solution at line 12:       k++;}
+16. Moved from problem to solution at line 13:     System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+Submit Parsons Solution clicked @ 1493685210405
+Please clear all the lines from the left panel before submitting your answer.
+17. Moved from problem to trash at line 1:     Scanner input = new Scanner(System.in)
+18. Moved from problem to solution at line 9:     k = 2; gcd = 1;
+19. Moved from problem to trash at line 2:       if (n1 / k == 0 && n2 % k == 0)
+Submit Parsons Solution clicked @ 1493685224242
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685235917
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685263094
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685263356
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685263791
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685263967
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685264140
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685264307
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685264468
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685264628
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685264788
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685264950
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685265116
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685265271
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685265430
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685265588
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685265767
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685265932
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685266087
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685266252
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685266427
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493685267007
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+20. Moved from trash to solution at line 3: public class GreatestCommonDivisor {
+21. Moved from solution to trash at line 2:   public static void main(String[] args) {
+Submit Parsons Solution clicked @ 1493685280789
+This line is not in its correct location:     Scanner input = new Scanner(System.in);
+Insert this line in its place:   public static void main(String[] args) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+22. Moved from trash to solution at line 11:   public static void main(String[] args) {
+23. Reordered from line 11 to 3:   public static void main(String[] args) {
+Submit Parsons Solution clicked @ 1493685295399
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+2. Moved from problem to solution at line 1
+Line 2 (3 moves): public class GreatestCommonDivisor {
+3. Moved from problem to solution at line 2
+4. Moved from solution to trash at line 0
+20. Moved from trash to solution at line 3
+Line 3 (4 moves):   public static void main(String[] args) {
+5. Moved from problem to solution at line 2
+21. Moved from solution to trash at line 2
+22. Moved from trash to solution at line 11
+23. Reordered from line 11 to 3
+Line 4 (1 moves):     Scanner input = new Scanner(System.in);
+6. Moved from problem to solution at line 3
+Line 5 (1 moves):     System.out.print("Enter first integer: "); //This line should immediately be placed before Line X
+7. Moved from problem to solution at line 4
+Line 6 (1 moves):     int n1 = input.nextInt();                  // This is line X
+8. Moved from problem to solution at line 5
+Line 7 (1 moves):     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+9. Moved from problem to solution at line 6
+Line 8 (1 moves):     int n2 = input.nextInt();                   // This is line Y
+10. Moved from problem to solution at line 7
+Line 9 (1 moves):     int gcd, k;
+11. Moved from problem to solution at line 8
+Line 10 (1 moves):     k = 2; gcd = 1;
+18. Moved from problem to solution at line 9
+Line 11 (1 moves):     while (k <= n1 && k <= n2) {
+12. Moved from problem to solution at line 9
+Line 12 (1 moves):       if (n1 % k == 0 && n2 % k == 0)
+13. Moved from problem to solution at line 10
+Line 13 (1 moves):         gcd = k;
+14. Moved from problem to solution at line 11
+Line 14 (1 moves):       k++;}
+15. Moved from problem to solution at line 12
+Line 15 (1 moves):     System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+16. Moved from problem to solution at line 13
+Line 16 (1 moves): }}
+1. Moved from problem to solution at line 0
+Line 4 (16) (1 moves):     Scanner input = new Scanner(System.in)
+17. Moved from problem to trash at line 1
+Line 12 (36) (1 moves):       if (n1 / k == 0 && n2 % k == 0)
+19. Moved from problem to trash at line 2
+Your Grade:
+You took 23 steps to solve a Parsons puzzle containing 18 lines of code.
+Next Problem clicked @ 1493685299447
+Time spent on this problem: 577 seconds
+<HR>

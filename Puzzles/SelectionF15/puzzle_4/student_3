@@ -1,0 +1,987 @@
+Problem No. 4
+Using Template # 2100
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+{
+if( numMonth  <=  3 )
+short numMonth;
+System.out.print( "Season is spring (April-June)");
+else
+System.out.print( "Season is winter (January-March)");
+{
+} // End of if-clause
+else
+System.out.print( "Season is fall (October-December)")
+System.out.print( "Season is fall (October-December)");
+} // End of if-clause
+} // End of else-clause
+} // End of else-clause
+{
+System.out.print( "Enter the number of the month (1-12)");
+if( numMonth  <=  9 )
+if( numMonth  <=  6 )
+} // End of else-clause
+else
+{
+{
+{
+} // End of if-clause
+numMonth = stdin.nextShort();
+numMonth == stdin.nextShort();
+System.out.print( "Season is summer (July-September)");
+Using Template # 2100
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare numMonth
+// Read numMonth
+// Compute and print the season based on numMonth
+}  // End of method main
+} // End of class Problem
+Using Template # 2100
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to solution at line 10: numMonth = stdin.nextShort();
+Moved from problem to solution at line 11: numMonth == stdin.nextShort();
+Moved from problem to solution at line 9: short numMonth;
+Moved from problem to solution at line 11: System.out.print( "Enter the number of the month (1-12)");
+Moved from problem to solution at line 15: if( numMonth  <=  3 )
+Moved from problem to solution at line 16: {
+Moved from problem to solution at line 17: System.out.print( "Season is winter (January-March)");
+Moved from problem to solution at line 18: } // End of if-clause
+Moved from problem to solution at line 19: else
+Moved from problem to solution at line 20: {
+Moved from problem to solution at line 21: if( numMonth  <=  6 )
+Moved from problem to solution at line 22: System.out.print( "Season is spring (April-June)");
+Moved from problem to solution at line 23: } // End of if-clause
+Moved from problem to solution at line 24: } // End of else-clause
+Moved from problem to solution at line 25: else
+Moved from problem to solution at line 26: if( numMonth  <=  9 )
+Moved from problem to solution at line 26: {
+Moved from problem to solution at line 28: System.out.print( "Season is summer (July-September)");
+Moved from problem to solution at line 29: } // End of if-clause
+Moved from problem to solution at line 30: } // End of else-clause
+Moved from problem to solution at line 31: else
+Moved from problem to solution at line 32: {
+Moved from problem to solution at line 32: System.out.print( "Season is fall (October-December)")
+Moved from problem to solution at line 34: System.out.print( "Season is fall (October-December)");
+Moved from problem to solution at line 35: } // End of else-clause
+Moved from problem to solution at line 22: {
+Moved from problem to solution at line 29: {
+Submit Parsons Solution clicked @ 1447802957512
+== is comparison operator. Use = operator to assign to numMonth
+Delete this line: numMonth == stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Attempted to move from solution to problem at line 6: // Compute and print the season based on numMonth
+Do not remove the lines already provided to you - they are all needed.
+Submit Parsons Solution clicked @ 1447802966018
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 25 to 24: {
+Submit Parsons Solution clicked @ 1447803056829
+This line is not in its correct location: {
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 24 to 26: {
+Reordered from line 26 to 25: {
+Submit Parsons Solution clicked @ 1447803069155
+This line is not in its correct location: } // End of else-clause
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 30 to 31: } // End of else-clause
+Submit Parsons Solution clicked @ 1447803079253
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: System.out.print( "Season is fall (October-December)");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803092554
+Other lines should appear before this line: }  // End of method main
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803098182
+Other lines should appear before this line: }  // End of method main
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803107918
+Other lines should appear before this line: }  // End of method main
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 33 to 34: } // End of else-clause
+Submit Parsons Solution clicked @ 1447803200012
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 34 to 33: } // End of else-clause
+Submit Parsons Solution clicked @ 1447803209227
+Other lines should appear before this line: }  // End of method main
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803264407
+This line is not in its correct location: {
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 21: {
+Submit Parsons Solution clicked @ 1447803275646
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803276381
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803276490
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803276677
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803276849
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803277037
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803277193
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803277396
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803277584
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803277771
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803278154
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803278329
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803278532
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803278720
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803278907
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803279110
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803279267
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803279485
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803279673
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803279876
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803280079
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803280267
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803280485
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803280673
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803280876
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803281098
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803281254
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803281473
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803281660
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803281848
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803282051
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803282224
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803282427
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803282599
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803282802
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803282989
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803283177
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803283380
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803283599
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803283770
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803283958
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803284145
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803284349
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803284614
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803317888
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803318816
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803329526
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 19 to 18: {
+Submit Parsons Solution clicked @ 1447803345023
+This line is not in its correct location: {
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803345648
+This line is not in its correct location: {
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803345820
+This line is not in its correct location: {
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803346008
+This line is not in its correct location: {
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803346211
+This line is not in its correct location: {
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803346398
+This line is not in its correct location: {
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803346570
+This line is not in its correct location: {
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803346758
+This line is not in its correct location: {
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803346945
+This line is not in its correct location: {
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803347148
+This line is not in its correct location: {
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803347398
+This line is not in its correct location: {
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 17 to 20: } // End of if-clause
+Submit Parsons Solution clicked @ 1447803351039
+This line is not in its correct location: {
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 25 to 19: } // End of if-clause
+Submit Parsons Solution clicked @ 1447803353199
+This line is not in its correct location: {
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 17 to 20: {
+Submit Parsons Solution clicked @ 1447803356450
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 17 to 18: if( numMonth  <=  6 )
+Submit Parsons Solution clicked @ 1447803359497
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 20: if( numMonth  <=  6 )
+Submit Parsons Solution clicked @ 1447803363263
+This line is not in its correct location: System.out.print( "Season is spring (April-June)");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 21: System.out.print( "Season is spring (April-June)");
+Submit Parsons Solution clicked @ 1447803366825
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 19: {
+Submit Parsons Solution clicked @ 1447803369986
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 20: if( numMonth  <=  6 )
+Submit Parsons Solution clicked @ 1447803372499
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 19: {
+Submit Parsons Solution clicked @ 1447803375639
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 20: } // End of if-clause
+Submit Parsons Solution clicked @ 1447803381086
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 21: {
+Submit Parsons Solution clicked @ 1447803384108
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 28 to 31: System.out.print( "Season is fall (October-December)");
+Submit Parsons Solution clicked @ 1447803387499
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 20: if( numMonth  <=  6 )
+Submit Parsons Solution clicked @ 1447803390734
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Outdented line 18: } // End of if-clause
+Submit Parsons Solution clicked @ 1447803403475
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803403741
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803404053
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803404147
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803404413
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 31: } // End of if-clause
+Submit Parsons Solution clicked @ 1447803408006
+This line is not in its correct location: System.out.print( "Season is spring (April-June)");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 31: System.out.print( "Season is spring (April-June)");
+Submit Parsons Solution clicked @ 1447803411004
+This line is not in its correct location: if( numMonth  <=  6 )
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 31: if( numMonth  <=  6 )
+Submit Parsons Solution clicked @ 1447803415031
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 31: {
+Submit Parsons Solution clicked @ 1447803418061
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 31: {
+Submit Parsons Solution clicked @ 1447803421747
+This line is not in its correct location: if( numMonth  <=  9 )
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 31: if( numMonth  <=  9 )
+Submit Parsons Solution clicked @ 1447803424464
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 31: {
+Submit Parsons Solution clicked @ 1447803427296
+This line is not in its correct location: System.out.print( "Season is summer (July-September)");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 31: System.out.print( "Season is summer (July-September)");
+Submit Parsons Solution clicked @ 1447803430188
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 20 to 31: } // End of else-clause
+Submit Parsons Solution clicked @ 1447803433068
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803435022
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803435116
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803435319
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803435506
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803435710
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803435897
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803436069
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803436350
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 28 to 31: if( numMonth  <=  9 )
+Submit Parsons Solution clicked @ 1447803439007
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803439101
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803439304
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803439491
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803439664
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803439851
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803440039
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803440242
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803440430
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803440635
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803440901
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Attempted to reorder // Compute and print the season based on numMonth
+This line was provided to you in its correct order. Do not reorder it.
+Attempted to reorder // Declare numMonth
+This line was provided to you in its correct order. Do not reorder it.
+Reordered from line 14 to 12: if( numMonth  <=  3 )
+Submit Parsons Solution clicked @ 1447803452560
+This line is not in its correct location: if( numMonth  <=  3 )
+Move this line in its place: numMonth = stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803453285
+This line is not in its correct location: if( numMonth  <=  3 )
+Move this line in its place: numMonth = stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803453460
+This line is not in its correct location: if( numMonth  <=  3 )
+Move this line in its place: numMonth = stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 12 to 15: if( numMonth  <=  3 )
+Submit Parsons Solution clicked @ 1447803456821
+This line is not in its correct location: {
+Move this line in its place: if( numMonth  <=  3 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803456931
+This line is not in its correct location: {
+Move this line in its place: if( numMonth  <=  3 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803457118
+This line is not in its correct location: {
+Move this line in its place: if( numMonth  <=  3 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803457290
+This line is not in its correct location: {
+Move this line in its place: if( numMonth  <=  3 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803457493
+This line is not in its correct location: {
+Move this line in its place: if( numMonth  <=  3 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803457759
+This line is not in its correct location: {
+Move this line in its place: if( numMonth  <=  3 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 14 to 16: {
+Submit Parsons Solution clicked @ 1447803461371
+This line is not in its correct location: {
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 18: {
+Submit Parsons Solution clicked @ 1447803465244
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 19: } // End of if-clause
+Submit Parsons Solution clicked @ 1447803468679
+This line is not in its correct location: {
+Move this line in its place: if( numMonth  <=  6 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 23: {
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Submit Parsons Solution clicked @ 1447803472123
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: if( numMonth  <=  6 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 20: } // End of if-clause
+Submit Parsons Solution clicked @ 1447803475948
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 20 to 23: } // End of if-clause
+Submit Parsons Solution clicked @ 1447803479897
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 23 to 25: } // End of if-clause
+Reordered from line 25 to 26: } // End of if-clause
+Submit Parsons Solution clicked @ 1447803484576
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 26 to 29: } // End of if-clause
+Submit Parsons Solution clicked @ 1447803487989
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 29 to 31: } // End of if-clause
+Submit Parsons Solution clicked @ 1447803497505
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( numMonth  <=  6 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Explain Parsons Solution clicked @ 1447803563406
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (1 moves): // Declare numMonth
+Attempted to reorder line 10
+Line 11 (1 moves): short numMonth;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Read numMonth
+Line 14 (1 moves): System.out.print( "Enter the number of the month (1-12)");
+Moved from problem to solution at line 11
+Line 15 (1 moves): numMonth = stdin.nextShort();
+Moved from problem to solution at line 10
+Line 17 (2 moves): // Compute and print the season based on numMonth
+Attempted to move from solution to problem at line 6
+Attempted to reorder line 17
+Line 18 (3 moves): if( numMonth  <=  3 )
+Moved from problem to solution at line 15
+Reordered from line 14 to 12
+Reordered from line 12 to 15
+Line 20 (1 moves): System.out.print( "Season is winter (January-March)");
+Moved from problem to solution at line 17
+Line 22 (1 moves): else
+Moved from problem to solution at line 31
+Line 23 (3 moves): {
+Moved from problem to solution at line 16
+Reordered from line 14 to 16
+Reordered from line 16 to 18
+Line 40 (0 moves): }  // End of method main
+Line 42 (0 moves): } // End of class Problem
+Line 36 (2 moves): System.out.print( "Season is fall (October-December)");
+Moved from problem to solution at line 34
+Reordered from line 28 to 31
+Line 27 (5 moves): } // End of if-clause
+Moved from problem to solution at line 18
+Reordered from line 17 to 20
+Reordered from line 18 to 20
+Outdented line 18
+Reordered from line 18 to 31
+Line 23 (2 moves): {
+Moved from problem to solution at line 32
+Reordered from line 18 to 23
+Line 26 (3 moves): System.out.print( "Season is spring (April-June)");
+Moved from problem to solution at line 22
+Reordered from line 18 to 21
+Reordered from line 18 to 31
+Line 24 (6 moves): if( numMonth  <=  6 )
+Moved from problem to solution at line 21
+Reordered from line 17 to 18
+Reordered from line 18 to 20
+Reordered from line 18 to 20
+Reordered from line 18 to 20
+Reordered from line 18 to 31
+Line 25 (7 moves): {
+Moved from problem to solution at line 22
+Reordered from line 19 to 18
+Reordered from line 17 to 20
+Reordered from line 18 to 19
+Reordered from line 18 to 19
+Reordered from line 18 to 21
+Reordered from line 18 to 31
+Line 29 (5 moves): {
+Moved from problem to solution at line 26
+Reordered from line 25 to 24
+Reordered from line 24 to 26
+Reordered from line 26 to 25
+Reordered from line 18 to 31
+Line 31 (2 moves): {
+Moved from problem to solution at line 29
+Reordered from line 18 to 31
+Line 32 (2 moves): System.out.print( "Season is summer (July-September)");
+Moved from problem to solution at line 28
+Reordered from line 18 to 31
+Line 37 (4 moves): } // End of else-clause
+Moved from problem to solution at line 35
+Reordered from line 33 to 34
+Reordered from line 34 to 33
+Reordered from line 20 to 31
+Line 30 (3 moves): if( numMonth  <=  9 )
+Moved from problem to solution at line 26
+Reordered from line 18 to 31
+Reordered from line 28 to 31
+Line 33 (9 moves): } // End of if-clause
+Moved from problem to solution at line 29
+Reordered from line 25 to 19
+Reordered from line 16 to 19
+Reordered from line 18 to 20
+Reordered from line 20 to 23
+Reordered from line 23 to 25
+Reordered from line 25 to 26
+Reordered from line 26 to 29
+Reordered from line 29 to 31
+Since you quit, this problem is being marked as not attempted
+Your Grade:
+You took 60 steps before bailing out of a Parsons puzzle containing 27 lines of code.
+The correct answer is as follows:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare numMonth
+short numMonth;
+// Read numMonth
+System.out.print( "Enter the number of the month (1-12)");
+numMonth = stdin.nextShort();
+// Compute and print the season based on numMonth
+if( numMonth  <=  3 )
+{
+System.out.print( "Season is winter (January-March)");
+} // End of if-clause
+else
+{
+if( numMonth  <=  6 )
+{
+System.out.print( "Season is spring (April-June)");
+} // End of if-clause
+else
+{
+if( numMonth  <=  9 )
+{
+System.out.print( "Season is summer (July-September)");
+} // End of if-clause
+else
+{
+System.out.print( "Season is fall (October-December)");
+} // End of else-clause
+} // End of else-clause
+} // End of else-clause
+}  // End of method main
+} // End of class Problem
+Click on 'Next Problem' button to go to the next problem
+Next Problem clicked @ 1447803565187
+Time spent on this problem: 810 seconds
+<HR>

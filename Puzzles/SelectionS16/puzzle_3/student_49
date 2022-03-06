@@ -1,0 +1,155 @@
+Problem No. 3
+Using Template # 2000
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+System.out.print( number  +  " is odd");
+System.out.print( "Enter the number");
+short number;
+if( number  %  2  ==  0 )
+if( number  %  2  ==  0 );
+} // End of else-clause
+{
+} // End of if-clause
+else
+System.out.print( number  +  " is even");
+{
+number == stdin.nextShort();
+number = stdin.nextShort();
+Using Template # 2000
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare number
+// Read number
+// Compute and print whether number is odd or even
+}  // End of method main
+} // End of class Problem
+Using Template # 2000
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Moved from problem to trash at line 0: if( number  %  2  ==  0 );
+Moved from problem to trash at line 1: number == stdin.nextShort();
+Moved from problem to solution at line 9: System.out.print( "Enter the number");
+Moved from problem to solution at line 7: number = stdin.nextShort();
+Reordered from line 7 to 9: number = stdin.nextShort();
+Reordered from line 9 to 8: number = stdin.nextShort();
+Moved from problem to solution at line 8: short number;
+Reordered from line 9 to 11: number = stdin.nextShort();
+Moved from problem to solution at line 13: if( number  %  2  ==  0 )
+Moved from problem to solution at line 14: {
+Moved from problem to solution at line 15: System.out.print( number  +  " is even");
+Moved from problem to solution at line 16: } // End of if-clause
+Moved from problem to solution at line 16: else
+Reordered from line 16 to 18: else
+Reordered from line 18 to 17: else
+Moved from problem to solution at line 18: {
+Moved from problem to solution at line 19: System.out.print( number  +  " is odd");
+Moved from problem to solution at line 20: } // End of else-clause
+Submit Parsons Solution clicked @ 1455341767600
+This line is not in its correct location: short number;
+Either delete it or move it past this line: // Declare number
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 11 to 8: number = stdin.nextShort();
+Reordered from line 9 to 11: short number;
+Submit Parsons Solution clicked @ 1455341778740
+This line is not in its correct location: number = stdin.nextShort();
+Either delete it or move it past this line: // Declare number
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 11 to 10: short number;
+Reordered from line 8 to 10: number = stdin.nextShort();
+Reordered from line 10 to 12: number = stdin.nextShort();
+Reordered from line 10 to 12: System.out.print( "Enter the number");
+Reordered from line 12 to 11: System.out.print( "Enter the number");
+Submit Parsons Solution clicked @ 1455341797791
+This line is not in its correct location: if( number  %  2  ==  0 )
+Either delete it or move it past this line: // Compute and print whether number is odd or even
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Attempted to reorder // Compute and print whether number is odd or even
+This line was provided to you in its correct order. Do not reorder it.
+Reordered from line 13 to 22: if( number  %  2  ==  0 )
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Reordered from line 22 to 21: if( number  %  2  ==  0 )
+Reordered from line 13 to 21: {
+Reordered from line 13 to 21: System.out.print( number  +  " is even");
+Reordered from line 13 to 21: } // End of if-clause
+Reordered from line 13 to 21: else
+Reordered from line 13 to 21: {
+Reordered from line 13 to 21: System.out.print( number  +  " is odd");
+Reordered from line 13 to 21: } // End of else-clause
+Submit Parsons Solution clicked @ 1455341862452
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare number
+Line 11 (3 moves): short number;
+Moved from problem to solution at line 8
+Reordered from line 9 to 11
+Reordered from line 11 to 10
+Line 13 (0 moves): // Read number
+Line 14 (3 moves): System.out.print( "Enter the number");
+Moved from problem to solution at line 9
+Reordered from line 10 to 12
+Reordered from line 12 to 11
+Line 15 (7 moves): number = stdin.nextShort();
+Moved from problem to solution at line 7
+Reordered from line 7 to 9
+Reordered from line 9 to 8
+Reordered from line 9 to 11
+Reordered from line 11 to 8
+Reordered from line 8 to 10
+Reordered from line 10 to 12
+Line 17 (1 moves): // Compute and print whether number is odd or even
+Attempted to reorder line 17
+Line 18 (3 moves): if( number  %  2  ==  0 )
+Moved from problem to solution at line 13
+Reordered from line 13 to 22
+Reordered from line 22 to 21
+Line 19 (2 moves): {
+Moved from problem to solution at line 14
+Reordered from line 13 to 21
+Line 20 (2 moves): System.out.print( number  +  " is even");
+Moved from problem to solution at line 15
+Reordered from line 13 to 21
+Line 21 (2 moves): } // End of if-clause
+Moved from problem to solution at line 16
+Reordered from line 13 to 21
+Line 22 (4 moves): else
+Moved from problem to solution at line 16
+Reordered from line 16 to 18
+Reordered from line 18 to 17
+Reordered from line 13 to 21
+Line 23 (2 moves): {
+Moved from problem to solution at line 18
+Reordered from line 13 to 21
+Line 24 (2 moves): System.out.print( number  +  " is odd");
+Moved from problem to solution at line 19
+Reordered from line 13 to 21
+Line 25 (2 moves): } // End of else-clause
+Moved from problem to solution at line 20
+Reordered from line 13 to 21
+Line 26 (0 moves): }  // End of method main
+Line 28 (0 moves): } // End of class Problem
+LINE 18 (1 moves): if( number  %  2  ==  0 );
+Moved from problem to trash at line 0
+LINE 15 (1 moves): number == stdin.nextShort();
+Moved from problem to trash at line 1
+Your Grade:
+You took 34 steps to solve a Parsons puzzle containing 13 lines of code.
+Next Problem clicked @ 1455341880204
+Time spent on this problem: 481 seconds
+<HR>

@@ -1,0 +1,163 @@
+Problem No. 4
+Using Template # 100
+The Problem:
+System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" )
+System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" );
+System.out.println(s1 + " and " +s2 + " are same object");
+else if (s1.compareTo(s2) == 0) // This is Line X
+System.out.println("Neither same content nor same object");
+System.out.println(s1 + " and " +s2 + " have same contents (Usage: compareTo method)" );
+}}
+public class StringOperation {
+public static void main(String[] args) {
+else
+else if (s1 == s2) // This line should be written before Line X
+String s1 = "Hello World", s2 = "Hello Worlds";
+if (s1.equals(s2))
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 13 lines.
+Re-assemble them with 14 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: public class StringOperation {
+2. Moved from problem to solution at line 1: 	public static void main(String[] args) {
+3. Reordered from line 1 to 2: 	public static void main(String[] args) {
+4. Moved from problem to solution at line 2: 		String s1 = "Hello World", s2 = "Hello Worlds";
+5. Reordered from line 2 to 3: 		String s1 = "Hello World", s2 = "Hello Worlds";
+6. Moved from problem to solution at line 3: 		if (s1.equals(s2))
+7. Reordered from line 3 to 4: 		if (s1.equals(s2))
+8. Moved from problem to solution at line 4: 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" )
+9. Reordered from line 4 to 5: 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" )
+10. Moved from problem to solution at line 5: 		else if (s1 == s2) // This line should be written before Line X
+11. Reordered from line 5 to 6: 		else if (s1 == s2) // This line should be written before Line X
+12. Moved from problem to solution at line 6: 		else if (s1.compareTo(s2) == 0) // This is Line X
+13. Moved from problem to solution at line 7: 			System.out.println(s1 + " and " +s2 + " are same object");
+14. Moved from problem to solution at line 8: 		else
+15. Reordered from line 8 to 9: 		else
+16. Moved from problem to solution at line 9: 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" );
+17. Moved from solution to trash at line 0: 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" );
+18. Moved from problem to solution at line 9: 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: compareTo method)" );
+19. Reordered from line 9 to 10: 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: compareTo method)" );
+20. Moved from problem to solution at line 10: 			System.out.println("Neither same content nor same object");
+21. Reordered from line 9 to 10: 		else
+22. Moved from problem to solution at line 11: 	}}
+23. Reordered from line 11 to 12: 	}}
+Submit Parsons Solution clicked @ 1500778660143
+Sorry, that line has a bug
+Delete this line: 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+24. Moved from solution to trash at line 1: 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" )
+25. Moved from trash to solution at line 5: 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" );
+Submit Parsons Solution clicked @ 1500778671895
+This line is not in its correct location: 		else if (s1.compareTo(s2) == 0) // This is Line X
+Move this line in its place: 		else if (s1 == s2) // This line should be written before Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+26. Reordered from line 6 to 9: 		else if (s1.compareTo(s2) == 0) // This is Line X
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+27. Reordered from line 9 to 8: 		else if (s1.compareTo(s2) == 0) // This is Line X
+28. Reordered from line 7 to 6: 		else if (s1 == s2) // This line should be written before Line X
+Submit Parsons Solution clicked @ 1500778688062
+This line is not in its correct location: 			System.out.println("Neither same content nor same object");
+Move this line in its place: 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: compareTo method)" );
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+29. Reordered from line 9 to 11: 			System.out.println("Neither same content nor same object");
+30. Reordered from line 11 to 9: 			System.out.println("Neither same content nor same object");
+Submit Parsons Solution clicked @ 1500778699710
+This line is not in its correct location: 			System.out.println("Neither same content nor same object");
+Move this line in its place: 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: compareTo method)" );
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+31. Moved from trash to solution at line 9: 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" )
+32. Moved from solution to trash at line 0: 			System.out.println("Neither same content nor same object");
+Submit Parsons Solution clicked @ 1500778711478
+Sorry, that line has a bug
+Delete this line: 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Explain Parsons Solution clicked @ 1500778715578
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): public class StringOperation {
+1. Moved from problem to solution at line 0
+Line 2 (2 moves): 	public static void main(String[] args) {
+2. Moved from problem to solution at line 1
+3. Reordered from line 1 to 2
+Line 3 (2 moves): 		String s1 = "Hello World", s2 = "Hello Worlds";
+4. Moved from problem to solution at line 2
+5. Reordered from line 2 to 3
+Line 4 (2 moves): 		if (s1.equals(s2))
+6. Moved from problem to solution at line 3
+7. Reordered from line 3 to 4
+Line 5 (3 moves): 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" );
+16. Moved from problem to solution at line 9
+17. Moved from solution to trash at line 0
+25. Moved from trash to solution at line 5
+Line 6 (3 moves): 		else if (s1 == s2) // This line should be written before Line X
+10. Moved from problem to solution at line 5
+11. Reordered from line 5 to 6
+28. Reordered from line 7 to 6
+Line 7 (1 moves): 			System.out.println(s1 + " and " +s2 + " are same object");
+13. Moved from problem to solution at line 7
+Line 8 (3 moves): 		else if (s1.compareTo(s2) == 0) // This is Line X
+12. Moved from problem to solution at line 6
+26. Reordered from line 6 to 9
+27. Reordered from line 9 to 8
+Line 5 (16) (4 moves): 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" )
+8. Moved from problem to solution at line 4
+9. Reordered from line 4 to 5
+24. Moved from solution to trash at line 1
+31. Moved from trash to solution at line 9
+Line 10 (3 moves): 		else
+14. Moved from problem to solution at line 8
+15. Reordered from line 8 to 9
+21. Reordered from line 9 to 10
+Line 9 (2 moves): 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: compareTo method)" );
+18. Moved from problem to solution at line 9
+19. Reordered from line 9 to 10
+Line 12 (2 moves): 	}}
+22. Moved from problem to solution at line 11
+23. Reordered from line 11 to 12
+Line 11 (4 moves): 			System.out.println("Neither same content nor same object");
+20. Moved from problem to solution at line 10
+29. Reordered from line 9 to 11
+30. Reordered from line 11 to 9
+32. Moved from solution to trash at line 0
+Since you quit, this problem is being marked as not attempted
+Your Grade:
+You took 32 steps before bailing out of a Parsons puzzle containing 13 lines of code.
+Your answer so far is as follows:
+public class StringOperation {
+public static void main(String[] args) {
+String s1 = "Hello World", s2 = "Hello Worlds";
+if (s1.equals(s2))
+System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" );
+else if (s1 == s2) // This line should be written before Line X
+System.out.println(s1 + " and " +s2 + " are same object");
+else if (s1.compareTo(s2) == 0) // This is Line X
+System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" )
+else
+System.out.println(s1 + " and " +s2 + " have same contents (Usage: compareTo method)" );
+}}
+The lines you deleted so far are as follows:
+System.out.println("Neither same content nor same object");
+The correct answer is as follows:
+public class StringOperation {
+public static void main(String[] args) {
+String s1 = "Hello World", s2 = "Hello Worlds";
+if (s1.equals(s2))
+System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" );
+else if (s1 == s2) // This line should be written before Line X
+System.out.println(s1 + " and " +s2 + " are same object");
+else if (s1.compareTo(s2) == 0) // This is Line X
+System.out.println(s1 + " and " +s2 + " have same contents (Usage: compareTo method)" );
+else
+System.out.println("Neither same content nor same object");
+}}
+Click on 'Next Problem' button to go to the next problem
+Next Problem clicked @ 1500778741570
+Time spent on this problem: 416 seconds
+<HR>

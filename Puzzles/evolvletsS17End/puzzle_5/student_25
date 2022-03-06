@@ -1,0 +1,84 @@
+Problem No. 5
+Using Template # 100
+The Problem:
+System.out.print("   " + j);
+public class MultiplicationTable {
+System.out.println();}
+System.out.print(i + " | ");
+System.out.printf("%4d", i * j);}
+for (int j = 1; j <= 9; j++
+for (int j = 1; j <= 9; j++)
+public static void main(String[] args) {
+System.out.println("\n-----------------------------------------");
+for (int i = 1; i <= 9; i++) {
+}}
+System.out.print("    ");
+System.out.println("           Multiplication Table");
+System.out.prcharln("           Multiplication Table");
+for (int j = 1; j <= 9; j++) {
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 15 lines.
+Re-assemble them with 16 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: }}
+2. Moved from problem to solution at line 1:       System.out.println();}
+3. Moved from problem to solution at line 1:         System.out.printf("%4d", i * j);}
+4. Moved from problem to solution at line 1:       for (int j = 1; j <= 9; j++) {
+5. Moved from problem to solution at line 1:       System.out.print(i + " | ");
+6. Moved from problem to trash at line 0:     for (int j = 1; j <= 9; j++)
+7. Moved from problem to trash at line 1:     for (int j = 1; j <= 9; j++
+8. Moved from problem to solution at line 1:     for (int i = 1; i <= 9; i++) {
+9. Moved from problem to solution at line 1:     System.out.println("\n-----------------------------------------");
+10. Moved from problem to solution at line 1:       System.out.print("   " + j);
+11. Moved from problem to solution at line 1:     System.out.println("           Multiplication Table");
+12. Moved from problem to solution at line 1:   public static void main(String[] args) {
+13. Moved from problem to solution at line 1: public class MultiplicationTable {
+14. Moved from problem to solution at line 4:     System.out.print("    ");
+15. Moved from problem to trash at line 2:     System.out.prcharln("           Multiplication Table");
+Submit Parsons Solution clicked @ 1493690729113
+This line is not in its correct location:       System.out.print("   " + j);
+Insert this line in its place:     for (int j = 1; j <= 9; j++)
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+16. Moved from trash to solution at line 5:     for (int j = 1; j <= 9; j++)
+Submit Parsons Solution clicked @ 1493690762076
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): public class MultiplicationTable {
+13. Moved from problem to solution at line 1
+Line 2 (1 moves):   public static void main(String[] args) {
+12. Moved from problem to solution at line 1
+Line 3 (1 moves):     System.out.println("           Multiplication Table");
+11. Moved from problem to solution at line 1
+Line 4 (1 moves):     System.out.print("    ");
+14. Moved from problem to solution at line 4
+Line 5 (2 moves):     for (int j = 1; j <= 9; j++)
+6. Moved from problem to trash at line 0
+16. Moved from trash to solution at line 5
+Line 6 (1 moves):       System.out.print("   " + j);
+10. Moved from problem to solution at line 1
+Line 7 (1 moves):     System.out.println("\n-----------------------------------------");
+9. Moved from problem to solution at line 1
+Line 8 (1 moves):     for (int i = 1; i <= 9; i++) {
+8. Moved from problem to solution at line 1
+Line 9 (1 moves):       System.out.print(i + " | ");
+5. Moved from problem to solution at line 1
+Line 10 (1 moves):       for (int j = 1; j <= 9; j++) {
+4. Moved from problem to solution at line 1
+Line 11 (1 moves):         System.out.printf("%4d", i * j);}
+3. Moved from problem to solution at line 1
+Line 12 (1 moves):       System.out.println();}
+2. Moved from problem to solution at line 1
+Line 13 (1 moves): }}
+1. Moved from problem to solution at line 0
+Line 5 (5) (1 moves):     for (int j = 1; j <= 9; j++
+7. Moved from problem to trash at line 1
+Line 3 (11) (1 moves):     System.out.prcharln("           Multiplication Table");
+15. Moved from problem to trash at line 2
+Your Grade:
+You took 16 steps to solve a Parsons puzzle containing 15 lines of code.
+Next Problem clicked @ 1493690764871
+Time spent on this problem: 554 seconds
+<HR>

@@ -1,0 +1,125 @@
+Problem No. 4
+Using Template # 2001
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+if( decibels  >  85 )
+else:
+else
+System.out.print( "Sound is tolerable");
+} // End of if-clause
+{
+{
+short decibels
+short decibels;
+} // End of else-clause
+System.out.print( "Enter the loudness of sound in decibels");
+System.out.print( "Sound is loud");
+decibels = stdin.nextShort();
+Using Template # 2001
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare decibels
+// Read decibels
+// Compute and print whether the sound is loud (over 85) or tolerable
+}  // End of method main
+} // End of class Problem
+Using Template # 2001
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Moved from problem to solution at line 11: if( decibels  >  85 )
+Moved from problem to solution at line 9: short decibels;
+Moved from problem to trash at line 0: short decibels
+Moved from problem to trash at line 1: } // End of else-clause
+Moved from problem to trash at line 2: {
+Moved from problem to trash at line 3: {
+Moved from problem to solution at line 13: System.out.print( "Sound is loud");
+Moved from problem to solution at line 11: System.out.print( "Enter the loudness of sound in decibels");
+Moved from problem to solution at line 12: decibels = stdin.nextShort();
+Moved from problem to trash at line 2: } // End of if-clause
+Moved from problem to solution at line 15: System.out.print( "Sound is tolerable");
+Moved from problem to solution at line 15: else:
+Reordered from line 16 to 15: System.out.print( "Sound is tolerable");
+Moved from problem to solution at line 16: else
+Moved from solution to trash at line 2: else
+Submit Parsons Solution clicked @ 1447953454447
+This line is not in its correct location: System.out.print( "Sound is tolerable");
+Move this line in its place: System.out.print( "Sound is loud");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 17 to 15: System.out.print( "Sound is loud");
+Reordered from line 16 to 18: System.out.print( "Sound is tolerable");
+Submit Parsons Solution clicked @ 1447953461527
+else should not end with a colon.
+Delete this line: else:
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Attempted to move from solution to trash at line 1: }  // End of method main
+Do not remove the lines already provided to you - they are all needed.
+Moved from trash to solution at line 16: else
+Moved from solution to trash at line 5: else:
+Submit Parsons Solution clicked @ 1447953471392
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: System.out.print( "Sound is tolerable");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 17: System.out.print( "Sound is tolerable");
+Submit Parsons Solution clicked @ 1447953483948
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare decibels
+Line 11 (1 moves): short decibels;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Read decibels
+Line 14 (1 moves): System.out.print( "Enter the loudness of sound in decibels");
+Moved from problem to solution at line 11
+Line 15 (1 moves): decibels = stdin.nextShort();
+Moved from problem to solution at line 12
+Line 17 (0 moves): // Compute and print whether the sound is loud (over 85) or tolerable
+Line 18 (1 moves): if( decibels  >  85 )
+Moved from problem to solution at line 11
+Line 20 (2 moves): System.out.print( "Sound is loud");
+Moved from problem to solution at line 13
+Reordered from line 17 to 15
+Line 22 (3 moves): else
+Moved from problem to solution at line 16
+Moved from solution to trash at line 2
+Moved from trash to solution at line 16
+Line 24 (4 moves): System.out.print( "Sound is tolerable");
+Moved from problem to solution at line 15
+Reordered from line 16 to 15
+Reordered from line 16 to 18
+Reordered from line 18 to 17
+Line 26 (1 moves): }  // End of method main
+Attempted to move from solution to trash at line 1
+Line 28 (0 moves): } // End of class Problem
+LINE 11 (1 moves): short decibels
+Moved from problem to trash at line 0
+Line 25 (1 moves): } // End of else-clause
+Moved from problem to trash at line 1
+Line 19 (1 moves): {
+Moved from problem to trash at line 2
+Line 23 (1 moves): {
+Moved from problem to trash at line 3
+Line 21 (1 moves): } // End of if-clause
+Moved from problem to trash at line 2
+LINE 22 (2 moves): else:
+Moved from problem to solution at line 15
+Moved from solution to trash at line 5
+Your Grade:
+You took 20 steps to solve a Parsons puzzle containing 13 lines of code.
+Next Problem clicked @ 1447953485338
+Time spent on this problem: 131 seconds
+<HR>

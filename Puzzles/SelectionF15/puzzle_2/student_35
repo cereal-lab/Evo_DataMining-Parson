@@ -1,0 +1,200 @@
+Problem No. 2
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+if( numGrade  >=  70 )
+else
+{
+gradeLetter  =  'B';
+else
+else;
+int numGrade;
+{
+char gradeLetter;
+} // End of if-clause
+{
+System.out.print( "Enter the numerical grade");
+if( numGrade  >=  80 )
+} // End of else-clause
+else
+{
+{
+} // End of if-clause
+System.out.print( gradeLetter);
+{
+gradeLetter  =  'C';
+if( numGrade  >=  90 )
+else
+} // End of if-clause
+} // End of else-clause
+if  numGrade  >=  55
+if( numGrade  >=  55 )
+} // End of else-clause
+gradeLetter  =  'D';
+} // End of if-clause
+{
+} // End of else-clause
+{
+numGrade = stdin.nextInt();
+gradeLetter  =  'A';
+gradeLetter  =  'F';
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare numGrade
+// Declare gradeLetter
+// Read numGrade
+// Compute gradeLetter based on numGrade
+// Print gradeLetter
+}  // End of method main
+} // End of class Problem
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to solution at line 9: int numGrade;
+Moved from problem to solution at line 11: char gradeLetter;
+Moved from problem to solution at line 13: System.out.print( "Enter the numerical grade");
+Moved from problem to solution at line 16: numGrade = stdin.nextInt();
+Attempted to reorder }  // End of method main
+This line was provided to you in its correct order. Do not reorder it.
+Reordered from line 16 to 14: numGrade = stdin.nextInt();
+Moved from problem to solution at line 17: if( numGrade  >=  90 )
+Reordered from line 17 to 16: if( numGrade  >=  90 )
+Moved from problem to solution at line 17: gradeLetter  =  'A';
+Moved from problem to solution at line 18: else
+Moved from problem to solution at line 20: if( numGrade  >=  80 )
+Reordered from line 20 to 19: if( numGrade  >=  80 )
+Moved from problem to solution at line 20: gradeLetter  =  'B';
+Moved from problem to solution at line 21: else
+Moved from problem to solution at line 22: if( numGrade  >=  70 )
+Moved from problem to solution at line 23: gradeLetter  =  'C';
+Moved from problem to solution at line 24: else
+Moved from problem to solution at line 25: if( numGrade  >=  55 )
+Moved from problem to solution at line 26: gradeLetter  =  'D';
+Moved from problem to solution at line 27: else
+Moved from problem to solution at line 28: gradeLetter  =  'F';
+Moved from problem to solution at line 31: System.out.print( gradeLetter);
+Reordered from line 31 to 30: System.out.print( gradeLetter);
+Moved from problem to trash at line 0: {
+Moved from problem to trash at line 1: } // End of else-clause
+Moved from problem to trash at line 2: } // End of if-clause
+Moved from problem to trash at line 1: {
+Moved from problem to trash at line 2: } // End of else-clause
+Moved from problem to trash at line 4: if  numGrade  >=  55
+Moved from problem to trash at line 1: } // End of else-clause
+Moved from problem to trash at line 3: } // End of if-clause
+Moved from problem to trash at line 3: } // End of if-clause
+Moved from problem to trash at line 1: {
+Moved from problem to trash at line 1: {
+Moved from problem to trash at line 3: {
+Moved from problem to trash at line 2: } // End of else-clause
+Moved from problem to trash at line 3: } // End of if-clause
+Moved from problem to trash at line 2: {
+Moved from problem to trash at line 2: {
+Moved from problem to trash at line 4: else;
+Moved from problem to trash at line 2: {
+Submit Parsons Solution clicked @ 1448284596450
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare numGrade
+Line 11 (1 moves): int numGrade;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Declare gradeLetter
+Line 14 (1 moves): char gradeLetter;
+Moved from problem to solution at line 11
+Line 16 (0 moves): // Read numGrade
+Line 17 (1 moves): System.out.print( "Enter the numerical grade");
+Moved from problem to solution at line 13
+Line 18 (2 moves): numGrade = stdin.nextInt();
+Moved from problem to solution at line 16
+Reordered from line 16 to 14
+Line 20 (0 moves): // Compute gradeLetter based on numGrade
+Line 21 (2 moves): if( numGrade  >=  90 )
+Moved from problem to solution at line 17
+Reordered from line 17 to 16
+Line 23 (1 moves): gradeLetter  =  'A';
+Moved from problem to solution at line 17
+Line 31 (1 moves): else
+Moved from problem to solution at line 18
+Line 27 (2 moves): if( numGrade  >=  80 )
+Moved from problem to solution at line 20
+Reordered from line 20 to 19
+Line 29 (1 moves): gradeLetter  =  'B';
+Moved from problem to solution at line 20
+Line 37 (1 moves): else
+Moved from problem to solution at line 21
+Line 33 (1 moves): if( numGrade  >=  70 )
+Moved from problem to solution at line 22
+Line 35 (1 moves): gradeLetter  =  'C';
+Moved from problem to solution at line 23
+Line 43 (1 moves): else
+Moved from problem to solution at line 24
+Line 39 (1 moves): if( numGrade  >=  55 )
+Moved from problem to solution at line 25
+Line 41 (1 moves): gradeLetter  =  'D';
+Moved from problem to solution at line 26
+Line 25 (1 moves): else
+Moved from problem to solution at line 27
+Line 45 (1 moves): gradeLetter  =  'F';
+Moved from problem to solution at line 28
+Line 51 (0 moves): // Print gradeLetter
+Line 52 (2 moves): System.out.print( gradeLetter);
+Moved from problem to solution at line 31
+Reordered from line 31 to 30
+Line 53 (1 moves): }  // End of method main
+Attempted to reorder line 53
+Line 55 (0 moves): } // End of class Problem
+Line 38 (1 moves): {
+Moved from problem to trash at line 0
+Line 49 (1 moves): } // End of else-clause
+Moved from problem to trash at line 1
+Line 42 (1 moves): } // End of if-clause
+Moved from problem to trash at line 2
+Line 28 (1 moves): {
+Moved from problem to trash at line 1
+Line 46 (1 moves): } // End of else-clause
+Moved from problem to trash at line 2
+LINE 39 (1 moves): if  numGrade  >=  55
+Moved from problem to trash at line 4
+Line 48 (1 moves): } // End of else-clause
+Moved from problem to trash at line 1
+Line 24 (1 moves): } // End of if-clause
+Moved from problem to trash at line 3
+Line 36 (1 moves): } // End of if-clause
+Moved from problem to trash at line 3
+Line 26 (1 moves): {
+Moved from problem to trash at line 1
+Line 44 (1 moves): {
+Moved from problem to trash at line 1
+Line 40 (1 moves): {
+Moved from problem to trash at line 3
+Line 47 (1 moves): } // End of else-clause
+Moved from problem to trash at line 2
+Line 30 (1 moves): } // End of if-clause
+Moved from problem to trash at line 3
+Line 34 (1 moves): {
+Moved from problem to trash at line 2
+Line 22 (1 moves): {
+Moved from problem to trash at line 2
+LINE 43 (1 moves): else;
+Moved from problem to trash at line 4
+Line 32 (1 moves): {
+Moved from problem to trash at line 2
+Your Grade:
+You took 40 steps to solve a Parsons puzzle containing 36 lines of code.
+Next Problem clicked @ 1448284597802
+Time spent on this problem: 222 seconds
+<HR>

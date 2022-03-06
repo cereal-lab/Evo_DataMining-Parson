@@ -1,0 +1,124 @@
+Problem No. 14
+Using Template # 2008
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+} // End of else-clause
+second = stdin.nextInt();
+stdin.nextInt() = second;
+result  =  firstNum  -  second;
+result  ==  firstNum  -  second;
+int result;
+{
+} // End of if-clause
+int firstNum;
+result  =  second  -  firstNum;
+{
+System.out.print( "Enter the second number");
+System.out.print( result);
+System.out.print( "Enter the first number");
+else
+if( firstNum  >  second )
+int second;
+firstNum = stdin.nextInt();
+Using Template # 2008
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare firstNum
+// Declare second
+// Declare result
+// Read firstNum
+// Read second
+// Compute and print whether second evenly divides firstNum
+// Print result
+}  // End of method main
+} // End of class Problem
+Using Template # 2008
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Moved from problem to solution at line 9: int firstNum;
+Moved from problem to solution at line 11: int second;
+Moved from problem to solution at line 13: int result;
+Moved from problem to solution at line 15: System.out.print( "Enter the first number");
+Moved from problem to solution at line 16: firstNum = stdin.nextInt();
+Moved from problem to solution at line 19: System.out.print( "Enter the second number");
+Reordered from line 19 to 18: System.out.print( "Enter the second number");
+Moved from problem to solution at line 19: second = stdin.nextInt();
+Moved from problem to solution at line 21: if( firstNum  >  second )
+Moved from problem to solution at line 22: result  =  firstNum  -  second;
+Moved from problem to solution at line 23: else
+Moved from problem to solution at line 24: result  =  second  -  firstNum;
+Moved from problem to solution at line 24: {
+Moved from problem to solution at line 26: } // End of else-clause
+Moved from problem to solution at line 28: System.out.print( result);
+Moved from problem to trash at line 0: } // End of if-clause
+Moved from problem to trash at line 1: result  ==  firstNum  -  second;
+Moved from problem to trash at line 2: stdin.nextInt() = second;
+Moved from problem to trash at line 2: {
+Submit Parsons Solution clicked @ 1462209595342
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare firstNum
+Line 11 (1 moves): int firstNum;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Declare second
+Line 14 (1 moves): int second;
+Moved from problem to solution at line 11
+Line 16 (0 moves): // Declare result
+Line 17 (1 moves): int result;
+Moved from problem to solution at line 13
+Line 19 (0 moves): // Read firstNum
+Line 20 (1 moves): System.out.print( "Enter the first number");
+Moved from problem to solution at line 15
+Line 21 (1 moves): firstNum = stdin.nextInt();
+Moved from problem to solution at line 16
+Line 23 (0 moves): // Read second
+Line 24 (2 moves): System.out.print( "Enter the second number");
+Moved from problem to solution at line 19
+Reordered from line 19 to 18
+Line 25 (1 moves): second = stdin.nextInt();
+Moved from problem to solution at line 19
+Line 27 (0 moves): // Compute and print whether second evenly divides firstNum
+Line 28 (1 moves): if( firstNum  >  second )
+Moved from problem to solution at line 21
+Line 30 (1 moves): result  =  firstNum  -  second;
+Moved from problem to solution at line 22
+Line 32 (1 moves): else
+Moved from problem to solution at line 23
+Line 33 (1 moves): {
+Moved from problem to solution at line 24
+Line 34 (1 moves): result  =  second  -  firstNum;
+Moved from problem to solution at line 24
+Line 35 (1 moves): } // End of else-clause
+Moved from problem to solution at line 26
+Line 37 (0 moves): // Print result
+Line 38 (1 moves): System.out.print( result);
+Moved from problem to solution at line 28
+Line 39 (0 moves): }  // End of method main
+Line 41 (0 moves): } // End of class Problem
+Line 31 (1 moves): } // End of if-clause
+Moved from problem to trash at line 0
+LINE 30 (1 moves): result  ==  firstNum  -  second;
+Moved from problem to trash at line 1
+LINE 25 (1 moves): stdin.nextInt() = second;
+Moved from problem to trash at line 2
+Line 29 (1 moves): {
+Moved from problem to trash at line 2
+Your Grade:
+You took 19 steps to solve a Parsons puzzle containing 18 lines of code.
+Next Problem clicked @ 1462209596125
+Time spent on this problem: 130 seconds
+<HR>

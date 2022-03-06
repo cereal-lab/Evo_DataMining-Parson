@@ -1,0 +1,121 @@
+Problem No. 2
+Using Template # 100
+The Problem:
+int data, sum;   //This line should immediately be placed before Line X
+System.out.print("Enter an int value (the program exits if the input is 0): ");
+Scanner input = new Scanner(System.in); // This is line X
+System.out.println("The sum is " + sum);
+sum += data;
+public static void main(String[] args) {
+import java.util.Scanner;
+do{
+Public class TestDoWhile {
+public class TestDoWhile {
+} while (data != 0);
+data = input.nextInt();
+}}
+data = sum = 0;
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 14 lines.
+Re-assemble them with 15 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0:  }}
+2. Moved from problem to solution at line 1: import java.util.Scanner;
+3. Moved from problem to solution at line 2:   public static void main(String[] args) {
+4. Moved from problem to solution at line 2: public class TestDoWhile {
+5. Moved from problem to trash at line 0: Public class TestDoWhile {
+6. Moved from problem to solution at line 3:     do{
+7. Moved from problem to solution at line 4:     } while (data != 0);
+8. Moved from problem to solution at line 6:     System.out.println("The sum is " + sum);
+9. Moved from problem to solution at line 6:     int data, sum;   //This line should immediately be placed before Line X
+10. Moved from problem to solution at line 7:     Scanner input = new Scanner(System.in); // This is line X
+11. Moved from problem to solution at line 3:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+12. Moved from problem to solution at line 5:       sum += data;
+13. Moved from problem to solution at line 5:       data = input.nextInt();
+14. Moved from problem to solution at line 6:     data = sum = 0;
+Submit Parsons Solution clicked @ 1493695524324
+This line is not in its correct location:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Move this line in its place:   public static void main(String[] args) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+15. Reordered from line 9 to 3:   public static void main(String[] args) {
+Submit Parsons Solution clicked @ 1493695539246
+This line is not in its correct location:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Move this line in its place:     int data, sum;   //This line should immediately be placed before Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+16. Reordered from line 10 to 4:     int data, sum;   //This line should immediately be placed before Line X
+17. Reordered from line 11 to 5:     Scanner input = new Scanner(System.in); // This is line X
+Submit Parsons Solution clicked @ 1493695550199
+This line is not in its correct location:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Move this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+18. Reordered from line 9 to 6:     data = sum = 0;
+Submit Parsons Solution clicked @ 1493695560590
+This line is not in its correct location:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Move this line in its place:     do{
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+19. Reordered from line 8 to 7:     do{
+20. Reordered from line 11 to 8:     } while (data != 0);
+Submit Parsons Solution clicked @ 1493695573840
+This line is not in its correct location:     } while (data != 0);
+Move this line in its place:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+21. Reordered from line 9 to 8:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Submit Parsons Solution clicked @ 1493695578715
+This line is not in its correct location:     } while (data != 0);
+Move this line in its place:       data = input.nextInt();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+22. Reordered from line 10 to 9:       data = input.nextInt();
+23. Reordered from line 11 to 10:       sum += data;
+Submit Parsons Solution clicked @ 1493695589730
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+2. Moved from problem to solution at line 1
+Line 2 (1 moves): public class TestDoWhile {
+4. Moved from problem to solution at line 2
+Line 3 (2 moves):   public static void main(String[] args) {
+3. Moved from problem to solution at line 2
+15. Reordered from line 9 to 3
+Line 4 (2 moves):     int data, sum;   //This line should immediately be placed before Line X
+9. Moved from problem to solution at line 6
+16. Reordered from line 10 to 4
+Line 5 (2 moves):     Scanner input = new Scanner(System.in); // This is line X
+10. Moved from problem to solution at line 7
+17. Reordered from line 11 to 5
+Line 6 (2 moves):     data = sum = 0;
+14. Moved from problem to solution at line 6
+18. Reordered from line 9 to 6
+Line 7 (2 moves):     do{
+6. Moved from problem to solution at line 3
+19. Reordered from line 8 to 7
+Line 8 (2 moves):       System.out.print("Enter an int value (the program exits if the input is 0): ");
+11. Moved from problem to solution at line 3
+21. Reordered from line 9 to 8
+Line 9 (2 moves):       data = input.nextInt();
+13. Moved from problem to solution at line 5
+22. Reordered from line 10 to 9
+Line 10 (2 moves):       sum += data;
+12. Moved from problem to solution at line 5
+23. Reordered from line 11 to 10
+Line 11 (2 moves):     } while (data != 0);
+7. Moved from problem to solution at line 4
+20. Reordered from line 11 to 8
+Line 12 (1 moves):     System.out.println("The sum is " + sum);
+8. Moved from problem to solution at line 6
+Line 13 (1 moves):  }}
+1. Moved from problem to solution at line 0
+Line 2 (33) (1 moves): Public class TestDoWhile {
+5. Moved from problem to trash at line 0
+Your Grade:
+You took 23 steps to solve a Parsons puzzle containing 14 lines of code.
+Next Problem clicked @ 1493695590965
+Time spent on this problem: 346 seconds
+<HR>

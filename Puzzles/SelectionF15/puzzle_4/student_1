@@ -1,0 +1,143 @@
+Problem No. 4
+Using Template # 2101
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+unsigned degrees;
+{
+{
+} // End of if-clause
+} // End of if-clause
+{
+else
+if( degrees  <=  270 )
+} // End of else-clause
+cout << "First quadrant";
+if( degrees  <=  180 )
+{
+Cin >> degrees;
+cin >> degrees;
+cout << "Enter the location in degrees (1-360)";
+cout << "Second quadrant";
+} // End of if-clause
+cout << "Fourth quadrant";
+else
+} // End of else-clause
+if( degrees  <=  90 )
+else
+{
+} // End of else-clause
+{
+cout << "Third quadrant";
+cout >> "Third quadrant";
+Using Template # 2101
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The C++ program
+#include <iostream>
+using namespace std;
+int main()
+{
+// Declare degrees
+// Read degrees
+// Compute and print the quadrant based on degrees
+}  // End of function main
+Using Template # 2101
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to trash at line 0: Cin >> degrees;
+Moved from problem to solution at line 7: unsigned degrees;
+Moved from problem to solution at line 9: cout << "Enter the location in degrees (1-360)";
+Moved from problem to solution at line 10: cin >> degrees;
+Moved from problem to solution at line 12: if( degrees  <=  90 )
+Moved from problem to solution at line 13: {
+Moved from problem to solution at line 14: } // End of if-clause
+Moved from problem to trash at line 1: cout >> "Third quadrant";
+Moved from problem to solution at line 14: cout << "First quadrant";
+Moved from problem to solution at line 16: else
+Moved from problem to solution at line 17: {
+Moved from problem to solution at line 18: } // End of else-clause
+Moved from problem to solution at line 18: if( degrees  <=  180 )
+Moved from problem to solution at line 19: {
+Moved from problem to solution at line 20: } // End of if-clause
+Moved from problem to solution at line 20: cout << "Second quadrant";
+Moved from problem to solution at line 22: if( degrees  <=  270 )
+Moved from problem to solution at line 22: else
+Moved from problem to solution at line 23: {
+Moved from problem to solution at line 25: } // End of else-clause
+Moved from problem to solution at line 25: {
+Moved from problem to solution at line 26: } // End of else-clause
+Moved from problem to solution at line 26: cout << "Third quadrant";
+Moved from problem to solution at line 27: } // End of if-clause
+Moved from problem to solution at line 28: else
+Moved from problem to solution at line 29: {
+Moved from problem to solution at line 30: cout << "Fourth quadrant";
+Submit Parsons Solution clicked @ 1447206523924
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The C++ program
+Line 2 (0 moves): #include <iostream>
+Line 3 (0 moves): using namespace std;
+Line 5 (0 moves): int main()
+Line 6 (0 moves): {
+Line 8 (0 moves): // Declare degrees
+Line 9 (1 moves): unsigned degrees;
+Moved from problem to solution at line 7
+Line 11 (0 moves): // Read degrees
+Line 12 (1 moves): cout << "Enter the location in degrees (1-360)";
+Moved from problem to solution at line 9
+Line 13 (1 moves): cin >> degrees;
+Moved from problem to solution at line 10
+Line 15 (0 moves): // Compute and print the quadrant based on degrees
+Line 16 (1 moves): if( degrees  <=  90 )
+Moved from problem to solution at line 12
+Line 17 (1 moves): {
+Moved from problem to solution at line 13
+Line 18 (1 moves): cout << "First quadrant";
+Moved from problem to solution at line 14
+Line 19 (1 moves): } // End of if-clause
+Moved from problem to solution at line 14
+Line 20 (1 moves): else
+Moved from problem to solution at line 16
+Line 21 (1 moves): {
+Moved from problem to solution at line 17
+Line 22 (1 moves): if( degrees  <=  180 )
+Moved from problem to solution at line 18
+Line 23 (1 moves): {
+Moved from problem to solution at line 19
+Line 24 (1 moves): cout << "Second quadrant";
+Moved from problem to solution at line 20
+Line 25 (1 moves): } // End of if-clause
+Moved from problem to solution at line 20
+Line 26 (1 moves): else
+Moved from problem to solution at line 22
+Line 27 (1 moves): {
+Moved from problem to solution at line 23
+Line 28 (1 moves): if( degrees  <=  270 )
+Moved from problem to solution at line 22
+Line 29 (1 moves): {
+Moved from problem to solution at line 25
+Line 30 (1 moves): cout << "Third quadrant";
+Moved from problem to solution at line 26
+Line 31 (1 moves): } // End of if-clause
+Moved from problem to solution at line 27
+Line 32 (1 moves): else
+Moved from problem to solution at line 28
+Line 33 (1 moves): {
+Moved from problem to solution at line 29
+Line 34 (1 moves): cout << "Fourth quadrant";
+Moved from problem to solution at line 30
+Line 35 (1 moves): } // End of else-clause
+Moved from problem to solution at line 26
+Line 36 (1 moves): } // End of else-clause
+Moved from problem to solution at line 25
+Line 37 (1 moves): } // End of else-clause
+Moved from problem to solution at line 18
+Line 38 (0 moves): }  // End of function main
+LINE 13 (1 moves): Cin >> degrees;
+Moved from problem to trash at line 0
+LINE 30 (1 moves): cout >> "Third quadrant";
+Moved from problem to trash at line 1
+Your Grade:
+You took 27 steps to solve a Parsons puzzle containing 27 lines of code.
+Next Problem clicked @ 1447206525330
+Time spent on this problem: 151 seconds
+<HR>

@@ -1,0 +1,123 @@
+Problem No. 2
+Using Template # 100
+The Problem:
+data = sum = 0;
+}}
+public static void main(String[] args) {
+public class TestDoWhile {
+Public class TestDoWhile {
+System.out.println("The sum is " + sum);
+Scanner input = new Scanner(System.in); // This is line X
+do{
+sum += data;
+System.out.print("Enter an int value (the program exits if the input is 0): ");
+} while (data != 0);
+int data, sum;   //This line should immediately be placed before Line X
+import java.util.Scanner;
+data = input.nextInt();
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 14 lines.
+Re-assemble them with 15 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: import java.util.Scanner;
+2. Moved from problem to solution at line 1:  }}
+3. Reordered from line 2 to 1: import java.util.Scanner;
+4. Moved from problem to solution at line 2: Public class TestDoWhile {
+5. Moved from problem to trash at line 0: public class TestDoWhile {
+6. Moved from problem to solution at line 3:   public static void main(String[] args) {
+7. Moved from problem to solution at line 4:     int data, sum;   //This line should immediately be placed before Line X
+8. Moved from problem to solution at line 5:     Scanner input = new Scanner(System.in); // This is line X
+9. Moved from problem to solution at line 6:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+10. Moved from problem to solution at line 7:       data = input.nextInt();
+11. Moved from problem to solution at line 8:     data = sum = 0;
+12. Moved from problem to solution at line 9:     do{
+13. Moved from problem to solution at line 10:       sum += data;
+14. Moved from problem to solution at line 11:     } while (data != 0);
+15. Moved from problem to solution at line 12:     System.out.println("The sum is " + sum);
+Submit Parsons Solution clicked @ 1493573246771
+Sorry, that line has a bug
+Delete this line: Public class TestDoWhile {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+16. Moved from solution to problem at line 14: Public class TestDoWhile {
+17. Moved from problem to trash at line 1: Public class TestDoWhile {
+Submit Parsons Solution clicked @ 1493573267011
+This line is not in its correct location:   public static void main(String[] args) {
+Insert this line in its place: public class TestDoWhile {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+18. Moved from trash to solution at line 2: public class TestDoWhile {
+Submit Parsons Solution clicked @ 1493573275650
+This line is not in its correct location:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Move this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+19. Reordered from line 8 to 6:     data = sum = 0;
+20. Reordered from line 8 to 7:       data = input.nextInt();
+Submit Parsons Solution clicked @ 1493573289533
+This line is not in its correct location:       data = input.nextInt();
+Move this line in its place:     do{
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+21. Reordered from line 10 to 7:       sum += data;
+22. Reordered from line 10 to 7:     do{
+Submit Parsons Solution clicked @ 1493573302268
+This line is not in its correct location:       sum += data;
+Move this line in its place:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+23. Reordered from line 10 to 8:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Submit Parsons Solution clicked @ 1493573306731
+This line is not in its correct location:       sum += data;
+Move this line in its place:       data = input.nextInt();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+24. Reordered from line 10 to 9:       data = input.nextInt();
+Submit Parsons Solution clicked @ 1493573311387
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (2 moves): import java.util.Scanner;
+1. Moved from problem to solution at line 0
+3. Reordered from line 2 to 1
+Line 2 (2 moves): public class TestDoWhile {
+5. Moved from problem to trash at line 0
+18. Moved from trash to solution at line 2
+Line 3 (1 moves):   public static void main(String[] args) {
+6. Moved from problem to solution at line 3
+Line 4 (1 moves):     int data, sum;   //This line should immediately be placed before Line X
+7. Moved from problem to solution at line 4
+Line 5 (1 moves):     Scanner input = new Scanner(System.in); // This is line X
+8. Moved from problem to solution at line 5
+Line 6 (2 moves):     data = sum = 0;
+11. Moved from problem to solution at line 8
+19. Reordered from line 8 to 6
+Line 7 (2 moves):     do{
+12. Moved from problem to solution at line 9
+22. Reordered from line 10 to 7
+Line 8 (2 moves):       System.out.print("Enter an int value (the program exits if the input is 0): ");
+9. Moved from problem to solution at line 6
+23. Reordered from line 10 to 8
+Line 9 (3 moves):       data = input.nextInt();
+10. Moved from problem to solution at line 7
+20. Reordered from line 8 to 7
+24. Reordered from line 10 to 9
+Line 10 (2 moves):       sum += data;
+13. Moved from problem to solution at line 10
+21. Reordered from line 10 to 7
+Line 11 (1 moves):     } while (data != 0);
+14. Moved from problem to solution at line 11
+Line 12 (1 moves):     System.out.println("The sum is " + sum);
+15. Moved from problem to solution at line 12
+Line 13 (1 moves):  }}
+2. Moved from problem to solution at line 1
+Line 2 (33) (3 moves): Public class TestDoWhile {
+4. Moved from problem to solution at line 2
+16. Moved from solution to problem at line 14
+17. Moved from problem to trash at line 1
+Your Grade:
+You took 24 steps to solve a Parsons puzzle containing 14 lines of code.
+Next Problem clicked @ 1493573343504
+Time spent on this problem: 293 seconds
+<HR>

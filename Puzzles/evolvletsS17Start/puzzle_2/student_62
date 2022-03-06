@@ -1,0 +1,86 @@
+Problem No. 2
+Using Template # 100
+The Problem:
+}}
+System.out.println(year + " is a leap year? " + isLeapYear);
+import java.util.Scanner;
+System.out.print("Enter a year: ");     // This is line X
+public class LeapYear {
+boolean isLeapYear =  (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+boolean isLeapYear =  (year / 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+int year = input.nextInt();
+public static void main(String args[]) {
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 10 lines.
+Re-assemble them with 11 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: import java.util.Scanner;
+2. Moved from problem to solution at line 1:   public static void main(String args[]) {
+3. Reordered from line 1 to 2:   public static void main(String args[]) {
+4. Moved from problem to solution at line 2: public class LeapYear {
+5. Reordered from line 2 to 3: public class LeapYear {
+6. Reordered from line 3 to 2: public class LeapYear {
+7. Moved from problem to solution at line 3:     Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+8. Reordered from line 3 to 4:     Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+9. Moved from problem to solution at line 4:     System.out.print("Enter a year: ");     // This is line X
+10. Reordered from line 4 to 5:     System.out.print("Enter a year: ");     // This is line X
+11. Moved from problem to solution at line 5:     int year = input.nextInt();
+12. Reordered from line 5 to 6:     int year = input.nextInt();
+13. Moved from problem to solution at line 6:     boolean isLeapYear =  (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+14. Moved from problem to solution at line 7:     boolean isLeapYear =  (year / 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+15. Reordered from line 8 to 6:     int year = input.nextInt();
+16. Moved from problem to solution at line 8:     System.out.println(year + " is a leap year? " + isLeapYear);
+17. Reordered from line 8 to 9:     System.out.println(year + " is a leap year? " + isLeapYear);
+18. Moved from problem to solution at line 9: }}
+19. Reordered from line 9 to 10: }}
+Submit Parsons Solution clicked @ 1489344301565
+Sorry, that line has a bug
+Delete this line:     boolean isLeapYear =  (year / 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+20. Moved from solution to problem at line 5:     boolean isLeapYear =  (year / 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+Submit Parsons Solution clicked @ 1489344315415
+Please clear all the lines from the left panel before submitting your answer.
+21. Moved from problem to trash at line 0:     boolean isLeapYear =  (year / 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+Submit Parsons Solution clicked @ 1489344321977
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+1. Moved from problem to solution at line 0
+Line 2 (3 moves): public class LeapYear {
+4. Moved from problem to solution at line 2
+5. Reordered from line 2 to 3
+6. Reordered from line 3 to 2
+Line 3 (2 moves):   public static void main(String args[]) {
+2. Moved from problem to solution at line 1
+3. Reordered from line 1 to 2
+Line 4 (2 moves):     Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+7. Moved from problem to solution at line 3
+8. Reordered from line 3 to 4
+Line 5 (2 moves):     System.out.print("Enter a year: ");     // This is line X
+9. Moved from problem to solution at line 4
+10. Reordered from line 4 to 5
+Line 6 (3 moves):     int year = input.nextInt();
+11. Moved from problem to solution at line 5
+12. Reordered from line 5 to 6
+15. Reordered from line 8 to 6
+Line 7 (1 moves):     boolean isLeapYear =  (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+13. Moved from problem to solution at line 6
+Line 8 (2 moves):     System.out.println(year + " is a leap year? " + isLeapYear);
+16. Moved from problem to solution at line 8
+17. Reordered from line 8 to 9
+Line 9 (2 moves): }}
+18. Moved from problem to solution at line 9
+19. Reordered from line 9 to 10
+Line 7 (36) (3 moves):     boolean isLeapYear =  (year / 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+14. Moved from problem to solution at line 7
+20. Moved from solution to problem at line 5
+21. Moved from problem to trash at line 0
+Your Grade:
+You took 21 steps to solve a Parsons puzzle containing 10 lines of code.
+Next Problem clicked @ 1489344439984
+Time spent on this problem: 248 seconds
+<HR>

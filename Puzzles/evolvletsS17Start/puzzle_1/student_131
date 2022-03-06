@@ -1,0 +1,100 @@
+Problem No. 1
+Using Template # 100
+The Problem:
+data = input.nextInt(); sum = 0;
+public Class SentinelValue {
+public class SentinelValue {
+int data, sum;                           // This is line X
+import java.util.Scanner;
+System.out.println("The sum is " + sum);
+data = input.nextInt();}                                                         // This is line Y
+Scanner input = new Scanner(System.in);  //This line should immediately be placed before Line X
+System.out.print("Enter an int value (the program exits if the input is 0): ");
+public static void main(String[] args) {
+System.out.print("Enter an int value (the program exits if the input is 0): ");  //This line should immediately be placed before Line Y
+}}
+while (data != 1) {
+while (data != 0) {
+sum += data;
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 15 lines.
+Re-assemble them with 16 (or fewer) moves for full credit
+Using Template # 100
+The Problem:
+data = input.nextInt(); sum = 0;
+public Class SentinelValue {
+public class SentinelValue {
+int data, sum;                           // This is line X
+import java.util.Scanner;
+System.out.println("The sum is " + sum);
+data = input.nextInt();}                                                         // This is line Y
+Scanner input = new Scanner(System.in);  //This line should immediately be placed before Line X
+System.out.print("Enter an int value (the program exits if the input is 0): ");
+public static void main(String[] args) {
+System.out.print("Enter an int value (the program exits if the input is 0): ");  //This line should immediately be placed before Line Y
+}}
+while (data != 1) {
+while (data != 0) {
+sum += data;
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+1. Moved from problem to solution at line 0: import java.util.Scanner;
+2. Moved from problem to solution at line 1:     }}
+3. Reordered from line 2 to 1: import java.util.Scanner;
+4. Moved from problem to solution at line 2: public class SentinelValue {
+5. Moved from problem to solution at line 3:   public static void main(String[] args) {
+6. Moved from problem to trash at line 0: public Class SentinelValue {
+7. Moved from problem to solution at line 4:     Scanner input = new Scanner(System.in);  //This line should immediately be placed before Line X
+8. Moved from problem to solution at line 5:     int data, sum;                           // This is line X
+9. Moved from problem to solution at line 6:     System.out.print("Enter an int value (the program exits if the input is 0): ");
+10. Moved from problem to solution at line 7:     data = input.nextInt(); sum = 0;
+11. Moved from problem to solution at line 8:     while (data != 0) {
+12. Moved from problem to solution at line 9:       sum += data;
+13. Moved from problem to solution at line 10:       System.out.print("Enter an int value (the program exits if the input is 0): ");  //This line should immediately be placed before Line Y
+14. Moved from problem to solution at line 11:       data = input.nextInt();}                                                         // This is line Y
+15. Moved from problem to solution at line 12:     System.out.println("The sum is " + sum);
+16. Moved from problem to trash at line 1:     while (data != 1) {
+Submit Parsons Solution clicked @ 1489391605225
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (2 moves): import java.util.Scanner;
+1. Moved from problem to solution at line 0
+3. Reordered from line 2 to 1
+Line 2 (1 moves): public class SentinelValue {
+4. Moved from problem to solution at line 2
+Line 3 (1 moves):   public static void main(String[] args) {
+5. Moved from problem to solution at line 3
+Line 4 (1 moves):     Scanner input = new Scanner(System.in);  //This line should immediately be placed before Line X
+7. Moved from problem to solution at line 4
+Line 5 (1 moves):     int data, sum;                           // This is line X
+8. Moved from problem to solution at line 5
+Line 6 (1 moves):     System.out.print("Enter an int value (the program exits if the input is 0): ");
+9. Moved from problem to solution at line 6
+Line 7 (1 moves):     data = input.nextInt(); sum = 0;
+10. Moved from problem to solution at line 7
+Line 8 (1 moves):     while (data != 0) {
+11. Moved from problem to solution at line 8
+Line 9 (1 moves):       sum += data;
+12. Moved from problem to solution at line 9
+Line 10 (1 moves):       System.out.print("Enter an int value (the program exits if the input is 0): ");  //This line should immediately be placed before Line Y
+13. Moved from problem to solution at line 10
+Line 11 (1 moves):       data = input.nextInt();}                                                         // This is line Y
+14. Moved from problem to solution at line 11
+Line 12 (1 moves):     System.out.println("The sum is " + sum);
+15. Moved from problem to solution at line 12
+Line 13 (1 moves):     }}
+2. Moved from problem to solution at line 1
+Line 2 (8) (1 moves): public Class SentinelValue {
+6. Moved from problem to trash at line 0
+Line 8 (12) (1 moves):     while (data != 1) {
+16. Moved from problem to trash at line 1
+Your Grade:
+You took 16 steps to solve a Parsons puzzle containing 15 lines of code.
+Next Problem clicked @ 1489391614434
+Time spent on this problem: 387 seconds
+<HR>

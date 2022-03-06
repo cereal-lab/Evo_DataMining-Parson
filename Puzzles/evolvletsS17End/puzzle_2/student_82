@@ -1,0 +1,71 @@
+Problem No. 2
+Using Template # 100
+The Problem:
+System.out.println("Neither same content nor same object");
+String s1 = "Hello World", s2 = "Hello Worlds";
+public class StringOperation {
+System.out.println(s1 + " and " +s2 + " have same contents (Usage: compareTo method)" );
+System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" )
+System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" );
+else if (s1.compareTo(s2) == 0) // This is Line X
+else
+else if (s1 == s2) // This line should be written before Line X
+}}
+System.out.println(s1 + " and " +s2 + " are same object");
+if (s1.equals(s2))
+public static void main(String[] args) {
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 13 lines.
+Re-assemble them with 14 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: 	}}
+2. Moved from problem to solution at line 1: public class StringOperation {
+3. Moved from problem to solution at line 2: 	public static void main(String[] args) {
+4. Moved from problem to solution at line 3: 		String s1 = "Hello World", s2 = "Hello Worlds";
+5. Moved from problem to solution at line 4: 		if (s1.equals(s2))
+6. Moved from problem to solution at line 5: 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" )
+7. Moved from problem to solution at line 6: 		else if (s1 == s2) // This line should be written before Line X
+8. Moved from problem to solution at line 7: 			System.out.println(s1 + " and " +s2 + " are same object");
+9. Moved from problem to solution at line 8: 		else if (s1.compareTo(s2) == 0) // This is Line X
+10. Moved from problem to solution at line 9: 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: compareTo method)" );
+11. Moved from solution to trash at line 0: 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" )
+12. Moved from problem to solution at line 5: 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" );
+13. Moved from problem to solution at line 10: 		else
+14. Moved from problem to solution at line 11: 			System.out.println("Neither same content nor same object");
+Submit Parsons Solution clicked @ 1493681637825
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): public class StringOperation {
+2. Moved from problem to solution at line 1
+Line 2 (1 moves): 	public static void main(String[] args) {
+3. Moved from problem to solution at line 2
+Line 3 (1 moves): 		String s1 = "Hello World", s2 = "Hello Worlds";
+4. Moved from problem to solution at line 3
+Line 4 (1 moves): 		if (s1.equals(s2))
+5. Moved from problem to solution at line 4
+Line 5 (1 moves): 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" );
+12. Moved from problem to solution at line 5
+Line 6 (1 moves): 		else if (s1 == s2) // This line should be written before Line X
+7. Moved from problem to solution at line 6
+Line 7 (1 moves): 			System.out.println(s1 + " and " +s2 + " are same object");
+8. Moved from problem to solution at line 7
+Line 8 (1 moves): 		else if (s1.compareTo(s2) == 0) // This is Line X
+9. Moved from problem to solution at line 8
+Line 9 (1 moves): 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: compareTo method)" );
+10. Moved from problem to solution at line 9
+Line 10 (1 moves): 		else
+13. Moved from problem to solution at line 10
+Line 11 (1 moves): 			System.out.println("Neither same content nor same object");
+14. Moved from problem to solution at line 11
+Line 12 (1 moves): 	}}
+1. Moved from problem to solution at line 0
+Line 5 (16) (2 moves): 			System.out.println(s1 + " and " +s2 + " have same contents (Usage: equals method)" )
+6. Moved from problem to solution at line 5
+11. Moved from solution to trash at line 0
+Your Grade:
+You took 14 steps to solve a Parsons puzzle containing 13 lines of code.
+Next Problem clicked @ 1493681639735
+Time spent on this problem: 199 seconds
+<HR>

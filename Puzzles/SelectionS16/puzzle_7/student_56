@@ -1,0 +1,94 @@
+Problem No. 7
+Using Template # 2002
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+} // End of if-clause
+bodyTemp = stdin.nextShort();
+{
+} // End of else-clause
+if( bodyTemp  >  37 )
+short bodyTemp;
+else:
+else
+System.out.print( "Person is normal");
+System.out.print( "Person has fever");
+System.out.print( "Person has fever")
+System.out.print( "Enter the body temperature in celsius");
+{
+Using Template # 2002
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare bodyTemp
+// Read bodyTemp
+// Compute and print whether the person has fever (over 37) or is normal
+}  // End of method main
+} // End of class Problem
+Using Template # 2002
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Moved from problem to solution at line 9: short bodyTemp;
+Moved from problem to solution at line 11: bodyTemp = stdin.nextShort();
+Moved from problem to solution at line 11: System.out.print( "Enter the body temperature in celsius");
+Moved from problem to solution at line 14: if( bodyTemp  >  37 )
+Moved from problem to solution at line 15: System.out.print( "Person has fever");
+Moved from problem to solution at line 16: else
+Moved from problem to solution at line 17: System.out.print( "Person is normal");
+Moved from problem to trash at line 0: } // End of if-clause
+Moved from problem to trash at line 1: } // End of else-clause
+Moved from problem to trash at line 2: {
+Moved from problem to trash at line 2: else:
+Moved from problem to trash at line 2: System.out.print( "Person has fever")
+Moved from problem to trash at line 4: {
+Submit Parsons Solution clicked @ 1461114190927
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare bodyTemp
+Line 11 (1 moves): short bodyTemp;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Read bodyTemp
+Line 14 (1 moves): System.out.print( "Enter the body temperature in celsius");
+Moved from problem to solution at line 11
+Line 15 (1 moves): bodyTemp = stdin.nextShort();
+Moved from problem to solution at line 11
+Line 17 (0 moves): // Compute and print whether the person has fever (over 37) or is normal
+Line 18 (1 moves): if( bodyTemp  >  37 )
+Moved from problem to solution at line 14
+Line 20 (1 moves): System.out.print( "Person has fever");
+Moved from problem to solution at line 15
+Line 22 (1 moves): else
+Moved from problem to solution at line 16
+Line 24 (1 moves): System.out.print( "Person is normal");
+Moved from problem to solution at line 17
+Line 26 (0 moves): }  // End of method main
+Line 28 (0 moves): } // End of class Problem
+Line 21 (1 moves): } // End of if-clause
+Moved from problem to trash at line 0
+Line 25 (1 moves): } // End of else-clause
+Moved from problem to trash at line 1
+Line 19 (1 moves): {
+Moved from problem to trash at line 2
+LINE 22 (1 moves): else:
+Moved from problem to trash at line 2
+LINE 20 (1 moves): System.out.print( "Person has fever")
+Moved from problem to trash at line 2
+Line 23 (1 moves): {
+Moved from problem to trash at line 4
+Your Grade:
+You took 13 steps to solve a Parsons puzzle containing 13 lines of code.
+Next Problem clicked @ 1461114193510
+Time spent on this problem: 61 seconds
+<HR>

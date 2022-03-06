@@ -1,0 +1,112 @@
+Problem No. 5
+Using Template # 100
+The Problem:
+public static void main(String[] args) {
+k++;}
+}}
+Scanner input = new Scanner(System.in);
+int n2 = input.nextInt();                   // This is line Y
+public class GreatestCommonDivisor {
+import java.util.Scanner;
+while (k <= n1 && k <= n2 {
+while (k <= n1 && k <= n2) {
+System.out.print("Enter first integer: "); //This line should immediately be placed before Line X
+if (n1 % k == 0 && n2 % k == 0)
+if (n1 / k == 0 && n2 % k == 0)
+k = 2; gcd = 1;
+System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+gcd = k;
+System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+int gcd, k;
+int n1 = input.nextInt();                  // This is line X
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 18 lines.
+Re-assemble them with 19 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: }}
+2. Moved from problem to solution at line 1: import java.util.Scanner;
+3. Moved from problem to solution at line 2: public class GreatestCommonDivisor {
+4. Moved from problem to solution at line 3:   public static void main(String[] args) {
+5. Moved from problem to solution at line 4:     Scanner input = new Scanner(System.in);
+6. Moved from problem to solution at line 5:     System.out.print("Enter first integer: "); //This line should immediately be placed before Line X
+7. Moved from problem to solution at line 6:     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+8. Moved from problem to solution at line 6:     int n1 = input.nextInt();                  // This is line X
+9. Moved from problem to solution at line 8:     int n2 = input.nextInt();                   // This is line Y
+10. Moved from problem to solution at line 9:     int gcd, k;
+11. Moved from problem to trash at line 0:         gcd = k;
+12. Moved from problem to solution at line 10:       if (n1 / k == 0 && n2 % k == 0)
+13. Moved from problem to solution at line 10:     k = 2; gcd = 1;
+14. Moved from problem to solution at line 12:     while (k <= n1 && k <= n2) {
+15. Moved from problem to trash at line 1:     while (k <= n1 && k <= n2 {
+16. Moved from solution to trash at line 2:       if (n1 / k == 0 && n2 % k == 0)
+17. Moved from problem to solution at line 11:       if (n1 % k == 0 && n2 % k == 0)
+18. Moved from problem to solution at line 13:     System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+19. Moved from problem to solution at line 14:       k++;}
+Submit Parsons Solution clicked @ 1493332324112
+This line is not in its correct location:       if (n1 % k == 0 && n2 % k == 0)
+Move this line in its place:     while (k <= n1 && k <= n2) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+20. Reordered from line 12 to 11:     while (k <= n1 && k <= n2) {
+Submit Parsons Solution clicked @ 1493332337653
+This line is not in its correct location:     System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+Insert this line in its place:         gcd = k;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+21. Moved from trash to solution at line 13:         gcd = k;
+Submit Parsons Solution clicked @ 1493332349102
+This line is not in its correct location:     System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+Move this line in its place:       k++;}
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+22. Reordered from line 15 to 14:       k++;}
+Submit Parsons Solution clicked @ 1493332354425
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+2. Moved from problem to solution at line 1
+Line 2 (1 moves): public class GreatestCommonDivisor {
+3. Moved from problem to solution at line 2
+Line 3 (1 moves):   public static void main(String[] args) {
+4. Moved from problem to solution at line 3
+Line 4 (1 moves):     Scanner input = new Scanner(System.in);
+5. Moved from problem to solution at line 4
+Line 5 (1 moves):     System.out.print("Enter first integer: "); //This line should immediately be placed before Line X
+6. Moved from problem to solution at line 5
+Line 6 (1 moves):     int n1 = input.nextInt();                  // This is line X
+8. Moved from problem to solution at line 6
+Line 7 (1 moves):     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+7. Moved from problem to solution at line 6
+Line 8 (1 moves):     int n2 = input.nextInt();                   // This is line Y
+9. Moved from problem to solution at line 8
+Line 9 (1 moves):     int gcd, k;
+10. Moved from problem to solution at line 9
+Line 10 (1 moves):     k = 2; gcd = 1;
+13. Moved from problem to solution at line 10
+Line 11 (2 moves):     while (k <= n1 && k <= n2) {
+14. Moved from problem to solution at line 12
+20. Reordered from line 12 to 11
+Line 12 (1 moves):       if (n1 % k == 0 && n2 % k == 0)
+17. Moved from problem to solution at line 11
+Line 13 (2 moves):         gcd = k;
+11. Moved from problem to trash at line 0
+21. Moved from trash to solution at line 13
+Line 14 (2 moves):       k++;}
+19. Moved from problem to solution at line 14
+22. Reordered from line 15 to 14
+Line 15 (1 moves):     System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+18. Moved from problem to solution at line 13
+Line 16 (1 moves): }}
+1. Moved from problem to solution at line 0
+Line 11 (5) (1 moves):     while (k <= n1 && k <= n2 {
+15. Moved from problem to trash at line 1
+Line 12 (36) (2 moves):       if (n1 / k == 0 && n2 % k == 0)
+12. Moved from problem to solution at line 10
+16. Moved from solution to trash at line 2
+Your Grade:
+You took 22 steps to solve a Parsons puzzle containing 18 lines of code.
+Next Problem clicked @ 1493332380125
+Time spent on this problem: 202 seconds
+<HR>

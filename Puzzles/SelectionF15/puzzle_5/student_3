@@ -1,0 +1,987 @@
+Problem No. 5
+Using Template # 2101
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+System.out.print( "Third quadrant");
+System.out.print( "Enter the location in degrees (1-360)");
+if( degrees  <=  270 )
+{
+System.out.print( "Second quadrant");
+{
+short degrees;
+short degrees
+{
+} // End of if-clause
+System.out.print( "First quadrant");
+else
+if( degrees  <=  90 )
+} // End of else-clause
+} // End of if-clause
+degrees = stdin.nextShort();
+{
+else
+if( degrees  >=  180 )
+if( degrees  <=  180 )
+System.out.print( "Fourth quadrant");
+{
+{
+} // End of if-clause
+} // End of else-clause
+} // End of else-clause
+else
+Using Template # 2101
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare degrees
+// Read degrees
+// Compute and print the quadrant based on degrees
+}  // End of method main
+} // End of class Problem
+Using Template # 2101
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to solution at line 9: short degrees;
+Moved from problem to solution at line 10: short degrees
+Moved from problem to solution at line 12: degrees = stdin.nextShort();
+Moved from problem to solution at line 14: if( degrees  <=  90 )
+Moved from problem to solution at line 15: {
+Moved from problem to solution at line 16: System.out.print( "First quadrant");
+Moved from problem to solution at line 17: } // End of if-clause
+Moved from problem to solution at line 18: if( degrees  <=  180 )
+Moved from problem to solution at line 19: System.out.print( "Second quadrant");
+Moved from problem to solution at line 20: } // End of else-clause
+Moved from problem to solution at line 20: } // End of if-clause
+Moved from problem to solution at line 22: if( degrees  >=  180 )
+Moved from problem to solution at line 23: System.out.print( "Third quadrant");
+Moved from problem to solution at line 24: } // End of if-clause
+Moved from problem to solution at line 24: if( degrees  <=  270 )
+Reordered from line 24 to 26: if( degrees  <=  270 )
+Reordered from line 26 to 25: if( degrees  <=  270 )
+Moved from problem to solution at line 26: System.out.print( "Fourth quadrant");
+Moved from problem to solution at line 12: System.out.print( "Enter the location in degrees (1-360)");
+Moved from problem to solution at line 28: } // End of else-clause
+Moved from problem to solution at line 27: else
+Moved from problem to solution at line 28: {
+Moved from problem to solution at line 23: else
+Moved from problem to solution at line 25: {
+Reordered from line 25 to 24: {
+Moved from problem to solution at line 19: else
+Moved from problem to solution at line 20: {
+Moved from problem to solution at line 22: {
+Moved from problem to solution at line 29: {
+Moved from problem to solution at line 32: } // End of else-clause
+Submit Parsons Solution clicked @ 1447803749236
+Every statement must end with a semi-colon ;
+Delete this line: short degrees
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803761940
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 24 to 37: } // End of else-clause
+Reordered from line 37 to 36: } // End of else-clause
+Reordered from line 30 to 37: } // End of else-clause
+Reordered from line 37 to 36: } // End of else-clause
+Submit Parsons Solution clicked @ 1447803815314
+The if clause should be executed when degrees is less than or equal to 180.
+Delete this line: if( degrees  >=  180 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 36 to 30: } // End of else-clause
+Submit Parsons Solution clicked @ 1447803904182
+The if clause should be executed when degrees is less than or equal to 180.
+Delete this line: if( degrees  >=  180 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 35 to 24: } // End of else-clause
+Submit Parsons Solution clicked @ 1447803910503
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803922589
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447803936460
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804021740
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804021865
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804022068
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804022318
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 24 to 36: {
+Reordered from line 36 to 30: {
+Reordered from line 31 to 29: else
+Reordered from line 31 to 30: {
+Submit Parsons Solution clicked @ 1447804077818
+The if clause should be executed when degrees is less than or equal to 180.
+Delete this line: if( degrees  >=  180 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804093095
+The if clause should be executed when degrees is less than or equal to 180.
+Delete this line: if( degrees  >=  180 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804097099
+The if clause should be executed when degrees is less than or equal to 180.
+Delete this line: if( degrees  >=  180 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804097208
+The if clause should be executed when degrees is less than or equal to 180.
+Delete this line: if( degrees  >=  180 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804097429
+The if clause should be executed when degrees is less than or equal to 180.
+Delete this line: if( degrees  >=  180 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804097617
+The if clause should be executed when degrees is less than or equal to 180.
+Delete this line: if( degrees  >=  180 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804097867
+The if clause should be executed when degrees is less than or equal to 180.
+Delete this line: if( degrees  >=  180 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804100121
+The if clause should be executed when degrees is less than or equal to 180.
+Delete this line: if( degrees  >=  180 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804100246
+The if clause should be executed when degrees is less than or equal to 180.
+Delete this line: if( degrees  >=  180 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804100480
+The if clause should be executed when degrees is less than or equal to 180.
+Delete this line: if( degrees  >=  180 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804100670
+The if clause should be executed when degrees is less than or equal to 180.
+Delete this line: if( degrees  >=  180 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804100858
+The if clause should be executed when degrees is less than or equal to 180.
+Delete this line: if( degrees  >=  180 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804231678
+The if clause should be executed when degrees is less than or equal to 180.
+Delete this line: if( degrees  >=  180 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 24 to 25: {
+Submit Parsons Solution clicked @ 1447804237497
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 24 to 23: System.out.print( "Third quadrant");
+Submit Parsons Solution clicked @ 1447804242408
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804243268
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804243377
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804243549
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804243737
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804243924
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804244112
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804244284
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804244471
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804244660
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804244832
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804245222
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804245380
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804245567
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804245756
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804245928
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804246109
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804246281
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804246500
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804246690
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804246885
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804247073
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804247245
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804247448
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804247620
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804247902
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 23 to 25: System.out.print( "Third quadrant");
+Submit Parsons Solution clicked @ 1447804250948
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804251089
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804251260
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804251464
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804251667
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804251934
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 24 to 23: {
+Submit Parsons Solution clicked @ 1447804255681
+This line is not in its correct location: {
+Move this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804255822
+This line is not in its correct location: {
+Move this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804256025
+This line is not in its correct location: {
+Move this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804256228
+This line is not in its correct location: {
+Move this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804256434
+This line is not in its correct location: {
+Move this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804256653
+This line is not in its correct location: {
+Move this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804256903
+This line is not in its correct location: {
+Move this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 23 to 24: {
+Submit Parsons Solution clicked @ 1447804259443
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804259553
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804259725
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804259928
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804260119
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804260385
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 24 to 26: {
+Submit Parsons Solution clicked @ 1447804264180
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804264320
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804264539
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804264759
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804264979
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804265214
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804265449
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804265652
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804265919
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804266250
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804266360
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804266547
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804266750
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804266938
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804267141
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804267344
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804267563
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804267778
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804268001
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804268204
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804268471
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 24 to 25: System.out.print( "Third quadrant");
+Submit Parsons Solution clicked @ 1447804271085
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804362471
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804362596
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804362789
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804363008
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804363236
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804363408
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804363596
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804363882
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 25 to 24: System.out.print( "Third quadrant");
+Submit Parsons Solution clicked @ 1447804366953
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 24 to 25: System.out.print( "Third quadrant");
+Submit Parsons Solution clicked @ 1447804369583
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 24 to 26: } // End of if-clause
+Submit Parsons Solution clicked @ 1447804372393
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804384947
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804386136
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804386245
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804386449
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804386636
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804386809
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804386980
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804387192
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804387364
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804387630
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 15 to 17: {
+Reordered from line 17 to 21: {
+Reordered from line 21 to 27: {
+Submit Parsons Solution clicked @ 1447804394857
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804394990
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804395153
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804395357
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804395607
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804396426
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804396597
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804496297
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 19: } // End of if-clause
+Submit Parsons Solution clicked @ 1447804499358
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: System.out.print( "Second quadrant");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 19 to 23: } // End of if-clause
+Submit Parsons Solution clicked @ 1447804502533
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804543703
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804543797
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804543985
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804544219
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804544453
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804544625
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447804544891
+This line is not in its correct location: System.out.print( "Third quadrant");
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 22 to 35: System.out.print( "Third quadrant");
+Submit Parsons Solution clicked @ 1447804549111
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 22 to 35: } // End of if-clause
+Submit Parsons Solution clicked @ 1447804553024
+This line is not in its correct location: {
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 22 to 35: {
+Submit Parsons Solution clicked @ 1447804556392
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 23 to 22: } // End of else-clause
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Reordered from line 22 to 35: } // End of else-clause
+Explain Parsons Solution clicked @ 1447804560944
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare degrees
+Line 11 (1 moves): short degrees;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Read degrees
+Line 14 (1 moves): System.out.print( "Enter the location in degrees (1-360)");
+Moved from problem to solution at line 12
+Line 15 (1 moves): degrees = stdin.nextShort();
+Moved from problem to solution at line 12
+Line 17 (0 moves): // Compute and print the quadrant based on degrees
+Line 18 (1 moves): if( degrees  <=  90 )
+Moved from problem to solution at line 14
+Line 20 (1 moves): System.out.print( "First quadrant");
+Moved from problem to solution at line 16
+Line 22 (1 moves): else
+Moved from problem to solution at line 19
+Line 23 (1 moves): {
+Moved from problem to solution at line 20
+Line 24 (1 moves): if( degrees  <=  180 )
+Moved from problem to solution at line 18
+Line 25 (1 moves): {
+Moved from problem to solution at line 22
+Line 26 (1 moves): System.out.print( "Second quadrant");
+Moved from problem to solution at line 19
+Line 27 (1 moves): } // End of if-clause
+Moved from problem to solution at line 20
+Line 33 (2 moves): } // End of if-clause
+Moved from problem to solution at line 24
+Reordered from line 24 to 26
+Line 19 (4 moves): {
+Moved from problem to solution at line 15
+Reordered from line 15 to 17
+Reordered from line 17 to 21
+Reordered from line 21 to 27
+Line 34 (2 moves): else
+Moved from problem to solution at line 27
+Reordered from line 31 to 29
+Line 35 (5 moves): {
+Moved from problem to solution at line 25
+Reordered from line 25 to 24
+Reordered from line 24 to 36
+Reordered from line 36 to 30
+Reordered from line 31 to 30
+Line 30 (3 moves): if( degrees  <=  270 )
+Moved from problem to solution at line 24
+Reordered from line 24 to 26
+Reordered from line 26 to 25
+Line 31 (1 moves): {
+Moved from problem to solution at line 28
+Line 36 (1 moves): System.out.print( "Fourth quadrant");
+Moved from problem to solution at line 26
+Line 37 (3 moves): } // End of else-clause
+Moved from problem to solution at line 20
+Reordered from line 24 to 37
+Reordered from line 37 to 36
+Line 40 (0 moves): }  // End of method main
+Line 42 (0 moves): } // End of class Problem
+Line 32 (7 moves): System.out.print( "Third quadrant");
+Moved from problem to solution at line 23
+Reordered from line 24 to 23
+Reordered from line 23 to 25
+Reordered from line 24 to 25
+Reordered from line 25 to 24
+Reordered from line 24 to 25
+Reordered from line 22 to 35
+Line 33 (4 moves): } // End of if-clause
+Moved from problem to solution at line 17
+Reordered from line 16 to 19
+Reordered from line 19 to 23
+Reordered from line 22 to 35
+Line 25 (6 moves): {
+Moved from problem to solution at line 29
+Reordered from line 24 to 25
+Reordered from line 24 to 23
+Reordered from line 23 to 24
+Reordered from line 24 to 26
+Reordered from line 22 to 35
+Line 39 (6 moves): } // End of else-clause
+Moved from problem to solution at line 32
+Reordered from line 30 to 37
+Reordered from line 37 to 36
+Reordered from line 36 to 30
+Reordered from line 23 to 22
+Reordered from line 22 to 35
+Since you quit, this problem is being marked as not attempted
+Your Grade:
+You took 55 steps before bailing out of a Parsons puzzle containing 27 lines of code.
+The correct answer is as follows:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare degrees
+short degrees;
+// Read degrees
+System.out.print( "Enter the location in degrees (1-360)");
+degrees = stdin.nextShort();
+// Compute and print the quadrant based on degrees
+if( degrees  <=  90 )
+{
+System.out.print( "First quadrant");
+} // End of if-clause
+else
+{
+if( degrees  <=  180 )
+{
+System.out.print( "Second quadrant");
+} // End of if-clause
+else
+{
+if( degrees  <=  270 )
+{
+System.out.print( "Third quadrant");
+} // End of if-clause
+else
+{
+System.out.print( "Fourth quadrant");
+} // End of else-clause
+} // End of else-clause
+} // End of else-clause
+}  // End of method main
+} // End of class Problem
+Click on 'Next Problem' button to go to the next problem
+Next Problem clicked @ 1447804563350
+Time spent on this problem: 998 seconds
+<HR>

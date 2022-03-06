@@ -1,0 +1,234 @@
+Problem No. 1
+Using Template # 100
+The Problem:
+low= 0; high = s.length() - 1; isPalindrome = true;
+low= 1; high = s.length() - 1; isPalindrome = true;
+System.out.println(s + " is not a palindrome");
+System.out.println(s + " is a palindrome");
+}}
+System.out.print("Enter a string: "); //This line should immediately be placed before Line X
+int low, high, isPalindrome;          // This is line Y
+break;}
+import java.util.Scanner;
+Scanner input = new Scanner(System.in); //This line should  be placed before Line Y
+isPalindrome = false;
+while (low < high {
+while (low < high) {
+else
+public static void main(String[] args) {
+if (s.charAt(low) != s.charAt(high)) {
+public class Palindrome {
+String s = input.nextLine();          // This is line X
+if (isPalindrome)
+}
+low++; high--;
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 21 lines.
+Re-assemble them with 23 (or fewer) moves for full credit
+Using Template # 100
+The Problem:
+low= 0; high = s.length() - 1; isPalindrome = true;
+low= 1; high = s.length() - 1; isPalindrome = true;
+System.out.println(s + " is not a palindrome");
+System.out.println(s + " is a palindrome");
+}}
+System.out.print("Enter a string: "); //This line should immediately be placed before Line X
+int low, high, isPalindrome;          // This is line Y
+break;}
+import java.util.Scanner;
+Scanner input = new Scanner(System.in); //This line should  be placed before Line Y
+isPalindrome = false;
+while (low < high {
+while (low < high) {
+else
+public static void main(String[] args) {
+if (s.charAt(low) != s.charAt(high)) {
+public class Palindrome {
+String s = input.nextLine();          // This is line X
+if (isPalindrome)
+}
+low++; high--;
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+1. Moved from problem to solution at line 0:     }}
+2. Moved from problem to solution at line 1:       System.out.println(s + " is a palindrome");
+3. Moved from problem to solution at line 2:       System.out.println(s + " is not a palindrome");
+4. Moved from problem to solution at line 2:     else
+5. Moved from problem to solution at line 1: import java.util.Scanner;
+6. Moved from problem to solution at line 2: public class Palindrome {
+7. Moved from problem to solution at line 3:       if (s.charAt(low) != s.charAt(high)) {
+8. Moved from problem to solution at line 3:   public static void main(String[] args) {
+9. Moved from problem to solution at line 4:     System.out.print("Enter a string: "); //This line should immediately be placed before Line X
+10. Moved from problem to solution at line 5:     Scanner input = new Scanner(System.in); //This line should  be placed before Line Y
+11. Moved from problem to solution at line 6:     String s = input.nextLine();          // This is line X
+12. Moved from problem to solution at line 8:     if (isPalindrome)
+13. Moved from problem to solution at line 8:     int low, high, isPalindrome;          // This is line Y
+14. Reordered from line 9 to 7:     if (isPalindrome)
+15. Moved from problem to solution at line 7:     low= 0; high = s.length() - 1; isPalindrome = true;
+16. Moved from problem to solution at line 8:     low= 1; high = s.length() - 1; isPalindrome = true;
+17. Moved from problem to solution at line 9:       low++; high--;
+18. Moved from problem to trash at line 0:     while (low < high {
+19. Moved from problem to trash at line 1:     while (low < high) {
+20. Moved from problem to solution at line 15:         isPalindrome = false;
+21. Reordered from line 12 to 7:     int low, high, isPalindrome;          // This is line Y
+22. Moved from problem to solution at line 14:         break;}
+23. Moved from problem to solution at line 15:       }
+Submit Parsons Solution clicked @ 1489346310020
+This line is not in its correct location:     System.out.print("Enter a string: "); //This line should immediately be placed before Line X
+Move this line in its place:     Scanner input = new Scanner(System.in); //This line should  be placed before Line Y
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+24. Reordered from line 4 to 5:     System.out.print("Enter a string: "); //This line should immediately be placed before Line X
+Submit Parsons Solution clicked @ 1489346332456
+Sorry, that line has a bug
+Delete this line:     low= 1; high = s.length() - 1; isPalindrome = true;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+25. Moved from solution to trash at line 1:     low= 1; high = s.length() - 1; isPalindrome = true;
+Submit Parsons Solution clicked @ 1489346381184
+This line is not in its correct location:       low++; high--;
+Insert this line in its place:     while (low < high) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+26. Moved from trash to solution at line 9:     while (low < high {
+Submit Parsons Solution clicked @ 1489346409397
+Sorry, that line has a bug
+Delete this line:     while (low < high {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+27. Moved from solution to problem at line 21:     while (low < high {
+28. Moved from problem to trash at line 2:     while (low < high {
+Submit Parsons Solution clicked @ 1489346421653
+This line is not in its correct location:       low++; high--;
+Insert this line in its place:     while (low < high) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+29. Moved from solution to trash at line 3:       low++; high--;
+Submit Parsons Solution clicked @ 1489346456350
+This line is not in its correct location:     if (isPalindrome)
+Insert this line in its place:     while (low < high) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+30. Moved from trash to solution at line 9:     while (low < high) {
+Submit Parsons Solution clicked @ 1489346474135
+This line is not in its correct location:     if (isPalindrome)
+Move this line in its place:       if (s.charAt(low) != s.charAt(high)) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+31. Reordered from line 11 to 10:       if (s.charAt(low) != s.charAt(high)) {
+Submit Parsons Solution clicked @ 1489346481343
+This line is not in its correct location:     if (isPalindrome)
+Move this line in its place:         isPalindrome = false;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+32. Reordered from line 16 to 10:         isPalindrome = false;
+Submit Parsons Solution clicked @ 1489346496202
+This line is not in its correct location:         isPalindrome = false;
+Move this line in its place:       if (s.charAt(low) != s.charAt(high)) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+33. Reordered from line 11 to 10:       if (s.charAt(low) != s.charAt(high)) {
+Submit Parsons Solution clicked @ 1489346503371
+This line is not in its correct location:     if (isPalindrome)
+Move this line in its place:         break;}
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+34. Reordered from line 12 to 14:     if (isPalindrome)
+Submit Parsons Solution clicked @ 1489346510431
+This line is not in its correct location:       System.out.println(s + " is a palindrome");
+Move this line in its place:         break;}
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+35. Reordered from line 12 to 13:       System.out.println(s + " is a palindrome");
+Submit Parsons Solution clicked @ 1489346515842
+This line is not in its correct location:       System.out.println(s + " is a palindrome");
+Insert this line in its place:       low++; high--;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+36. Moved from trash to solution at line 12:       low++; high--;
+37. Reordered from line 12 to 13:       low++; high--;
+Submit Parsons Solution clicked @ 1489346531068
+This line is not in its correct location:       System.out.println(s + " is a palindrome");
+Move this line in its place:       }
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+38. Reordered from line 16 to 14:       }
+Submit Parsons Solution clicked @ 1489346538588
+This line is not in its correct location:       System.out.println(s + " is a palindrome");
+Move this line in its place:     if (isPalindrome)
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+39. Reordered from line 16 to 15:     if (isPalindrome)
+Submit Parsons Solution clicked @ 1489346560649
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+5. Moved from problem to solution at line 1
+Line 2 (1 moves): public class Palindrome {
+6. Moved from problem to solution at line 2
+Line 3 (1 moves):   public static void main(String[] args) {
+8. Moved from problem to solution at line 3
+Line 4 (1 moves):     Scanner input = new Scanner(System.in); //This line should  be placed before Line Y
+10. Moved from problem to solution at line 5
+Line 5 (2 moves):     System.out.print("Enter a string: "); //This line should immediately be placed before Line X
+9. Moved from problem to solution at line 4
+24. Reordered from line 4 to 5
+Line 6 (1 moves):     String s = input.nextLine();          // This is line X
+11. Moved from problem to solution at line 6
+Line 7 (2 moves):     int low, high, isPalindrome;          // This is line Y
+13. Moved from problem to solution at line 8
+21. Reordered from line 12 to 7
+Line 8 (1 moves):     low= 0; high = s.length() - 1; isPalindrome = true;
+15. Moved from problem to solution at line 7
+Line 9 (2 moves):     while (low < high) {
+19. Moved from problem to trash at line 1
+30. Moved from trash to solution at line 9
+Line 10 (3 moves):       if (s.charAt(low) != s.charAt(high)) {
+7. Moved from problem to solution at line 3
+31. Reordered from line 11 to 10
+33. Reordered from line 11 to 10
+Line 11 (2 moves):         isPalindrome = false;
+20. Moved from problem to solution at line 15
+32. Reordered from line 16 to 10
+Line 12 (1 moves):         break;}
+22. Moved from problem to solution at line 14
+Line 13 (4 moves):       low++; high--;
+17. Moved from problem to solution at line 9
+29. Moved from solution to trash at line 3
+36. Moved from trash to solution at line 12
+37. Reordered from line 12 to 13
+Line 14 (2 moves):       }
+23. Moved from problem to solution at line 15
+38. Reordered from line 16 to 14
+Line 15 (4 moves):     if (isPalindrome)
+12. Moved from problem to solution at line 8
+14. Reordered from line 9 to 7
+34. Reordered from line 12 to 14
+39. Reordered from line 16 to 15
+Line 16 (2 moves):       System.out.println(s + " is a palindrome");
+2. Moved from problem to solution at line 1
+35. Reordered from line 12 to 13
+Line 17 (1 moves):     else
+4. Moved from problem to solution at line 2
+Line 18 (1 moves):       System.out.println(s + " is not a palindrome");
+3. Moved from problem to solution at line 2
+Line 19 (1 moves):     }}
+1. Moved from problem to solution at line 0
+Line 8 (7) (2 moves):     low= 1; high = s.length() - 1; isPalindrome = true;
+16. Moved from problem to solution at line 8
+25. Moved from solution to trash at line 1
+Line 9 (5) (4 moves):     while (low < high {
+18. Moved from problem to trash at line 0
+26. Moved from trash to solution at line 9
+27. Moved from solution to problem at line 21
+28. Moved from problem to trash at line 2
+Your Grade:
+You took 39 steps to solve a Parsons puzzle containing 21 lines of code.
+Next Problem clicked @ 1489346574670
+Time spent on this problem: 680 seconds
+<HR>

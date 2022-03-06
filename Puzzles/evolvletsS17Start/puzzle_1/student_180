@@ -1,0 +1,373 @@
+Problem No. 1
+Using Template # 100
+The Problem:
+Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+System.out.println("snake");
+case 5:
+break;
+System.out.println("pig");
+break;
+System.out.println("sheep");
+System.out.println("tiger");
+System.out.println("dragon");
+public static void main(String[] args) {
+break;
+break;
+int year = input.nextInt();
+case 11:
+case 7:
+case 8:
+System.out.println("horse");
+break;
+System.out.println("ox");
+Public class ChineseZodiac {
+public class ChineseZodiac {
+System.out.println("monkey");
+break;
+break;
+case 1:
+case 6:
+case 4:
+case 3:
+System.out.println("dog");
+break;
+break;}
+System.out.print("Enter a year: "); // This is line X
+case 0:
+switch (year % 12) {       //Please put case 0 first, then case 1 and then case 2 and so on
+break;
+import java.util.Scanner;
+System.out.println("rooster");
+break;
+System.out.println("rabbit");
+}}
+case 10:
+System.out.println("rat");
+break;
+case 9:
+case 2:
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 45 lines.
+Re-assemble them with 49 (or fewer) moves for full credit
+Using Template # 100
+The Problem:
+Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+System.out.println("snake");
+case 5:
+break;
+System.out.println("pig");
+break;
+System.out.println("sheep");
+System.out.println("tiger");
+System.out.println("dragon");
+public static void main(String[] args) {
+break;
+break;
+int year = input.nextInt();
+case 11:
+case 7:
+case 8:
+System.out.println("horse");
+break;
+System.out.println("ox");
+Public class ChineseZodiac {
+public class ChineseZodiac {
+System.out.println("monkey");
+break;
+break;
+case 1:
+case 6:
+case 4:
+case 3:
+System.out.println("dog");
+break;
+break;}
+System.out.print("Enter a year: "); // This is line X
+case 0:
+switch (year % 12) {       //Please put case 0 first, then case 1 and then case 2 and so on
+break;
+import java.util.Scanner;
+System.out.println("rooster");
+break;
+System.out.println("rabbit");
+}}
+case 10:
+System.out.println("rat");
+break;
+case 9:
+case 2:
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+1. Moved from problem to solution at line 0: import java.util.Scanner;
+2. Moved from problem to solution at line 1: public class ChineseZodiac {
+3. Reordered from line 2 to 1: import java.util.Scanner;
+4. Moved from problem to trash at line 0: Public class ChineseZodiac {
+5. Moved from problem to solution at line 2:   public static void main(String[] args) {
+6. Reordered from line 2 to 3:   public static void main(String[] args) {
+7. Moved from problem to solution at line 3:     Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+8. Reordered from line 3 to 4:     Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+9. Moved from problem to solution at line 4:     System.out.print("Enter a year: "); // This is line X
+10. Reordered from line 4 to 5:     System.out.print("Enter a year: "); // This is line X
+11. Moved from problem to solution at line 5:     int year = input.nextInt();
+12. Reordered from line 5 to 6:     int year = input.nextInt();
+13. Moved from problem to solution at line 6:       case 0:
+14. Reordered from line 6 to 7:       case 0:
+15. Moved from problem to solution at line 7:     	  System.out.println("monkey");
+16. Reordered from line 8 to 6:       case 0:
+17. Reordered from line 6 to 7:       case 0:
+18. Moved from problem to solution at line 8:     	  break;
+19. Reordered from line 8 to 9:     	  break;
+20. Moved from problem to solution at line 9:       case 1:
+21. Reordered from line 9 to 10:       case 1:
+22. Moved from problem to solution at line 10:     	  System.out.println("rooster");
+23. Moved from problem to solution at line 11:     switch (year % 12) {       //Please put case 0 first, then case 1 and then case 2 and so on
+24. Reordered from line 11 to 7:     switch (year % 12) {       //Please put case 0 first, then case 1 and then case 2 and so on
+25. Reordered from line 11 to 12:     	  System.out.println("rooster");
+26. Moved from problem to solution at line 12:     	  break;
+27. Reordered from line 12 to 13:     	  break;
+28. Moved from problem to solution at line 13:       case 2:
+29. Reordered from line 13 to 14:       case 2:
+30. Moved from problem to solution at line 14:     	  System.out.println("dog");
+31. Reordered from line 14 to 15:     	  System.out.println("dog");
+32. Moved from problem to solution at line 15:     	  break;
+33. Reordered from line 15 to 16:     	  break;
+34. Moved from problem to solution at line 16:       case 3:
+35. Reordered from line 16 to 17:       case 3:
+36. Moved from problem to solution at line 17:     	  System.out.println("pig");
+37. Reordered from line 17 to 18:     	  System.out.println("pig");
+38. Moved from problem to solution at line 18:     	  break;
+39. Reordered from line 18 to 19:     	  break;
+40. Moved from problem to solution at line 19:       case 4:
+41. Reordered from line 19 to 20:       case 4:
+42. Moved from problem to solution at line 20:     	  break;
+43. Reordered from line 20 to 21:     	  break;
+44. Moved from problem to solution at line 21:       case 5:
+45. Reordered from line 21 to 22:       case 5:
+46. Moved from problem to solution at line 21:     	  System.out.println("rat");
+47. Moved from problem to solution at line 23:     	  break;
+48. Reordered from line 23 to 24:     	  break;
+49. Moved from problem to solution at line 24:     	  System.out.println("ox");
+50. Moved from problem to solution at line 25:       case 10:
+51. Reordered from line 25 to 26:       case 10:
+52. Moved from problem to solution at line 26: }}
+53. Reordered from line 26 to 27: }}
+54. Moved from problem to solution at line 26:       case 6:
+55. Moved from problem to solution at line 27:     	  System.out.println("tiger");
+56. Moved from problem to solution at line 28:     	  break;
+57. Moved from problem to solution at line 29:       case 7:
+58. Moved from problem to solution at line 30:     	  System.out.println("rabbit");
+59. Moved from problem to solution at line 31:     	  break;
+60. Moved from problem to solution at line 31:       case 8:
+61. Reordered from line 31 to 32:       case 8:
+62. Moved from problem to solution at line 33:     	  System.out.println("dragon");
+63. Moved from problem to solution at line 33:     	  break;
+64. Reordered from line 33 to 34:     	  break;
+65. Moved from problem to solution at line 35:       case 9:
+66. Moved from problem to solution at line 36:     	  System.out.println("snake");
+67. Moved from problem to solution at line 37:     	  break;
+68. Moved from problem to solution at line 39:     	  System.out.println("horse");
+69. Moved from problem to solution at line 40:     	  break;}
+70. Moved from problem to trash at line 1:     	  System.out.println("sheep");
+71. Moved from problem to trash at line 2:       case 11:
+72. Moved from problem to trash at line 3:     	  break;
+Submit Parsons Solution clicked @ 1489467152069
+This line is not in its correct location:     	  break;}
+Move this line in its place:     	  break;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+73. Moved from solution to problem at line 45:     	  break;}
+74. Moved from trash to problem at line 45:     	  break;
+75. Moved from problem to trash at line 3:     	  break;}
+76. Moved from problem to solution at line 40:     	  break;
+Submit Parsons Solution clicked @ 1489467170429
+This line is not in its correct location: }}
+Insert this line in its place:       case 11:
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+77. Moved from solution to trash at line 4: }}
+Submit Parsons Solution clicked @ 1489467181184
+You have not yet identified all the lines. Insert:       case 11:
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+78. Moved from trash to solution at line 40:     	  break;}
+79. Moved from solution to trash at line 4:     	  break;
+Submit Parsons Solution clicked @ 1489467193762
+This line is not in its correct location:     	  break;}
+Move this line in its place:     	  break;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+80. Moved from solution to trash at line 5:     	  break;}
+81. Moved from trash to solution at line 39:     	  break;
+82. Reordered from line 39 to 40:     	  break;
+Submit Parsons Solution clicked @ 1489467216949
+You have not yet identified all the lines. Insert:       case 11:
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489467219502
+You have not yet identified all the lines. Insert:       case 11:
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+83. Moved from trash to solution at line 40: }}
+84. Reordered from line 40 to 41: }}
+Submit Parsons Solution clicked @ 1489467227445
+This line is not in its correct location: }}
+Insert this line in its place:       case 11:
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+85. Moved from solution to trash at line 4: }}
+86. Moved from trash to solution at line 40:       case 11:
+87. Reordered from line 40 to 41:       case 11:
+88. Moved from trash to solution at line 41: }}
+89. Reordered from line 41 to 42: }}
+90. Moved from trash to solution at line 42:     	  System.out.println("sheep");
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+91. Moved from trash to solution at line 43:     	  break;}
+Submit Parsons Solution clicked @ 1489467252837
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (2 moves): import java.util.Scanner;
+1. Moved from problem to solution at line 0
+3. Reordered from line 2 to 1
+Line 2 (1 moves): public class ChineseZodiac {
+2. Moved from problem to solution at line 1
+Line 3 (2 moves):   public static void main(String[] args) {
+5. Moved from problem to solution at line 2
+6. Reordered from line 2 to 3
+Line 4 (2 moves):     Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+7. Moved from problem to solution at line 3
+8. Reordered from line 3 to 4
+Line 5 (2 moves):     System.out.print("Enter a year: "); // This is line X
+9. Moved from problem to solution at line 4
+10. Reordered from line 4 to 5
+Line 6 (2 moves):     int year = input.nextInt();
+11. Moved from problem to solution at line 5
+12. Reordered from line 5 to 6
+Line 7 (2 moves):     switch (year % 12) {       //Please put case 0 first, then case 1 and then case 2 and so on
+23. Moved from problem to solution at line 11
+24. Reordered from line 11 to 7
+Line 8 (4 moves):       case 0:
+13. Moved from problem to solution at line 6
+14. Reordered from line 6 to 7
+16. Reordered from line 8 to 6
+17. Reordered from line 6 to 7
+Line 9 (1 moves):     	  System.out.println("monkey");
+15. Moved from problem to solution at line 7
+Line 10 (2 moves):     	  break;
+18. Moved from problem to solution at line 8
+19. Reordered from line 8 to 9
+Line 11 (2 moves):       case 1:
+20. Moved from problem to solution at line 9
+21. Reordered from line 9 to 10
+Line 12 (2 moves):     	  System.out.println("rooster");
+22. Moved from problem to solution at line 10
+25. Reordered from line 11 to 12
+Line 13 (2 moves):     	  break;
+26. Moved from problem to solution at line 12
+27. Reordered from line 12 to 13
+Line 14 (2 moves):       case 2:
+28. Moved from problem to solution at line 13
+29. Reordered from line 13 to 14
+Line 15 (2 moves):     	  System.out.println("dog");
+30. Moved from problem to solution at line 14
+31. Reordered from line 14 to 15
+Line 16 (2 moves):     	  break;
+32. Moved from problem to solution at line 15
+33. Reordered from line 15 to 16
+Line 17 (2 moves):       case 3:
+34. Moved from problem to solution at line 16
+35. Reordered from line 16 to 17
+Line 18 (2 moves):     	  System.out.println("pig");
+36. Moved from problem to solution at line 17
+37. Reordered from line 17 to 18
+Line 19 (2 moves):     	  break;
+38. Moved from problem to solution at line 18
+39. Reordered from line 18 to 19
+Line 20 (2 moves):       case 4:
+40. Moved from problem to solution at line 19
+41. Reordered from line 19 to 20
+Line 21 (1 moves):     	  System.out.println("rat");
+46. Moved from problem to solution at line 21
+Line 22 (2 moves):     	  break;
+42. Moved from problem to solution at line 20
+43. Reordered from line 20 to 21
+Line 23 (2 moves):       case 5:
+44. Moved from problem to solution at line 21
+45. Reordered from line 21 to 22
+Line 24 (1 moves):     	  System.out.println("ox");
+49. Moved from problem to solution at line 24
+Line 25 (2 moves):     	  break;
+47. Moved from problem to solution at line 23
+48. Reordered from line 23 to 24
+Line 26 (1 moves):       case 6:
+54. Moved from problem to solution at line 26
+Line 27 (1 moves):     	  System.out.println("tiger");
+55. Moved from problem to solution at line 27
+Line 28 (1 moves):     	  break;
+56. Moved from problem to solution at line 28
+Line 29 (1 moves):       case 7:
+57. Moved from problem to solution at line 29
+Line 30 (1 moves):     	  System.out.println("rabbit");
+58. Moved from problem to solution at line 30
+Line 31 (1 moves):     	  break;
+59. Moved from problem to solution at line 31
+Line 32 (2 moves):       case 8:
+60. Moved from problem to solution at line 31
+61. Reordered from line 31 to 32
+Line 33 (1 moves):     	  System.out.println("dragon");
+62. Moved from problem to solution at line 33
+Line 34 (2 moves):     	  break;
+63. Moved from problem to solution at line 33
+64. Reordered from line 33 to 34
+Line 35 (1 moves):       case 9:
+65. Moved from problem to solution at line 35
+Line 36 (1 moves):     	  System.out.println("snake");
+66. Moved from problem to solution at line 36
+Line 37 (1 moves):     	  break;
+67. Moved from problem to solution at line 37
+Line 38 (2 moves):       case 10:
+50. Moved from problem to solution at line 25
+51. Reordered from line 25 to 26
+Line 39 (1 moves):     	  System.out.println("horse");
+68. Moved from problem to solution at line 39
+Line 40 (6 moves):     	  break;
+72. Moved from problem to trash at line 3
+74. Moved from trash to problem at line 45
+76. Moved from problem to solution at line 40
+79. Moved from solution to trash at line 4
+81. Moved from trash to solution at line 39
+82. Reordered from line 39 to 40
+Line 41 (3 moves):       case 11:
+71. Moved from problem to trash at line 2
+86. Moved from trash to solution at line 40
+87. Reordered from line 40 to 41
+Line 42 (2 moves):     	  System.out.println("sheep");
+70. Moved from problem to trash at line 1
+90. Moved from trash to solution at line 42
+Line 43 (6 moves):     	  break;}
+69. Moved from problem to solution at line 40
+73. Moved from solution to problem at line 45
+75. Moved from problem to trash at line 3
+78. Moved from trash to solution at line 40
+80. Moved from solution to trash at line 5
+91. Moved from trash to solution at line 43
+Line 44 (8 moves): }}
+52. Moved from problem to solution at line 26
+53. Reordered from line 26 to 27
+77. Moved from solution to trash at line 4
+83. Moved from trash to solution at line 40
+84. Reordered from line 40 to 41
+85. Moved from solution to trash at line 4
+88. Moved from trash to solution at line 41
+89. Reordered from line 41 to 42
+Line 2 (33) (1 moves): Public class ChineseZodiac {
+4. Moved from problem to trash at line 0
+Your Grade:
+You took 91 steps to solve a Parsons puzzle containing 45 lines of code.
+Next Problem clicked @ 1489467264594
+Time spent on this problem: 1025 seconds
+<HR>

@@ -1,0 +1,72 @@
+Problem No. 1
+Using Template # 100
+The Problem:
+System.out.println("Celsius 35 is Fahrenheit degree ");
+public static void main(String[] args) {
+public Class CelciusToFah {
+public class CelciusToFah {
+System.out.println((9.0 / 5) * 35 + 32);
+}}
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 6 lines.
+Re-assemble them with 6 (or fewer) moves for full credit
+Using Template # 100
+The Problem:
+System.out.println("Celsius 35 is Fahrenheit degree ");
+public static void main(String[] args) {
+public Class CelciusToFah {
+public class CelciusToFah {
+System.out.println((9.0 / 5) * 35 + 32);
+}}
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+1. Moved from problem to solution at line 0: public class CelciusToFah {
+*  Outdented line 1: public class CelciusToFah {
+2. Moved from problem to solution at line 1:   public static void main(String[] args) {
+3. Reordered from line 1 to 2:   public static void main(String[] args) {
+4. Moved from problem to solution at line 2:     System.out.println("Celsius 35 is Fahrenheit degree ");
+5. Reordered from line 2 to 3:     System.out.println("Celsius 35 is Fahrenheit degree ");
+6. Moved from problem to solution at line 3:     System.out.println((9.0 / 5) * 35 + 32);
+7. Reordered from line 3 to 4:     System.out.println((9.0 / 5) * 35 + 32);
+8. Moved from problem to solution at line 4:  }}
+9. Reordered from line 4 to 5:  }}
+Submit Parsons Solution clicked @ 1489260444198
+Please clear all the lines from the left panel before submitting your answer.
+10. Moved from problem to solution at line 3: public Class CelciusToFah {
+Submit Parsons Solution clicked @ 1489260486937
+Sorry, that line has a bug
+Delete this line: public Class CelciusToFah {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+11. Moved from solution to trash at line 0: public Class CelciusToFah {
+Submit Parsons Solution clicked @ 1489260499268
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (2 moves): public class CelciusToFah {
+1. Moved from problem to solution at line 0
+*  Outdented line 1
+Line 2 (2 moves):   public static void main(String[] args) {
+2. Moved from problem to solution at line 1
+3. Reordered from line 1 to 2
+Line 3 (2 moves):     System.out.println("Celsius 35 is Fahrenheit degree ");
+4. Moved from problem to solution at line 2
+5. Reordered from line 2 to 3
+Line 4 (2 moves):     System.out.println((9.0 / 5) * 35 + 32);
+6. Moved from problem to solution at line 3
+7. Reordered from line 3 to 4
+Line 5 (2 moves):  }}
+8. Moved from problem to solution at line 4
+9. Reordered from line 4 to 5
+Line 1 (8) (2 moves): public Class CelciusToFah {
+10. Moved from problem to solution at line 3
+11. Moved from solution to trash at line 0
+Your Grade:
+You took 11 steps to solve a Parsons puzzle containing 6 lines of code.
+Next Problem clicked @ 1489260518427
+Time spent on this problem: 345 seconds
+<HR>

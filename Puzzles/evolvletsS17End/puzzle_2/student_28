@@ -1,0 +1,93 @@
+Problem No. 2
+Using Template # 100
+The Problem:
+public static void main(String[] args) {
+public static void Main(String[] args) {
+int gcd, k;
+}}
+while (k <= n1 && k <= n2) {
+k++;}
+System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+int n2 = input.nextInt();                   // This is line Y
+Scanner input = new Scanner(System.in);
+gcd = k;
+int n1 = input.nextInt();                  // This is line X
+System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+public class GreatestCommonDivisor {
+System.out.print("Enter first integer: "); //This line should immediately be placed before Line X
+if (n1 % k == 0 && n2 % k == 0)
+if (n1 / k == 0 && n2 % k == 0)
+k = 2; gcd = 1;
+import java.util.Scanner;
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 18 lines.
+Re-assemble them with 19 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: }}
+2. Moved from problem to trash at line 0:   public static void Main(String[] args) {
+3. Moved from problem to trash at line 1:       if (n1 / k == 0 && n2 % k == 0)
+4. Moved from problem to solution at line 1:     System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+5. Moved from problem to solution at line 1:       k++;}
+6. Moved from problem to solution at line 1:       if (n1 % k == 0 && n2 % k == 0)
+7. Moved from problem to solution at line 2:     k = 2; gcd = 1;
+8. Moved from solution to problem at line 15:     k = 2; gcd = 1;
+9. Moved from problem to solution at line 2:         gcd = k;
+10. Moved from problem to solution at line 1:     while (k <= n1 && k <= n2) {
+11. Moved from problem to solution at line 1:     k = 2; gcd = 1;
+12. Moved from problem to solution at line 1:     int gcd, k;
+13. Moved from problem to solution at line 1:     int n2 = input.nextInt();                   // This is line Y
+14. Moved from problem to solution at line 1:     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+15. Moved from problem to solution at line 1:     int n1 = input.nextInt();                  // This is line X
+16. Moved from problem to solution at line 1:     System.out.print("Enter first integer: "); //This line should immediately be placed before Line X
+17. Moved from problem to solution at line 1:     Scanner input = new Scanner(System.in);
+18. Moved from problem to solution at line 1:   public static void main(String[] args) {
+19. Moved from problem to solution at line 1: public class GreatestCommonDivisor {
+20. Moved from problem to solution at line 1: import java.util.Scanner;
+Submit Parsons Solution clicked @ 1493659125290
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+20. Moved from problem to solution at line 1
+Line 2 (1 moves): public class GreatestCommonDivisor {
+19. Moved from problem to solution at line 1
+Line 3 (1 moves):   public static void main(String[] args) {
+18. Moved from problem to solution at line 1
+Line 4 (1 moves):     Scanner input = new Scanner(System.in);
+17. Moved from problem to solution at line 1
+Line 5 (1 moves):     System.out.print("Enter first integer: "); //This line should immediately be placed before Line X
+16. Moved from problem to solution at line 1
+Line 6 (1 moves):     int n1 = input.nextInt();                  // This is line X
+15. Moved from problem to solution at line 1
+Line 7 (1 moves):     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+14. Moved from problem to solution at line 1
+Line 8 (1 moves):     int n2 = input.nextInt();                   // This is line Y
+13. Moved from problem to solution at line 1
+Line 9 (1 moves):     int gcd, k;
+12. Moved from problem to solution at line 1
+Line 10 (3 moves):     k = 2; gcd = 1;
+7. Moved from problem to solution at line 2
+8. Moved from solution to problem at line 15
+11. Moved from problem to solution at line 1
+Line 11 (1 moves):     while (k <= n1 && k <= n2) {
+10. Moved from problem to solution at line 1
+Line 12 (1 moves):       if (n1 % k == 0 && n2 % k == 0)
+6. Moved from problem to solution at line 1
+Line 13 (1 moves):         gcd = k;
+9. Moved from problem to solution at line 2
+Line 14 (1 moves):       k++;}
+5. Moved from problem to solution at line 1
+Line 15 (1 moves):     System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+4. Moved from problem to solution at line 1
+Line 16 (1 moves): }}
+1. Moved from problem to solution at line 0
+Line 3 (3) (1 moves):   public static void Main(String[] args) {
+2. Moved from problem to trash at line 0
+Line 12 (36) (1 moves):       if (n1 / k == 0 && n2 % k == 0)
+3. Moved from problem to trash at line 1
+Your Grade:
+You took 20 steps to solve a Parsons puzzle containing 18 lines of code.
+Next Problem clicked @ 1493659137584
+Time spent on this problem: 1514 seconds
+<HR>

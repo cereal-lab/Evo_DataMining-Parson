@@ -1,0 +1,101 @@
+Problem No. 7
+Using Template # 100
+The Problem:
+System.out.print ("What is " + number1 + " - " + number2 + "? ");  //This line should immediately be placed before Line X
+public class SubtractionQuiz {
+public Class SubtractionQuiz {
+Scanner input = new Scanner(System.in); // This is line X
+import java.util.Scanner;
+else
+number1 = 100; number2 = 200;
+public static void main(String[] args) {
+if (number1 - number2 == answer)
+if (number1 - number2 = answer)
+int answer = input.nextInt();
+}}
+int number1, number2 ;
+System.out.println("You are correct!");
+System.out.println("Your answer is wrong.\n" + number1 + " - "  + number2 + " should be " + (number1 - number2));
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 15 lines.
+Re-assemble them with 16 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: }}
+2. Moved from problem to solution at line 1: public class SubtractionQuiz {
+3. Moved from problem to trash at line 0: public Class SubtractionQuiz {
+4. Moved from problem to solution at line 1: import java.util.Scanner;
+5. Moved from problem to trash at line 1:     Scanner input = new Scanner(System.in); // This is line X
+6. Moved from solution to trash at line 2: import java.util.Scanner;
+7. Moved from problem to trash at line 3:     System.out.print ("What is " + number1 + " - " + number2 + "? ");  //This line should immediately be placed before Line X
+8. Moved from problem to solution at line 2:   public static void main(String[] args) {
+9. Moved from problem to solution at line 3:     number1 = 100; number2 = 200;
+10. Moved from problem to solution at line 3:     int number1, number2 ;
+11. Moved from trash to solution at line 1: import java.util.Scanner;
+12. Moved from trash to solution at line 6:     System.out.print ("What is " + number1 + " - " + number2 + "? ");  //This line should immediately be placed before Line X
+13. Moved from trash to solution at line 7:     Scanner input = new Scanner(System.in); // This is line X
+14. Moved from problem to solution at line 8:     if (number1 - number2 = answer)
+15. Moved from problem to solution at line 9:       System.out.println("You are correct!");
+16. Moved from problem to solution at line 10:     else
+17. Moved from problem to solution at line 11:       System.out.println("Your answer is wrong.\n" + number1 + " - "  + number2 + " should be " + (number1 - number2));
+18. Moved from problem to trash at line 1:     int answer = input.nextInt();
+19. Moved from problem to trash at line 2:     if (number1 - number2 == answer)
+Submit Parsons Solution clicked @ 1493675654098
+Sorry, that line has a bug
+Delete this line:     if (number1 - number2 = answer)
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+20. Moved from trash to solution at line 8:     if (number1 - number2 == answer)
+21. Moved from solution to trash at line 2:     if (number1 - number2 = answer)
+Submit Parsons Solution clicked @ 1493675666142
+This line is not in its correct location:     if (number1 - number2 == answer)
+Insert this line in its place:     int answer = input.nextInt();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+22. Moved from trash to solution at line 8:     int answer = input.nextInt();
+Submit Parsons Solution clicked @ 1493675734280
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (3 moves): import java.util.Scanner;
+4. Moved from problem to solution at line 1
+6. Moved from solution to trash at line 2
+11. Moved from trash to solution at line 1
+Line 2 (1 moves): public class SubtractionQuiz {
+2. Moved from problem to solution at line 1
+Line 3 (1 moves):   public static void main(String[] args) {
+8. Moved from problem to solution at line 2
+Line 4 (1 moves):     int number1, number2 ;
+10. Moved from problem to solution at line 3
+Line 5 (1 moves):     number1 = 100; number2 = 200;
+9. Moved from problem to solution at line 3
+Line 6 (2 moves):     System.out.print ("What is " + number1 + " - " + number2 + "? ");  //This line should immediately be placed before Line X
+7. Moved from problem to trash at line 3
+12. Moved from trash to solution at line 6
+Line 7 (2 moves):     Scanner input = new Scanner(System.in); // This is line X
+5. Moved from problem to trash at line 1
+13. Moved from trash to solution at line 7
+Line 8 (2 moves):     int answer = input.nextInt();
+18. Moved from problem to trash at line 1
+22. Moved from trash to solution at line 8
+Line 9 (2 moves):     if (number1 - number2 == answer)
+19. Moved from problem to trash at line 2
+20. Moved from trash to solution at line 8
+Line 10 (1 moves):       System.out.println("You are correct!");
+15. Moved from problem to solution at line 9
+Line 11 (1 moves):     else
+16. Moved from problem to solution at line 10
+Line 12 (1 moves):       System.out.println("Your answer is wrong.\n" + number1 + " - "  + number2 + " should be " + (number1 - number2));
+17. Moved from problem to solution at line 11
+Line 13 (1 moves): }}
+1. Moved from problem to solution at line 0
+Line 2 (8) (1 moves): public Class SubtractionQuiz {
+3. Moved from problem to trash at line 0
+Line 9 (10) (2 moves):     if (number1 - number2 = answer)
+14. Moved from problem to solution at line 8
+21. Moved from solution to trash at line 2
+Your Grade:
+You took 22 steps to solve a Parsons puzzle containing 15 lines of code.
+Next Problem clicked @ 1493675777481
+Time spent on this problem: 328 seconds
+<HR>

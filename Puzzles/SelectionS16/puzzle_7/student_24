@@ -1,0 +1,111 @@
+Problem No. 7
+Using Template # 2007
+Stage: Posttest / Feedback Amount: None / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+float secondNumber;
+float secondNumber
+float firstNumber;
+System.out.print( "Enter the first number");
+if( firstNumber  %  secondNumber  ==  0 )
+System.out.print( secondNumber  +  " is NOT a factor of "  +  firstNumber);
+{
+} // End of else-clause
+secondNumber = stdin.nextFloat();
+else
+else:
+{
+firstNumber = stdin.nextFloat();
+System.out.print( "Enter the second number");
+} // End of if-clause
+System.out.print( secondNumber  +  " is a factor of "  +  firstNumber);
+Using Template # 2007
+Stage: Posttest / Feedback Amount: None / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare firstNumber
+// Declare secondNumber
+// Read firstNumber
+// Read secondNumber
+// Compute and print whether secondNumber evenly divides firstNumber
+}  // End of method main
+} // End of class Problem
+Using Template # 2007
+Stage: Posttest / Feedback Amount: None / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Using Tutor selected  @ 1455250641006
+Moved from problem to solution at line 9: float firstNumber;
+Moved from problem to solution at line 11: float secondNumber;
+Moved from problem to trash at line 0: float secondNumber
+Moved from problem to solution at line 13: System.out.print( "Enter the first number");
+Moved from problem to solution at line 14: firstNumber = stdin.nextFloat();
+Moved from problem to solution at line 16: System.out.print( "Enter the second number");
+Moved from problem to solution at line 17: secondNumber = stdin.nextFloat();
+Moved from problem to solution at line 19: if( firstNumber  %  secondNumber  ==  0 )
+Moved from problem to solution at line 20: {
+Moved from problem to solution at line 21: System.out.print( secondNumber  +  " is a factor of "  +  firstNumber);
+Moved from problem to solution at line 22: } // End of if-clause
+Moved from problem to trash at line 1: else:
+Moved from problem to solution at line 23: else
+Moved from problem to solution at line 24: {
+Moved from problem to solution at line 25: System.out.print( secondNumber  +  " is NOT a factor of "  +  firstNumber);
+Moved from problem to solution at line 26: } // End of else-clause
+Submit Parsons Solution clicked @ 1455250781648
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare firstNumber
+Line 11 (1 moves): float firstNumber;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Declare secondNumber
+Line 14 (1 moves): float secondNumber;
+Moved from problem to solution at line 11
+Line 16 (0 moves): // Read firstNumber
+Line 17 (1 moves): System.out.print( "Enter the first number");
+Moved from problem to solution at line 13
+Line 18 (1 moves): firstNumber = stdin.nextFloat();
+Moved from problem to solution at line 14
+Line 20 (0 moves): // Read secondNumber
+Line 21 (1 moves): System.out.print( "Enter the second number");
+Moved from problem to solution at line 16
+Line 22 (1 moves): secondNumber = stdin.nextFloat();
+Moved from problem to solution at line 17
+Line 24 (0 moves): // Compute and print whether secondNumber evenly divides firstNumber
+Line 25 (1 moves): if( firstNumber  %  secondNumber  ==  0 )
+Moved from problem to solution at line 19
+Line 26 (1 moves): {
+Moved from problem to solution at line 20
+Line 27 (1 moves): System.out.print( secondNumber  +  " is a factor of "  +  firstNumber);
+Moved from problem to solution at line 21
+Line 28 (1 moves): } // End of if-clause
+Moved from problem to solution at line 22
+Line 29 (1 moves): else
+Moved from problem to solution at line 23
+Line 30 (1 moves): {
+Moved from problem to solution at line 24
+Line 31 (1 moves): System.out.print( secondNumber  +  " is NOT a factor of "  +  firstNumber);
+Moved from problem to solution at line 25
+Line 32 (1 moves): } // End of else-clause
+Moved from problem to solution at line 26
+Line 33 (0 moves): }  // End of method main
+Line 35 (0 moves): } // End of class Problem
+LINE 14 (1 moves): float secondNumber
+Moved from problem to trash at line 0
+LINE 29 (1 moves): else:
+Moved from problem to trash at line 1
+Your Grade:
+You took 16 steps to solve a Parsons puzzle containing 16 lines of code.
+Next Problem clicked @ 1455250783303
+Time spent on this problem: 153 seconds
+<HR>

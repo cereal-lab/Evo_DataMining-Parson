@@ -1,0 +1,105 @@
+Problem No. 4
+Using Template # 2001
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+System.out.print( "Sound is loud");
+System.out.print( "Enter the loudness of sound in decibels");
+} // End of if-clause
+if( decibels  >  85 )
+System.out.print( "Sound is tolerable");
+System.out.print( "Sound is tolerable")
+else
+{
+int decibels;
+} // End of else-clause
+{
+decibels = stdin.nextInt();
+decibels == stdin.nextInt();
+Using Template # 2001
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare decibels
+// Read decibels
+// Compute and print whether the sound is loud (over 85) or tolerable
+}  // End of method main
+} // End of class Problem
+Using Template # 2001
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Moved from problem to solution at line 8: } // End of else-clause
+Attempted to reorder // Declare decibels
+This line was provided to you in its correct order. Do not reorder it.
+Reordered from line 8 to 10: } // End of else-clause
+Moved from solution to problem at line 10: } // End of else-clause
+Moved from problem to solution at line 9: int decibels;
+Moved from problem to solution at line 11: System.out.print( "Enter the loudness of sound in decibels");
+Moved from problem to solution at line 12: decibels = stdin.nextInt();
+Moved from problem to solution at line 14: if( decibels  >  85 )
+Moved from problem to solution at line 15: System.out.print( "Sound is loud");
+Moved from problem to solution at line 15: else
+Reordered from line 15 to 16: else
+Moved from problem to solution at line 17: System.out.print( "Sound is tolerable");
+Moved from problem to trash at line 0: } // End of if-clause
+Moved from problem to trash at line 1: System.out.print( "Sound is tolerable")
+Moved from problem to trash at line 2: {
+Moved from problem to trash at line 3: {
+Moved from problem to trash at line 4: decibels == stdin.nextInt();
+Moved from problem to trash at line 4: } // End of else-clause
+Submit Parsons Solution clicked @ 1461698790544
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (1 moves): // Declare decibels
+Attempted to reorder line 10
+Line 11 (1 moves): int decibels;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Read decibels
+Line 14 (1 moves): System.out.print( "Enter the loudness of sound in decibels");
+Moved from problem to solution at line 11
+Line 15 (1 moves): decibels = stdin.nextInt();
+Moved from problem to solution at line 12
+Line 17 (0 moves): // Compute and print whether the sound is loud (over 85) or tolerable
+Line 18 (1 moves): if( decibels  >  85 )
+Moved from problem to solution at line 14
+Line 20 (1 moves): System.out.print( "Sound is loud");
+Moved from problem to solution at line 15
+Line 22 (2 moves): else
+Moved from problem to solution at line 15
+Reordered from line 15 to 16
+Line 24 (1 moves): System.out.print( "Sound is tolerable");
+Moved from problem to solution at line 17
+Line 26 (0 moves): }  // End of method main
+Line 28 (0 moves): } // End of class Problem
+Line 21 (1 moves): } // End of if-clause
+Moved from problem to trash at line 0
+LINE 24 (1 moves): System.out.print( "Sound is tolerable")
+Moved from problem to trash at line 1
+Line 23 (1 moves): {
+Moved from problem to trash at line 2
+Line 19 (1 moves): {
+Moved from problem to trash at line 3
+LINE 15 (1 moves): decibels == stdin.nextInt();
+Moved from problem to trash at line 4
+Line 25 (4 moves): } // End of else-clause
+Moved from problem to solution at line 8
+Reordered from line 8 to 10
+Moved from solution to problem at line 10
+Moved from problem to trash at line 4
+Your Grade:
+You took 17 steps to solve a Parsons puzzle containing 13 lines of code.
+Next Problem clicked @ 1461698792401
+Time spent on this problem: 97 seconds
+<HR>

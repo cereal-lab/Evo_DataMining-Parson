@@ -1,0 +1,151 @@
+Problem No. 4
+Using Template # 100
+The Problem:
+System.out.print("   " + j);
+for (int j = 1; j <= 9; j++)
+for (int j = 1; j <= 9; j++
+System.out.println("           Multiplication Table");
+System.out.prcharln("           Multiplication Table");
+}}
+public class MultiplicationTable {
+System.out.print(i + " | ");
+System.out.println();}
+for (int i = 1; i <= 9; i++) {
+public static void main(String[] args) {
+System.out.printf("%4d", i * j);}
+for (int j = 1; j <= 9; j++) {
+System.out.print("    ");
+System.out.println("\n-----------------------------------------");
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 15 lines.
+Re-assemble them with 16 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: }}
+2. Moved from problem to solution at line 1: public class MultiplicationTable {
+3. Moved from problem to solution at line 2:   public static void main(String[] args) {
+4. Moved from problem to solution at line 3:     System.out.println("           Multiplication Table");
+5. Moved from problem to trash at line 0:     System.out.prcharln("           Multiplication Table");
+6. Moved from problem to solution at line 4:     System.out.println("\n-----------------------------------------");
+7. Moved from problem to solution at line 4:     for (int j = 1; j <= 9; j++)
+8. Moved from problem to solution at line 4:       for (int j = 1; j <= 9; j++) {
+9. Moved from problem to solution at line 4:     for (int i = 1; i <= 9; i++) {
+10. Moved from problem to solution at line 8:       System.out.print(i + " | ");
+11. Reordered from line 6 to 8:     for (int j = 1; j <= 9; j++)
+12. Reordered from line 8 to 7:     for (int j = 1; j <= 9; j++)
+13. Moved from problem to solution at line 9:         System.out.printf("%4d", i * j);}
+14. Moved from problem to solution at line 5:       System.out.print("   " + j);
+15. Moved from solution to problem at line 15:       for (int j = 1; j <= 9; j++) {
+16. Moved from problem to solution at line 10:       System.out.println();}
+17. Moved from solution to problem at line 15:     for (int j = 1; j <= 9; j++)
+18. Moved from problem to solution at line 7:       for (int j = 1; j <= 9; j++) {
+19. Moved from problem to trash at line 1:     System.out.print("    ");
+20. Moved from problem to trash at line 2:     for (int j = 1; j <= 9; j++)
+21. Moved from problem to trash at line 3:     for (int j = 1; j <= 9; j++
+Submit Parsons Solution clicked @ 1489458425290
+This line is not in its correct location:     for (int i = 1; i <= 9; i++) {
+Insert this line in its place:     System.out.print("    ");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+22. Reordered from line 7 to 4:       for (int j = 1; j <= 9; j++) {
+23. Moved from solution to problem at line 12:       for (int j = 1; j <= 9; j++) {
+Submit Parsons Solution clicked @ 1489458439123
+Please clear all the lines from the left panel before submitting your answer.
+24. Moved from problem to trash at line 4:       for (int j = 1; j <= 9; j++) {
+Submit Parsons Solution clicked @ 1489458442470
+This line is not in its correct location:     for (int i = 1; i <= 9; i++) {
+Insert this line in its place:     System.out.print("    ");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+25. Moved from trash to solution at line 4:     for (int j = 1; j <= 9; j++)
+26. Moved from solution to trash at line 4:     for (int j = 1; j <= 9; j++)
+27. Moved from trash to solution at line 4:     System.out.print("    ");
+Submit Parsons Solution clicked @ 1489458464956
+This line is not in its correct location:     for (int i = 1; i <= 9; i++) {
+Insert this line in its place:     for (int j = 1; j <= 9; j++)
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+28. Moved from trash to solution at line 5:     for (int j = 1; j <= 9; j++)
+29. Moved from solution to trash at line 3:     for (int i = 1; i <= 9; i++) {
+Submit Parsons Solution clicked @ 1489458481656
+This line is not in its correct location:       System.out.print(i + " | ");
+Insert this line in its place:     for (int i = 1; i <= 9; i++) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+30. Moved from trash to solution at line 8:     for (int i = 1; i <= 9; i++) {
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Submit Parsons Solution clicked @ 1489458492508
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Insert this line in its place:       for (int j = 1; j <= 9; j++) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+31. Reordered from line 11 to 10:       System.out.println();}
+Submit Parsons Solution clicked @ 1489458512359
+This line is not in its correct location:       System.out.println();}
+Insert this line in its place:       for (int j = 1; j <= 9; j++) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+32. Moved from trash to solution at line 10:       for (int j = 1; j <= 9; j++) {
+Submit Parsons Solution clicked @ 1489458524770
+This line is not in its correct location:       System.out.println();}
+Move this line in its place:         System.out.printf("%4d", i * j);}
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+33. Reordered from line 12 to 11:         System.out.printf("%4d", i * j);}
+Submit Parsons Solution clicked @ 1489458527660
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): public class MultiplicationTable {
+2. Moved from problem to solution at line 1
+Line 2 (1 moves):   public static void main(String[] args) {
+3. Moved from problem to solution at line 2
+Line 3 (1 moves):     System.out.println("           Multiplication Table");
+4. Moved from problem to solution at line 3
+Line 4 (2 moves):     System.out.print("    ");
+19. Moved from problem to trash at line 1
+27. Moved from trash to solution at line 4
+Line 5 (8 moves):     for (int j = 1; j <= 9; j++)
+7. Moved from problem to solution at line 4
+11. Reordered from line 6 to 8
+12. Reordered from line 8 to 7
+17. Moved from solution to problem at line 15
+20. Moved from problem to trash at line 2
+25. Moved from trash to solution at line 4
+26. Moved from solution to trash at line 4
+28. Moved from trash to solution at line 5
+Line 6 (1 moves):       System.out.print("   " + j);
+14. Moved from problem to solution at line 5
+Line 7 (1 moves):     System.out.println("\n-----------------------------------------");
+6. Moved from problem to solution at line 4
+Line 8 (3 moves):     for (int i = 1; i <= 9; i++) {
+9. Moved from problem to solution at line 4
+29. Moved from solution to trash at line 3
+30. Moved from trash to solution at line 8
+Line 9 (1 moves):       System.out.print(i + " | ");
+10. Moved from problem to solution at line 8
+Line 10 (7 moves):       for (int j = 1; j <= 9; j++) {
+8. Moved from problem to solution at line 4
+15. Moved from solution to problem at line 15
+18. Moved from problem to solution at line 7
+22. Reordered from line 7 to 4
+23. Moved from solution to problem at line 12
+24. Moved from problem to trash at line 4
+32. Moved from trash to solution at line 10
+Line 11 (2 moves):         System.out.printf("%4d", i * j);}
+13. Moved from problem to solution at line 9
+33. Reordered from line 12 to 11
+Line 12 (2 moves):       System.out.println();}
+16. Moved from problem to solution at line 10
+31. Reordered from line 11 to 10
+Line 13 (1 moves): }}
+1. Moved from problem to solution at line 0
+Line 3 (11) (1 moves):     System.out.prcharln("           Multiplication Table");
+5. Moved from problem to trash at line 0
+Line 5 (5) (1 moves):     for (int j = 1; j <= 9; j++
+21. Moved from problem to trash at line 3
+Your Grade:
+You took 33 steps to solve a Parsons puzzle containing 15 lines of code.
+Next Problem clicked @ 1489458530901
+Time spent on this problem: 582 seconds
+<HR>

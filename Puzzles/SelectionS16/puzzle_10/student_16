@@ -1,0 +1,296 @@
+Problem No. 10
+Using Template # 2111
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+System.out.print( "Scale is F0 (40-72 mph)");
+System.out.print( "Scale is F3 (158-206 mph)");
+if( speed  >=  158 )
+if( speed  >=  207 )
+if( speed  > =  207 )
+System.out.print( "Scale is F5 (over 260 mph)");
+else
+} // End of if-clause
+{
+else
+if( speed  >=  261 )
+} // End of else-clause
+else
+speed = stdin.nextShort();
+{
+System.out.print( "Scale is F2 (113-157 mph)");
+{
+} // End of if-clause
+} // End of else-clause
+System.out.print( "Not a hurricane")
+System.out.print( "Not a hurricane");
+} // End of if-clause
+} // End of else-clause
+else
+if( speed  >=  40 )
+if( speed  >=  73 )
+System.out.print( "Scale is F4 (207-260 mph)");
+} // End of else-clause
+} // End of if-clause
+{
+} // End of else-clause
+{
+short speed;
+} // End of if-clause
+System.out.print( "Scale is F1 (73-112 mph)");
+{
+{
+if( speed  >=  113 )
+{
+{
+else
+{
+} // End of if-clause
+} // End of else-clause
+System.out.print( "Enter the wind speed in miles per hour");
+else
+{
+{
+Using Template # 2111
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare speed
+// Read speed
+// Compute and print the Fujita scale corresponding to wind speed
+}  // End of method main
+} // End of class Problem
+Using Template # 2111
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to solution at line 9: short speed;
+Moved from problem to solution at line 11: speed = stdin.nextShort();
+Moved from problem to solution at line 11: System.out.print( "Enter the wind speed in miles per hour");
+Moved from problem to solution at line 14: if( speed  >=  40 )
+Moved from problem to solution at line 15: {
+Moved from problem to solution at line 16: System.out.print( "Scale is F0 (40-72 mph)");
+Moved from problem to solution at line 17: } // End of if-clause
+Moved from problem to solution at line 18: else
+Moved from problem to solution at line 19: if( speed  >=  113 )
+Moved from problem to solution at line 20: {
+Moved from problem to solution at line 21: System.out.print( "Scale is F2 (113-157 mph)");
+Moved from problem to solution at line 22: } // End of if-clause
+Moved from problem to solution at line 23: else
+Moved from solution to problem at line 35: System.out.print( "Scale is F2 (113-157 mph)");
+Moved from problem to solution at line 21: System.out.print( "Scale is F1 (73-112 mph)");
+Moved from solution to problem at line 25: if( speed  >=  113 )
+Moved from problem to solution at line 19: if( speed  >=  73 )
+Moved from problem to solution at line 24: if( speed  >=  113 )
+Moved from problem to solution at line 25: {
+Moved from problem to solution at line 26: System.out.print( "Scale is F2 (113-157 mph)");
+Moved from problem to solution at line 27: } // End of if-clause
+Moved from problem to solution at line 28: else
+Moved from problem to solution at line 29: if( speed  >=  158 )
+Moved from problem to solution at line 30: {
+Moved from problem to solution at line 31: System.out.print( "Scale is F3 (158-206 mph)");
+Moved from problem to solution at line 32: } // End of if-clause
+Moved from problem to solution at line 33: else
+Moved from problem to solution at line 34: if( speed  >=  207 )
+Moved from problem to solution at line 35: {
+Moved from problem to solution at line 36: System.out.print( "Scale is F4 (207-260 mph)");
+Moved from problem to solution at line 37: } // End of if-clause
+Moved from problem to solution at line 38: else
+Moved from problem to solution at line 39: if( speed  >=  261 )
+Moved from problem to solution at line 40: {
+Moved from problem to solution at line 41: System.out.print( "Scale is F5 (over 260 mph)");
+Moved from problem to solution at line 42: } // End of if-clause
+Moved from problem to solution at line 43: else
+Moved from problem to solution at line 44: {
+Moved from problem to solution at line 45: System.out.print( "Not a hurricane");
+Moved from problem to solution at line 46: } // End of else-clause
+Moved from problem to trash at line 0: } // End of else-clause
+Moved from problem to trash at line 1: } // End of else-clause
+Moved from problem to trash at line 2: System.out.print( "Not a hurricane")
+Moved from problem to trash at line 2: } // End of else-clause
+Moved from problem to trash at line 1: } // End of else-clause
+Moved from problem to trash at line 2: if( speed  > =  207 )
+Moved from problem to trash at line 3: {
+Moved from problem to trash at line 4: {
+Moved from problem to trash at line 3: {
+Moved from problem to trash at line 1: {
+Moved from problem to trash at line 1: } // End of else-clause
+Moved from problem to trash at line 3: {
+Submit Parsons Solution clicked @ 1455081967584
+This line is not in its correct location: if( speed  >=  40 )
+Move this line in its place: if( speed  >=  261 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to problem at line 18: if( speed  >=  261 )
+Moved from problem to solution at line 14: if( speed  >=  261 )
+Moved from solution to problem at line 44: if( speed  >=  40 )
+Reordered from line 40 to 16: System.out.print( "Scale is F5 (over 260 mph)");
+Moved from solution to problem at line 52: System.out.print( "Scale is F0 (40-72 mph)");
+Moved from problem to solution at line 40: if( speed  >=  40 )
+Moved from problem to solution at line 41: System.out.print( "Scale is F0 (40-72 mph)");
+Reordered from line 40 to 39: if( speed  >=  40 )
+Moved from solution to problem at line 51: System.out.print( "Scale is F4 (207-260 mph)");
+Moved from solution to problem at line 50: if( speed  >=  207 )
+Moved from solution to problem at line 45: System.out.print( "Scale is F1 (73-112 mph)");
+Moved from solution to problem at line 44: if( speed  >=  73 )
+Moved from problem to solution at line 19: if( speed  >=  207 )
+Moved from problem to solution at line 21: System.out.print( "Scale is F4 (207-260 mph)");
+Moved from problem to solution at line 34: if( speed  >=  73 )
+Moved from problem to solution at line 36: System.out.print( "Scale is F1 (73-112 mph)");
+Moved from solution to problem at line 55: System.out.print( "Scale is F3 (158-206 mph)");
+Moved from solution to problem at line 55: if( speed  >=  158 )
+Moved from solution to problem at line 49: if( speed  >=  113 )
+Moved from solution to problem at line 50: System.out.print( "Scale is F2 (113-157 mph)");
+Moved from problem to solution at line 24: if( speed  >=  158 )
+Moved from problem to solution at line 26: System.out.print( "Scale is F3 (158-206 mph)");
+Moved from problem to solution at line 29: if( speed  >=  113 )
+Moved from problem to solution at line 31: System.out.print( "Scale is F2 (113-157 mph)");
+Submit Parsons Solution clicked @ 1455082199613
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare speed
+Line 11 (1 moves): short speed;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Read speed
+Line 14 (1 moves): System.out.print( "Enter the wind speed in miles per hour");
+Moved from problem to solution at line 11
+Line 15 (1 moves): speed = stdin.nextShort();
+Moved from problem to solution at line 11
+Line 17 (0 moves): // Compute and print the Fujita scale corresponding to wind speed
+Line 18 (3 moves): if( speed  >=  261 )
+Moved from problem to solution at line 39
+Moved from solution to problem at line 18
+Moved from problem to solution at line 14
+Line 19 (1 moves): {
+Moved from problem to solution at line 15
+Line 20 (2 moves): System.out.print( "Scale is F5 (over 260 mph)");
+Moved from problem to solution at line 41
+Reordered from line 40 to 16
+Line 21 (1 moves): } // End of if-clause
+Moved from problem to solution at line 17
+Line 22 (1 moves): else
+Moved from problem to solution at line 18
+Line 24 (3 moves): if( speed  >=  207 )
+Moved from problem to solution at line 34
+Moved from solution to problem at line 50
+Moved from problem to solution at line 19
+Line 25 (1 moves): {
+Moved from problem to solution at line 20
+Line 26 (3 moves): System.out.print( "Scale is F4 (207-260 mph)");
+Moved from problem to solution at line 36
+Moved from solution to problem at line 51
+Moved from problem to solution at line 21
+Line 27 (1 moves): } // End of if-clause
+Moved from problem to solution at line 22
+Line 28 (1 moves): else
+Moved from problem to solution at line 23
+Line 30 (3 moves): if( speed  >=  158 )
+Moved from problem to solution at line 29
+Moved from solution to problem at line 55
+Moved from problem to solution at line 24
+Line 31 (1 moves): {
+Moved from problem to solution at line 25
+Line 32 (3 moves): System.out.print( "Scale is F3 (158-206 mph)");
+Moved from problem to solution at line 31
+Moved from solution to problem at line 55
+Moved from problem to solution at line 26
+Line 33 (1 moves): } // End of if-clause
+Moved from problem to solution at line 27
+Line 34 (1 moves): else
+Moved from problem to solution at line 28
+Line 36 (5 moves): if( speed  >=  113 )
+Moved from problem to solution at line 19
+Moved from solution to problem at line 25
+Moved from problem to solution at line 24
+Moved from solution to problem at line 49
+Moved from problem to solution at line 29
+Line 37 (1 moves): {
+Moved from problem to solution at line 30
+Line 38 (5 moves): System.out.print( "Scale is F2 (113-157 mph)");
+Moved from problem to solution at line 21
+Moved from solution to problem at line 35
+Moved from problem to solution at line 26
+Moved from solution to problem at line 50
+Moved from problem to solution at line 31
+Line 39 (1 moves): } // End of if-clause
+Moved from problem to solution at line 32
+Line 40 (1 moves): else
+Moved from problem to solution at line 33
+Line 42 (3 moves): if( speed  >=  73 )
+Moved from problem to solution at line 19
+Moved from solution to problem at line 44
+Moved from problem to solution at line 34
+Line 43 (1 moves): {
+Moved from problem to solution at line 35
+Line 44 (3 moves): System.out.print( "Scale is F1 (73-112 mph)");
+Moved from problem to solution at line 21
+Moved from solution to problem at line 45
+Moved from problem to solution at line 36
+Line 45 (1 moves): } // End of if-clause
+Moved from problem to solution at line 37
+Line 46 (1 moves): else
+Moved from problem to solution at line 38
+Line 48 (4 moves): if( speed  >=  40 )
+Moved from problem to solution at line 14
+Moved from solution to problem at line 44
+Moved from problem to solution at line 40
+Reordered from line 40 to 39
+Line 49 (1 moves): {
+Moved from problem to solution at line 40
+Line 50 (3 moves): System.out.print( "Scale is F0 (40-72 mph)");
+Moved from problem to solution at line 16
+Moved from solution to problem at line 52
+Moved from problem to solution at line 41
+Line 51 (1 moves): } // End of if-clause
+Moved from problem to solution at line 42
+Line 52 (1 moves): else
+Moved from problem to solution at line 43
+Line 53 (1 moves): {
+Moved from problem to solution at line 44
+Line 54 (1 moves): System.out.print( "Not a hurricane");
+Moved from problem to solution at line 45
+Line 55 (1 moves): } // End of else-clause
+Moved from problem to solution at line 46
+Line 61 (0 moves): }  // End of method main
+Line 63 (0 moves): } // End of class Problem
+Line 58 (1 moves): } // End of else-clause
+Moved from problem to trash at line 0
+Line 59 (1 moves): } // End of else-clause
+Moved from problem to trash at line 1
+LINE 54 (1 moves): System.out.print( "Not a hurricane")
+Moved from problem to trash at line 2
+Line 57 (1 moves): } // End of else-clause
+Moved from problem to trash at line 2
+Line 60 (1 moves): } // End of else-clause
+Moved from problem to trash at line 1
+LINE 24 (1 moves): if( speed  > =  207 )
+Moved from problem to trash at line 2
+Line 35 (1 moves): {
+Moved from problem to trash at line 3
+Line 41 (1 moves): {
+Moved from problem to trash at line 4
+Line 37 (1 moves): {
+Moved from problem to trash at line 3
+Line 19 (1 moves): {
+Moved from problem to trash at line 1
+Line 55 (1 moves): } // End of else-clause
+Moved from problem to trash at line 1
+Line 49 (1 moves): {
+Moved from problem to trash at line 3
+Your Grade:
+You took 76 steps to solve a Parsons puzzle containing 48 lines of code.
+Next Problem clicked @ 1455082205309
+Time spent on this problem: 605 seconds
+<HR>

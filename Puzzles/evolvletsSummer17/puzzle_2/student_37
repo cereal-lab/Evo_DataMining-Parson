@@ -1,0 +1,313 @@
+Problem No. 2
+Using Template # 100
+The Problem:
+import java.util.Scanner;
+Public class TestDoWhile {
+public class TestDoWhile {
+data = input.nextInt();
+do{
+sum += data;
+System.out.print("Enter an int value (the program exits if the input is 0): ");
+System.out.println("The sum is " + sum);
+data = sum = 0;
+} while (data != 0);
+int data, sum;   //This line should immediately be placed before Line X
+public static void main(String[] args) {
+Scanner input = new Scanner(System.in); // This is line X
+}}
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 14 lines.
+Re-assemble them with 15 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: import java.util.Scanner;
+2. Moved from problem to solution at line 1: public class TestDoWhile {
+3. Reordered from line 2 to 1: import java.util.Scanner;
+4. Moved from problem to trash at line 0: Public class TestDoWhile {
+5. Moved from problem to solution at line 2:     Scanner input = new Scanner(System.in); // This is line X
+6. Reordered from line 2 to 3:     Scanner input = new Scanner(System.in); // This is line X
+7. Moved from problem to solution at line 2:   public static void main(String[] args) {
+8. Reordered from line 2 to 3:   public static void main(String[] args) {
+9. Moved from problem to solution at line 4:     int data, sum;   //This line should immediately be placed before Line X
+10. Reordered from line 4 to 5:     int data, sum;   //This line should immediately be placed before Line X
+11. Reordered from line 5 to 4:     int data, sum;   //This line should immediately be placed before Line X
+12. Moved from problem to solution at line 5:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+13. Reordered from line 5 to 6:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+14. Moved from problem to solution at line 5:       data = input.nextInt();
+15. Reordered from line 5 to 7:       data = input.nextInt();
+16. Moved from problem to solution at line 7:     do{
+17. Reordered from line 7 to 8:     do{
+18. Moved from problem to solution at line 8:       sum += data;
+19. Reordered from line 8 to 9:       sum += data;
+20. Moved from problem to solution at line 9:     data = sum = 0;
+21. Moved from problem to solution at line 10:  }}
+22. Reordered from line 11 to 10:       sum += data;
+23. Moved from problem to solution at line 11:     } while (data != 0);
+24. Moved from problem to solution at line 12:     System.out.println("The sum is " + sum);
+Submit Parsons Solution clicked @ 1500861643162
+This line is not in its correct location:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Move this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+25. Reordered from line 5 to 6:     Scanner input = new Scanner(System.in); // This is line X
+Submit Parsons Solution clicked @ 1500861895478
+This line is not in its correct location:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Move this line in its place:     Scanner input = new Scanner(System.in); // This is line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+26. Reordered from line 5 to 6:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Submit Parsons Solution clicked @ 1500861925748
+This line is not in its correct location:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Move this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+27. Reordered from line 9 to 6:     data = sum = 0;
+Submit Parsons Solution clicked @ 1500861938671
+This line is not in its correct location:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Move this line in its place:     do{
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+28. Reordered from line 6 to 10:     data = sum = 0;
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+29. Reordered from line 10 to 9:     data = sum = 0;
+Submit Parsons Solution clicked @ 1500861972178
+This line is not in its correct location:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Move this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+30. Reordered from line 6 to 9:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Submit Parsons Solution clicked @ 1500861983437
+This line is not in its correct location:       data = input.nextInt();
+Move this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+31. Reordered from line 8 to 7:     data = sum = 0;
+32. Reordered from line 6 to 10:       data = input.nextInt();
+33. Reordered from line 6 to 9:     data = sum = 0;
+Submit Parsons Solution clicked @ 1500862009192
+This line is not in its correct location:     do{
+Move this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+34. Reordered from line 7 to 6:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Submit Parsons Solution clicked @ 1500862027111
+This line is not in its correct location:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Move this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+35. Reordered from line 6 to 9:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Submit Parsons Solution clicked @ 1500862035405
+This line is not in its correct location:     do{
+Move this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+36. Reordered from line 6 to 7:     do{
+Submit Parsons Solution clicked @ 1500862042052
+This line is not in its correct location:       sum += data;
+Move this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+37. Reordered from line 6 to 8:       sum += data;
+Submit Parsons Solution clicked @ 1500862052953
+This line is not in its correct location:     do{
+Move this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+38. Reordered from line 6 to 7:     do{
+39. Reordered from line 6 to 10:     data = sum = 0;
+Submit Parsons Solution clicked @ 1500862066531
+This line is not in its correct location:     do{
+Move this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+40. Reordered from line 6 to 10:     do{
+Submit Parsons Solution clicked @ 1500862073373
+This line is not in its correct location:       sum += data;
+Move this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+41. Reordered from line 6 to 12:       sum += data;
+42. Reordered from line 6 to 11:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+43. Reordered from line 11 to 10:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+44. Reordered from line 10 to 3:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Submit Parsons Solution clicked @ 1500862091048
+This line is not in its correct location:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Move this line in its place:   public static void main(String[] args) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+45. Reordered from line 3 to 5:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Submit Parsons Solution clicked @ 1500862098753
+This line is not in its correct location:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Move this line in its place:     Scanner input = new Scanner(System.in); // This is line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+46. Reordered from line 5 to 6:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Submit Parsons Solution clicked @ 1500862120731
+This line is not in its correct location:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Move this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+47. Reordered from line 6 to 8:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Submit Parsons Solution clicked @ 1500862126752
+This line is not in its correct location:       data = input.nextInt();
+Move this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+48. Reordered from line 6 to 7:       data = input.nextInt();
+Submit Parsons Solution clicked @ 1500862137952
+This line is not in its correct location:       data = input.nextInt();
+Move this line in its place:     do{
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+49. Reordered from line 7 to 8:       data = input.nextInt();
+Submit Parsons Solution clicked @ 1500862151887
+This line is not in its correct location:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Move this line in its place:     do{
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+50. Reordered from line 7 to 9:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+Submit Parsons Solution clicked @ 1500862160223
+This line is not in its correct location:       data = input.nextInt();
+Move this line in its place:     do{
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+51. Reordered from line 7 to 9:       data = input.nextInt();
+Submit Parsons Solution clicked @ 1500862288114
+This line is not in its correct location:     } while (data != 0);
+Move this line in its place:       sum += data;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+52. Moved from solution to problem at line 12:     } while (data != 0);
+53. Moved from solution to problem at line 7:     Scanner input = new Scanner(System.in); // This is line X
+54. Moved from solution to problem at line 10:     data = sum = 0;
+55. Moved from solution to problem at line 4:     do{
+56. Moved from solution to problem at line 8:       data = input.nextInt();
+57. Moved from solution to problem at line 8:     System.out.println("The sum is " + sum);
+58. Moved from solution to problem at line 7:  }}
+Submit Parsons Solution clicked @ 1500862302271
+Please clear all the lines from the left panel before submitting your answer.
+59. Moved from solution to problem at line 10:       sum += data;
+60. Moved from problem to solution at line 5:     do{
+61. Moved from problem to solution at line 6:       data = input.nextInt();
+62. Reordered from line 7 to 6:       System.out.print("Enter an int value (the program exits if the input is 0): ");
+63. Moved from problem to solution at line 7:       sum += data;
+64. Moved from problem to solution at line 8:     data = sum = 0;
+65. Reordered from line 9 to 7:       data = input.nextInt();
+66. Moved from problem to solution at line 3:     Scanner input = new Scanner(System.in); // This is line X
+67. Reordered from line 4 to 3:   public static void main(String[] args) {
+68. Moved from problem to solution at line 10:     } while (data != 0);
+69. Reordered from line 10 to 11:     } while (data != 0);
+70. Moved from problem to solution at line 11:     System.out.println("The sum is " + sum);
+71. Reordered from line 12 to 11:     } while (data != 0);
+72. Moved from problem to solution at line 12:  }}
+73. Reordered from line 12 to 13:  }}
+Submit Parsons Solution clicked @ 1500862390436
+This line is not in its correct location:     Scanner input = new Scanner(System.in); // This is line X
+Move this line in its place:     int data, sum;   //This line should immediately be placed before Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+74. Reordered from line 4 to 5:     Scanner input = new Scanner(System.in); // This is line X
+Submit Parsons Solution clicked @ 1500862426314
+This line is not in its correct location:     do{
+Move this line in its place:     data = sum = 0;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+75. Reordered from line 10 to 6:     data = sum = 0;
+Submit Parsons Solution clicked @ 1500862435275
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (2 moves): import java.util.Scanner;
+1. Moved from problem to solution at line 0
+3. Reordered from line 2 to 1
+Line 2 (1 moves): public class TestDoWhile {
+2. Moved from problem to solution at line 1
+Line 3 (3 moves):   public static void main(String[] args) {
+7. Moved from problem to solution at line 2
+8. Reordered from line 2 to 3
+67. Reordered from line 4 to 3
+Line 4 (3 moves):     int data, sum;   //This line should immediately be placed before Line X
+9. Moved from problem to solution at line 4
+10. Reordered from line 4 to 5
+11. Reordered from line 5 to 4
+Line 5 (6 moves):     Scanner input = new Scanner(System.in); // This is line X
+5. Moved from problem to solution at line 2
+6. Reordered from line 2 to 3
+25. Reordered from line 5 to 6
+53. Moved from solution to problem at line 7
+66. Moved from problem to solution at line 3
+74. Reordered from line 4 to 5
+Line 6 (10 moves):     data = sum = 0;
+20. Moved from problem to solution at line 9
+27. Reordered from line 9 to 6
+28. Reordered from line 6 to 10
+29. Reordered from line 10 to 9
+31. Reordered from line 8 to 7
+33. Reordered from line 6 to 9
+39. Reordered from line 6 to 10
+54. Moved from solution to problem at line 10
+64. Moved from problem to solution at line 8
+75. Reordered from line 10 to 6
+Line 7 (7 moves):     do{
+16. Moved from problem to solution at line 7
+17. Reordered from line 7 to 8
+36. Reordered from line 6 to 7
+38. Reordered from line 6 to 7
+40. Reordered from line 6 to 10
+55. Moved from solution to problem at line 4
+60. Moved from problem to solution at line 5
+Line 8 (14 moves):       System.out.print("Enter an int value (the program exits if the input is 0): ");
+12. Moved from problem to solution at line 5
+13. Reordered from line 5 to 6
+26. Reordered from line 5 to 6
+30. Reordered from line 6 to 9
+34. Reordered from line 7 to 6
+35. Reordered from line 6 to 9
+42. Reordered from line 6 to 11
+43. Reordered from line 11 to 10
+44. Reordered from line 10 to 3
+45. Reordered from line 3 to 5
+46. Reordered from line 5 to 6
+47. Reordered from line 6 to 8
+50. Reordered from line 7 to 9
+62. Reordered from line 7 to 6
+Line 9 (9 moves):       data = input.nextInt();
+14. Moved from problem to solution at line 5
+15. Reordered from line 5 to 7
+32. Reordered from line 6 to 10
+48. Reordered from line 6 to 7
+49. Reordered from line 7 to 8
+51. Reordered from line 7 to 9
+56. Moved from solution to problem at line 8
+61. Moved from problem to solution at line 6
+65. Reordered from line 9 to 7
+Line 10 (7 moves):       sum += data;
+18. Moved from problem to solution at line 8
+19. Reordered from line 8 to 9
+22. Reordered from line 11 to 10
+37. Reordered from line 6 to 8
+41. Reordered from line 6 to 12
+59. Moved from solution to problem at line 10
+63. Moved from problem to solution at line 7
+Line 11 (5 moves):     } while (data != 0);
+23. Moved from problem to solution at line 11
+52. Moved from solution to problem at line 12
+68. Moved from problem to solution at line 10
+69. Reordered from line 10 to 11
+71. Reordered from line 12 to 11
+Line 12 (3 moves):     System.out.println("The sum is " + sum);
+24. Moved from problem to solution at line 12
+57. Moved from solution to problem at line 8
+70. Moved from problem to solution at line 11
+Line 13 (4 moves):  }}
+21. Moved from problem to solution at line 10
+58. Moved from solution to problem at line 7
+72. Moved from problem to solution at line 12
+73. Reordered from line 12 to 13
+Line 2 (33) (1 moves): Public class TestDoWhile {
+4. Moved from problem to trash at line 0
+Your Grade:
+You took 75 steps to solve a Parsons puzzle containing 14 lines of code.
+Next Problem clicked @ 1500862477010
+Time spent on this problem: 1284 seconds
+<HR>

@@ -1,0 +1,123 @@
+Problem No. 7
+Using Template # 100
+The Problem:
+System.out.println("    " + numberOfQuarters + " quarters ");
+public class ComputeChange {
+int numberOfNickels = remainingAmount / 5;
+}}
+int numberOfQuarters = remainingAmount / 25;
+System.out.print("Enter an amount in double, for example 11.56: "); // This is line X
+System.out.println("    " + numberOfNickels + " nickels");
+remainingAmount = remainingAmount % 100;
+System.out.println("    " + numberOfPennies + " pennies");
+Scanner input = new Scanner(System.in) //This line should be placed before Line X
+Scanner input = new Scanner(System.in); //This line should be placed before Line X
+Int numberOfPennies = remainingAmount;
+int numberOfPennies = remainingAmount;
+System.out.println("    " + numberOfOneDollars + " dollars");
+remainingAmount = remainingAmount % 25;
+int numberOfOneDollars = remainingAmount / 100;
+double amount = input.nextDouble();
+int remainingAmount = (int)(amount * 100);
+remainingAmount = remainingAmount % 5;
+System.out.println("    " + numberOfDimes + " dimes");
+import java.util.Scanner;
+remainingAmount = remainingAmount % 10;
+public static void main(String[] args) {
+System.out.println("Your amount " + amount + " consists of"); //After this line, please print dollar first, then quarters, dimes, nickels and pennies
+int numberOfDimes = remainingAmount / 10;
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 25 lines.
+Re-assemble them with 27 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0:     int numberOfQuarters = remainingAmount / 25;
+2. Moved from problem to solution at line 1:     System.out.println("    " + numberOfPennies + " pennies");
+3. Moved from problem to solution at line 2:  }}
+4. Reordered from line 2 to 3:  }}
+5. Moved from solution to problem at line 6:     int numberOfQuarters = remainingAmount / 25;
+6. Moved from problem to solution at line 1:     System.out.println("    " + numberOfNickels + " nickels");
+7. Moved from problem to solution at line 1:     System.out.println("    " + numberOfDimes + " dimes");
+8. Moved from problem to solution at line 1:     System.out.println("    " + numberOfQuarters + " quarters ");
+9. Moved from problem to solution at line 1:     System.out.println("    " + numberOfOneDollars + " dollars");
+10. Moved from problem to solution at line 1:     System.out.println("Your amount " + amount + " consists of"); //After this line, please print dollar first, then quarters, dimes, nickels and pennies
+11. Moved from problem to solution at line 1:     int numberOfPennies = remainingAmount;
+12. Moved from problem to trash at line 0:     Int numberOfPennies = remainingAmount;
+13. Moved from problem to solution at line 1:     remainingAmount = remainingAmount % 5;
+14. Moved from problem to solution at line 1:     int numberOfNickels = remainingAmount / 5;
+15. Moved from problem to solution at line 1:     remainingAmount = remainingAmount % 10;
+16. Moved from problem to solution at line 1:     int numberOfDimes = remainingAmount / 10;
+17. Moved from problem to solution at line 1:     remainingAmount = remainingAmount % 25;
+18. Moved from problem to solution at line 1:     int numberOfQuarters = remainingAmount / 25;
+19. Moved from problem to solution at line 1:     remainingAmount = remainingAmount % 100;
+20. Moved from problem to solution at line 1:     int numberOfOneDollars = remainingAmount / 100;
+21. Moved from problem to solution at line 1:     int remainingAmount = (int)(amount * 100);
+22. Moved from problem to solution at line 1:     double amount = input.nextDouble();
+23. Moved from problem to solution at line 1:     System.out.print("Enter an amount in double, for example 11.56: "); // This is line X
+24. Moved from problem to solution at line 1:     Scanner input = new Scanner(System.in); //This line should be placed before Line X
+25. Moved from problem to solution at line 1:   public static void main(String[] args) {
+26. Moved from problem to solution at line 1: public class ComputeChange {
+27. Moved from problem to solution at line 1: import java.util.Scanner;
+28. Moved from problem to trash at line 1:     Scanner input = new Scanner(System.in) //This line should be placed before Line X
+Submit Parsons Solution clicked @ 1489459821057
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+27. Moved from problem to solution at line 1
+Line 2 (1 moves): public class ComputeChange {
+26. Moved from problem to solution at line 1
+Line 3 (1 moves):   public static void main(String[] args) {
+25. Moved from problem to solution at line 1
+Line 4 (1 moves):     Scanner input = new Scanner(System.in); //This line should be placed before Line X
+24. Moved from problem to solution at line 1
+Line 5 (1 moves):     System.out.print("Enter an amount in double, for example 11.56: "); // This is line X
+23. Moved from problem to solution at line 1
+Line 6 (1 moves):     double amount = input.nextDouble();
+22. Moved from problem to solution at line 1
+Line 7 (1 moves):     int remainingAmount = (int)(amount * 100);
+21. Moved from problem to solution at line 1
+Line 8 (1 moves):     int numberOfOneDollars = remainingAmount / 100;
+20. Moved from problem to solution at line 1
+Line 9 (1 moves):     remainingAmount = remainingAmount % 100;
+19. Moved from problem to solution at line 1
+Line 10 (3 moves):     int numberOfQuarters = remainingAmount / 25;
+1. Moved from problem to solution at line 0
+5. Moved from solution to problem at line 6
+18. Moved from problem to solution at line 1
+Line 11 (1 moves):     remainingAmount = remainingAmount % 25;
+17. Moved from problem to solution at line 1
+Line 12 (1 moves):     int numberOfDimes = remainingAmount / 10;
+16. Moved from problem to solution at line 1
+Line 13 (1 moves):     remainingAmount = remainingAmount % 10;
+15. Moved from problem to solution at line 1
+Line 14 (1 moves):     int numberOfNickels = remainingAmount / 5;
+14. Moved from problem to solution at line 1
+Line 15 (1 moves):     remainingAmount = remainingAmount % 5;
+13. Moved from problem to solution at line 1
+Line 16 (1 moves):     int numberOfPennies = remainingAmount;
+11. Moved from problem to solution at line 1
+Line 17 (1 moves):     System.out.println("Your amount " + amount + " consists of"); //After this line, please print dollar first, then quarters, dimes, nickels and pennies
+10. Moved from problem to solution at line 1
+Line 18 (1 moves):     System.out.println("    " + numberOfOneDollars + " dollars");
+9. Moved from problem to solution at line 1
+Line 19 (1 moves):     System.out.println("    " + numberOfQuarters + " quarters ");
+8. Moved from problem to solution at line 1
+Line 20 (1 moves):     System.out.println("    " + numberOfDimes + " dimes");
+7. Moved from problem to solution at line 1
+Line 21 (1 moves):     System.out.println("    " + numberOfNickels + " nickels");
+6. Moved from problem to solution at line 1
+Line 22 (1 moves):     System.out.println("    " + numberOfPennies + " pennies");
+2. Moved from problem to solution at line 1
+Line 23 (2 moves):  }}
+3. Moved from problem to solution at line 2
+4. Reordered from line 2 to 3
+Line 16 (22) (1 moves):     Int numberOfPennies = remainingAmount;
+12. Moved from problem to trash at line 0
+Line 4 (16) (1 moves):     Scanner input = new Scanner(System.in) //This line should be placed before Line X
+28. Moved from problem to trash at line 1
+Your Grade:
+You took 28 steps to solve a Parsons puzzle containing 25 lines of code.
+Next Problem clicked @ 1489459826921
+Time spent on this problem: 234 seconds
+<HR>

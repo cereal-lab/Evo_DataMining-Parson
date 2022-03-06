@@ -1,0 +1,108 @@
+Problem No. 3
+Using Template # 100
+The Problem:
+sum += number; // If number is 10 or 11, this line will not execute
+if (number == 10 || number = 11) continue; // This is line X
+if (number == 10 || number == 11) continue; // This is line X
+public static void main(String[] args) {
+public class TestContinue {
+int sum, number;
+}
+}}
+System.out.println("The sum is " + sum);
+number++; //This line should immediately be placed before Line X
+while (number <= 20) {
+while (number < 20) {
+sum = number = 0;
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 13 lines.
+Re-assemble them with 14 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: public class TestContinue {
+2. Moved from problem to solution at line 1:   public static void main(String[] args) {
+3. Reordered from line 2 to 1: public class TestContinue {
+4. Moved from problem to solution at line 2:     while (number <= 20) {
+5. Reordered from line 3 to 2:   public static void main(String[] args) {
+6. Moved from problem to trash at line 0:       if (number == 10 || number = 11) continue; // This is line X
+7. Moved from problem to solution at line 3:       if (number == 10 || number == 11) continue; // This is line X
+8. Reordered from line 4 to 3:     while (number <= 20) {
+9. Moved from problem to solution at line 4:       sum += number; // If number is 10 or 11, this line will not execute
+10. Reordered from line 5 to 4:       if (number == 10 || number == 11) continue; // This is line X
+11. Moved from problem to solution at line 3:     int sum, number;
+12. Moved from problem to solution at line 6:       number++; //This line should immediately be placed before Line X
+13. Reordered from line 7 to 6:       sum += number; // If number is 10 or 11, this line will not execute
+14. Moved from problem to solution at line 7:     }
+15. Reordered from line 8 to 7:       number++; //This line should immediately be placed before Line X
+16. Moved from problem to solution at line 4:     sum = number = 0;
+17. Moved from problem to solution at line 9:     System.out.println("The sum is " + sum);
+18. Reordered from line 10 to 9:     }
+19. Moved from problem to solution at line 10:   }}
+20. Reordered from line 11 to 10:     System.out.println("The sum is " + sum);
+21. Moved from problem to trash at line 1:     while (number < 20) {
+Submit Parsons Solution clicked @ 1488773353162
+Sorry, that line has a bug
+Delete this line:     while (number <= 20) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+22. Moved from solution to trash at line 2:     while (number <= 20) {
+23. Moved from trash to solution at line 5:     while (number < 20) {
+Submit Parsons Solution clicked @ 1488773374701
+This line is not in its correct location:       if (number == 10 || number == 11) continue; // This is line X
+Move this line in its place:       number++; //This line should immediately be placed before Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+24. Reordered from line 8 to 6:       number++; //This line should immediately be placed before Line X
+25. Reordered from line 8 to 6:       sum += number; // If number is 10 or 11, this line will not execute
+26. Reordered from line 6 to 9:       sum += number; // If number is 10 or 11, this line will not execute
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+27. Reordered from line 9 to 8:       sum += number; // If number is 10 or 11, this line will not execute
+Submit Parsons Solution clicked @ 1488773405446
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (2 moves): public class TestContinue {
+1. Moved from problem to solution at line 0
+3. Reordered from line 2 to 1
+Line 2 (2 moves):   public static void main(String[] args) {
+2. Moved from problem to solution at line 1
+5. Reordered from line 3 to 2
+Line 3 (1 moves):     int sum, number;
+11. Moved from problem to solution at line 3
+Line 4 (1 moves):     sum = number = 0;
+16. Moved from problem to solution at line 4
+Line 5 (2 moves):     while (number < 20) {
+21. Moved from problem to trash at line 1
+23. Moved from trash to solution at line 5
+Line 6 (3 moves):       number++; //This line should immediately be placed before Line X
+12. Moved from problem to solution at line 6
+15. Reordered from line 8 to 7
+24. Reordered from line 8 to 6
+Line 7 (2 moves):       if (number == 10 || number == 11) continue; // This is line X
+7. Moved from problem to solution at line 3
+10. Reordered from line 5 to 4
+Line 8 (5 moves):       sum += number; // If number is 10 or 11, this line will not execute
+9. Moved from problem to solution at line 4
+13. Reordered from line 7 to 6
+25. Reordered from line 8 to 6
+26. Reordered from line 6 to 9
+27. Reordered from line 9 to 8
+Line 9 (2 moves):     }
+14. Moved from problem to solution at line 7
+18. Reordered from line 10 to 9
+Line 10 (2 moves):     System.out.println("The sum is " + sum);
+17. Moved from problem to solution at line 9
+20. Reordered from line 11 to 10
+Line 11 (1 moves):   }}
+19. Moved from problem to solution at line 10
+Line 7 (10) (1 moves):       if (number == 10 || number = 11) continue; // This is line X
+6. Moved from problem to trash at line 0
+Line 5 (26) (3 moves):     while (number <= 20) {
+4. Moved from problem to solution at line 2
+8. Reordered from line 4 to 3
+22. Moved from solution to trash at line 2
+Your Grade:
+You took 27 steps to solve a Parsons puzzle containing 13 lines of code.
+Next Problem clicked @ 1488773409198
+Time spent on this problem: 326 seconds
+<HR>

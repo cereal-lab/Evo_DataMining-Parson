@@ -1,0 +1,218 @@
+Problem No. 9
+Using Template # 2001
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+} // End of if-clause
+} // End of else-clause
+short sound;
+System.out.print( "Sound is tolerable")
+System.out.print( "Sound is tolerable");
+sound = stdin.nextShort();
+System.out.print( "Enter the loudness of sound in decibels");
+if( sound  >  85 )
+If ( sound  >  85 )
+System.out.print( "Sound is loud");
+{
+{
+else
+Using Template # 2001
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare sound
+// Read sound
+// Compute and print whether the sound is loud (over 85) or tolerable
+}  // End of method main
+} // End of class Problem
+Using Template # 2001
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Moved from problem to trash at line 0: {
+Moved from problem to trash at line 1: {
+Moved from problem to trash at line 2: } // End of else-clause
+Moved from problem to trash at line 2: } // End of if-clause
+Moved from problem to solution at line 9: short sound;
+Moved from problem to solution at line 11: if( sound  >  85 )
+Reordered from line 11 to 13: if( sound  >  85 )
+Moved from problem to solution at line 11: System.out.print( "Enter the loudness of sound in decibels");
+Moved from problem to solution at line 12: sound = stdin.nextShort();
+Moved from problem to solution at line 16: System.out.print( "Sound is tolerable");
+Moved from problem to solution at line 17: else
+Moved from problem to solution at line 18: System.out.print( "Sound is tolerable")
+Moved from problem to trash at line 2: If ( sound  >  85 )
+Moved from problem to solution at line 18: System.out.print( "Sound is loud");
+Moved from solution to trash at line 3: System.out.print( "Sound is tolerable")
+Submit Parsons Solution clicked @ 1447975812316
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( sound  >  85 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Attempted to reorder } // End of class Problem
+This line was provided to you in its correct order. Do not reorder it.
+Submit Parsons Solution clicked @ 1447975860871
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( sound  >  85 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Attempted to move from solution to problem at line 13: } // End of class Problem
+Do not remove the lines already provided to you - they are all needed.
+Reordered from line 15 to 18: if( sound  >  85 )
+Submit Parsons Solution clicked @ 1447975885341
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( sound  >  85 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447975885586
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( sound  >  85 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 15: if( sound  >  85 )
+Reordered from line 18 to 17: System.out.print( "Sound is loud");
+Reordered from line 16 to 19: System.out.print( "Sound is tolerable");
+Reordered from line 19 to 18: System.out.print( "Sound is tolerable");
+Submit Parsons Solution clicked @ 1447975902777
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( sound  >  85 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 18: System.out.print( "Sound is tolerable")
+Moved from solution to trash at line 5: System.out.print( "Sound is tolerable")
+Submit Parsons Solution clicked @ 1447975913545
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( sound  >  85 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 19: } // End of if-clause
+Submit Parsons Solution clicked @ 1447975925697
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( sound  >  85 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 5: } // End of if-clause
+Reordered from line 12 to 11: sound = stdin.nextShort();
+Submit Parsons Solution clicked @ 1447975952592
+This line is not in its correct location: sound = stdin.nextShort();
+Move this line in its place: System.out.print( "Enter the loudness of sound in decibels");
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 11 to 13: sound = stdin.nextShort();
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Reordered from line 13 to 12: sound = stdin.nextShort();
+Submit Parsons Solution clicked @ 1447975959104
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( sound  >  85 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 3: System.out.print( "Sound is tolerable");
+Moved from solution to trash at line 4: else
+Submit Parsons Solution clicked @ 1447975969385
+Other lines should appear before this line: }  // End of method main
+Move this line in its place: if( sound  >  85 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Explain Parsons Solution clicked @ 1447975973412
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare sound
+Line 11 (1 moves): short sound;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Read sound
+Line 14 (1 moves): System.out.print( "Enter the loudness of sound in decibels");
+Moved from problem to solution at line 11
+Line 15 (4 moves): sound = stdin.nextShort();
+Moved from problem to solution at line 12
+Reordered from line 12 to 11
+Reordered from line 11 to 13
+Reordered from line 13 to 12
+Line 17 (0 moves): // Compute and print whether the sound is loud (over 85) or tolerable
+Line 26 (0 moves): }  // End of method main
+Line 18 (4 moves): if( sound  >  85 )
+Moved from problem to solution at line 11
+Reordered from line 11 to 13
+Reordered from line 15 to 18
+Reordered from line 18 to 15
+Line 20 (2 moves): System.out.print( "Sound is loud");
+Moved from problem to solution at line 18
+Reordered from line 18 to 17
+Line 28 (2 moves): } // End of class Problem
+Attempted to reorder line 28
+Attempted to move from solution to problem at line 13
+Line 19 (1 moves): {
+Moved from problem to trash at line 0
+Line 23 (1 moves): {
+Moved from problem to trash at line 1
+Line 25 (1 moves): } // End of else-clause
+Moved from problem to trash at line 2
+LINE 18 (1 moves): If ( sound  >  85 )
+Moved from problem to trash at line 2
+LINE 24 (4 moves): System.out.print( "Sound is tolerable")
+Moved from problem to solution at line 18
+Moved from solution to trash at line 3
+Moved from trash to solution at line 18
+Moved from solution to trash at line 5
+Line 21 (3 moves): } // End of if-clause
+Moved from problem to trash at line 2
+Moved from trash to solution at line 19
+Moved from solution to trash at line 5
+Line 24 (4 moves): System.out.print( "Sound is tolerable");
+Moved from problem to solution at line 16
+Reordered from line 16 to 19
+Reordered from line 19 to 18
+Moved from solution to trash at line 3
+Line 22 (2 moves): else
+Moved from problem to solution at line 17
+Moved from solution to trash at line 4
+Since you quit, this problem is being marked as not attempted
+Your Grade:
+You took 29 steps before bailing out of a Parsons puzzle containing 13 lines of code.
+The correct answer is as follows:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare sound
+short sound;
+// Read sound
+System.out.print( "Enter the loudness of sound in decibels");
+sound = stdin.nextShort();
+// Compute and print whether the sound is loud (over 85) or tolerable
+if( sound  >  85 )
+{
+System.out.print( "Sound is loud");
+} // End of if-clause
+else
+{
+System.out.print( "Sound is tolerable");
+} // End of else-clause
+}  // End of method main
+} // End of class Problem
+Click on 'Next Problem' button to go to the next problem
+Next Problem clicked @ 1447975975637
+Time spent on this problem: 225 seconds
+<HR>

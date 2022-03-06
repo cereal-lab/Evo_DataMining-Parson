@@ -1,0 +1,366 @@
+Problem No. 5
+Using Template # 100
+The Problem:
+int n2 = input.nextInt();                   // This is line Y
+k = 2; gcd = 1;
+gcd = k;
+k++;}
+int gcd, k;
+Scanner input = new Scanner(System.in);
+System.out.print("Enter first integer: "); //This line should immediately be placed before Line X
+if (n1 % k == 0 && n2 % k == 0)
+import java.util.Scanner;
+int n1 = input.nextInt();                  // This is line X
+}}
+System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+public static void Main(String[] args) {
+public static void main(String[] args) {
+System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+public class GreatestCommonDivisor {
+while (k <= n1 && k <= n2 {
+while (k <= n1 && k <= n2) {
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 18 lines.
+Re-assemble them with 19 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0:   public static void Main(String[] args) {
+Submit Parsons Solution clicked @ 1500865053641
+Please clear all the lines from the left panel before submitting your answer.
+2. Moved from solution to trash at line 0:   public static void Main(String[] args) {
+3. Moved from problem to solution at line 0:     System.out.print("Enter first integer: "); //This line should immediately be placed before Line X
+4. Moved from problem to solution at line 1:     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+5. Moved from problem to solution at line 2:     System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+6. Moved from problem to solution at line 3: }}
+7. Moved from problem to solution at line 2:       if (n1 % k == 0 && n2 % k == 0)
+8. Moved from problem to solution at line 3:     Scanner input = new Scanner(System.in);
+Submit Parsons Solution clicked @ 1500865157727
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865158034
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865158235
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865158506
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865158865
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865159145
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865159313
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865159427
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865159707
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865159861
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865160015
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865160168
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865160327
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865160474
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865160641
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865160795
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865160961
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865161128
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865161283
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865161446
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865161740
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865161893
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865162200
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865162358
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865162507
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865162686
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865162866
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865163032
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865163198
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865163368
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865163531
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865163710
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865163889
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865164056
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865164235
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865164416
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865164580
+Please clear all the lines from the left panel before submitting your answer.
+Submit Parsons Solution clicked @ 1500865164746
+Please clear all the lines from the left panel before submitting your answer.
+9. Moved from problem to solution at line 6: public class GreatestCommonDivisor {
+10. Moved from problem to solution at line 7:     while (k <= n1 && k <= n2) {
+11. Moved from problem to solution at line 8:     while (k <= n1 && k <= n2 {
+12. Moved from problem to solution at line 9:   public static void main(String[] args) {
+13. Moved from problem to solution at line 10:     int n1 = input.nextInt();                  // This is line X
+14. Moved from problem to solution at line 11: import java.util.Scanner;
+15. Moved from problem to solution at line 12:     k = 2; gcd = 1;
+16. Moved from problem to solution at line 13:       k++;}
+17. Moved from problem to solution at line 14:     int gcd, k;
+18. Moved from problem to solution at line 15:         gcd = k;
+19. Moved from problem to solution at line 16:     int n2 = input.nextInt();                   // This is line Y
+Submit Parsons Solution clicked @ 1500865185971
+This line is not in its correct location:     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1500865186704
+This line is not in its correct location:     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+20. Reordered from line 1 to 3:     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+Submit Parsons Solution clicked @ 1500865223866
+This line is not in its correct location:       if (n1 % k == 0 && n2 % k == 0)
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+21. Reordered from line 1 to 2:       if (n1 % k == 0 && n2 % k == 0)
+Submit Parsons Solution clicked @ 1500865240181
+This line is not in its correct location:     Scanner input = new Scanner(System.in);
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+22. Reordered from line 1 to 11:     Scanner input = new Scanner(System.in);
+Submit Parsons Solution clicked @ 1500865250997
+This line is not in its correct location:       if (n1 % k == 0 && n2 % k == 0)
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+23. Reordered from line 1 to 10:       if (n1 % k == 0 && n2 % k == 0)
+24. Reordered from line 2 to 13:     System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+25. Reordered from line 1 to 9:     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+26. Reordered from line 1 to 17: }}
+Submit Parsons Solution clicked @ 1500865268745
+This line is not in its correct location: public class GreatestCommonDivisor {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+27. Reordered from line 1 to 6: public class GreatestCommonDivisor {
+Submit Parsons Solution clicked @ 1500865280516
+This line is not in its correct location:     while (k <= n1 && k <= n2) {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+28. Reordered from line 1 to 5:     while (k <= n1 && k <= n2) {
+29. Reordered from line 1 to 5:     while (k <= n1 && k <= n2 {
+30. Reordered from line 2 to 9:     int n1 = input.nextInt();                  // This is line X
+Submit Parsons Solution clicked @ 1500865301911
+This line is not in its correct location:   public static void main(String[] args) {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+31. Reordered from line 1 to 2:   public static void main(String[] args) {
+Submit Parsons Solution clicked @ 1500865310333
+This line is not in its correct location:   public static void main(String[] args) {
+Move this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+32. Reordered from line 2 to 5:   public static void main(String[] args) {
+Submit Parsons Solution clicked @ 1500865325475
+This line is not in its correct location:     while (k <= n1 && k <= n2) {
+Move this line in its place: public class GreatestCommonDivisor {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+33. Reordered from line 2 to 4:     while (k <= n1 && k <= n2) {
+Submit Parsons Solution clicked @ 1500865335668
+Sorry, that line has a bug
+Delete this line:     while (k <= n1 && k <= n2 {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+34. Moved from solution to trash at line 1:     while (k <= n1 && k <= n2 {
+Submit Parsons Solution clicked @ 1500865342822
+This line is not in its correct location:     while (k <= n1 && k <= n2) {
+Move this line in its place:   public static void main(String[] args) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+35. Reordered from line 3 to 4:     while (k <= n1 && k <= n2) {
+Submit Parsons Solution clicked @ 1500865354275
+This line is not in its correct location:     while (k <= n1 && k <= n2) {
+Move this line in its place:     Scanner input = new Scanner(System.in);
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+36. Reordered from line 4 to 7:     while (k <= n1 && k <= n2) {
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Submit Parsons Solution clicked @ 1500865362298
+This line is not in its correct location:       if (n1 % k == 0 && n2 % k == 0)
+Move this line in its place:     Scanner input = new Scanner(System.in);
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+37. Reordered from line 4 to 6:       if (n1 % k == 0 && n2 % k == 0)
+Submit Parsons Solution clicked @ 1500865371113
+This line is not in its correct location:     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+Move this line in its place:     Scanner input = new Scanner(System.in);
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+38. Reordered from line 4 to 5:     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+Submit Parsons Solution clicked @ 1500865391898
+This line is not in its correct location:     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+Move this line in its place:     System.out.print("Enter first integer: "); //This line should immediately be placed before Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+39. Reordered from line 15 to 5:     System.out.print("Enter first integer: "); //This line should immediately be placed before Line X
+Submit Parsons Solution clicked @ 1500865407620
+This line is not in its correct location:     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+Move this line in its place:     int n1 = input.nextInt();                  // This is line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+40. Reordered from line 6 to 9:     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+Submit Parsons Solution clicked @ 1500865423169
+This line is not in its correct location:       if (n1 % k == 0 && n2 % k == 0)
+Move this line in its place:     int n1 = input.nextInt();                  // This is line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+41. Reordered from line 6 to 8:       if (n1 % k == 0 && n2 % k == 0)
+42. Reordered from line 7 to 6:     int n1 = input.nextInt();                  // This is line X
+Submit Parsons Solution clicked @ 1500865432927
+This line is not in its correct location:     while (k <= n1 && k <= n2) {
+Move this line in its place:     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+43. Reordered from line 7 to 9:     while (k <= n1 && k <= n2) {
+44. Reordered from line 15 to 9:     int n2 = input.nextInt();                   // This is line Y
+45. Reordered from line 7 to 11:       if (n1 % k == 0 && n2 % k == 0)
+Submit Parsons Solution clicked @ 1500865448795
+This line is not in its correct location:     while (k <= n1 && k <= n2) {
+Move this line in its place:     int gcd, k;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+46. Reordered from line 9 to 15:     while (k <= n1 && k <= n2) {
+Submit Parsons Solution clicked @ 1500865457072
+This line is not in its correct location:     k = 2; gcd = 1;
+Move this line in its place:     int gcd, k;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+47. Reordered from line 9 to 13:     k = 2; gcd = 1;
+48. Reordered from line 12 to 9:     int gcd, k;
+Submit Parsons Solution clicked @ 1500865493888
+This line is not in its correct location:       if (n1 % k == 0 && n2 % k == 0)
+Move this line in its place:     k = 2; gcd = 1;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+49. Reordered from line 13 to 10:     k = 2; gcd = 1;
+Submit Parsons Solution clicked @ 1500865504316
+This line is not in its correct location:       if (n1 % k == 0 && n2 % k == 0)
+Move this line in its place:     while (k <= n1 && k <= n2) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+50. Reordered from line 15 to 11:     while (k <= n1 && k <= n2) {
+Submit Parsons Solution clicked @ 1500865515837
+This line is not in its correct location:       k++;}
+Move this line in its place:         gcd = k;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+51. Reordered from line 15 to 13:         gcd = k;
+52. Reordered from line 14 to 16:       k++;}
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+53. Reordered from line 16 to 15:       k++;}
+Submit Parsons Solution clicked @ 1500865525749
+This line is not in its correct location:     System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+Move this line in its place:       k++;}
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+54. Reordered from line 14 to 15:     System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+Submit Parsons Solution clicked @ 1500865532214
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+14. Moved from problem to solution at line 11
+Line 2 (2 moves): public class GreatestCommonDivisor {
+9. Moved from problem to solution at line 6
+27. Reordered from line 1 to 6
+Line 3 (3 moves):   public static void main(String[] args) {
+12. Moved from problem to solution at line 9
+31. Reordered from line 1 to 2
+32. Reordered from line 2 to 5
+Line 4 (2 moves):     Scanner input = new Scanner(System.in);
+8. Moved from problem to solution at line 3
+22. Reordered from line 1 to 11
+Line 5 (2 moves):     System.out.print("Enter first integer: "); //This line should immediately be placed before Line X
+3. Moved from problem to solution at line 0
+39. Reordered from line 15 to 5
+Line 6 (3 moves):     int n1 = input.nextInt();                  // This is line X
+13. Moved from problem to solution at line 10
+30. Reordered from line 2 to 9
+42. Reordered from line 7 to 6
+Line 7 (5 moves):     System.out.print("Enter second integer: ");  //This line should immediately be placed before Line Y
+4. Moved from problem to solution at line 1
+20. Reordered from line 1 to 3
+25. Reordered from line 1 to 9
+38. Reordered from line 4 to 5
+40. Reordered from line 6 to 9
+Line 8 (2 moves):     int n2 = input.nextInt();                   // This is line Y
+19. Moved from problem to solution at line 16
+44. Reordered from line 15 to 9
+Line 9 (2 moves):     int gcd, k;
+17. Moved from problem to solution at line 14
+48. Reordered from line 12 to 9
+Line 10 (3 moves):     k = 2; gcd = 1;
+15. Moved from problem to solution at line 12
+47. Reordered from line 9 to 13
+49. Reordered from line 13 to 10
+Line 11 (8 moves):     while (k <= n1 && k <= n2) {
+10. Moved from problem to solution at line 7
+28. Reordered from line 1 to 5
+33. Reordered from line 2 to 4
+35. Reordered from line 3 to 4
+36. Reordered from line 4 to 7
+43. Reordered from line 7 to 9
+46. Reordered from line 9 to 15
+50. Reordered from line 15 to 11
+Line 12 (6 moves):       if (n1 % k == 0 && n2 % k == 0)
+7. Moved from problem to solution at line 2
+21. Reordered from line 1 to 2
+23. Reordered from line 1 to 10
+37. Reordered from line 4 to 6
+41. Reordered from line 6 to 8
+45. Reordered from line 7 to 11
+Line 13 (2 moves):         gcd = k;
+18. Moved from problem to solution at line 15
+51. Reordered from line 15 to 13
+Line 14 (3 moves):       k++;}
+16. Moved from problem to solution at line 13
+52. Reordered from line 14 to 16
+53. Reordered from line 16 to 15
+Line 15 (3 moves):     System.out.println("The greatest common divisor for " + n1 +  " and " + n2 + " is " + gcd);
+5. Moved from problem to solution at line 2
+24. Reordered from line 2 to 13
+54. Reordered from line 14 to 15
+Line 16 (2 moves): }}
+6. Moved from problem to solution at line 3
+26. Reordered from line 1 to 17
+Line 3 (3) (2 moves):   public static void Main(String[] args) {
+1. Moved from problem to solution at line 0
+2. Moved from solution to trash at line 0
+Line 11 (5) (3 moves):     while (k <= n1 && k <= n2 {
+11. Moved from problem to solution at line 8
+29. Reordered from line 1 to 5
+34. Moved from solution to trash at line 1
+Your Grade:
+You took 54 steps to solve a Parsons puzzle containing 18 lines of code.
+Next Problem clicked @ 1500865537927
+Time spent on this problem: 516 seconds
+<HR>

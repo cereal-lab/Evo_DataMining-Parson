@@ -1,0 +1,106 @@
+Problem No. 3
+Using Template # 100
+The Problem:
+public class HexDigit2Dec {
+if (hexString.length() != 1) {
+String hexString = input.nextLine();
+else if (Character.isDigit(ch))
+System.out.println("The decimal value for hex digit " + ch + " is " + value);}
+System.exit(1);}
+Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+int value = ch - 'A' + 10;
+}}
+System.out.println("You must enter exactly one character");
+System.out.print("Enter a hex digit: ");   // This is Line X
+import java.util.Scanner;
+public static void main(String[] args) {
+else
+System.out.println(ch + " is an invalid input");
+System.out.println("The decimal value for hex digit " + ch + " is " + ch);
+if (ch < 'F' && ch >= 'A') {                           // This is Line Y
+if if (ch <= 'F' && ch > 'A') {                           // This is Line Y
+if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 20 lines.
+Re-assemble them with 22 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: }}
+2. Moved from problem to solution at line 1: import java.util.Scanner;
+3. Moved from problem to solution at line 2: public class HexDigit2Dec {
+4. Moved from problem to solution at line 3:   public static void main(String[] args) {
+5. Moved from problem to solution at line 4:     Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+6. Moved from problem to solution at line 5:     System.out.print("Enter a hex digit: ");   // This is Line X
+7. Moved from problem to solution at line 6:     String hexString = input.nextLine();
+8. Moved from problem to solution at line 7:     if (hexString.length() != 1) {
+9. Moved from problem to solution at line 8:       System.out.println("You must enter exactly one character");
+10. Moved from problem to solution at line 9:       System.exit(1);}
+11. Moved from problem to solution at line 10:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+12. Moved from problem to solution at line 11:     if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+13. Moved from problem to trash at line 0:    if if (ch <= 'F' && ch > 'A') {                           // This is Line Y
+14. Moved from problem to trash at line 1:     if (ch < 'F' && ch >= 'A') {                           // This is Line Y
+15. Moved from problem to solution at line 12:       int value = ch - 'A' + 10;
+16. Moved from problem to solution at line 13:       System.out.println("The decimal value for hex digit " + ch + " is " + ch);
+17. Moved from problem to solution at line 14:     else if (Character.isDigit(ch))
+18. Moved from problem to solution at line 15:       System.out.println("The decimal value for hex digit " + ch + " is " + value);}
+19. Moved from problem to solution at line 16:     else
+20. Moved from problem to solution at line 17:       System.out.println(ch + " is an invalid input");
+Submit Parsons Solution clicked @ 1489463880712
+This line is not in its correct location:       System.out.println("The decimal value for hex digit " + ch + " is " + ch);
+Move this line in its place:       System.out.println("The decimal value for hex digit " + ch + " is " + value);}
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+21. Reordered from line 13 to 15:       System.out.println("The decimal value for hex digit " + ch + " is " + ch);
+22. Reordered from line 14 to 13:       System.out.println("The decimal value for hex digit " + ch + " is " + value);}
+Submit Parsons Solution clicked @ 1489463898521
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+2. Moved from problem to solution at line 1
+Line 2 (1 moves): public class HexDigit2Dec {
+3. Moved from problem to solution at line 2
+Line 3 (1 moves):   public static void main(String[] args) {
+4. Moved from problem to solution at line 3
+Line 4 (1 moves):     Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+5. Moved from problem to solution at line 4
+Line 5 (1 moves):     System.out.print("Enter a hex digit: ");   // This is Line X
+6. Moved from problem to solution at line 5
+Line 6 (1 moves):     String hexString = input.nextLine();
+7. Moved from problem to solution at line 6
+Line 7 (1 moves):     if (hexString.length() != 1) {
+8. Moved from problem to solution at line 7
+Line 8 (1 moves):       System.out.println("You must enter exactly one character");
+9. Moved from problem to solution at line 8
+Line 9 (1 moves):       System.exit(1);}
+10. Moved from problem to solution at line 9
+Line 10 (1 moves):     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+11. Moved from problem to solution at line 10
+Line 11 (1 moves):     if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+12. Moved from problem to solution at line 11
+Line 12 (1 moves):       int value = ch - 'A' + 10;
+15. Moved from problem to solution at line 12
+Line 13 (2 moves):       System.out.println("The decimal value for hex digit " + ch + " is " + value);}
+18. Moved from problem to solution at line 15
+22. Reordered from line 14 to 13
+Line 14 (1 moves):     else if (Character.isDigit(ch))
+17. Moved from problem to solution at line 14
+Line 15 (2 moves):       System.out.println("The decimal value for hex digit " + ch + " is " + ch);
+16. Moved from problem to solution at line 13
+21. Reordered from line 13 to 15
+Line 16 (1 moves):     else
+19. Moved from problem to solution at line 16
+Line 17 (1 moves):       System.out.println(ch + " is an invalid input");
+20. Moved from problem to solution at line 17
+Line 18 (1 moves): }}
+1. Moved from problem to solution at line 0
+Line 11 (15) (1 moves):    if if (ch <= 'F' && ch > 'A') {                           // This is Line Y
+13. Moved from problem to trash at line 0
+Line 11 (13) (1 moves):     if (ch < 'F' && ch >= 'A') {                           // This is Line Y
+14. Moved from problem to trash at line 1
+Your Grade:
+You took 22 steps to solve a Parsons puzzle containing 20 lines of code.
+Next Problem clicked @ 1489463902992
+Time spent on this problem: 222 seconds
+<HR>

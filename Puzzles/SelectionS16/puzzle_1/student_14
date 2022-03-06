@@ -1,0 +1,407 @@
+Problem No. 1
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+System.out.print( "Enter the first value");
+{
+else
+Else
+short secondValue;
+firstNum = stdin.nextShort();
+System.out.print( firstNum);
+if( firstNum  <  secondValue )
+secondValue = stdin.nextShort();
+{
+System.out.print( secondValue)
+System.out.print( secondValue);
+} // End of else-clause
+System.out.print( "Enter the second value");
+} // End of if-clause
+short firstNum;
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare firstNum
+// Declare secondValue
+// Read firstNum
+// Read secondValue
+// If firstNum is less than secondValue, print firstNum. Otherwise, print secondValue
+}  // End of method main
+} // End of class Problem
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+System.out.print( "Enter the first value");
+{
+else
+Else
+short secondValue;
+firstNum = stdin.nextShort();
+System.out.print( firstNum);
+if( firstNum  <  secondValue )
+secondValue = stdin.nextShort();
+{
+System.out.print( secondValue)
+System.out.print( secondValue);
+} // End of else-clause
+System.out.print( "Enter the second value");
+} // End of if-clause
+short firstNum;
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare firstNum
+// Declare secondValue
+// Read firstNum
+// Read secondValue
+// If firstNum is less than secondValue, print firstNum. Otherwise, print secondValue
+}  // End of method main
+} // End of class Problem
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Moved from problem to solution at line 14: {
+Moved from solution to problem at line 7: {
+Moved from problem to trash at line 0: Else
+Using Tutor selected  @ 1454628566056
+Moved from problem to solution at line 8: firstNum = stdin.nextShort();
+Reordered from line 8 to 10: firstNum = stdin.nextShort();
+Reordered from line 10 to 8: firstNum = stdin.nextShort();
+Reordered from line 8 to 9: firstNum = stdin.nextShort();
+Using Tutor selected  @ 1454628656653
+Moved from problem to solution at line 10: secondValue = stdin.nextShort();
+Reordered from line 10 to 12: secondValue = stdin.nextShort();
+Reordered from line 12 to 10: secondValue = stdin.nextShort();
+Reordered from line 10 to 11: secondValue = stdin.nextShort();
+Moved from problem to solution at line 12: System.out.print( "Enter the first value");
+Reordered from line 12 to 13: System.out.print( "Enter the first value");
+Moved from problem to solution at line 15: System.out.print( "Enter the second value");
+Moved from problem to solution at line 16: if( firstNum  <  secondValue )
+Reordered from line 16 to 17: if( firstNum  <  secondValue )
+Moved from problem to solution at line 17: {
+Reordered from line 17 to 18: {
+Moved from problem to solution at line 19: System.out.print( firstNum);
+Moved from problem to solution at line 19: } // End of if-clause
+Reordered from line 19 to 20: } // End of if-clause
+Moved from problem to solution at line 21: else
+Moved from problem to solution at line 22: {
+Moved from problem to solution at line 22: System.out.print( secondValue)
+Moved from problem to solution at line 24: } // End of else-clause
+Moved from problem to solution at line 9: short firstNum;
+Moved from problem to solution at line 12: short secondValue;
+Moved from problem to trash at line 1: System.out.print( secondValue);
+Submit Parsons Solution clicked @ 1454628941637
+This line is not in its correct location: firstNum = stdin.nextShort();
+Either delete it or move it past this line: // Declare secondValue
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 10 to 9: firstNum = stdin.nextShort();
+Attempted to reorder // Read firstNum
+This line was provided to you in its correct order. Do not reorder it.
+Submit Parsons Solution clicked @ 1454628962970
+This line is not in its correct location: firstNum = stdin.nextShort();
+Move this line in its place: short firstNum;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to problem at line 10: firstNum = stdin.nextShort();
+Moved from problem to solution at line 9: firstNum = stdin.nextShort();
+Submit Parsons Solution clicked @ 1454628982065
+This line is not in its correct location: firstNum = stdin.nextShort();
+Move this line in its place: short firstNum;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1454629006357
+This line is not in its correct location: firstNum = stdin.nextShort();
+Move this line in its place: short firstNum;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 10 to 9: short firstNum;
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Submit Parsons Solution clicked @ 1454629012770
+This line is not in its correct location: firstNum = stdin.nextShort();
+Either delete it or move it past this line: // Declare secondValue
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to problem at line 11: short firstNum;
+Moved from problem to solution at line 11: short firstNum;
+Reordered from line 11 to 8: short firstNum;
+Reordered from line 8 to 9: short firstNum;
+Submit Parsons Solution clicked @ 1454629070770
+This line is not in its correct location: firstNum = stdin.nextShort();
+Either delete it or move it past this line: // Declare secondValue
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 10 to 19: firstNum = stdin.nextShort();
+Submit Parsons Solution clicked @ 1454629083064
+This line is not in its correct location: secondValue = stdin.nextShort();
+Either delete it or move it past this line: // Read firstNum
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 12 to 19: secondValue = stdin.nextShort();
+Submit Parsons Solution clicked @ 1454629090069
+Other lines should appear before this line: // Read secondValue
+Move this line in its place: firstNum = stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 7: firstNum = stdin.nextShort();
+Reordered from line 7 to 8: firstNum = stdin.nextShort();
+Reordered from line 19 to 8: secondValue = stdin.nextShort();
+Reordered from line 8 to 9: secondValue = stdin.nextShort();
+Submit Parsons Solution clicked @ 1454629159874
+This line is not in its correct location: firstNum = stdin.nextShort();
+Either delete it or move it past this line: // Declare firstNum
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 8 to 20: firstNum = stdin.nextShort();
+Reordered from line 20 to 19: firstNum = stdin.nextShort();
+Reordered from line 8 to 25: secondValue = stdin.nextShort();
+Reordered from line 25 to 24: secondValue = stdin.nextShort();
+Submit Parsons Solution clicked @ 1454629208427
+Other lines should appear before this line: // Read secondValue
+Move this line in its place: firstNum = stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 24 to 27: secondValue = stdin.nextShort();
+Reordered from line 18 to 26: firstNum = stdin.nextShort();
+Submit Parsons Solution clicked @ 1454629251532
+Other lines should appear before this line: // Read secondValue
+Move this line in its place: firstNum = stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1454629254729
+Other lines should appear before this line: // Read secondValue
+Move this line in its place: firstNum = stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1454629255303
+Other lines should appear before this line: // Read secondValue
+Move this line in its place: firstNum = stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1454629255382
+Other lines should appear before this line: // Read secondValue
+Move this line in its place: firstNum = stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1454629255618
+Other lines should appear before this line: // Read secondValue
+Move this line in its place: firstNum = stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1454629255666
+Other lines should appear before this line: // Read secondValue
+Move this line in its place: firstNum = stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1454629255924
+Other lines should appear before this line: // Read secondValue
+Move this line in its place: firstNum = stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1454629255968
+Other lines should appear before this line: // Read secondValue
+Move this line in its place: firstNum = stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 26 to 13: firstNum = stdin.nextShort();
+Submit Parsons Solution clicked @ 1454629275322
+This line is not in its correct location: firstNum = stdin.nextShort();
+Move this line in its place: System.out.print( "Enter the first value");
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 13 to 12: firstNum = stdin.nextShort();
+Submit Parsons Solution clicked @ 1454629301576
+This line is not in its correct location: firstNum = stdin.nextShort();
+Either delete it or move it past this line: // Read firstNum
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 12 to 11: firstNum = stdin.nextShort();
+Submit Parsons Solution clicked @ 1454629316796
+This line is not in its correct location: firstNum = stdin.nextShort();
+Move this line in its place: short secondValue;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 11 to 10: firstNum = stdin.nextShort();
+Submit Parsons Solution clicked @ 1454629324832
+This line is not in its correct location: firstNum = stdin.nextShort();
+Either delete it or move it past this line: // Declare secondValue
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 10 to 9: firstNum = stdin.nextShort();
+Submit Parsons Solution clicked @ 1454629329947
+This line is not in its correct location: firstNum = stdin.nextShort();
+Move this line in its place: short firstNum;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 9 to 8: firstNum = stdin.nextShort();
+Submit Parsons Solution clicked @ 1454629338745
+This line is not in its correct location: firstNum = stdin.nextShort();
+Either delete it or move it past this line: // Declare firstNum
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 8 to 7: firstNum = stdin.nextShort();
+Submit Parsons Solution clicked @ 1454629345206
+This line is not in its correct location: firstNum = stdin.nextShort();
+Either delete it or move it past this line: Scanner stdin = new Scanner( System.in );
+This code must appear after {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 2: firstNum = stdin.nextShort();
+Submit Parsons Solution clicked @ 1454629371610
+Other lines should appear before this line: // Read secondValue
+Insert this line in its place: firstNum = stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 14: firstNum = stdin.nextShort();
+Submit Parsons Solution clicked @ 1454629391535
+Other lines should appear before this line: // If firstNum is less than secondValue, print firstNum. Otherwise, print secondValue
+Move this line in its place: secondValue = stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 27 to 16: secondValue = stdin.nextShort();
+Reordered from line 16 to 17: secondValue = stdin.nextShort();
+Submit Parsons Solution clicked @ 1454629408300
+Every statement must end with a semi-colon ;
+Delete this line: System.out.print( secondValue)
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 2: System.out.print( secondValue)
+Moved from trash to solution at line 23: System.out.print( secondValue);
+Reordered from line 23 to 24: System.out.print( secondValue);
+Submit Parsons Solution clicked @ 1454629422990
+This line is not in its correct location: {
+Either delete it or move it past this line: }  // End of method main
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 2: {
+Submit Parsons Solution clicked @ 1454629430969
+This line is not in its correct location: } // End of else-clause
+Either delete it or move it past this line: }  // End of method main
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 3: } // End of else-clause
+Submit Parsons Solution clicked @ 1454629438995
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare firstNum
+Line 11 (6 moves): short firstNum;
+Moved from problem to solution at line 9
+Reordered from line 10 to 9
+Moved from solution to problem at line 11
+Moved from problem to solution at line 11
+Reordered from line 11 to 8
+Reordered from line 8 to 9
+Line 13 (0 moves): // Declare secondValue
+Line 14 (1 moves): short secondValue;
+Moved from problem to solution at line 12
+Line 16 (1 moves): // Read firstNum
+Attempted to reorder line 16
+Line 17 (2 moves): System.out.print( "Enter the first value");
+Moved from problem to solution at line 12
+Reordered from line 12 to 13
+Line 18 (22 moves): firstNum = stdin.nextShort();
+Moved from problem to solution at line 8
+Reordered from line 8 to 10
+Reordered from line 10 to 8
+Reordered from line 8 to 9
+Reordered from line 10 to 9
+Moved from solution to problem at line 10
+Moved from problem to solution at line 9
+Reordered from line 10 to 19
+Reordered from line 18 to 7
+Reordered from line 7 to 8
+Reordered from line 8 to 20
+Reordered from line 20 to 19
+Reordered from line 18 to 26
+Reordered from line 26 to 13
+Reordered from line 13 to 12
+Reordered from line 12 to 11
+Reordered from line 11 to 10
+Reordered from line 10 to 9
+Reordered from line 9 to 8
+Reordered from line 8 to 7
+Moved from solution to trash at line 2
+Moved from trash to solution at line 14
+Line 20 (0 moves): // Read secondValue
+Line 21 (1 moves): System.out.print( "Enter the second value");
+Moved from problem to solution at line 15
+Line 22 (12 moves): secondValue = stdin.nextShort();
+Moved from problem to solution at line 10
+Reordered from line 10 to 12
+Reordered from line 12 to 10
+Reordered from line 10 to 11
+Reordered from line 12 to 19
+Reordered from line 19 to 8
+Reordered from line 8 to 9
+Reordered from line 8 to 25
+Reordered from line 25 to 24
+Reordered from line 24 to 27
+Reordered from line 27 to 16
+Reordered from line 16 to 17
+Line 24 (0 moves): // If firstNum is less than secondValue, print firstNum. Otherwise, print secondValue
+Line 25 (2 moves): if( firstNum  <  secondValue )
+Moved from problem to solution at line 16
+Reordered from line 16 to 17
+Line 26 (4 moves): {
+Moved from problem to solution at line 14
+Moved from solution to problem at line 7
+Moved from problem to solution at line 17
+Reordered from line 17 to 18
+Line 27 (1 moves): System.out.print( firstNum);
+Moved from problem to solution at line 19
+Line 28 (2 moves): } // End of if-clause
+Moved from problem to solution at line 19
+Reordered from line 19 to 20
+Line 29 (1 moves): else
+Moved from problem to solution at line 21
+Line 31 (3 moves): System.out.print( secondValue);
+Moved from problem to trash at line 1
+Moved from trash to solution at line 23
+Reordered from line 23 to 24
+Line 33 (0 moves): }  // End of method main
+Line 35 (0 moves): } // End of class Problem
+LINE 29 (1 moves): Else
+Moved from problem to trash at line 0
+LINE 31 (2 moves): System.out.print( secondValue)
+Moved from problem to solution at line 22
+Moved from solution to trash at line 2
+Line 30 (2 moves): {
+Moved from problem to solution at line 22
+Moved from solution to trash at line 2
+Line 32 (2 moves): } // End of else-clause
+Moved from problem to solution at line 24
+Moved from solution to trash at line 3
+Your Grade:
+You took 64 steps to solve a Parsons puzzle containing 16 lines of code.
+Next Problem clicked @ 1454629444605
+Time spent on this problem: 1051 seconds
+<HR>

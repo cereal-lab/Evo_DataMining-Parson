@@ -1,0 +1,112 @@
+Problem No. 8
+Using Template # 2006
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+{
+{
+} // End of if-clause
+if( sharePrice  /  earnings  <=  19.0 )
+double earnings;
+cout << "Enter the earnings of the stock";
+cin > > earnings;
+cin >> earnings;
+double sharePrice;
+cin >> sharePrice;
+Cout << "Enter the price of the stock";
+cout << "Buy the stock";
+cout << "Sell the stock";
+else
+cout << "Enter the price of the stock";
+} // End of else-clause
+Using Template # 2006
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The C++ program
+#include <iostream>
+using namespace std;
+int main()
+{
+// Declare sharePrice
+// Declare earnings
+// Read sharePrice
+// Read earnings
+// Compute and print the smaller value of sharePrice and earnings
+}  // End of function main
+Using Template # 2006
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Moved from problem to solution at line 7: double sharePrice;
+Moved from problem to solution at line 9: double earnings;
+Moved from problem to solution at line 11: Cout << "Enter the price of the stock";
+Moved from problem to solution at line 12: cin >> sharePrice;
+Moved from problem to solution at line 13: cout << "Enter the earnings of the stock";
+Reordered from line 13 to 14: cout << "Enter the earnings of the stock";
+Moved from problem to solution at line 15: cin >> earnings;
+Moved from problem to trash at line 0: cin > > earnings;
+Moved from problem to solution at line 17: if( sharePrice  /  earnings  <=  19.0 )
+Moved from problem to solution at line 18: {
+Moved from problem to solution at line 19: cout << "Buy the stock";
+Moved from problem to solution at line 20: } // End of if-clause
+Moved from problem to solution at line 21: else
+Moved from problem to solution at line 22: {
+Moved from problem to solution at line 23: cout << "Sell the stock";
+Moved from problem to solution at line 24: } // End of else-clause
+Moved from solution to problem at line 7: Cout << "Enter the price of the stock";
+Moved from problem to solution at line 10: cout << "Enter the price of the stock";
+Reordered from line 10 to 11: cout << "Enter the price of the stock";
+Moved from problem to trash at line 1: Cout << "Enter the price of the stock";
+Submit Parsons Solution clicked @ 1461952049136
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The C++ program
+Line 2 (0 moves): #include <iostream>
+Line 3 (0 moves): using namespace std;
+Line 5 (0 moves): int main()
+Line 6 (0 moves): {
+Line 8 (0 moves): // Declare sharePrice
+Line 9 (1 moves): double sharePrice;
+Moved from problem to solution at line 7
+Line 11 (0 moves): // Declare earnings
+Line 12 (1 moves): double earnings;
+Moved from problem to solution at line 9
+Line 14 (0 moves): // Read sharePrice
+Line 15 (2 moves): cout << "Enter the price of the stock";
+Moved from problem to solution at line 10
+Reordered from line 10 to 11
+Line 16 (1 moves): cin >> sharePrice;
+Moved from problem to solution at line 12
+Line 18 (0 moves): // Read earnings
+Line 19 (2 moves): cout << "Enter the earnings of the stock";
+Moved from problem to solution at line 13
+Reordered from line 13 to 14
+Line 20 (1 moves): cin >> earnings;
+Moved from problem to solution at line 15
+Line 22 (0 moves): // Compute and print the smaller value of sharePrice and earnings
+Line 23 (1 moves): if( sharePrice  /  earnings  <=  19.0 )
+Moved from problem to solution at line 17
+Line 24 (1 moves): {
+Moved from problem to solution at line 18
+Line 25 (1 moves): cout << "Buy the stock";
+Moved from problem to solution at line 19
+Line 26 (1 moves): } // End of if-clause
+Moved from problem to solution at line 20
+Line 27 (1 moves): else
+Moved from problem to solution at line 21
+Line 28 (1 moves): {
+Moved from problem to solution at line 22
+Line 29 (1 moves): cout << "Sell the stock";
+Moved from problem to solution at line 23
+Line 30 (1 moves): } // End of else-clause
+Moved from problem to solution at line 24
+Line 31 (0 moves): }  // End of function main
+LINE 20 (1 moves): cin > > earnings;
+Moved from problem to trash at line 0
+LINE 15 (3 moves): Cout << "Enter the price of the stock";
+Moved from problem to solution at line 11
+Moved from solution to problem at line 7
+Moved from problem to trash at line 1
+Your Grade:
+You took 20 steps to solve a Parsons puzzle containing 16 lines of code.
+Next Problem clicked @ 1461952063193
+Time spent on this problem: 115 seconds
+<HR>

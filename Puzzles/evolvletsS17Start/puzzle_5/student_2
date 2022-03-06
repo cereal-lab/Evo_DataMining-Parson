@@ -1,0 +1,186 @@
+Problem No. 5
+Using Template # 100
+The Problem:
+System.out.println("Obese");
+int bmi = 24.60;
+double bmi = 24.60;
+else
+System.out.println("Overweight");
+System.out.println("Underweight")
+System.out.println("Underweight");
+}}
+if (bmi < 18.5)
+public class BMIInterprete {
+public static void main(String[] args) {
+System.out.println("Normal");
+import java.util.Scanner;
+else if (bmi < 30) // Line X
+else if (bmi < 25) //This line should be written before Line X
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 15 lines.
+Re-assemble them with 16 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: }}
+2. Moved from problem to solution at line 1: import java.util.Scanner;
+3. Moved from problem to solution at line 2: public class BMIInterprete {
+4. Moved from problem to solution at line 3:   public static void main(String[] args) {
+5. Moved from problem to solution at line 4:     int bmi = 24.60;
+6. Moved from problem to solution at line 5:     double bmi = 24.60;
+7. Moved from problem to solution at line 6:     if (bmi < 18.5)
+8. Moved from problem to solution at line 7:       System.out.println("Underweight");
+9. Moved from problem to solution at line 8:     else if (bmi < 25) //This line should be written before Line X
+10. Moved from problem to solution at line 9:       System.out.println("Overweight");
+11. Moved from problem to solution at line 10:     else if (bmi < 30) // Line X
+12. Moved from problem to solution at line 11:       System.out.println("Obese");
+13. Moved from problem to solution at line 12:     else
+14. Moved from problem to solution at line 13:       System.out.println("Normal");
+15. Moved from problem to trash at line 0:       System.out.println("Underweight")
+Submit Parsons Solution clicked @ 1488851597523
+Sorry, that line has a bug
+Delete this line:     int bmi = 24.60;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+16. Moved from solution to trash at line 1:     int bmi = 24.60;
+Submit Parsons Solution clicked @ 1488851605099
+This line is not in its correct location:       System.out.println("Overweight");
+Move this line in its place:       System.out.println("Normal");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+17. Reordered from line 12 to 8:       System.out.println("Normal");
+18. Reordered from line 11 to 9:       System.out.println("Obese");
+19. Reordered from line 11 to 10:     else if (bmi < 30) // Line X
+Submit Parsons Solution clicked @ 1488851620087
+This line is not in its correct location:       System.out.println("Obese");
+Move this line in its place:     else if (bmi < 30) // Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+20. Reordered from line 9 to 11:       System.out.println("Obese");
+21. Reordered from line 10 to 9:       System.out.println("Overweight");
+Submit Parsons Solution clicked @ 1488851625939
+This line is not in its correct location:       System.out.println("Overweight");
+Move this line in its place:     else if (bmi < 30) // Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+22. Reordered from line 7 to 8:     else if (bmi < 25) //This line should be written before Line X
+23. Reordered from line 12 to 7:     else
+Submit Parsons Solution clicked @ 1488851636449
+This line is not in its correct location:     else
+Move this line in its place:     else if (bmi < 25) //This line should be written before Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+24. Reordered from line 8 to 13:       System.out.println("Normal");
+25. Reordered from line 12 to 13: }}
+26. Reordered from line 7 to 12:     else
+27. Reordered from line 11 to 12:       System.out.println("Normal");
+Submit Parsons Solution clicked @ 1488851652824
+This line is not in its correct location:       System.out.println("Overweight");
+Move this line in its place:       System.out.println("Normal");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+28. Reordered from line 9 to 8:     else if (bmi < 30) // Line X
+Submit Parsons Solution clicked @ 1488851660309
+This line is not in its correct location:     else if (bmi < 30) // Line X
+Move this line in its place:       System.out.println("Normal");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+29. Reordered from line 9 to 8:       System.out.println("Overweight");
+Submit Parsons Solution clicked @ 1488851664863
+This line is not in its correct location:       System.out.println("Overweight");
+Move this line in its place:       System.out.println("Normal");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+30. Reordered from line 12 to 8:       System.out.println("Normal");
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Submit Parsons Solution clicked @ 1488851674719
+This line is not in its correct location:       System.out.println("Overweight");
+Move this line in its place:     else if (bmi < 30) // Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Explain Parsons Solution clicked @ 1488851684609
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+2. Moved from problem to solution at line 1
+Line 2 (1 moves): public class BMIInterprete {
+3. Moved from problem to solution at line 2
+Line 3 (1 moves):   public static void main(String[] args) {
+4. Moved from problem to solution at line 3
+Line 4 (1 moves):     double bmi = 24.60;
+6. Moved from problem to solution at line 5
+Line 5 (1 moves):     if (bmi < 18.5)
+7. Moved from problem to solution at line 6
+Line 6 (1 moves):       System.out.println("Underweight");
+8. Moved from problem to solution at line 7
+Line 7 (2 moves):     else if (bmi < 25) //This line should be written before Line X
+9. Moved from problem to solution at line 8
+22. Reordered from line 7 to 8
+Line 8 (5 moves):       System.out.println("Normal");
+14. Moved from problem to solution at line 13
+17. Reordered from line 12 to 8
+24. Reordered from line 8 to 13
+27. Reordered from line 11 to 12
+30. Reordered from line 12 to 8
+Line 10 (3 moves):       System.out.println("Overweight");
+10. Moved from problem to solution at line 9
+21. Reordered from line 10 to 9
+29. Reordered from line 9 to 8
+Line 9 (3 moves):     else if (bmi < 30) // Line X
+11. Moved from problem to solution at line 10
+19. Reordered from line 11 to 10
+28. Reordered from line 9 to 8
+Line 12 (3 moves):       System.out.println("Obese");
+12. Moved from problem to solution at line 11
+18. Reordered from line 11 to 9
+20. Reordered from line 9 to 11
+Line 11 (3 moves):     else
+13. Moved from problem to solution at line 12
+23. Reordered from line 12 to 7
+26. Reordered from line 7 to 12
+Line 13 (2 moves): }}
+1. Moved from problem to solution at line 0
+25. Reordered from line 12 to 13
+Line 6 (16) (1 moves):       System.out.println("Underweight")
+15. Moved from problem to trash at line 0
+Line 4 (34) (2 moves):     int bmi = 24.60;
+5. Moved from problem to solution at line 4
+16. Moved from solution to trash at line 1
+Since you quit, this problem is being marked as not attempted
+Your Grade:
+You took 30 steps before bailing out of a Parsons puzzle containing 15 lines of code.
+Your answer so far is as follows:
+import java.util.Scanner;
+public class BMIInterprete {
+public static void main(String[] args) {
+double bmi = 24.60;
+if (bmi < 18.5)
+System.out.println("Underweight");
+else if (bmi < 25) //This line should be written before Line X
+System.out.println("Normal");
+System.out.println("Overweight");
+else if (bmi < 30) // Line X
+System.out.println("Obese");
+else
+}}
+The lines you deleted so far are as follows:
+System.out.println("Underweight")
+int bmi = 24.60;
+The correct answer is as follows:
+import java.util.Scanner;
+public class BMIInterprete {
+public static void main(String[] args) {
+double bmi = 24.60;
+if (bmi < 18.5)
+System.out.println("Underweight");
+else if (bmi < 25) //This line should be written before Line X
+System.out.println("Normal");
+else if (bmi < 30) // Line X
+System.out.println("Overweight");
+else
+System.out.println("Obese");
+}}
+Click on 'Next Problem' button to go to the next problem
+Next Problem clicked @ 1488851759838
+Time spent on this problem: 342 seconds
+<HR>

@@ -1,0 +1,727 @@
+Problem No. 2
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+} // End of else-clause
+short numGrade;
+if( numGrade  >=  55 )
+} // End of else-clause
+{
+{
+System.out.print( "Enter the numerical grade");
+Else
+else
+} // End of if-clause
+if( numGrade  >=  80 )
+if( numGrade  >=  70 )
+{
+else
+numGrade = stdin.nextShort();
+{
+letterGrade  =  'F';
+} // End of else-clause
+{
+} // End of else-clause
+letterGrade  =  'C';
+} // End of if-clause
+System.out.print( letterGrade)
+System.out.print( letterGrade);
+letterGrade  =  'B';
+if( numGrade  >=  90 )
+letterGrade  =  'D';
+char letterGrade;
+else
+{
+{
+else
+{
+letterGrade  =  'A';
+} // End of if-clause
+} // End of if-clause
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare numGrade
+// Declare letterGrade
+// Read numGrade
+// Compute letterGrade based on numGrade
+// Print letterGrade
+}  // End of method main
+} // End of class Problem
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to solution at line 13: System.out.print( letterGrade);
+Moved from problem to solution at line 11: if( numGrade  >=  90 )
+Reordered from line 11 to 13: if( numGrade  >=  90 )
+Reordered from line 13 to 12: if( numGrade  >=  90 )
+Moved from problem to solution at line 13: } // End of if-clause
+Moved from problem to solution at line 13: {
+Moved from problem to solution at line 13: else
+Reordered from line 13 to 14: else
+Moved from problem to solution at line 15: if( numGrade  >=  80 )
+Moved from problem to solution at line 16: } // End of else-clause
+Moved from problem to solution at line 16: if( numGrade  >=  70 )
+Reordered from line 16 to 18: if( numGrade  >=  70 )
+Reordered from line 18 to 17: if( numGrade  >=  70 )
+Moved from problem to solution at line 18: {
+Moved from problem to solution at line 19: else
+Moved from problem to trash at line 0: Else
+Moved from problem to solution at line 21: if( numGrade  >=  55 )
+Reordered from line 21 to 20: if( numGrade  >=  55 )
+Moved from problem to solution at line 21: } // End of else-clause
+Moved from problem to solution at line 9: letterGrade  =  'F';
+Moved from problem to solution at line 9: letterGrade  =  'B';
+Moved from problem to solution at line 9: letterGrade  =  'A';
+Moved from problem to solution at line 11: letterGrade  =  'C';
+Moved from problem to solution at line 12: letterGrade  =  'D';
+Moved from problem to solution at line 9: System.out.print( "Enter the numerical grade");
+Moved from problem to solution at line 10: numGrade = stdin.nextShort();
+Reordered from line 11 to 17: letterGrade  =  'A';
+Attempted to reorder // Compute letterGrade based on numGrade
+This line was provided to you in its correct order. Do not reorder it.
+Reordered from line 17 to 16: letterGrade  =  'A';
+Reordered from line 11 to 17: letterGrade  =  'B';
+Attempted to reorder // Compute letterGrade based on numGrade
+This line was provided to you in its correct order. Do not reorder it.
+Reordered from line 17 to 16: letterGrade  =  'B';
+Reordered from line 11 to 16: letterGrade  =  'C';
+Reordered from line 11 to 16: letterGrade  =  'D';
+Reordered from line 11 to 17: letterGrade  =  'F';
+Reordered from line 17 to 16: letterGrade  =  'F';
+Moved from problem to solution at line 31: System.out.print( letterGrade)
+Moved from solution to problem at line 36: System.out.print( letterGrade)
+Moved from problem to trash at line 1: System.out.print( letterGrade)
+Moved from problem to solution at line 10: char letterGrade;
+Reordered from line 10 to 19: char letterGrade;
+Reordered from line 19 to 18: char letterGrade;
+Moved from problem to solution at line 19: short numGrade;
+Moved from problem to trash at line 2: } // End of if-clause
+Moved from problem to trash at line 3: else
+Moved from problem to trash at line 3: {
+Moved from problem to trash at line 5: else
+Moved from problem to trash at line 2: {
+Moved from problem to trash at line 2: } // End of else-clause
+Moved from problem to trash at line 1: {
+Moved from problem to trash at line 1: {
+Moved from problem to trash at line 9: {
+Moved from problem to trash at line 2: } // End of else-clause
+Moved from problem to trash at line 3: } // End of if-clause
+Moved from problem to trash at line 4: } // End of if-clause
+Moved from problem to trash at line 2: {
+Submit Parsons Solution clicked @ 1455337273484
+This line is not in its correct location: System.out.print( "Enter the numerical grade");
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 9 to 18: System.out.print( "Enter the numerical grade");
+Reordered from line 18 to 17: System.out.print( "Enter the numerical grade");
+Submit Parsons Solution clicked @ 1455337303555
+This line is not in its correct location: numGrade = stdin.nextShort();
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 9 to 18: numGrade = stdin.nextShort();
+Reordered from line 18 to 17: numGrade = stdin.nextShort();
+Submit Parsons Solution clicked @ 1455337312243
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337321133
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337321617
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337321811
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337322311
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337322609
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337322779
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337322948
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337323118
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337323279
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337323432
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337323610
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337323803
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337323973
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337324134
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337324303
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337324481
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337324650
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337324827
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337324981
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337325166
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337325352
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337325683
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337325868
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337326022
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337326312
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337326465
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337326610
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337326780
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337333113
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337333540
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337333830
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337334024
+Other lines should appear before this line: // Declare letterGrade
+Move this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 4: short numGrade;
+Submit Parsons Solution clicked @ 1455337369931
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337370762
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337370964
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337371230
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337371383
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337371537
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337371722
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337371940
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337372085
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337372254
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337410867
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337411327
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337411504
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337411916
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337412093
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337412247
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337412505
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455337412706
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 17 to 9: numGrade = stdin.nextShort();
+Submit Parsons Solution clicked @ 1455337429161
+This line is not in its correct location: numGrade = stdin.nextShort();
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 17 to 33: System.out.print( "Enter the numerical grade");
+Reordered from line 33 to 32: System.out.print( "Enter the numerical grade");
+Reordered from line 32 to 31: System.out.print( "Enter the numerical grade");
+Submit Parsons Solution clicked @ 1455337467849
+This line is not in its correct location: numGrade = stdin.nextShort();
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 9 to 17: numGrade = stdin.nextShort();
+Submit Parsons Solution clicked @ 1455337475723
+Other lines should appear before this line: // Declare letterGrade
+Insert this line in its place: short numGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 9: short numGrade;
+Submit Parsons Solution clicked @ 1455337501782
+This line is not in its correct location: letterGrade  =  'A';
+Move this line in its place: char letterGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 12: {
+Moved from trash to solution at line 14: else
+Reordered from line 14 to 13: else
+Moved from trash to solution at line 15: } // End of if-clause
+Moved from trash to solution at line 17: {
+Moved from trash to solution at line 19: } // End of else-clause
+Moved from trash to solution at line 21: } // End of if-clause
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Submit Parsons Solution clicked @ 1455337565380
+This line is not in its correct location: letterGrade  =  'A';
+Move this line in its place: char letterGrade;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 23 to 11: char letterGrade;
+Submit Parsons Solution clicked @ 1455337579388
+This line is not in its correct location: letterGrade  =  'A';
+Either delete it or move it past this line: // Read numGrade
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Explain Parsons Solution clicked @ 1455337582841
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare numGrade
+Line 11 (3 moves): short numGrade;
+Moved from problem to solution at line 19
+Moved from solution to trash at line 4
+Moved from trash to solution at line 9
+Line 13 (0 moves): // Declare letterGrade
+Line 14 (4 moves): char letterGrade;
+Moved from problem to solution at line 10
+Reordered from line 10 to 19
+Reordered from line 19 to 18
+Reordered from line 23 to 11
+Line 23 (3 moves): letterGrade  =  'A';
+Moved from problem to solution at line 9
+Reordered from line 11 to 17
+Reordered from line 17 to 16
+Line 40 (2 moves): {
+Moved from problem to trash at line 3
+Moved from trash to solution at line 12
+Line 31 (3 moves): else
+Moved from problem to trash at line 5
+Moved from trash to solution at line 14
+Reordered from line 14 to 13
+Line 29 (3 moves): letterGrade  =  'B';
+Moved from problem to solution at line 9
+Reordered from line 11 to 17
+Reordered from line 17 to 16
+Line 30 (2 moves): } // End of if-clause
+Moved from problem to trash at line 2
+Moved from trash to solution at line 15
+Line 35 (2 moves): letterGrade  =  'C';
+Moved from problem to solution at line 11
+Reordered from line 11 to 16
+Line 44 (2 moves): {
+Moved from problem to trash at line 2
+Moved from trash to solution at line 17
+Line 41 (2 moves): letterGrade  =  'D';
+Moved from problem to solution at line 12
+Reordered from line 11 to 16
+Line 46 (2 moves): } // End of else-clause
+Moved from problem to trash at line 2
+Moved from trash to solution at line 19
+Line 45 (3 moves): letterGrade  =  'F';
+Moved from problem to solution at line 9
+Reordered from line 11 to 17
+Reordered from line 17 to 16
+Line 30 (2 moves): } // End of if-clause
+Moved from problem to trash at line 4
+Moved from trash to solution at line 21
+Line 16 (0 moves): // Read numGrade
+Line 18 (5 moves): numGrade = stdin.nextShort();
+Moved from problem to solution at line 10
+Reordered from line 9 to 18
+Reordered from line 18 to 17
+Reordered from line 17 to 9
+Reordered from line 9 to 17
+Line 20 (2 moves): // Compute letterGrade based on numGrade
+Attempted to reorder line 20
+Attempted to reorder line 20
+Line 21 (3 moves): if( numGrade  >=  90 )
+Moved from problem to solution at line 11
+Reordered from line 11 to 13
+Reordered from line 13 to 12
+Line 22 (1 moves): {
+Moved from problem to solution at line 13
+Line 43 (2 moves): else
+Moved from problem to solution at line 13
+Reordered from line 13 to 14
+Line 27 (1 moves): if( numGrade  >=  80 )
+Moved from problem to solution at line 15
+Line 49 (1 moves): } // End of else-clause
+Moved from problem to solution at line 16
+Line 33 (3 moves): if( numGrade  >=  70 )
+Moved from problem to solution at line 16
+Reordered from line 16 to 18
+Reordered from line 18 to 17
+Line 34 (1 moves): {
+Moved from problem to solution at line 18
+Line 37 (1 moves): else
+Moved from problem to solution at line 19
+Line 39 (2 moves): if( numGrade  >=  55 )
+Moved from problem to solution at line 21
+Reordered from line 21 to 20
+Line 47 (1 moves): } // End of else-clause
+Moved from problem to solution at line 21
+Line 42 (1 moves): } // End of if-clause
+Moved from problem to solution at line 13
+Line 51 (0 moves): // Print letterGrade
+Line 17 (6 moves): System.out.print( "Enter the numerical grade");
+Moved from problem to solution at line 9
+Reordered from line 9 to 18
+Reordered from line 18 to 17
+Reordered from line 17 to 33
+Reordered from line 33 to 32
+Reordered from line 32 to 31
+Line 52 (1 moves): System.out.print( letterGrade);
+Moved from problem to solution at line 13
+Line 53 (0 moves): }  // End of method main
+Line 55 (0 moves): } // End of class Problem
+LINE 37 (1 moves): Else
+Moved from problem to trash at line 0
+LINE 52 (3 moves): System.out.print( letterGrade)
+Moved from problem to solution at line 31
+Moved from solution to problem at line 36
+Moved from problem to trash at line 1
+Line 25 (1 moves): else
+Moved from problem to trash at line 3
+Line 48 (1 moves): } // End of else-clause
+Moved from problem to trash at line 2
+Line 38 (1 moves): {
+Moved from problem to trash at line 1
+Line 28 (1 moves): {
+Moved from problem to trash at line 1
+Line 34 (1 moves): {
+Moved from problem to trash at line 9
+Line 24 (1 moves): } // End of if-clause
+Moved from problem to trash at line 3
+Line 26 (1 moves): {
+Moved from problem to trash at line 2
+Since you quit, this problem is being marked as not attempted
+Your Grade:
+You took 73 steps before bailing out of a Parsons puzzle containing 36 lines of code.
+Your answer so far is as follows:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare numGrade
+short numGrade;
+// Declare letterGrade
+char letterGrade;
+letterGrade  =  'A';
+{
+else
+letterGrade  =  'B';
+} // End of if-clause
+letterGrade  =  'C';
+{
+letterGrade  =  'D';
+} // End of else-clause
+letterGrade  =  'F';
+} // End of if-clause
+// Read numGrade
+numGrade = stdin.nextShort();
+// Compute letterGrade based on numGrade
+if( numGrade  >=  90 )
+{
+else
+if( numGrade  >=  80 )
+} // End of else-clause
+if( numGrade  >=  70 )
+{
+else
+if( numGrade  >=  55 )
+} // End of else-clause
+} // End of if-clause
+// Print letterGrade
+System.out.print( "Enter the numerical grade");
+System.out.print( letterGrade);
+}  // End of method main
+} // End of class Problem
+The lines you deleted so far are as follows:
+Else
+System.out.print( letterGrade)
+else
+} // End of else-clause
+{
+{
+{
+} // End of if-clause
+{
+The correct answer is as follows:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare numGrade
+short numGrade;
+// Declare letterGrade
+char letterGrade;
+// Read numGrade
+System.out.print( "Enter the numerical grade");
+numGrade = stdin.nextShort();
+// Compute letterGrade based on numGrade
+if( numGrade  >=  90 )
+{
+letterGrade  =  'A';
+} // End of if-clause
+else
+{
+if( numGrade  >=  80 )
+{
+letterGrade  =  'B';
+} // End of if-clause
+else
+{
+if( numGrade  >=  70 )
+{
+letterGrade  =  'C';
+} // End of if-clause
+else
+{
+if( numGrade  >=  55 )
+{
+letterGrade  =  'D';
+} // End of if-clause
+else
+{
+letterGrade  =  'F';
+} // End of else-clause
+} // End of else-clause
+} // End of else-clause
+} // End of else-clause
+// Print letterGrade
+System.out.print( letterGrade);
+}  // End of method main
+} // End of class Problem
+Click on 'Next Problem' button to go to the next problem
+Next Problem clicked @ 1455337637493
+Time spent on this problem: 933 seconds
+<HR>

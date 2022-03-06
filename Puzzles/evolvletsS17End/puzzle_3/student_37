@@ -1,0 +1,262 @@
+Problem No. 3
+Using Template # 100
+The Problem:
+else
+System.out.println(ch + " is an invalid input");
+int value = ch - 'A' + 10;
+public class HexDigit2Dec {
+char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+char ch = Character.toUpperCase(hexString.charAt(1));   //This line should immediately be placed before Line Y
+import java.util.Scanner;
+if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+System.out.println("The decimal value for hex digit " + ch + " is " + ch);
+System.exit(1);}
+System.out.println("The decimal value for hex digit " + ch + " is " + value);}
+public static void main(String[] args) {
+System.out.prchar("Enter a hex digit: ");   // This is Line X
+System.out.print("Enter a hex digit: ");   // This is Line X
+else if (Character.isDigit(ch))
+String hexString = input.nextLine();
+Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+if (hexString.length() != 1) {
+System.out.println("You must enter exactly one character");
+}}
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 20 lines.
+Re-assemble them with 22 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: }}
+2. Moved from problem to solution at line 1: import java.util.Scanner;
+3. Moved from problem to solution at line 2:   public static void main(String[] args) {
+4. Moved from problem to solution at line 2: public class HexDigit2Dec {
+5. Moved from problem to solution at line 4:       int value = ch - 'A' + 10;
+6. Moved from problem to solution at line 5:     Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+7. Moved from problem to trash at line 0:     char ch = Character.toUpperCase(hexString.charAt(1));   //This line should immediately be placed before Line Y
+8. Moved from problem to trash at line 1:     System.out.prchar("Enter a hex digit: ");   // This is Line X
+9. Moved from problem to solution at line 6:     System.out.print("Enter a hex digit: ");   // This is Line X
+10. Moved from problem to solution at line 7:     if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+11. Moved from problem to solution at line 8:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+12. Moved from problem to solution at line 9:       System.exit(1);}
+13. Reordered from line 8 to 7:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+14. Moved from problem to solution at line 9:     else if (Character.isDigit(ch))
+15. Moved from problem to solution at line 10:     else
+16. Moved from problem to solution at line 11:       System.out.println(ch + " is an invalid input");
+17. Moved from problem to solution at line 9:       System.out.println("The decimal value for hex digit " + ch + " is " + ch);
+18. Moved from problem to solution at line 11:       System.out.println("The decimal value for hex digit " + ch + " is " + value);}
+19. Moved from problem to solution at line 12:     if (hexString.length() != 1) {
+20. Moved from problem to solution at line 13:     String hexString = input.nextLine();
+21. Moved from problem to solution at line 14:       System.out.println("You must enter exactly one character");
+Submit Parsons Solution clicked @ 1493417821445
+This line is not in its correct location:       int value = ch - 'A' + 10;
+Move this line in its place:     Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+22. Reordered from line 5 to 4:     Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+Submit Parsons Solution clicked @ 1493417828525
+This line is not in its correct location:       int value = ch - 'A' + 10;
+Move this line in its place:     System.out.print("Enter a hex digit: ");   // This is Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+23. Reordered from line 7 to 5:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+Submit Parsons Solution clicked @ 1493417841712
+This line is not in its correct location:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+Move this line in its place:     System.out.print("Enter a hex digit: ");   // This is Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+24. Reordered from line 7 to 5:     System.out.print("Enter a hex digit: ");   // This is Line X
+25. Reordered from line 8 to 7:     if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+Submit Parsons Solution clicked @ 1493417860444
+This line is not in its correct location:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+Move this line in its place:     String hexString = input.nextLine();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+26. Reordered from line 13 to 6:     String hexString = input.nextLine();
+Submit Parsons Solution clicked @ 1493417898359
+This line is not in its correct location:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+Move this line in its place:     if (hexString.length() != 1) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+27. Reordered from line 7 to 6:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+Submit Parsons Solution clicked @ 1493417904762
+This line is not in its correct location:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+Move this line in its place:     String hexString = input.nextLine();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+28. Reordered from line 7 to 6:     String hexString = input.nextLine();
+Submit Parsons Solution clicked @ 1493417911339
+This line is not in its correct location:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+Move this line in its place:     if (hexString.length() != 1) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+29. Reordered from line 13 to 8:     if (hexString.length() != 1) {
+Submit Parsons Solution clicked @ 1493417918081
+This line is not in its correct location:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+Move this line in its place:     if (hexString.length() != 1) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1493417921981
+This line is not in its correct location:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+Move this line in its place:     if (hexString.length() != 1) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+30. Reordered from line 9 to 7:     if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+Submit Parsons Solution clicked @ 1493417932918
+This line is not in its correct location:     if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+Move this line in its place:     if (hexString.length() != 1) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+31. Reordered from line 9 to 7:     if (hexString.length() != 1) {
+Submit Parsons Solution clicked @ 1493417946646
+This line is not in its correct location:     if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+Move this line in its place:       System.out.println("You must enter exactly one character");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+32. Reordered from line 14 to 8:       System.out.println("You must enter exactly one character");
+Submit Parsons Solution clicked @ 1493417954795
+This line is not in its correct location:     if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+Move this line in its place:       System.exit(1);}
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+33. Reordered from line 10 to 9:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+Submit Parsons Solution clicked @ 1493417988490
+This line is not in its correct location:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+Move this line in its place:       System.exit(1);}
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+34. Reordered from line 9 to 10:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+Submit Parsons Solution clicked @ 1493417991307
+This line is not in its correct location:     if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+Move this line in its place:       System.exit(1);}
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+35. Reordered from line 17 to 10:       System.exit(1);}
+Submit Parsons Solution clicked @ 1493417996414
+This line is not in its correct location:     if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+Move this line in its place:       System.exit(1);}
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+36. Reordered from line 9 to 10:     if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+Submit Parsons Solution clicked @ 1493418001530
+This line is not in its correct location:     if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+Move this line in its place:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+37. Reordered from line 10 to 9:     if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+38. Reordered from line 11 to 12:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+Submit Parsons Solution clicked @ 1493418007052
+This line is not in its correct location:     if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+Move this line in its place:       System.exit(1);}
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+39. Reordered from line 10 to 9:       System.exit(1);}
+Submit Parsons Solution clicked @ 1493418011920
+This line is not in its correct location:     if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+Move this line in its place:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+40. Reordered from line 12 to 10:     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Submit Parsons Solution clicked @ 1493418023344
+This line is not in its correct location:       System.out.println("The decimal value for hex digit " + ch + " is " + ch);
+Move this line in its place:       System.out.println("The decimal value for hex digit " + ch + " is " + value);}
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+41. Reordered from line 13 to 15:       System.out.println("The decimal value for hex digit " + ch + " is " + ch);
+42. Reordered from line 16 to 13:     else
+43. Reordered from line 15 to 14:       System.out.println("The decimal value for hex digit " + ch + " is " + value);}
+Submit Parsons Solution clicked @ 1493418035757
+This line is not in its correct location:     else
+Move this line in its place:       System.out.println("The decimal value for hex digit " + ch + " is " + value);}
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+44. Reordered from line 14 to 13:       System.out.println("The decimal value for hex digit " + ch + " is " + value);}
+Submit Parsons Solution clicked @ 1493418042237
+This line is not in its correct location:     else
+Move this line in its place:     else if (Character.isDigit(ch))
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+45. Reordered from line 16 to 15:       System.out.println("The decimal value for hex digit " + ch + " is " + ch);
+Submit Parsons Solution clicked @ 1493418045444
+This line is not in its correct location:     else
+Move this line in its place:     else if (Character.isDigit(ch))
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+46. Reordered from line 16 to 14:     else if (Character.isDigit(ch))
+47. Reordered from line 16 to 15:       System.out.println("The decimal value for hex digit " + ch + " is " + ch);
+Submit Parsons Solution clicked @ 1493418052829
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+2. Moved from problem to solution at line 1
+Line 2 (1 moves): public class HexDigit2Dec {
+4. Moved from problem to solution at line 2
+Line 3 (1 moves):   public static void main(String[] args) {
+3. Moved from problem to solution at line 2
+Line 4 (2 moves):     Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+6. Moved from problem to solution at line 5
+22. Reordered from line 5 to 4
+Line 5 (2 moves):     System.out.print("Enter a hex digit: ");   // This is Line X
+9. Moved from problem to solution at line 6
+24. Reordered from line 7 to 5
+Line 6 (3 moves):     String hexString = input.nextLine();
+20. Moved from problem to solution at line 13
+26. Reordered from line 13 to 6
+28. Reordered from line 7 to 6
+Line 7 (3 moves):     if (hexString.length() != 1) {
+19. Moved from problem to solution at line 12
+29. Reordered from line 13 to 8
+31. Reordered from line 9 to 7
+Line 8 (2 moves):       System.out.println("You must enter exactly one character");
+21. Moved from problem to solution at line 14
+32. Reordered from line 14 to 8
+Line 9 (3 moves):       System.exit(1);}
+12. Moved from problem to solution at line 9
+35. Reordered from line 17 to 10
+39. Reordered from line 10 to 9
+Line 10 (8 moves):     char ch = Character.toUpperCase(hexString.charAt(0));   //This line should immediately be placed before Line Y
+11. Moved from problem to solution at line 8
+13. Reordered from line 8 to 7
+23. Reordered from line 7 to 5
+27. Reordered from line 7 to 6
+33. Reordered from line 10 to 9
+34. Reordered from line 9 to 10
+38. Reordered from line 11 to 12
+40. Reordered from line 12 to 10
+Line 11 (5 moves):     if (ch <= 'F' && ch >= 'A') {                           // This is Line Y
+10. Moved from problem to solution at line 7
+25. Reordered from line 8 to 7
+30. Reordered from line 9 to 7
+36. Reordered from line 9 to 10
+37. Reordered from line 10 to 9
+Line 12 (1 moves):       int value = ch - 'A' + 10;
+5. Moved from problem to solution at line 4
+Line 13 (3 moves):       System.out.println("The decimal value for hex digit " + ch + " is " + value);}
+18. Moved from problem to solution at line 11
+43. Reordered from line 15 to 14
+44. Reordered from line 14 to 13
+Line 14 (2 moves):     else if (Character.isDigit(ch))
+14. Moved from problem to solution at line 9
+46. Reordered from line 16 to 14
+Line 15 (4 moves):       System.out.println("The decimal value for hex digit " + ch + " is " + ch);
+17. Moved from problem to solution at line 9
+41. Reordered from line 13 to 15
+45. Reordered from line 16 to 15
+47. Reordered from line 16 to 15
+Line 16 (2 moves):     else
+15. Moved from problem to solution at line 10
+42. Reordered from line 16 to 13
+Line 17 (1 moves):       System.out.println(ch + " is an invalid input");
+16. Moved from problem to solution at line 11
+Line 18 (1 moves): }}
+1. Moved from problem to solution at line 0
+Line 10 (7) (1 moves):     char ch = Character.toUpperCase(hexString.charAt(1));   //This line should immediately be placed before Line Y
+7. Moved from problem to trash at line 0
+Line 5 (11) (1 moves):     System.out.prchar("Enter a hex digit: ");   // This is Line X
+8. Moved from problem to trash at line 1
+Your Grade:
+You took 47 steps to solve a Parsons puzzle containing 20 lines of code.
+Next Problem clicked @ 1493418151720
+Time spent on this problem: 770 seconds
+<HR>

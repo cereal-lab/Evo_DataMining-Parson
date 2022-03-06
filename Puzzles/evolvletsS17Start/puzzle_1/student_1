@@ -1,0 +1,87 @@
+Problem No. 1
+Using Template # 100
+The Problem:
+import java.util.Scanner;
+}}
+public static void main(String[] args) {
+double tax = purchaseAmount * 0.07;
+Scanner input = new Scanner(System.in); //This line should be placed before Line X
+public class SalesTax {
+System.out.println("Sales tax is " + (tax * 100) / 100.0);
+double purchaseAmount = input.nextDouble();
+System.out.prchar("Enter purchase amount: ");  // This is line X
+System.out.print("Enter purchase amount: ");  // This is line X
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 10 lines.
+Re-assemble them with 11 (or fewer) moves for full credit
+Using Template # 100
+The Problem:
+import java.util.Scanner;
+}}
+public static void main(String[] args) {
+double tax = purchaseAmount * 0.07;
+Scanner input = new Scanner(System.in); //This line should be placed before Line X
+public class SalesTax {
+System.out.println("Sales tax is " + (tax * 100) / 100.0);
+double purchaseAmount = input.nextDouble();
+System.out.prchar("Enter purchase amount: ");  // This is line X
+System.out.print("Enter purchase amount: ");  // This is line X
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+1. Moved from problem to solution at line 0: import java.util.Scanner;
+2. Moved from problem to solution at line 1: public class SalesTax {
+3. Reordered from line 2 to 1: import java.util.Scanner;
+4. Moved from problem to solution at line 2:   public static void main(String[] args) {
+5. Reordered from line 3 to 2: public class SalesTax {
+6. Moved from problem to solution at line 3:     Scanner input = new Scanner(System.in); //This line should be placed before Line X
+7. Reordered from line 4 to 3:   public static void main(String[] args) {
+8. Moved from problem to solution at line 4:     double purchaseAmount = input.nextDouble();
+9. Reordered from line 5 to 4:     Scanner input = new Scanner(System.in); //This line should be placed before Line X
+10. Moved from problem to trash at line 0:     System.out.prchar("Enter purchase amount: ");  // This is line X
+11. Moved from problem to solution at line 5:     System.out.print("Enter purchase amount: ");  // This is line X
+12. Moved from problem to solution at line 6:     double tax = purchaseAmount * 0.07;
+13. Reordered from line 7 to 6:     double purchaseAmount = input.nextDouble();
+14. Moved from problem to solution at line 7:     System.out.println("Sales tax is " + (tax * 100) / 100.0);
+15. Reordered from line 8 to 7:     double tax = purchaseAmount * 0.07;
+16. Moved from problem to solution at line 8: }}
+17. Reordered from line 9 to 8:     System.out.println("Sales tax is " + (tax * 100) / 100.0);
+Submit Parsons Solution clicked @ 1488760480116
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (2 moves): import java.util.Scanner;
+1. Moved from problem to solution at line 0
+3. Reordered from line 2 to 1
+Line 2 (2 moves): public class SalesTax {
+2. Moved from problem to solution at line 1
+5. Reordered from line 3 to 2
+Line 3 (2 moves):   public static void main(String[] args) {
+4. Moved from problem to solution at line 2
+7. Reordered from line 4 to 3
+Line 4 (2 moves):     Scanner input = new Scanner(System.in); //This line should be placed before Line X
+6. Moved from problem to solution at line 3
+9. Reordered from line 5 to 4
+Line 5 (1 moves):     System.out.print("Enter purchase amount: ");  // This is line X
+11. Moved from problem to solution at line 5
+Line 6 (2 moves):     double purchaseAmount = input.nextDouble();
+8. Moved from problem to solution at line 4
+13. Reordered from line 7 to 6
+Line 7 (2 moves):     double tax = purchaseAmount * 0.07;
+12. Moved from problem to solution at line 6
+15. Reordered from line 8 to 7
+Line 8 (2 moves):     System.out.println("Sales tax is " + (tax * 100) / 100.0);
+14. Moved from problem to solution at line 7
+17. Reordered from line 9 to 8
+Line 9 (1 moves): }}
+16. Moved from problem to solution at line 8
+Line 5 (11) (1 moves):     System.out.prchar("Enter purchase amount: ");  // This is line X
+10. Moved from problem to trash at line 0
+Your Grade:
+You took 17 steps to solve a Parsons puzzle containing 10 lines of code.
+Next Problem clicked @ 1488760484685
+Time spent on this problem: 88 seconds
+<HR>

@@ -1,0 +1,97 @@
+Problem No. 4
+Using Template # 100
+The Problem:
+System.out.println("The area for the circle of radius " +radius + " is " + area);
+System.out.print("Enter a number for radius: "); //This line should be placed before Line X
+double radius = input.nextDouble();             // This is line X
+public class ComputeAreaV3 {
+public Class ComputeAreaV3 {
+public static void main(String[] args) {
+} }
+double area = radius * radius * PI;
+final int PI = 3.14159;  //This line should be placed before Line Y
+final double PI = 3.14159;  //This line should be placed before Line Y
+import java.util.Scanner;
+Scanner input = new Scanner(System.in); //This is line Y
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 12 lines.
+Re-assemble them with 13 (or fewer) moves for full credit
+1. Moved from problem to trash at line 0: public Class ComputeAreaV3 {
+2. Moved from problem to solution at line 0: public class ComputeAreaV3 {
+3. Moved from problem to solution at line 1:  } }
+4. Reordered from line 1 to 2:  } }
+5. Moved from problem to solution at line 2:   public static void main(String[] args) {
+6. Moved from problem to solution at line 1: import java.util.Scanner;
+7. Moved from problem to solution at line 4:     System.out.println("The area for the circle of radius " +radius + " is " + area);
+8. Moved from problem to solution at line 4:     double area = radius * radius * PI;
+9. Moved from problem to solution at line 5:     final int PI = 3.14159;  //This line should be placed before Line Y
+10. Moved from problem to solution at line 6:     final double PI = 3.14159;  //This line should be placed before Line Y
+11. Moved from problem to solution at line 7:     Scanner input = new Scanner(System.in); //This is line Y
+12. Moved from problem to solution at line 8:     System.out.print("Enter a number for radius: "); //This line should be placed before Line X
+13. Moved from problem to solution at line 9:     double radius = input.nextDouble();             // This is line X
+Submit Parsons Solution clicked @ 1489371672572
+This line is not in its correct location:     double area = radius * radius * PI;
+Move this line in its place:     final double PI = 3.14159;  //This line should be placed before Line Y
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+14. Reordered from line 6 to 4:     final double PI = 3.14159;  //This line should be placed before Line Y
+Submit Parsons Solution clicked @ 1489371679251
+This line is not in its correct location:     double area = radius * radius * PI;
+Move this line in its place:     Scanner input = new Scanner(System.in); //This is line Y
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+15. Reordered from line 7 to 5:     Scanner input = new Scanner(System.in); //This is line Y
+Submit Parsons Solution clicked @ 1489371685796
+This line is not in its correct location:     double area = radius * radius * PI;
+Move this line in its place:     System.out.print("Enter a number for radius: "); //This line should be placed before Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+16. Reordered from line 8 to 6:     System.out.print("Enter a number for radius: "); //This line should be placed before Line X
+17. Reordered from line 9 to 7:     double radius = input.nextDouble();             // This is line X
+Submit Parsons Solution clicked @ 1489371696387
+Sorry, that line has a bug
+Delete this line:     final int PI = 3.14159;  //This line should be placed before Line Y
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+18. Moved from solution to trash at line 1:     final int PI = 3.14159;  //This line should be placed before Line Y
+Submit Parsons Solution clicked @ 1489371719052
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+6. Moved from problem to solution at line 1
+Line 2 (1 moves): public class ComputeAreaV3 {
+2. Moved from problem to solution at line 0
+Line 3 (1 moves):   public static void main(String[] args) {
+5. Moved from problem to solution at line 2
+Line 4 (2 moves):     final double PI = 3.14159;  //This line should be placed before Line Y
+10. Moved from problem to solution at line 6
+14. Reordered from line 6 to 4
+Line 5 (2 moves):     Scanner input = new Scanner(System.in); //This is line Y
+11. Moved from problem to solution at line 7
+15. Reordered from line 7 to 5
+Line 6 (2 moves):     System.out.print("Enter a number for radius: "); //This line should be placed before Line X
+12. Moved from problem to solution at line 8
+16. Reordered from line 8 to 6
+Line 7 (2 moves):     double radius = input.nextDouble();             // This is line X
+13. Moved from problem to solution at line 9
+17. Reordered from line 9 to 7
+Line 8 (1 moves):     double area = radius * radius * PI;
+8. Moved from problem to solution at line 4
+Line 9 (1 moves):     System.out.println("The area for the circle of radius " +radius + " is " + area);
+7. Moved from problem to solution at line 4
+Line 10 (2 moves):  } }
+3. Moved from problem to solution at line 1
+4. Reordered from line 1 to 2
+Line 2 (8) (1 moves): public Class ComputeAreaV3 {
+1. Moved from problem to trash at line 0
+Line 4 (34) (2 moves):     final int PI = 3.14159;  //This line should be placed before Line Y
+9. Moved from problem to solution at line 5
+18. Moved from solution to trash at line 1
+Your Grade:
+You took 18 steps to solve a Parsons puzzle containing 12 lines of code.
+Next Problem clicked @ 1489371731995
+Time spent on this problem: 229 seconds
+<HR>

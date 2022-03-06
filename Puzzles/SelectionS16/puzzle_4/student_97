@@ -1,0 +1,297 @@
+Problem No. 4
+Using Template # 2101
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+} // End of else-clause
+} // End of else-clause
+{
+else
+{
+degrees = stdin.nextInt();
+System.out.print( "Third quadrant");
+} // End of if-clause
+if( degrees  <=  180 )
+System.out.print( "First quadrant");
+if( degrees  <=  90 )
+if( degrees  >=  90 )
+{
+else
+else
+{
+if( degrees  <=  270 )
+if( degrees  <  270 )
+{
+System.out.print( "Enter the location in degrees (1-360)");
+System.out.print( "Fourth quadrant");
+} // End of if-clause
+} // End of else-clause
+System.out.print( "Second quadrant");
+} // End of if-clause
+{
+int degrees;
+Using Template # 2101
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare degrees
+// Read degrees
+// Compute and print the quadrant based on degrees
+}  // End of method main
+} // End of class Problem
+Using Template # 2101
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to solution at line 9: int degrees;
+Moved from problem to solution at line 11: System.out.print( "Enter the location in degrees (1-360)");
+Moved from problem to solution at line 12: degrees = stdin.nextInt();
+Moved from problem to solution at line 14: if( degrees  >=  90 )
+Moved from problem to solution at line 15: {
+Moved from problem to solution at line 16: System.out.print( "First quadrant");
+Moved from problem to solution at line 17: } // End of else-clause
+Moved from solution to problem at line 20: } // End of else-clause
+Moved from problem to solution at line 17: } // End of if-clause
+Moved from problem to solution at line 18: if( degrees  <=  90 )
+Moved from problem to solution at line 19: {
+Moved from problem to solution at line 20: System.out.print( "Second quadrant");
+Moved from problem to solution at line 18: else
+Moved from problem to solution at line 22: } // End of if-clause
+Moved from problem to solution at line 14: if( degrees  <=  270 )
+Moved from problem to solution at line 15: {
+Moved from problem to solution at line 16: System.out.print( "Third quadrant");
+Moved from problem to solution at line 17: } // End of if-clause
+Moved from problem to solution at line 18: if( degrees  <=  180 )
+Moved from problem to solution at line 19: else
+Moved from problem to solution at line 20: {
+Moved from problem to solution at line 23: System.out.print( "Fourth quadrant");
+Reordered from line 30 to 24: } // End of if-clause
+Reordered from line 19 to 18: else
+Reordered from line 23 to 16: System.out.print( "Fourth quadrant");
+Moved from solution to problem at line 28: System.out.print( "Third quadrant");
+Moved from problem to solution at line 21: System.out.print( "Third quadrant");
+Reordered from line 24 to 22: } // End of if-clause
+Reordered from line 30 to 25: System.out.print( "Second quadrant");
+Moved from solution to problem at line 29: System.out.print( "First quadrant");
+Moved from problem to solution at line 30: System.out.print( "First quadrant");
+Moved from problem to solution at line 31: } // End of else-clause
+Moved from problem to trash at line 0: } // End of else-clause
+Moved from problem to trash at line 1: {
+Moved from problem to trash at line 2: if( degrees  <  270 )
+Moved from problem to trash at line 2: else
+Moved from problem to trash at line 3: } // End of else-clause
+Moved from problem to trash at line 4: {
+Submit Parsons Solution clicked @ 1461765098660
+This line is not in its correct location: if( degrees  <=  270 )
+Move this line in its place: if( degrees  <=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 14 to 23: if( degrees  <=  270 )
+Reordered from line 22 to 14: if( degrees  >=  90 )
+Submit Parsons Solution clicked @ 1461765129689
+The if clause should be executed when degrees is less than or equal to 90.
+Delete this line: if( degrees  >=  90 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to problem at line 14: if( degrees  >=  90 )
+Moved from problem to trash at line 1: if( degrees  >=  90 )
+Submit Parsons Solution clicked @ 1461765138361
+This line is not in its correct location: {
+Move this line in its place: if( degrees  <=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 2: {
+Submit Parsons Solution clicked @ 1461765143001
+This line is not in its correct location: System.out.print( "Fourth quadrant");
+Move this line in its place: if( degrees  <=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to problem at line 31: System.out.print( "Fourth quadrant");
+Moved from problem to trash at line 3: System.out.print( "Fourth quadrant");
+Submit Parsons Solution clicked @ 1461765150488
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: if( degrees  <=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 2: } // End of if-clause
+Submit Parsons Solution clicked @ 1461765154120
+This line is not in its correct location: else
+Move this line in its place: if( degrees  <=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 2: else
+Submit Parsons Solution clicked @ 1461765157312
+This line is not in its correct location: if( degrees  <=  180 )
+Move this line in its place: if( degrees  <=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Attempted to move from solution to problem at line 23: } // End of class Problem
+Do not remove the lines already provided to you - they are all needed.
+Attempted to move from solution to problem at line 22: }  // End of method main
+Do not remove the lines already provided to you - they are all needed.
+Moved from solution to problem at line 21: } // End of else-clause
+Moved from solution to problem at line 20: System.out.print( "First quadrant");
+Moved from solution to problem at line 18: {
+Moved from solution to problem at line 17: else
+Moved from solution to problem at line 16: } // End of if-clause
+Reordered from line 20 to 19: System.out.print( "Second quadrant");
+Moved from solution to problem at line 14: System.out.print( "Second quadrant");
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Outdented line 19: {
+Outdented line 19: {
+Outdented line 19: {
+Moved from solution to problem at line 12: System.out.print( "Third quadrant");
+Moved from solution to problem at line 13: } // End of if-clause
+Moved from solution to problem at line 12: {
+Moved from solution to problem at line 12: if( degrees  <=  270 )
+Moved from solution to problem at line 11: if( degrees  <=  90 )
+Moved from solution to problem at line 14: {
+Attempted to move from solution to problem at line 12: }  // End of method main
+Do not remove the lines already provided to you - they are all needed.
+Moved from solution to problem at line 10: if( degrees  <=  180 )
+Attempted to move from solution to problem at line 9: // Compute and print the quadrant based on degrees
+Do not remove the lines already provided to you - they are all needed.
+Moved from solution to problem at line 10: degrees = stdin.nextInt();
+Moved from problem to solution at line 12: degrees = stdin.nextInt();
+Explain Parsons Solution clicked @ 1461765213581
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare degrees
+Line 11 (1 moves): int degrees;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Read degrees
+Line 14 (1 moves): System.out.print( "Enter the location in degrees (1-360)");
+Moved from problem to solution at line 11
+Line 15 (3 moves): degrees = stdin.nextInt();
+Moved from problem to solution at line 12
+Moved from solution to problem at line 10
+Moved from problem to solution at line 12
+Line 17 (1 moves): // Compute and print the quadrant based on degrees
+Attempted to move from solution to problem at line 9
+Line 40 (2 moves): }  // End of method main
+Attempted to move from solution to problem at line 22
+Attempted to move from solution to problem at line 12
+Line 42 (1 moves): } // End of class Problem
+Attempted to move from solution to problem at line 23
+Line 38 (1 moves): } // End of else-clause
+Moved from problem to trash at line 0
+Line 35 (1 moves): {
+Moved from problem to trash at line 1
+LINE 30 (1 moves): if( degrees  <  270 )
+Moved from problem to trash at line 2
+Line 34 (1 moves): else
+Moved from problem to trash at line 2
+Line 37 (1 moves): } // End of else-clause
+Moved from problem to trash at line 3
+Line 29 (1 moves): {
+Moved from problem to trash at line 4
+LINE 18 (4 moves): if( degrees  >=  90 )
+Moved from problem to solution at line 14
+Reordered from line 22 to 14
+Moved from solution to problem at line 14
+Moved from problem to trash at line 1
+Line 19 (2 moves): {
+Moved from problem to solution at line 15
+Moved from solution to trash at line 2
+Line 36 (4 moves): System.out.print( "Fourth quadrant");
+Moved from problem to solution at line 23
+Reordered from line 23 to 16
+Moved from solution to problem at line 31
+Moved from problem to trash at line 3
+Line 33 (2 moves): } // End of if-clause
+Moved from problem to solution at line 17
+Moved from solution to trash at line 2
+Line 34 (3 moves): else
+Moved from problem to solution at line 19
+Reordered from line 19 to 18
+Moved from solution to trash at line 2
+Since you quit, this problem is being marked as not attempted
+Your Grade:
+You took 26 steps before bailing out of a Parsons puzzle containing 27 lines of code.
+Your answer so far is as follows:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare degrees
+int degrees;
+// Read degrees
+System.out.print( "Enter the location in degrees (1-360)");
+degrees = stdin.nextInt();
+// Compute and print the quadrant based on degrees
+}  // End of method main
+} // End of class Problem
+The lines you deleted so far are as follows:
+} // End of else-clause
+{
+if( degrees  <  270 )
+else
+} // End of else-clause
+{
+if( degrees  >=  90 )
+{
+System.out.print( "Fourth quadrant");
+} // End of if-clause
+else
+The correct answer is as follows:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare degrees
+int degrees;
+// Read degrees
+System.out.print( "Enter the location in degrees (1-360)");
+degrees = stdin.nextInt();
+// Compute and print the quadrant based on degrees
+if( degrees  <=  90 )
+{
+System.out.print( "First quadrant");
+} // End of if-clause
+else
+{
+if( degrees  <=  180 )
+{
+System.out.print( "Second quadrant");
+} // End of if-clause
+else
+{
+if( degrees  <=  270 )
+{
+System.out.print( "Third quadrant");
+} // End of if-clause
+else
+{
+System.out.print( "Fourth quadrant");
+} // End of else-clause
+} // End of else-clause
+} // End of else-clause
+}  // End of method main
+} // End of class Problem
+Click on 'Next Problem' button to go to the next problem
+Next Problem clicked @ 1461765215909
+Time spent on this problem: 837 seconds
+<HR>

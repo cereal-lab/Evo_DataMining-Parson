@@ -1,0 +1,155 @@
+Problem No. 5
+Using Template # 2100
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+else
+} // End of else-clause
+{
+if( monthNum  <=  6 )
+} // End of if-clause
+else
+short monthNum
+} // End of if-clause
+{
+else
+{
+if( monthNum  <=  3 )
+{
+{
+if( monthNum  < =  9 )
+cout << "Season is spring (April-June)";
+if( monthNum  <=  9 )
+} // End of else-clause
+} // End of if-clause
+} // End of else-clause
+{
+short monthNum;
+cout << "Enter the number of the month (1-12)";
+cout << "Season is fall (October-December)";
+cin >> monthNum;
+cout << "Season is winter (January-March)";
+cout << "Season is summer (July-September)";
+Using Template # 2100
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The C++ program
+#include <iostream>
+using namespace std;
+int main()
+{
+// Declare monthNum
+// Read monthNum
+// Compute and print the season based on monthNum
+}  // End of function main
+Using Template # 2100
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to solution at line 7: short monthNum;
+Moved from problem to solution at line 9: cout << "Enter the number of the month (1-12)";
+Moved from problem to solution at line 10: cin >> monthNum;
+Moved from problem to solution at line 12: if( monthNum  <=  3 )
+Moved from problem to solution at line 13: {
+Moved from problem to solution at line 14: cout << "Season is winter (January-March)";
+Moved from problem to solution at line 15: } // End of if-clause
+Moved from problem to solution at line 16: else
+Moved from problem to solution at line 17: if( monthNum  <=  6 )
+Moved from problem to solution at line 18: {
+Moved from problem to solution at line 19: cout << "Season is spring (April-June)";
+Moved from problem to solution at line 20: } // End of if-clause
+Moved from problem to solution at line 21: else
+Moved from problem to solution at line 22: if( monthNum  <=  9 )
+Moved from problem to trash at line 0: short monthNum
+Moved from problem to solution at line 23: cout << "Season is fall (October-December)";
+Moved from solution to problem at line 23: cout << "Season is fall (October-December)";
+Moved from problem to solution at line 23: cout << "Season is summer (July-September)";
+Moved from problem to solution at line 24: } // End of if-clause
+Moved from problem to solution at line 25: else
+Moved from problem to solution at line 26: {
+Moved from problem to solution at line 27: cout << "Season is fall (October-December)";
+Moved from problem to solution at line 28: } // End of else-clause
+Moved from problem to trash at line 1: } // End of else-clause
+Moved from problem to trash at line 2: {
+Moved from problem to trash at line 3: if( monthNum  < =  9 )
+Moved from problem to trash at line 4: {
+Moved from problem to trash at line 5: {
+Moved from problem to trash at line 4: } // End of else-clause
+Submit Parsons Solution clicked @ 1461951322175
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 23: {
+Submit Parsons Solution clicked @ 1461951372096
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The C++ program
+Line 2 (0 moves): #include <iostream>
+Line 3 (0 moves): using namespace std;
+Line 5 (0 moves): int main()
+Line 6 (0 moves): {
+Line 8 (0 moves): // Declare monthNum
+Line 9 (1 moves): short monthNum;
+Moved from problem to solution at line 7
+Line 11 (0 moves): // Read monthNum
+Line 12 (1 moves): cout << "Enter the number of the month (1-12)";
+Moved from problem to solution at line 9
+Line 13 (1 moves): cin >> monthNum;
+Moved from problem to solution at line 10
+Line 15 (0 moves): // Compute and print the season based on monthNum
+Line 16 (1 moves): if( monthNum  <=  3 )
+Moved from problem to solution at line 12
+Line 17 (1 moves): {
+Moved from problem to solution at line 13
+Line 18 (1 moves): cout << "Season is winter (January-March)";
+Moved from problem to solution at line 14
+Line 19 (1 moves): } // End of if-clause
+Moved from problem to solution at line 15
+Line 20 (1 moves): else
+Moved from problem to solution at line 16
+Line 22 (1 moves): if( monthNum  <=  6 )
+Moved from problem to solution at line 17
+Line 23 (1 moves): {
+Moved from problem to solution at line 18
+Line 24 (1 moves): cout << "Season is spring (April-June)";
+Moved from problem to solution at line 19
+Line 25 (1 moves): } // End of if-clause
+Moved from problem to solution at line 20
+Line 26 (1 moves): else
+Moved from problem to solution at line 21
+Line 28 (1 moves): if( monthNum  <=  9 )
+Moved from problem to solution at line 22
+Line 29 (2 moves): {
+Moved from problem to trash at line 2
+Moved from trash to solution at line 23
+Line 30 (1 moves): cout << "Season is summer (July-September)";
+Moved from problem to solution at line 23
+Line 31 (1 moves): } // End of if-clause
+Moved from problem to solution at line 24
+Line 32 (1 moves): else
+Moved from problem to solution at line 25
+Line 33 (1 moves): {
+Moved from problem to solution at line 26
+Line 34 (3 moves): cout << "Season is fall (October-December)";
+Moved from problem to solution at line 23
+Moved from solution to problem at line 23
+Moved from problem to solution at line 27
+Line 35 (1 moves): } // End of else-clause
+Moved from problem to solution at line 28
+Line 38 (0 moves): }  // End of function main
+LINE 9 (1 moves): short monthNum
+Moved from problem to trash at line 0
+Line 36 (1 moves): } // End of else-clause
+Moved from problem to trash at line 1
+LINE 28 (1 moves): if( monthNum  < =  9 )
+Moved from problem to trash at line 3
+Line 17 (1 moves): {
+Moved from problem to trash at line 4
+Line 27 (1 moves): {
+Moved from problem to trash at line 5
+Line 35 (1 moves): } // End of else-clause
+Moved from problem to trash at line 4
+Your Grade:
+You took 30 steps to solve a Parsons puzzle containing 27 lines of code.
+Next Problem clicked @ 1461951385696
+Time spent on this problem: 433 seconds
+<HR>

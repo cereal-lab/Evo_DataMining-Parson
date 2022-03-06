@@ -1,0 +1,216 @@
+Problem No. 6
+Using Template # 2110
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+if( wavelength  <=  570 )
+} // End of if-clause
+} // End of if-clause
+System.out.print( "Color is red (620-750 nm)");
+System.out.print( "Color is yellow (570-590 nm)");
+else
+System.out.print( "Color is blue (450-495 nm)");
+{
+if( wavelength  <=  450 )
+{
+int wavelength;
+{
+{
+System.out.print( "Color is violet (380-450 nm)");
+System.out.print( "Enter the wavelength in nanometers");
+{
+if( wavelength  <=  495 )
+if( wavelength  <=  620 )
+if( wavelength  < =  620 )
+else
+} // End of else-clause
+else
+{
+} // End of else-clause
+System.out.print( "Color is orange (590-620 nm)")
+System.out.print( "Color is orange (590-620 nm)");
+else
+{
+if( wavelength  <=  590 )
+} // End of else-clause
+} // End of if-clause
+} // End of if-clause
+{
+{
+} // End of else-clause
+{
+} // End of if-clause
+System.out.print( "Color is green (495-570 nm)");
+wavelength = stdin.nextInt();
+else
+} // End of else-clause
+Using Template # 2110
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare wavelength
+// Read wavelength
+// Compute and print the color corresponding to the wavelength
+}  // End of method main
+} // End of class Problem
+Using Template # 2110
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to solution at line 9: int wavelength;
+Moved from problem to solution at line 11: System.out.print( "Enter the wavelength in nanometers");
+Moved from problem to solution at line 12: wavelength = stdin.nextInt();
+Moved from problem to solution at line 14: if( wavelength  <=  450 )
+Moved from problem to solution at line 15: System.out.print( "Color is violet (380-450 nm)");
+Moved from problem to solution at line 15: else
+Reordered from line 15 to 17: else
+Reordered from line 17 to 16: else
+Moved from problem to solution at line 17: if( wavelength  <=  495 )
+Moved from problem to solution at line 18: System.out.print( "Color is blue (450-495 nm)");
+Moved from problem to trash at line 0: System.out.print( "Color is orange (590-620 nm)")
+Moved from problem to solution at line 19: System.out.print( "Color is green (495-570 nm)");
+Moved from problem to solution at line 20: System.out.print( "Color is yellow (570-590 nm)");
+Moved from problem to solution at line 21: System.out.print( "Color is orange (590-620 nm)");
+Moved from problem to solution at line 22: System.out.print( "Color is red (620-750 nm)");
+Moved from problem to trash at line 1: if( wavelength  < =  620 )
+Moved from problem to solution at line 21: if( wavelength  <=  620 )
+Moved from problem to solution at line 20: if( wavelength  <=  590 )
+Moved from problem to solution at line 19: if( wavelength  <=  570 )
+Moved from problem to solution at line 19: else
+Moved from problem to solution at line 22: else
+Moved from problem to solution at line 25: else
+Moved from problem to solution at line 28: else
+Moved from problem to solution at line 15: {
+Moved from problem to solution at line 17: } // End of if-clause
+Moved from problem to solution at line 20: {
+Moved from problem to solution at line 23: } // End of if-clause
+Reordered from line 23 to 22: } // End of if-clause
+Moved from problem to solution at line 24: {
+Reordered from line 24 to 26: {
+Reordered from line 26 to 25: {
+Moved from problem to solution at line 27: } // End of if-clause
+Moved from problem to solution at line 30: {
+Moved from problem to solution at line 32: } // End of if-clause
+Moved from problem to solution at line 35: {
+Moved from problem to solution at line 37: } // End of if-clause
+Moved from problem to solution at line 40: } // End of else-clause
+Moved from problem to solution at line 39: {
+Moved from problem to trash at line 1: } // End of else-clause
+Moved from problem to trash at line 1: {
+Moved from problem to trash at line 1: {
+Moved from problem to trash at line 1: {
+Moved from problem to trash at line 1: } // End of else-clause
+Moved from problem to trash at line 1: } // End of else-clause
+Moved from problem to trash at line 2: {
+Moved from problem to trash at line 3: } // End of else-clause
+Submit Parsons Solution clicked @ 1455256576073
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare wavelength
+Line 11 (1 moves): int wavelength;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Read wavelength
+Line 14 (1 moves): System.out.print( "Enter the wavelength in nanometers");
+Moved from problem to solution at line 11
+Line 15 (1 moves): wavelength = stdin.nextInt();
+Moved from problem to solution at line 12
+Line 17 (0 moves): // Compute and print the color corresponding to the wavelength
+Line 18 (1 moves): if( wavelength  <=  450 )
+Moved from problem to solution at line 14
+Line 19 (1 moves): {
+Moved from problem to solution at line 15
+Line 20 (1 moves): System.out.print( "Color is violet (380-450 nm)");
+Moved from problem to solution at line 15
+Line 21 (1 moves): } // End of if-clause
+Moved from problem to solution at line 17
+Line 22 (3 moves): else
+Moved from problem to solution at line 15
+Reordered from line 15 to 17
+Reordered from line 17 to 16
+Line 24 (1 moves): if( wavelength  <=  495 )
+Moved from problem to solution at line 17
+Line 25 (1 moves): {
+Moved from problem to solution at line 20
+Line 26 (1 moves): System.out.print( "Color is blue (450-495 nm)");
+Moved from problem to solution at line 18
+Line 27 (2 moves): } // End of if-clause
+Moved from problem to solution at line 23
+Reordered from line 23 to 22
+Line 28 (1 moves): else
+Moved from problem to solution at line 19
+Line 30 (1 moves): if( wavelength  <=  570 )
+Moved from problem to solution at line 19
+Line 31 (3 moves): {
+Moved from problem to solution at line 24
+Reordered from line 24 to 26
+Reordered from line 26 to 25
+Line 32 (1 moves): System.out.print( "Color is green (495-570 nm)");
+Moved from problem to solution at line 19
+Line 33 (1 moves): } // End of if-clause
+Moved from problem to solution at line 27
+Line 34 (1 moves): else
+Moved from problem to solution at line 22
+Line 36 (1 moves): if( wavelength  <=  590 )
+Moved from problem to solution at line 20
+Line 37 (1 moves): {
+Moved from problem to solution at line 30
+Line 38 (1 moves): System.out.print( "Color is yellow (570-590 nm)");
+Moved from problem to solution at line 20
+Line 39 (1 moves): } // End of if-clause
+Moved from problem to solution at line 32
+Line 40 (1 moves): else
+Moved from problem to solution at line 25
+Line 42 (1 moves): if( wavelength  <=  620 )
+Moved from problem to solution at line 21
+Line 43 (1 moves): {
+Moved from problem to solution at line 35
+Line 44 (1 moves): System.out.print( "Color is orange (590-620 nm)");
+Moved from problem to solution at line 21
+Line 45 (1 moves): } // End of if-clause
+Moved from problem to solution at line 37
+Line 46 (1 moves): else
+Moved from problem to solution at line 28
+Line 47 (1 moves): {
+Moved from problem to solution at line 39
+Line 48 (1 moves): System.out.print( "Color is red (620-750 nm)");
+Moved from problem to solution at line 22
+Line 49 (1 moves): } // End of else-clause
+Moved from problem to solution at line 40
+Line 54 (0 moves): }  // End of method main
+Line 56 (0 moves): } // End of class Problem
+LINE 44 (1 moves): System.out.print( "Color is orange (590-620 nm)")
+Moved from problem to trash at line 0
+LINE 42 (1 moves): if( wavelength  < =  620 )
+Moved from problem to trash at line 1
+Line 51 (1 moves): } // End of else-clause
+Moved from problem to trash at line 1
+Line 41 (1 moves): {
+Moved from problem to trash at line 1
+Line 23 (1 moves): {
+Moved from problem to trash at line 1
+Line 29 (1 moves): {
+Moved from problem to trash at line 1
+Line 52 (1 moves): } // End of else-clause
+Moved from problem to trash at line 1
+Line 53 (1 moves): } // End of else-clause
+Moved from problem to trash at line 1
+Line 19 (1 moves): {
+Moved from problem to trash at line 2
+Line 49 (1 moves): } // End of else-clause
+Moved from problem to trash at line 3
+Your Grade:
+You took 46 steps to solve a Parsons puzzle containing 41 lines of code.
+Next Problem clicked @ 1455256579945
+Time spent on this problem: 599 seconds
+<HR>

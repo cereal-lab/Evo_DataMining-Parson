@@ -1,0 +1,437 @@
+Problem No. 2
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+} // End of if-clause
+{
+else
+letterGrade  =  'B';
+{
+} // End of else-clause
+char letterGrade;
+char letterGrade
+letterGrade  =  'D';
+{
+{
+else
+else:
+} // End of if-clause
+{
+{
+letterGrade  =  'F';
+} // End of if-clause
+} // End of else-clause
+} // End of if-clause
+else
+System.out.print( letterGrade);
+{
+letterGrade  =  'A';
+gradeNumber = stdin.nextInt();
+if( gradeNumber  >=  80 )
+if( gradeNumber  >=  70 )
+{
+if( gradeNumber  >=  55 )
+letterGrade  =  'C';
+else
+} // End of else-clause
+System.out.print( "Enter the numerical grade");
+int gradeNumber;
+} // End of else-clause
+if( gradeNumber  >=  90 )
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare gradeNumber
+// Declare letterGrade
+// Read gradeNumber
+// Compute letterGrade based on gradeNumber
+// Print letterGrade
+}  // End of method main
+} // End of class Problem
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to solution at line 9: int gradeNumber;
+Moved from problem to trash at line 0: else:
+Moved from problem to solution at line 14: System.out.print( letterGrade);
+Moved from problem to solution at line 12: gradeNumber = stdin.nextInt();
+Moved from problem to solution at line 12: System.out.print( "Enter the numerical grade");
+Moved from problem to solution at line 11: char letterGrade;
+Moved from problem to solution at line 16: if( gradeNumber  >=  80 )
+Moved from solution to problem at line 23: if( gradeNumber  >=  80 )
+Moved from problem to solution at line 16: if( gradeNumber  >=  90 )
+Moved from problem to solution at line 17: {
+Moved from problem to solution at line 18: letterGrade  =  'A';
+Moved from problem to solution at line 19: } // End of if-clause
+Moved from problem to solution at line 20: else
+Moved from problem to solution at line 21: if( gradeNumber  >=  80 )
+Moved from problem to solution at line 22: {
+Moved from problem to solution at line 23: letterGrade  =  'B';
+Moved from problem to solution at line 24: } // End of if-clause
+Moved from problem to solution at line 25: else
+Moved from problem to solution at line 26: if( gradeNumber  >=  70 )
+Moved from problem to solution at line 27: {
+Moved from problem to solution at line 28: letterGrade  =  'C';
+Moved from problem to solution at line 29: } // End of if-clause
+Moved from problem to solution at line 30: else
+Moved from problem to solution at line 31: if( gradeNumber  >=  55 )
+Moved from problem to solution at line 32: {
+Moved from problem to solution at line 33: letterGrade  =  'D';
+Moved from problem to solution at line 34: } // End of if-clause
+Moved from problem to solution at line 35: else
+Moved from problem to solution at line 36: {
+Moved from problem to solution at line 37: letterGrade  =  'F';
+Moved from problem to solution at line 38: } // End of else-clause
+Moved from problem to trash at line 1: char letterGrade
+Moved from problem to solution at line 31: {
+Moved from problem to solution at line 25: {
+Moved from problem to solution at line 20: {
+Reordered from line 20 to 22: {
+Reordered from line 22 to 21: {
+Moved from problem to trash at line 2: } // End of else-clause
+Moved from problem to trash at line 1: } // End of else-clause
+Moved from problem to trash at line 3: } // End of else-clause
+Submit Parsons Solution clicked @ 1462076063048
+This line is not in its correct location: {
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to problem at line 13: {
+Moved from problem to trash at line 3: {
+Submit Parsons Solution clicked @ 1462076077778
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1462076107779
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1462076108841
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1462076110117
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1462076111978
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1462076113515
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1462076113565
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1462076113566
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1462076113691
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to problem at line 25: } // End of else-clause
+Moved from trash to problem at line 34: } // End of else-clause
+Moved from trash to problem at line 33: } // End of else-clause
+Moved from problem to solution at line 25: } // End of else-clause
+Moved from problem to trash at line 3: } // End of else-clause
+Moved from problem to trash at line 3: } // End of else-clause
+Submit Parsons Solution clicked @ 1462076191088
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to problem at line 41: } // End of else-clause
+Moved from problem to trash at line 2: } // End of else-clause
+Submit Parsons Solution clicked @ 1462076207321
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to problem at line 39: } // End of if-clause
+Moved from trash to solution at line 29: } // End of else-clause
+Moved from solution to problem at line 41: } // End of else-clause
+Moved from problem to solution at line 19: } // End of if-clause
+Moved from problem to solution at line 26: } // End of else-clause
+Submit Parsons Solution clicked @ 1462076353641
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 27 to 26: else
+Submit Parsons Solution clicked @ 1462076371682
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: if( gradeNumber  >=  70 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 28 to 27: if( gradeNumber  >=  70 )
+Submit Parsons Solution clicked @ 1462076383095
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: letterGrade  =  'C';
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 30 to 28: letterGrade  =  'C';
+Submit Parsons Solution clicked @ 1462076399579
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 32 to 29: else
+Submit Parsons Solution clicked @ 1462076407500
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: if( gradeNumber  >=  55 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 34 to 30: if( gradeNumber  >=  55 )
+Submit Parsons Solution clicked @ 1462076417627
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: letterGrade  =  'D';
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to problem at line 44: } // End of else-clause
+Moved from trash to problem at line 44: } // End of else-clause
+Moved from problem to solution at line 32: } // End of else-clause
+Moved from problem to solution at line 33: } // End of else-clause
+Submit Parsons Solution clicked @ 1462076437579
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: letterGrade  =  'D';
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 38 to 31: letterGrade  =  'D';
+Submit Parsons Solution clicked @ 1462076454094
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 40 to 32: else
+Submit Parsons Solution clicked @ 1462076462677
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: letterGrade  =  'F';
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 42 to 33: letterGrade  =  'F';
+Submit Parsons Solution clicked @ 1462076469859
+This line is not in its correct location: } // End of else-clause
+Either delete it or move it past this line: // Print letterGrade
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to problem at line 45: } // End of else-clause
+Moved from problem to trash at line 3: } // End of else-clause
+Submit Parsons Solution clicked @ 1462076504315
+This line is not in its correct location: } // End of else-clause
+Either delete it or move it past this line: // Print letterGrade
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to problem at line 46: } // End of else-clause
+Moved from problem to trash at line 3: } // End of else-clause
+Submit Parsons Solution clicked @ 1462076514036
+This line is not in its correct location: {
+Either delete it or move it past this line: // Print letterGrade
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to problem at line 47: {
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Moved from problem to trash at line 4: {
+Submit Parsons Solution clicked @ 1462076523977
+This line is not in its correct location: } // End of if-clause
+Either delete it or move it past this line: // Print letterGrade
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to problem at line 48: } // End of if-clause
+Moved from problem to trash at line 2: } // End of if-clause
+Submit Parsons Solution clicked @ 1462076534857
+This line is not in its correct location: {
+Either delete it or move it past this line: // Print letterGrade
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to problem at line 49: {
+Moved from problem to trash at line 3: {
+Submit Parsons Solution clicked @ 1462076543964
+This line is not in its correct location: {
+Either delete it or move it past this line: // Print letterGrade
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to problem at line 48: {
+Moved from problem to trash at line 2: {
+Submit Parsons Solution clicked @ 1462076553268
+This line is not in its correct location: } // End of if-clause
+Either delete it or move it past this line: // Print letterGrade
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to problem at line 51: } // End of if-clause
+Moved from problem to trash at line 2: } // End of if-clause
+Submit Parsons Solution clicked @ 1462076573757
+This line is not in its correct location: {
+Either delete it or move it past this line: // Print letterGrade
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to problem at line 52: {
+Moved from problem to trash at line 3: {
+Submit Parsons Solution clicked @ 1462076581229
+This line is not in its correct location: } // End of else-clause
+Either delete it or move it past this line: // Print letterGrade
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 4: } // End of else-clause
+Submit Parsons Solution clicked @ 1462076585727
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare gradeNumber
+Line 11 (1 moves): int gradeNumber;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Declare letterGrade
+Line 14 (1 moves): char letterGrade;
+Moved from problem to solution at line 11
+Line 16 (0 moves): // Read gradeNumber
+Line 17 (1 moves): System.out.print( "Enter the numerical grade");
+Moved from problem to solution at line 12
+Line 18 (1 moves): gradeNumber = stdin.nextInt();
+Moved from problem to solution at line 12
+Line 20 (0 moves): // Compute letterGrade based on gradeNumber
+Line 21 (1 moves): if( gradeNumber  >=  90 )
+Moved from problem to solution at line 16
+Line 22 (1 moves): {
+Moved from problem to solution at line 17
+Line 23 (1 moves): letterGrade  =  'A';
+Moved from problem to solution at line 18
+Line 24 (3 moves): } // End of if-clause
+Moved from problem to solution at line 19
+Moved from solution to problem at line 39
+Moved from problem to solution at line 19
+Line 25 (1 moves): else
+Moved from problem to solution at line 20
+Line 26 (3 moves): {
+Moved from problem to solution at line 20
+Reordered from line 20 to 22
+Reordered from line 22 to 21
+Line 27 (3 moves): if( gradeNumber  >=  80 )
+Moved from problem to solution at line 16
+Moved from solution to problem at line 23
+Moved from problem to solution at line 21
+Line 28 (1 moves): {
+Moved from problem to solution at line 22
+Line 29 (1 moves): letterGrade  =  'B';
+Moved from problem to solution at line 23
+Line 30 (1 moves): } // End of if-clause
+Moved from problem to solution at line 24
+Line 31 (2 moves): else
+Moved from problem to solution at line 25
+Reordered from line 27 to 26
+Line 33 (2 moves): if( gradeNumber  >=  70 )
+Moved from problem to solution at line 26
+Reordered from line 28 to 27
+Line 35 (2 moves): letterGrade  =  'C';
+Moved from problem to solution at line 28
+Reordered from line 30 to 28
+Line 37 (2 moves): else
+Moved from problem to solution at line 30
+Reordered from line 32 to 29
+Line 39 (2 moves): if( gradeNumber  >=  55 )
+Moved from problem to solution at line 31
+Reordered from line 34 to 30
+Line 41 (2 moves): letterGrade  =  'D';
+Moved from problem to solution at line 33
+Reordered from line 38 to 31
+Line 43 (2 moves): else
+Moved from problem to solution at line 35
+Reordered from line 40 to 32
+Line 45 (2 moves): letterGrade  =  'F';
+Moved from problem to solution at line 37
+Reordered from line 42 to 33
+Line 46 (6 moves): } // End of else-clause
+Moved from problem to trash at line 1
+Moved from trash to problem at line 34
+Moved from problem to trash at line 3
+Moved from trash to solution at line 29
+Moved from solution to problem at line 41
+Moved from problem to solution at line 26
+Line 51 (0 moves): // Print letterGrade
+Line 52 (1 moves): System.out.print( letterGrade);
+Moved from problem to solution at line 14
+Line 53 (0 moves): }  // End of method main
+Line 55 (0 moves): } // End of class Problem
+LINE 43 (1 moves): else:
+Moved from problem to trash at line 0
+LINE 14 (1 moves): char letterGrade
+Moved from problem to trash at line 1
+Line 34 (3 moves): {
+Moved from problem to solution at line 25
+Moved from solution to problem at line 13
+Moved from problem to trash at line 3
+Line 47 (7 moves): } // End of else-clause
+Moved from problem to trash at line 3
+Moved from trash to problem at line 33
+Moved from problem to trash at line 3
+Moved from trash to problem at line 44
+Moved from problem to solution at line 32
+Moved from solution to problem at line 45
+Moved from problem to trash at line 3
+Line 48 (9 moves): } // End of else-clause
+Moved from problem to trash at line 2
+Moved from trash to problem at line 25
+Moved from problem to solution at line 25
+Moved from solution to problem at line 41
+Moved from problem to trash at line 2
+Moved from trash to problem at line 44
+Moved from problem to solution at line 33
+Moved from solution to problem at line 46
+Moved from problem to trash at line 3
+Line 34 (3 moves): {
+Moved from problem to solution at line 27
+Moved from solution to problem at line 47
+Moved from problem to trash at line 4
+Line 36 (3 moves): } // End of if-clause
+Moved from problem to solution at line 29
+Moved from solution to problem at line 48
+Moved from problem to trash at line 2
+Line 38 (3 moves): {
+Moved from problem to solution at line 31
+Moved from solution to problem at line 49
+Moved from problem to trash at line 3
+Line 40 (3 moves): {
+Moved from problem to solution at line 32
+Moved from solution to problem at line 48
+Moved from problem to trash at line 2
+Line 42 (3 moves): } // End of if-clause
+Moved from problem to solution at line 34
+Moved from solution to problem at line 51
+Moved from problem to trash at line 2
+Line 44 (3 moves): {
+Moved from problem to solution at line 36
+Moved from solution to problem at line 52
+Moved from problem to trash at line 3
+Line 46 (2 moves): } // End of else-clause
+Moved from problem to solution at line 38
+Moved from solution to trash at line 4
+Your Grade:
+You took 84 steps to solve a Parsons puzzle containing 36 lines of code.
+Next Problem clicked @ 1462076600719
+Time spent on this problem: 1084 seconds
+<HR>

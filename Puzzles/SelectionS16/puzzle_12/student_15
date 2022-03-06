@@ -1,0 +1,190 @@
+Problem No. 12
+Using Template # 2106
+Stage: Posttest / Feedback Amount: None / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+{
+else
+} // End of if-clause
+{
+if( credits  >=  85 )
+{
+} // End of else-clause
+System.out.print( "Status is freshman (0-28 credits)");
+System.out.print( "Status is graduate (over 128 credits)");
+else
+else
+} // End of else-clause
+System.out.print( "Status is sophomore (29-56 credits)");
+} // End of if-clause
+System.out.print( "Enter the credits earned by the student");
+System.out.print( "Enter the credits earned by the student")
+} // End of if-clause
+credits = stdin.nextInt();
+{
+if( credits  >=  129 )
+if( credits  >=  57 )
+{
+else
+System.out.print( "Status is senior (85-128 credits)");
+{
+} // End of else-clause
+int credits;
+System.out.print( "Status is junior (57-84 credits)");
+{
+If ( credits  >=  29 )
+if( credits  >=  29 )
+} // End of if-clause
+{
+} // End of else-clause
+Using Template # 2106
+Stage: Posttest / Feedback Amount: None / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare credits
+// Read credits
+// Compute and print the status of the student
+}  // End of method main
+} // End of class Problem
+Using Template # 2106
+Stage: Posttest / Feedback Amount: None / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to solution at line 9: int credits;
+Moved from problem to trash at line 0: If ( credits  >=  29 )
+Moved from problem to solution at line 11: System.out.print( "Enter the credits earned by the student");
+Moved from problem to solution at line 10: credits = stdin.nextInt();
+Reordered from line 10 to 12: credits = stdin.nextInt();
+Reordered from line 12 to 11: credits = stdin.nextInt();
+Reordered from line 12 to 11: System.out.print( "Enter the credits earned by the student");
+Moved from problem to solution at line 14: if( credits  >=  129 )
+Moved from problem to solution at line 15: {
+Moved from problem to solution at line 16: System.out.print( "Status is graduate (over 128 credits)");
+Moved from problem to solution at line 17: } // End of if-clause
+Moved from problem to solution at line 18: else
+Moved from problem to solution at line 19: {
+Moved from problem to solution at line 20: if( credits  >=  85 )
+Moved from problem to solution at line 22: {
+Reordered from line 22 to 21: {
+Moved from problem to solution at line 22: System.out.print( "Status is senior (85-128 credits)");
+Moved from problem to solution at line 23: } // End of if-clause
+Moved from problem to solution at line 23: else
+Reordered from line 23 to 25: else
+Reordered from line 25 to 24: else
+Moved from problem to solution at line 25: {
+Moved from problem to solution at line 26: if( credits  >=  57 )
+Moved from problem to solution at line 27: {
+Moved from problem to solution at line 28: System.out.print( "Status is junior (57-84 credits)");
+Moved from problem to solution at line 29: } // End of if-clause
+Moved from problem to solution at line 30: else
+Moved from problem to solution at line 31: {
+Moved from problem to solution at line 32: if( credits  >=  29 )
+Moved from problem to solution at line 33: {
+Moved from problem to solution at line 34: System.out.print( "Status is sophomore (29-56 credits)");
+Moved from problem to solution at line 35: } // End of if-clause
+Moved from problem to solution at line 36: else
+Moved from problem to solution at line 37: {
+Moved from problem to solution at line 38: System.out.print( "Status is freshman (0-28 credits)");
+Moved from problem to solution at line 39: } // End of else-clause
+Moved from problem to solution at line 39: } // End of else-clause
+Moved from problem to solution at line 40: } // End of else-clause
+Moved from problem to solution at line 41: } // End of else-clause
+Moved from problem to trash at line 1: System.out.print( "Enter the credits earned by the student")
+Submit Parsons Solution clicked @ 1455158000656
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare credits
+Line 11 (1 moves): int credits;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Read credits
+Line 14 (2 moves): System.out.print( "Enter the credits earned by the student");
+Moved from problem to solution at line 11
+Reordered from line 12 to 11
+Line 15 (3 moves): credits = stdin.nextInt();
+Moved from problem to solution at line 10
+Reordered from line 10 to 12
+Reordered from line 12 to 11
+Line 17 (0 moves): // Compute and print the status of the student
+Line 18 (1 moves): if( credits  >=  129 )
+Moved from problem to solution at line 14
+Line 19 (1 moves): {
+Moved from problem to solution at line 15
+Line 20 (1 moves): System.out.print( "Status is graduate (over 128 credits)");
+Moved from problem to solution at line 16
+Line 21 (1 moves): } // End of if-clause
+Moved from problem to solution at line 17
+Line 22 (1 moves): else
+Moved from problem to solution at line 18
+Line 23 (1 moves): {
+Moved from problem to solution at line 19
+Line 24 (1 moves): if( credits  >=  85 )
+Moved from problem to solution at line 20
+Line 25 (2 moves): {
+Moved from problem to solution at line 22
+Reordered from line 22 to 21
+Line 26 (1 moves): System.out.print( "Status is senior (85-128 credits)");
+Moved from problem to solution at line 22
+Line 27 (1 moves): } // End of if-clause
+Moved from problem to solution at line 23
+Line 28 (3 moves): else
+Moved from problem to solution at line 23
+Reordered from line 23 to 25
+Reordered from line 25 to 24
+Line 29 (1 moves): {
+Moved from problem to solution at line 25
+Line 30 (1 moves): if( credits  >=  57 )
+Moved from problem to solution at line 26
+Line 31 (1 moves): {
+Moved from problem to solution at line 27
+Line 32 (1 moves): System.out.print( "Status is junior (57-84 credits)");
+Moved from problem to solution at line 28
+Line 33 (1 moves): } // End of if-clause
+Moved from problem to solution at line 29
+Line 34 (1 moves): else
+Moved from problem to solution at line 30
+Line 35 (1 moves): {
+Moved from problem to solution at line 31
+Line 36 (1 moves): if( credits  >=  29 )
+Moved from problem to solution at line 32
+Line 37 (1 moves): {
+Moved from problem to solution at line 33
+Line 38 (1 moves): System.out.print( "Status is sophomore (29-56 credits)");
+Moved from problem to solution at line 34
+Line 39 (1 moves): } // End of if-clause
+Moved from problem to solution at line 35
+Line 40 (1 moves): else
+Moved from problem to solution at line 36
+Line 41 (1 moves): {
+Moved from problem to solution at line 37
+Line 42 (1 moves): System.out.print( "Status is freshman (0-28 credits)");
+Moved from problem to solution at line 38
+Line 43 (1 moves): } // End of else-clause
+Moved from problem to solution at line 39
+Line 44 (1 moves): } // End of else-clause
+Moved from problem to solution at line 40
+Line 45 (1 moves): } // End of else-clause
+Moved from problem to solution at line 41
+Line 46 (1 moves): } // End of else-clause
+Moved from problem to solution at line 39
+Line 47 (0 moves): }  // End of method main
+Line 49 (0 moves): } // End of class Problem
+LINE 36 (1 moves): If ( credits  >=  29 )
+Moved from problem to trash at line 0
+LINE 14 (1 moves): System.out.print( "Enter the credits earned by the student")
+Moved from problem to trash at line 1
+Your Grade:
+You took 40 steps to solve a Parsons puzzle containing 34 lines of code.
+Next Problem clicked @ 1455158001488
+Time spent on this problem: 334 seconds
+<HR>

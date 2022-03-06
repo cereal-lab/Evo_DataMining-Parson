@@ -1,0 +1,411 @@
+Problem No. 1
+Using Template # 100
+The Problem:
+public class MultiplicationTable {
+public Class MultiplicationTable {
+System.out.print(i + " | ");
+System.out.println();}
+for (int i = 1; i <= 9; i++) {
+System.out.printf("%4d", i * j);}
+public static void main(String[] args) {
+for (int j = 1; j <= 9; j++)
+for for (int j = 1; j < 9; j++)
+System.out.println("           Multiplication Table");
+for (int j = 1; j <= 9; j++) {
+System.out.println("\n-----------------------------------------");
+System.out.print("    ");
+System.out.print("   " + j);
+}}
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 15 lines.
+Re-assemble them with 16 (or fewer) moves for full credit
+Using Template # 100
+The Problem:
+public class MultiplicationTable {
+public Class MultiplicationTable {
+System.out.print(i + " | ");
+System.out.println();}
+for (int i = 1; i <= 9; i++) {
+System.out.printf("%4d", i * j);}
+public static void main(String[] args) {
+for (int j = 1; j <= 9; j++)
+for for (int j = 1; j < 9; j++)
+System.out.println("           Multiplication Table");
+for (int j = 1; j <= 9; j++) {
+System.out.println("\n-----------------------------------------");
+System.out.print("    ");
+System.out.print("   " + j);
+}}
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+1. Moved from problem to solution at line 0: public class MultiplicationTable {
+2. Moved from problem to solution at line 1:   public static void main(String[] args) {
+3. Reordered from line 1 to 2:   public static void main(String[] args) {
+4. Moved from problem to solution at line 2: public Class MultiplicationTable {
+5. Moved from problem to trash at line 0:     System.out.println("\n-----------------------------------------");
+6. Moved from solution to trash at line 1: public Class MultiplicationTable {
+7. Moved from problem to solution at line 2:     for (int i = 1; i <= 9; i++) {
+8. Reordered from line 2 to 3:     for (int i = 1; i <= 9; i++) {
+9. Moved from problem to solution at line 3:       System.out.print(i + " | ");
+10. Reordered from line 3 to 4:       System.out.print(i + " | ");
+11. Moved from problem to solution at line 4:    for for (int j = 1; j < 9; j++)
+12. Reordered from line 4 to 5:    for for (int j = 1; j < 9; j++)
+13. Moved from problem to solution at line 5:       System.out.println();}
+14. Moved from problem to solution at line 6:         System.out.printf("%4d", i * j);}
+15. Moved from problem to solution at line 7:     for (int j = 1; j <= 9; j++)
+16. Moved from problem to solution at line 8:     System.out.println("           Multiplication Table");
+17. Moved from problem to solution at line 9:       for (int j = 1; j <= 9; j++) {
+18. Moved from problem to solution at line 10:     System.out.print("    ");
+19. Moved from problem to solution at line 11:       System.out.print("   " + j);
+20. Moved from problem to solution at line 12: }}
+21. Reordered from line 12 to 13: }}
+Submit Parsons Solution clicked @ 1489375762527
+This line is not in its correct location:     for (int i = 1; i <= 9; i++) {
+Move this line in its place:     System.out.println("           Multiplication Table");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+22. Reordered from line 3 to 8:     for (int i = 1; i <= 9; i++) {
+Submit Parsons Solution clicked @ 1489375783755
+This line is not in its correct location:       System.out.print(i + " | ");
+Move this line in its place:     System.out.println("           Multiplication Table");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+23. Reordered from line 3 to 7:       System.out.print(i + " | ");
+Submit Parsons Solution clicked @ 1489375794637
+This line is not in its correct location:       System.out.println();}
+Move this line in its place:     System.out.println("           Multiplication Table");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+24. Reordered from line 6 to 3:     System.out.println("           Multiplication Table");
+25. Reordered from line 6 to 5:     for (int j = 1; j <= 9; j++)
+Submit Parsons Solution clicked @ 1489375811223
+This line is not in its correct location:       System.out.println();}
+Move this line in its place:     System.out.print("    ");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+26. Reordered from line 4 to 10:       System.out.println();}
+27. Reordered from line 10 to 4:       System.out.println();}
+Submit Parsons Solution clicked @ 1489375827562
+This line is not in its correct location:       System.out.println();}
+Move this line in its place:     System.out.print("    ");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+28. Reordered from line 4 to 10:       System.out.println();}
+Submit Parsons Solution clicked @ 1489375840098
+This line is not in its correct location:     for (int j = 1; j <= 9; j++)
+Move this line in its place:     System.out.print("    ");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+29. Reordered from line 4 to 9:     for (int j = 1; j <= 9; j++)
+Submit Parsons Solution clicked @ 1489375847600
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Move this line in its place:     System.out.print("    ");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+30. Reordered from line 4 to 8:         System.out.printf("%4d", i * j);}
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Submit Parsons Solution clicked @ 1489375858493
+This line is not in its correct location:       System.out.print(i + " | ");
+Move this line in its place:     System.out.print("    ");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+31. Reordered from line 4 to 7:       System.out.print(i + " | ");
+32. Reordered from line 5 to 6:       for (int j = 1; j <= 9; j++) {
+Submit Parsons Solution clicked @ 1489375870392
+This line is not in its correct location:     for (int i = 1; i <= 9; i++) {
+Move this line in its place:     System.out.print("    ");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+33. Reordered from line 4 to 5:     for (int i = 1; i <= 9; i++) {
+Submit Parsons Solution clicked @ 1489375883733
+This line is not in its correct location:     for (int i = 1; i <= 9; i++) {
+Move this line in its place:     for (int j = 1; j <= 9; j++)
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+34. Reordered from line 5 to 6:     for (int i = 1; i <= 9; i++) {
+Submit Parsons Solution clicked @ 1489375900773
+This line is not in its correct location:       for (int j = 1; j <= 9; j++) {
+Move this line in its place:     for (int j = 1; j <= 9; j++)
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+35. Reordered from line 5 to 9:       for (int j = 1; j <= 9; j++) {
+Submit Parsons Solution clicked @ 1489375913661
+This line is not in its correct location:     for (int i = 1; i <= 9; i++) {
+Move this line in its place:     for (int j = 1; j <= 9; j++)
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+36. Reordered from line 5 to 9:     for (int i = 1; i <= 9; i++) {
+Submit Parsons Solution clicked @ 1489375937392
+This line is not in its correct location:       System.out.print(i + " | ");
+Move this line in its place:     for (int j = 1; j <= 9; j++)
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+37. Reordered from line 5 to 7:       System.out.print(i + " | ");
+Submit Parsons Solution clicked @ 1489375962241
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Move this line in its place:     for (int j = 1; j <= 9; j++)
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+38. Moved from solution to trash at line 1:       for (int j = 1; j <= 9; j++) {
+Submit Parsons Solution clicked @ 1489375972095
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Move this line in its place:     for (int j = 1; j <= 9; j++)
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+39. Reordered from line 5 to 6:         System.out.printf("%4d", i * j);}
+Submit Parsons Solution clicked @ 1489375985108
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Move this line in its place:       System.out.print("   " + j);
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+40. Reordered from line 6 to 10:         System.out.printf("%4d", i * j);}
+Submit Parsons Solution clicked @ 1489375995912
+This line is not in its correct location:       System.out.print(i + " | ");
+Move this line in its place:       System.out.print("   " + j);
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+41. Reordered from line 6 to 9:       System.out.print(i + " | ");
+Submit Parsons Solution clicked @ 1489376003910
+This line is not in its correct location:     for (int i = 1; i <= 9; i++) {
+Move this line in its place:       System.out.print("   " + j);
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+42. Reordered from line 6 to 8:     for (int i = 1; i <= 9; i++) {
+Submit Parsons Solution clicked @ 1489376015092
+This line is not in its correct location:       System.out.println();}
+Move this line in its place:       System.out.print("   " + j);
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+43. Reordered from line 6 to 7:       System.out.println();}
+Submit Parsons Solution clicked @ 1489376023310
+This line is not in its correct location:       System.out.println();}
+Insert this line in its place:     System.out.println("\n-----------------------------------------");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+44. Moved from trash to solution at line 7:     System.out.println("\n-----------------------------------------");
+Submit Parsons Solution clicked @ 1489376034687
+This line is not in its correct location:       System.out.println();}
+Move this line in its place:     for (int i = 1; i <= 9; i++) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+45. Reordered from line 8 to 9:       System.out.println();}
+Submit Parsons Solution clicked @ 1489376052058
+This line is not in its correct location:       System.out.println();}
+Move this line in its place:       System.out.print(i + " | ");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+46. Reordered from line 9 to 10:       System.out.println();}
+Submit Parsons Solution clicked @ 1489376062963
+This line is not in its correct location:       System.out.println();}
+Insert this line in its place:       for (int j = 1; j <= 9; j++) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+47. Reordered from line 10 to 8:       System.out.println();}
+Submit Parsons Solution clicked @ 1489376079193
+This line is not in its correct location:       System.out.println();}
+Move this line in its place:     for (int i = 1; i <= 9; i++) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+48. Reordered from line 8 to 9:       System.out.println();}
+Submit Parsons Solution clicked @ 1489376096020
+This line is not in its correct location:       System.out.println();}
+Move this line in its place:       System.out.print(i + " | ");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+49. Reordered from line 9 to 10:       System.out.println();}
+Submit Parsons Solution clicked @ 1489376102271
+This line is not in its correct location:       System.out.println();}
+Insert this line in its place:       for (int j = 1; j <= 9; j++) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+50. Reordered from line 10 to 12:       System.out.println();}
+Submit Parsons Solution clicked @ 1489376110419
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Insert this line in its place:       for (int j = 1; j <= 9; j++) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+51. Reordered from line 10 to 5:         System.out.printf("%4d", i * j);}
+Submit Parsons Solution clicked @ 1489376123808
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Move this line in its place:     for (int j = 1; j <= 9; j++)
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+52. Reordered from line 5 to 11:         System.out.printf("%4d", i * j);}
+Submit Parsons Solution clicked @ 1489376132076
+Sorry, that line has a bug
+Delete this line:    for for (int j = 1; j < 9; j++)
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+53. Moved from solution to trash at line 2:    for for (int j = 1; j < 9; j++)
+Submit Parsons Solution clicked @ 1489376149009
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Insert this line in its place:       for (int j = 1; j <= 9; j++) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+54. Reordered from line 10 to 5:         System.out.printf("%4d", i * j);}
+Submit Parsons Solution clicked @ 1489376159631
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Move this line in its place:     for (int j = 1; j <= 9; j++)
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+55. Reordered from line 5 to 6:         System.out.printf("%4d", i * j);}
+Submit Parsons Solution clicked @ 1489376167308
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Move this line in its place:       System.out.print("   " + j);
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+56. Reordered from line 6 to 7:         System.out.printf("%4d", i * j);}
+Submit Parsons Solution clicked @ 1489376173577
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Move this line in its place:     System.out.println("\n-----------------------------------------");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+57. Reordered from line 7 to 8:         System.out.printf("%4d", i * j);}
+Submit Parsons Solution clicked @ 1489376180870
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Move this line in its place:     for (int i = 1; i <= 9; i++) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+58. Reordered from line 8 to 9:         System.out.printf("%4d", i * j);}
+Submit Parsons Solution clicked @ 1489376187163
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Move this line in its place:       System.out.print(i + " | ");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+59. Reordered from line 9 to 10:         System.out.printf("%4d", i * j);}
+Submit Parsons Solution clicked @ 1489376192412
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Insert this line in its place:       for (int j = 1; j <= 9; j++) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+60. Reordered from line 10 to 5:         System.out.printf("%4d", i * j);}
+Submit Parsons Solution clicked @ 1489376212716
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Move this line in its place:     for (int j = 1; j <= 9; j++)
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+61. Reordered from line 5 to 6:         System.out.printf("%4d", i * j);}
+Submit Parsons Solution clicked @ 1489376219790
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Move this line in its place:       System.out.print("   " + j);
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+62. Reordered from line 6 to 7:         System.out.printf("%4d", i * j);}
+Submit Parsons Solution clicked @ 1489376227559
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Move this line in its place:     System.out.println("\n-----------------------------------------");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+63. Reordered from line 7 to 8:         System.out.printf("%4d", i * j);}
+Submit Parsons Solution clicked @ 1489376235606
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Move this line in its place:     for (int i = 1; i <= 9; i++) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+64. Reordered from line 8 to 9:         System.out.printf("%4d", i * j);}
+Submit Parsons Solution clicked @ 1489376243324
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Move this line in its place:       System.out.print(i + " | ");
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+65. Reordered from line 9 to 10:         System.out.printf("%4d", i * j);}
+Submit Parsons Solution clicked @ 1489376249285
+This line is not in its correct location:         System.out.printf("%4d", i * j);}
+Insert this line in its place:       for (int j = 1; j <= 9; j++) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+66. Moved from trash to solution at line 10:       for (int j = 1; j <= 9; j++) {
+Submit Parsons Solution clicked @ 1489376267409
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): public class MultiplicationTable {
+1. Moved from problem to solution at line 0
+Line 2 (2 moves):   public static void main(String[] args) {
+2. Moved from problem to solution at line 1
+3. Reordered from line 1 to 2
+Line 3 (2 moves):     System.out.println("           Multiplication Table");
+16. Moved from problem to solution at line 8
+24. Reordered from line 6 to 3
+Line 4 (1 moves):     System.out.print("    ");
+18. Moved from problem to solution at line 10
+Line 5 (3 moves):     for (int j = 1; j <= 9; j++)
+15. Moved from problem to solution at line 7
+25. Reordered from line 6 to 5
+29. Reordered from line 4 to 9
+Line 6 (1 moves):       System.out.print("   " + j);
+19. Moved from problem to solution at line 11
+Line 7 (2 moves):     System.out.println("\n-----------------------------------------");
+5. Moved from problem to trash at line 0
+44. Moved from trash to solution at line 7
+Line 8 (7 moves):     for (int i = 1; i <= 9; i++) {
+7. Moved from problem to solution at line 2
+8. Reordered from line 2 to 3
+22. Reordered from line 3 to 8
+33. Reordered from line 4 to 5
+34. Reordered from line 5 to 6
+36. Reordered from line 5 to 9
+42. Reordered from line 6 to 8
+Line 9 (6 moves):       System.out.print(i + " | ");
+9. Moved from problem to solution at line 3
+10. Reordered from line 3 to 4
+23. Reordered from line 3 to 7
+31. Reordered from line 4 to 7
+37. Reordered from line 5 to 7
+41. Reordered from line 6 to 9
+Line 10 (5 moves):       for (int j = 1; j <= 9; j++) {
+17. Moved from problem to solution at line 9
+32. Reordered from line 5 to 6
+35. Reordered from line 5 to 9
+38. Moved from solution to trash at line 1
+66. Moved from trash to solution at line 10
+Line 11 (18 moves):         System.out.printf("%4d", i * j);}
+14. Moved from problem to solution at line 6
+30. Reordered from line 4 to 8
+39. Reordered from line 5 to 6
+40. Reordered from line 6 to 10
+51. Reordered from line 10 to 5
+52. Reordered from line 5 to 11
+54. Reordered from line 10 to 5
+55. Reordered from line 5 to 6
+56. Reordered from line 6 to 7
+57. Reordered from line 7 to 8
+58. Reordered from line 8 to 9
+59. Reordered from line 9 to 10
+60. Reordered from line 10 to 5
+61. Reordered from line 5 to 6
+62. Reordered from line 6 to 7
+63. Reordered from line 7 to 8
+64. Reordered from line 8 to 9
+65. Reordered from line 9 to 10
+Line 12 (11 moves):       System.out.println();}
+13. Moved from problem to solution at line 5
+26. Reordered from line 4 to 10
+27. Reordered from line 10 to 4
+28. Reordered from line 4 to 10
+43. Reordered from line 6 to 7
+45. Reordered from line 8 to 9
+46. Reordered from line 9 to 10
+47. Reordered from line 10 to 8
+48. Reordered from line 8 to 9
+49. Reordered from line 9 to 10
+50. Reordered from line 10 to 12
+Line 13 (2 moves): }}
+20. Moved from problem to solution at line 12
+21. Reordered from line 12 to 13
+Line 1 (8) (2 moves): public Class MultiplicationTable {
+4. Moved from problem to solution at line 2
+6. Moved from solution to trash at line 1
+Line 5 (29) (3 moves):    for for (int j = 1; j < 9; j++)
+11. Moved from problem to solution at line 4
+12. Reordered from line 4 to 5
+53. Moved from solution to trash at line 2
+Your Grade:
+You took 66 steps to solve a Parsons puzzle containing 15 lines of code.
+Next Problem clicked @ 1489376291118
+Time spent on this problem: 748 seconds
+<HR>

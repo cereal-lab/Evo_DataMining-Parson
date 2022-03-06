@@ -1,0 +1,1190 @@
+Problem No. 2
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+} // End of if-clause
+{
+else
+} // End of if-clause
+gradeNumber = stdin.nextShort();
+{
+else
+else
+{
+} // End of else-clause
+} // End of else-clause
+gradeLetter  =  'D';
+gradeLetter  =  D;
+if( gradeNumber  >=  55 )
+if( gradeNumber  >  55 )
+short gradeNumber;
+} // End of else-clause
+{
+gradeLetter  =  'F';
+System.out.print( gradeLetter);
+gradeLetter  =  'C';
+} // End of else-clause
+if( gradeNumber  >=  70 )
+{
+gradeLetter  =  'A';
+else
+{
+} // End of if-clause
+if( gradeNumber  >=  90 )
+{
+{
+char gradeLetter;
+} // End of if-clause
+System.out.print( "Enter the numerical grade");
+if( gradeNumber  >=  80 )
+gradeLetter  =  'B';
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare gradeNumber
+// Declare gradeLetter
+// Read gradeNumber
+// Compute gradeLetter based on gradeNumber
+// Print gradeLetter
+}  // End of method main
+} // End of class Problem
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to solution at line 10: gradeLetter  =  'D';
+Moved from problem to solution at line 11: gradeLetter  =  D;
+Moved from problem to solution at line 12: gradeLetter  =  'F';
+Moved from problem to solution at line 10: gradeLetter  =  'A';
+Moved from problem to solution at line 10: gradeLetter  =  'B';
+Moved from problem to solution at line 10: char gradeLetter;
+Moved from problem to solution at line 16: gradeLetter  =  'C';
+Moved from problem to solution at line 19: if( gradeNumber  >=  55 )
+Moved from problem to solution at line 18: gradeNumber = stdin.nextShort();
+Moved from problem to solution at line 9: short gradeNumber;
+Reordered from line 16 to 22: gradeLetter  =  'F';
+Reordered from line 22 to 21: gradeLetter  =  'F';
+Moved from problem to solution at line 22: } // End of if-clause
+Moved from problem to solution at line 23: if( gradeNumber  >  55 )
+Reordered from line 14 to 22: gradeLetter  =  'D';
+Reordered from line 22 to 24: gradeLetter  =  'D';
+Reordered from line 14 to 25: gradeLetter  =  D;
+Reordered from line 25 to 24: gradeLetter  =  D;
+Moved from problem to solution at line 25: } // End of if-clause
+Moved from problem to solution at line 25: if( gradeNumber  >=  70 )
+Reordered from line 14 to 26: gradeLetter  =  'C';
+Moved from problem to solution at line 27: } // End of else-clause
+Moved from problem to solution at line 27: if( gradeNumber  >=  80 )
+Reordered from line 12 to 28: gradeLetter  =  'B';
+Reordered from line 28 to 27: gradeLetter  =  'B';
+Moved from problem to solution at line 29: } // End of if-clause
+Reordered from line 29 to 28: } // End of if-clause
+Moved from problem to solution at line 14: System.out.print( "Enter the numerical grade");
+Moved from problem to solution at line 30: if( gradeNumber  >=  90 )
+Reordered from line 22 to 21: gradeLetter  =  'D';
+Reordered from line 23 to 21: gradeLetter  =  D;
+Reordered from line 24 to 23: if( gradeNumber  >=  70 )
+Reordered from line 26 to 24: gradeLetter  =  'C';
+Reordered from line 26 to 23: } // End of if-clause
+Reordered from line 27 to 26: if( gradeNumber  >=  80 )
+Reordered from line 28 to 27: gradeLetter  =  'B';
+Reordered from line 29 to 28: } // End of if-clause
+Reordered from line 30 to 29: if( gradeNumber  >=  90 )
+Moved from problem to solution at line 31: System.out.print( gradeLetter);
+Reordered from line 12 to 30: gradeLetter  =  'A';
+Reordered from line 30 to 29: gradeLetter  =  'A';
+Moved from problem to solution at line 32: } // End of if-clause
+Reordered from line 32 to 30: } // End of if-clause
+Moved from problem to solution at line 28: {
+Reordered from line 28 to 30: {
+Moved from problem to solution at line 17: {
+Moved from problem to solution at line 21: {
+Moved from problem to solution at line 20: else
+Moved from problem to solution at line 26: } // End of else-clause
+Moved from problem to solution at line 28: {
+Moved from problem to solution at line 27: else
+Moved from problem to solution at line 28: {
+Moved from problem to solution at line 35: } // End of else-clause
+Moved from problem to solution at line 40: } // End of else-clause
+Moved from problem to solution at line 31: else
+Reordered from line 32 to 31: gradeLetter  =  'C';
+Moved from problem to solution at line 37: else
+Moved from problem to solution at line 38: {
+Moved from problem to solution at line 21: {
+Moved from problem to solution at line 34: {
+Submit Parsons Solution clicked @ 1447802026818
+This line is not in its correct location: if( gradeNumber  >=  55 )
+Move this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802072733
+This line is not in its correct location: if( gradeNumber  >=  55 )
+Move this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 41 to 17: if( gradeNumber  >=  90 )
+Submit Parsons Solution clicked @ 1447802082138
+This line is not in its correct location: if( gradeNumber  >=  55 )
+Move this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802088232
+This line is not in its correct location: if( gradeNumber  >=  55 )
+Move this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802088763
+This line is not in its correct location: if( gradeNumber  >=  55 )
+Move this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802089344
+This line is not in its correct location: if( gradeNumber  >=  55 )
+Move this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802089485
+This line is not in its correct location: if( gradeNumber  >=  55 )
+Move this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802089735
+This line is not in its correct location: if( gradeNumber  >=  55 )
+Move this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802090063
+This line is not in its correct location: if( gradeNumber  >=  55 )
+Move this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 17 to 20: if( gradeNumber  >=  90 )
+Submit Parsons Solution clicked @ 1447802098478
+This line is not in its correct location: if( gradeNumber  >=  55 )
+Move this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 41: if( gradeNumber  >=  55 )
+Submit Parsons Solution clicked @ 1447802106909
+This line is not in its correct location: {
+Move this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 41 to 39: if( gradeNumber  >=  55 )
+Reordered from line 39 to 41: if( gradeNumber  >=  55 )
+Reordered from line 41 to 40: if( gradeNumber  >=  55 )
+Submit Parsons Solution clicked @ 1447802116806
+This line is not in its correct location: {
+Move this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802117821
+This line is not in its correct location: {
+Move this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802119572
+This line is not in its correct location: {
+Move this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802119707
+This line is not in its correct location: {
+Move this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802119931
+This line is not in its correct location: {
+Move this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802120181
+This line is not in its correct location: {
+Move this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802161180
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Attempted to reorder // Compute gradeLetter based on gradeNumber
+This line was provided to you in its correct order. Do not reorder it.
+Submit Parsons Solution clicked @ 1447802169982
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802170748
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802171326
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802171826
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802171967
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802172233
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 17: else
+Submit Parsons Solution clicked @ 1447802179281
+This line is not in its correct location: {
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802192784
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Attempted to reorder // Compute gradeLetter based on gradeNumber
+This line was provided to you in its correct order. Do not reorder it.
+Submit Parsons Solution clicked @ 1447802212759
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 17: else
+Submit Parsons Solution clicked @ 1447802223976
+This line is not in its correct location: if( gradeNumber  >=  70 )
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 17: if( gradeNumber  >=  70 )
+Submit Parsons Solution clicked @ 1447802228106
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 30: {
+Submit Parsons Solution clicked @ 1447802252777
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802253543
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802253668
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802253871
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802254089
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802254293
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802254480
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802254793
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802277130
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802278288
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802278788
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802278913
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802279085
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802279288
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802279496
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802279695
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802279883
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802280095
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802280283
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802280486
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802280673
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802280861
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802281079
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802281283
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802281470
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802281705
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802281892
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802282095
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802282283
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802282470
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802282674
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802282861
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802283080
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802283268
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802283533
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Indented line 16: else
+Indented line 16: else
+Indented line 16: else
+Submit Parsons Solution clicked @ 1447802296329
+This line is not in its correct location: if( gradeNumber  >=  70 )
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 22 to 18: } // End of if-clause
+Submit Parsons Solution clicked @ 1447802305516
+This line is not in its correct location: if( gradeNumber  >=  70 )
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 25 to 27: if( gradeNumber  >=  55 )
+Reordered from line 16 to 32: if( gradeNumber  >=  70 )
+Reordered from line 26 to 34: if( gradeNumber  >=  55 )
+Reordered from line 34 to 35: if( gradeNumber  >=  55 )
+Attempted to reorder // Print gradeLetter
+This line was provided to you in its correct order. Do not reorder it.
+Submit Parsons Solution clicked @ 1447802343651
+This line is not in its correct location: gradeLetter  =  'C';
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802344354
+This line is not in its correct location: gradeLetter  =  'C';
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 35: gradeLetter  =  'C';
+Submit Parsons Solution clicked @ 1447802347324
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 35: } // End of if-clause
+Submit Parsons Solution clicked @ 1447802350514
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 35: else
+Submit Parsons Solution clicked @ 1447802354242
+This line is not in its correct location: {
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 35: {
+Submit Parsons Solution clicked @ 1447802358081
+This line is not in its correct location: if( gradeNumber  >=  80 )
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 35: if( gradeNumber  >=  80 )
+Submit Parsons Solution clicked @ 1447802362182
+This line is not in its correct location: gradeLetter  =  'B';
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 35: gradeLetter  =  'B';
+Submit Parsons Solution clicked @ 1447802365058
+This line is not in its correct location: } // End of else-clause
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 35: } // End of else-clause
+Submit Parsons Solution clicked @ 1447802367840
+This line is not in its correct location: else
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 35: else
+Submit Parsons Solution clicked @ 1447802371153
+This line is not in its correct location: {
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802375201
+This line is not in its correct location: {
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 35: {
+Submit Parsons Solution clicked @ 1447802378357
+This line is not in its correct location: gradeLetter  =  'A';
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 35: gradeLetter  =  'A';
+Submit Parsons Solution clicked @ 1447802382081
+This line is not in its correct location: {
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 34: } // End of else-clause
+Submit Parsons Solution clicked @ 1447802394430
+This line is not in its correct location: {
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 34: {
+Submit Parsons Solution clicked @ 1447802399056
+This line is not in its correct location: {
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 16 to 34: {
+Submit Parsons Solution clicked @ 1447802402510
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802403495
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802413060
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802413122
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802413295
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802413582
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 31 to 29: gradeLetter  =  'A';
+Submit Parsons Solution clicked @ 1447802416443
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802417290
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802417640
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802417796
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802429220
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802430204
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802430376
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802430610
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802430829
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802431126
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802432845
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802432923
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802433205
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 29 to 30: gradeLetter  =  'A';
+Reordered from line 30 to 32: gradeLetter  =  'A';
+Submit Parsons Solution clicked @ 1447802439244
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802439887
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802440012
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802440262
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802440449
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802440746
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802441077
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802441440
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802526014
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802526968
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802527711
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802527820
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802528105
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Attempted to reorder } // End of class Problem
+This line was provided to you in its correct order. Do not reorder it.
+Reordered from line 32 to 21: gradeLetter  =  'A';
+Reordered from line 32 to 25: } // End of else-clause
+Submit Parsons Solution clicked @ 1447802544983
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802545092
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802545280
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802545483
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802545670
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802545889
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802546139
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802546514
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802546608
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802546795
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802547030
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802547262
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802547462
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802547608
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802547811
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802548014
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802548249
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802550909
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802551034
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802551221
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802551409
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802551612
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802551784
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802551971
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802552221
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Using Tutor selected  @ 1447802565575
+Attempted to reorder // Declare gradeNumber
+This line was provided to you in its correct order. Do not reorder it.
+Attempted to reorder // Read gradeNumber
+This line was provided to you in its correct order. Do not reorder it.
+Reordered from line 28 to 25: if( gradeNumber  >=  80 )
+Reordered from line 26 to 23: } // End of else-clause
+Reordered from line 23 to 21: } // End of else-clause
+Reordered from line 21 to 19: } // End of else-clause
+Reordered from line 19 to 23: } // End of else-clause
+Submit Parsons Solution clicked @ 1447802626947
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802627119
+Other lines should appear before this line: // Print gradeLetter
+Insert this line in its place: if( gradeNumber  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 14 to 20: gradeNumber = stdin.nextShort();
+Reordered from line 20 to 23: gradeNumber = stdin.nextShort();
+Reordered from line 23 to 26: gradeNumber = stdin.nextShort();
+Reordered from line 26 to 28: gradeNumber = stdin.nextShort();
+Reordered from line 28 to 29: gradeNumber = stdin.nextShort();
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Explain Parsons Solution clicked @ 1447802634935
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (1 moves): // Declare gradeNumber
+Attempted to reorder line 10
+Line 11 (1 moves): short gradeNumber;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Declare gradeLetter
+Line 14 (1 moves): char gradeLetter;
+Moved from problem to solution at line 10
+Line 16 (1 moves): // Read gradeNumber
+Attempted to reorder line 16
+Line 17 (1 moves): System.out.print( "Enter the numerical grade");
+Moved from problem to solution at line 14
+Line 20 (2 moves): // Compute gradeLetter based on gradeNumber
+Attempted to reorder line 20
+Attempted to reorder line 20
+Line 51 (1 moves): // Print gradeLetter
+Attempted to reorder line 51
+Line 33 (4 moves): if( gradeNumber  >=  70 )
+Moved from problem to solution at line 25
+Reordered from line 24 to 23
+Reordered from line 16 to 17
+Reordered from line 16 to 32
+Line 52 (1 moves): System.out.print( gradeLetter);
+Moved from problem to solution at line 31
+Line 53 (0 moves): }  // End of method main
+Line 55 (1 moves): } // End of class Problem
+Attempted to reorder line 55
+Line 23 (8 moves): gradeLetter  =  'A';
+Moved from problem to solution at line 10
+Reordered from line 12 to 30
+Reordered from line 30 to 29
+Reordered from line 16 to 35
+Reordered from line 31 to 29
+Reordered from line 29 to 30
+Reordered from line 30 to 32
+Reordered from line 32 to 21
+Line 39 (8 moves): if( gradeNumber  >=  55 )
+Moved from problem to solution at line 19
+Reordered from line 16 to 41
+Reordered from line 41 to 39
+Reordered from line 39 to 41
+Reordered from line 41 to 40
+Reordered from line 25 to 27
+Reordered from line 26 to 34
+Reordered from line 34 to 35
+Line 49 (7 moves): } // End of else-clause
+Moved from problem to solution at line 40
+Reordered from line 18 to 34
+Reordered from line 32 to 25
+Reordered from line 26 to 23
+Reordered from line 23 to 21
+Reordered from line 21 to 19
+Reordered from line 19 to 23
+Line 35 (5 moves): gradeLetter  =  'C';
+Moved from problem to solution at line 16
+Reordered from line 14 to 26
+Reordered from line 26 to 24
+Reordered from line 32 to 31
+Reordered from line 16 to 35
+Line 36 (5 moves): } // End of if-clause
+Moved from problem to solution at line 29
+Reordered from line 29 to 28
+Reordered from line 29 to 28
+Reordered from line 22 to 18
+Reordered from line 16 to 35
+Line 27 (4 moves): if( gradeNumber  >=  80 )
+Moved from problem to solution at line 27
+Reordered from line 27 to 26
+Reordered from line 16 to 35
+Reordered from line 28 to 25
+Line 37 (2 moves): else
+Moved from problem to solution at line 31
+Reordered from line 16 to 35
+Line 38 (2 moves): {
+Moved from problem to solution at line 34
+Reordered from line 16 to 35
+Line 29 (5 moves): gradeLetter  =  'B';
+Moved from problem to solution at line 10
+Reordered from line 12 to 28
+Reordered from line 28 to 27
+Reordered from line 28 to 27
+Reordered from line 16 to 35
+Line 18 (6 moves): gradeNumber = stdin.nextShort();
+Moved from problem to solution at line 18
+Reordered from line 14 to 20
+Reordered from line 20 to 23
+Reordered from line 23 to 26
+Reordered from line 26 to 28
+Reordered from line 28 to 29
+Line 47 (2 moves): } // End of else-clause
+Moved from problem to solution at line 35
+Reordered from line 16 to 35
+Line 37 (2 moves): else
+Moved from problem to solution at line 37
+Reordered from line 16 to 35
+Line 38 (2 moves): {
+Moved from problem to solution at line 38
+Reordered from line 16 to 35
+Line 40 (3 moves): {
+Moved from problem to solution at line 28
+Reordered from line 28 to 30
+Reordered from line 16 to 34
+Line 34 (3 moves): {
+Moved from problem to solution at line 28
+Reordered from line 18 to 30
+Reordered from line 16 to 34
+Since you quit, this problem is being marked as not attempted
+Your Grade:
+You took 72 steps before bailing out of a Parsons puzzle containing 36 lines of code.
+The correct answer is as follows:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare gradeNumber
+short gradeNumber;
+// Declare gradeLetter
+char gradeLetter;
+// Read gradeNumber
+System.out.print( "Enter the numerical grade");
+gradeNumber = stdin.nextShort();
+// Compute gradeLetter based on gradeNumber
+if( gradeNumber  >=  90 )
+{
+gradeLetter  =  'A';
+} // End of if-clause
+else
+{
+if( gradeNumber  >=  80 )
+{
+gradeLetter  =  'B';
+} // End of if-clause
+else
+{
+if( gradeNumber  >=  70 )
+{
+gradeLetter  =  'C';
+} // End of if-clause
+else
+{
+if( gradeNumber  >=  55 )
+{
+gradeLetter  =  'D';
+} // End of if-clause
+else
+{
+gradeLetter  =  'F';
+} // End of else-clause
+} // End of else-clause
+} // End of else-clause
+} // End of else-clause
+// Print gradeLetter
+System.out.print( gradeLetter);
+}  // End of method main
+} // End of class Problem
+Click on 'Next Problem' button to go to the next problem
+Next Problem clicked @ 1447802636502
+Time spent on this problem: 1159 seconds
+<HR>

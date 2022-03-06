@@ -1,0 +1,64 @@
+Problem No. 4
+Using Template # 100
+The Problem:
+Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+System.out.print("Enter an integer: "); // This is line X
+System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 1) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+public static void main(String[] args) {
+public class TestBooleanOperators {
+}}
+import java.util.Scanner;
+int number = input.nextInt();
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 10 lines.
+Re-assemble them with 11 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: }}
+2. Moved from problem to solution at line 1: import java.util.Scanner;
+3. Moved from problem to solution at line 2: public class TestBooleanOperators {
+4. Moved from problem to solution at line 3:   public static void main(String[] args) {
+5. Moved from problem to solution at line 4:     System.out.print("Enter an integer: "); // This is line X
+6. Moved from problem to solution at line 4:     Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+7. Moved from problem to solution at line 6:     int number = input.nextInt();
+8. Moved from problem to solution at line 7:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 1) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+9. Moved from problem to solution at line 8:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+10. Moved from problem to solution at line 9:     System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+Submit Parsons Solution clicked @ 1489360290668
+Sorry, that line has a bug
+Delete this line:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 1) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+11. Moved from solution to trash at line 0:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 1) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+Submit Parsons Solution clicked @ 1489360300024
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+2. Moved from problem to solution at line 1
+Line 2 (1 moves): public class TestBooleanOperators {
+3. Moved from problem to solution at line 2
+Line 3 (1 moves):   public static void main(String[] args) {
+4. Moved from problem to solution at line 3
+Line 4 (1 moves):     Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+6. Moved from problem to solution at line 4
+Line 5 (1 moves):     System.out.print("Enter an integer: "); // This is line X
+5. Moved from problem to solution at line 4
+Line 6 (1 moves):     int number = input.nextInt();
+7. Moved from problem to solution at line 6
+Line 7 (1 moves):     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+9. Moved from problem to solution at line 8
+Line 8 (1 moves):     System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+10. Moved from problem to solution at line 9
+Line 9 (1 moves): }}
+1. Moved from problem to solution at line 0
+Line 7 (7) (2 moves):     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 1) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+8. Moved from problem to solution at line 7
+11. Moved from solution to trash at line 0
+Your Grade:
+You took 11 steps to solve a Parsons puzzle containing 10 lines of code.
+Next Problem clicked @ 1489360354914
+Time spent on this problem: 112 seconds
+<HR>

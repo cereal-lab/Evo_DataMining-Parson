@@ -1,0 +1,242 @@
+Problem No. 2
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+else
+} // End of if-clause
+if( number  >=  90 )
+{
+gradeLetter  =  'B';
+} // End of if-clause
+else
+else;
+if( number  >=  70 )
+gradeLetter  =  'A';
+} // End of if-clause
+if( number  >=  80 )
+gradeLetter  =  'F';
+} // End of else-clause
+else
+{
+{
+{
+} // End of else-clause
+char gradeLetter;
+{
+cout << "Enter the numerical grade";
+{
+gradeLetter  =  'D';
+gradeLetter  =  'D'
+gradeLetter  =  'C';
+} // End of else-clause
+} // End of else-clause
+if( number  >=  55 )
+cout << gradeLetter;
+{
+cin >> number;
+{
+else
+} // End of if-clause
+long number;
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The C++ program
+#include <iostream>
+using namespace std;
+int main()
+{
+// Declare number
+// Declare gradeLetter
+// Read number
+// Compute gradeLetter based on number
+// Print gradeLetter
+}  // End of function main
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to solution at line 7: long number;
+Moved from problem to solution at line 9: {
+Moved from solution to problem at line 12: {
+Moved from problem to solution at line 9: char gradeLetter;
+Moved from problem to solution at line 11: cout << "Enter the numerical grade";
+Moved from problem to solution at line 12: cin >> number;
+Moved from problem to solution at line 14: if( number  >=  90 )
+Moved from problem to solution at line 15: {
+Moved from problem to trash at line 0: gradeLetter  =  'D'
+Moved from problem to solution at line 16: gradeLetter  =  'A';
+Moved from problem to solution at line 17: } // End of if-clause
+Moved from problem to solution at line 18: {
+Moved from problem to solution at line 18: else
+Moved from problem to solution at line 20: if( number  >=  80 )
+Moved from problem to solution at line 21: gradeLetter  =  'B';
+Reordered from line 20 to 19: if( number  >=  80 )
+Moved from solution to trash at line 1: else
+Moved from problem to solution at line 21: } // End of if-clause
+Moved from problem to trash at line 2: else
+Moved from problem to trash at line 3: else
+Moved from problem to trash at line 4: else
+Moved from problem to solution at line 22: {
+Moved from problem to solution at line 23: if( number  >=  70 )
+Moved from problem to solution at line 24: gradeLetter  =  'C';
+Moved from problem to solution at line 25: } // End of if-clause
+Moved from problem to solution at line 26: {
+Moved from problem to solution at line 26: if( number  >=  55 )
+Reordered from line 23 to 22: if( number  >=  70 )
+Moved from problem to solution at line 28: gradeLetter  =  'D';
+Moved from problem to solution at line 29: } // End of if-clause
+Moved from problem to solution at line 30: else;
+Moved from problem to solution at line 31: {
+Moved from problem to solution at line 32: gradeLetter  =  'F';
+Moved from problem to solution at line 33: } // End of else-clause
+Moved from problem to solution at line 35: cout << gradeLetter;
+Moved from problem to trash at line 3: {
+Moved from problem to trash at line 4: } // End of else-clause
+Moved from problem to trash at line 4: } // End of else-clause
+Moved from problem to trash at line 4: {
+Moved from problem to trash at line 4: {
+Moved from problem to trash at line 4: } // End of else-clause
+Submit Parsons Solution clicked @ 1454403767540
+This line is not in its correct location: if( number  >=  80 )
+Insert this line in its place: else
+This code must appear after } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 18: else
+Submit Parsons Solution clicked @ 1454403779127
+This line is not in its correct location: if( number  >=  70 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 23: else
+Submit Parsons Solution clicked @ 1454403788550
+This line is not in its correct location: if( number  >=  55 )
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 28: else
+Submit Parsons Solution clicked @ 1454403792510
+Semi-colon after else becomes the empty else clause, which is incorrect in this program.
+Delete this line: else;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 3: else;
+Submit Parsons Solution clicked @ 1454403802504
+This line is not in its correct location: {
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 33: else;
+Submit Parsons Solution clicked @ 1454403810809
+Semi-colon after else becomes the empty else clause, which is incorrect in this program.
+Delete this line: else;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 8: else;
+Moved from trash to solution at line 33: {
+Moved from solution to trash at line 3: {
+Moved from trash to solution at line 33: else
+Submit Parsons Solution clicked @ 1454403826514
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The C++ program
+Line 2 (0 moves): #include <iostream>
+Line 3 (0 moves): using namespace std;
+Line 5 (0 moves): int main()
+Line 6 (0 moves): {
+Line 8 (0 moves): // Declare number
+Line 9 (1 moves): long number;
+Moved from problem to solution at line 7
+Line 11 (0 moves): // Declare gradeLetter
+Line 12 (1 moves): char gradeLetter;
+Moved from problem to solution at line 9
+Line 14 (0 moves): // Read number
+Line 15 (1 moves): cout << "Enter the numerical grade";
+Moved from problem to solution at line 11
+Line 16 (1 moves): cin >> number;
+Moved from problem to solution at line 12
+Line 18 (0 moves): // Compute gradeLetter based on number
+Line 19 (1 moves): if( number  >=  90 )
+Moved from problem to solution at line 14
+Line 20 (1 moves): {
+Moved from problem to solution at line 15
+Line 21 (1 moves): gradeLetter  =  'A';
+Moved from problem to solution at line 16
+Line 22 (1 moves): } // End of if-clause
+Moved from problem to solution at line 17
+Line 23 (2 moves): else
+Moved from problem to trash at line 3
+Moved from trash to solution at line 18
+Line 25 (2 moves): if( number  >=  80 )
+Moved from problem to solution at line 20
+Reordered from line 20 to 19
+Line 26 (1 moves): {
+Moved from problem to solution at line 18
+Line 27 (1 moves): gradeLetter  =  'B';
+Moved from problem to solution at line 21
+Line 28 (1 moves): } // End of if-clause
+Moved from problem to solution at line 21
+Line 29 (2 moves): else
+Moved from problem to trash at line 4
+Moved from trash to solution at line 23
+Line 31 (2 moves): if( number  >=  70 )
+Moved from problem to solution at line 23
+Reordered from line 23 to 22
+Line 32 (1 moves): {
+Moved from problem to solution at line 22
+Line 33 (1 moves): gradeLetter  =  'C';
+Moved from problem to solution at line 24
+Line 34 (1 moves): } // End of if-clause
+Moved from problem to solution at line 25
+Line 35 (3 moves): else
+Moved from problem to solution at line 18
+Moved from solution to trash at line 1
+Moved from trash to solution at line 28
+Line 37 (1 moves): if( number  >=  55 )
+Moved from problem to solution at line 26
+Line 38 (1 moves): {
+Moved from problem to solution at line 26
+Line 39 (1 moves): gradeLetter  =  'D';
+Moved from problem to solution at line 28
+Line 40 (1 moves): } // End of if-clause
+Moved from problem to solution at line 29
+Line 41 (2 moves): else
+Moved from problem to trash at line 2
+Moved from trash to solution at line 33
+Line 42 (1 moves): {
+Moved from problem to solution at line 31
+Line 43 (1 moves): gradeLetter  =  'F';
+Moved from problem to solution at line 32
+Line 44 (1 moves): } // End of else-clause
+Moved from problem to solution at line 33
+Line 49 (0 moves): // Print gradeLetter
+Line 50 (1 moves): cout << gradeLetter;
+Moved from problem to solution at line 35
+Line 51 (0 moves): }  // End of function main
+LINE 39 (1 moves): gradeLetter  =  'D'
+Moved from problem to trash at line 0
+Line 44 (1 moves): } // End of else-clause
+Moved from problem to trash at line 4
+Line 45 (1 moves): } // End of else-clause
+Moved from problem to trash at line 4
+Line 42 (1 moves): {
+Moved from problem to trash at line 4
+Line 30 (1 moves): {
+Moved from problem to trash at line 4
+Line 47 (1 moves): } // End of else-clause
+Moved from problem to trash at line 4
+LINE 29 (4 moves): else;
+Moved from problem to solution at line 30
+Moved from solution to trash at line 3
+Moved from trash to solution at line 33
+Moved from solution to trash at line 8
+Line 24 (5 moves): {
+Moved from problem to solution at line 9
+Moved from solution to problem at line 12
+Moved from problem to trash at line 3
+Moved from trash to solution at line 33
+Moved from solution to trash at line 3
+Your Grade:
+You took 50 steps to solve a Parsons puzzle containing 36 lines of code.
+Next Problem clicked @ 1454403838079
+Time spent on this problem: 462 seconds
+<HR>

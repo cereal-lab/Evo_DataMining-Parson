@@ -1,0 +1,166 @@
+Problem No. 6
+Using Template # 2101
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+{
+{
+} // End of else-clause
+} // End of else-clause
+if( degrees  <=  180 ):
+if( degrees  <=  180 )
+System.out.print( "First quadrant");
+System.out.print( "First quadrant")
+} // End of if-clause
+else
+{
+} // End of if-clause
+} // End of if-clause
+{
+System.out.print( "Third quadrant");
+else
+System.out.print( "Second quadrant");
+System.out.print( "Enter the location in degrees (1-360)");
+degrees = stdin.nextInt();
+System.out.print( "Fourth quadrant");
+else
+{
+if( degrees  <=  90 )
+} // End of else-clause
+if( degrees  <=  270 )
+int degrees;
+{
+Using Template # 2101
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare degrees
+// Read degrees
+// Compute and print the quadrant based on degrees
+}  // End of method main
+} // End of class Problem
+Using Template # 2101
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to solution at line 10: int degrees;
+Attempted to reorder // Compute and print the quadrant based on degrees
+This line was provided to you in its correct order. Do not reorder it.
+Reordered from line 10 to 8: int degrees;
+Reordered from line 8 to 9: int degrees;
+Moved from problem to solution at line 11: degrees = stdin.nextInt();
+Moved from problem to trash at line 0: if( degrees  <=  180 ):
+Moved from problem to solution at line 13: if( degrees  <=  90 )
+Moved from problem to solution at line 14: {
+Moved from problem to solution at line 15: } // End of if-clause
+Moved from problem to solution at line 15: System.out.print( "First quadrant");
+Moved from problem to solution at line 17: else
+Moved from problem to solution at line 18: if( degrees  <=  180 )
+Moved from problem to solution at line 19: {
+Moved from problem to solution at line 20: } // End of if-clause
+Moved from problem to solution at line 20: System.out.print( "Second quadrant");
+Moved from problem to solution at line 22: else
+Moved from problem to solution at line 23: if( degrees  <=  270 )
+Moved from problem to solution at line 22: {
+Moved from problem to solution at line 25: } // End of if-clause
+Moved from problem to solution at line 25: {
+Moved from problem to solution at line 26: System.out.print( "Third quadrant");
+Moved from problem to solution at line 28: else
+Moved from problem to solution at line 29: {
+Moved from problem to solution at line 30: } // End of else-clause
+Moved from problem to solution at line 30: System.out.print( "Fourth quadrant");
+Moved from problem to solution at line 11: System.out.print( "Enter the location in degrees (1-360)");
+Moved from problem to trash at line 1: System.out.print( "First quadrant")
+Moved from problem to trash at line 2: } // End of else-clause
+Moved from problem to trash at line 3: } // End of else-clause
+Moved from problem to trash at line 4: {
+Submit Parsons Solution clicked @ 1462166575989
+This line is not in its correct location: {
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to problem at line 26: {
+Moved from problem to trash at line 4: {
+Submit Parsons Solution clicked @ 1462166608296
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare degrees
+Line 11 (3 moves): int degrees;
+Moved from problem to solution at line 10
+Reordered from line 10 to 8
+Reordered from line 8 to 9
+Line 13 (0 moves): // Read degrees
+Line 14 (1 moves): System.out.print( "Enter the location in degrees (1-360)");
+Moved from problem to solution at line 11
+Line 15 (1 moves): degrees = stdin.nextInt();
+Moved from problem to solution at line 11
+Line 17 (1 moves): // Compute and print the quadrant based on degrees
+Attempted to reorder line 17
+Line 18 (1 moves): if( degrees  <=  90 )
+Moved from problem to solution at line 13
+Line 19 (1 moves): {
+Moved from problem to solution at line 14
+Line 20 (1 moves): System.out.print( "First quadrant");
+Moved from problem to solution at line 15
+Line 21 (1 moves): } // End of if-clause
+Moved from problem to solution at line 15
+Line 22 (1 moves): else
+Moved from problem to solution at line 17
+Line 24 (1 moves): if( degrees  <=  180 )
+Moved from problem to solution at line 18
+Line 25 (1 moves): {
+Moved from problem to solution at line 19
+Line 26 (1 moves): System.out.print( "Second quadrant");
+Moved from problem to solution at line 20
+Line 27 (1 moves): } // End of if-clause
+Moved from problem to solution at line 20
+Line 28 (1 moves): else
+Moved from problem to solution at line 22
+Line 30 (1 moves): if( degrees  <=  270 )
+Moved from problem to solution at line 23
+Line 31 (1 moves): {
+Moved from problem to solution at line 25
+Line 32 (1 moves): System.out.print( "Third quadrant");
+Moved from problem to solution at line 26
+Line 33 (1 moves): } // End of if-clause
+Moved from problem to solution at line 25
+Line 34 (1 moves): else
+Moved from problem to solution at line 28
+Line 35 (1 moves): {
+Moved from problem to solution at line 29
+Line 36 (1 moves): System.out.print( "Fourth quadrant");
+Moved from problem to solution at line 30
+Line 37 (1 moves): } // End of else-clause
+Moved from problem to solution at line 30
+Line 40 (0 moves): }  // End of method main
+Line 42 (0 moves): } // End of class Problem
+LINE 24 (1 moves): if( degrees  <=  180 ):
+Moved from problem to trash at line 0
+LINE 20 (1 moves): System.out.print( "First quadrant")
+Moved from problem to trash at line 1
+Line 39 (1 moves): } // End of else-clause
+Moved from problem to trash at line 2
+Line 37 (1 moves): } // End of else-clause
+Moved from problem to trash at line 3
+Line 31 (1 moves): {
+Moved from problem to trash at line 4
+Line 23 (3 moves): {
+Moved from problem to solution at line 22
+Moved from solution to problem at line 26
+Moved from problem to trash at line 4
+Your Grade:
+You took 31 steps to solve a Parsons puzzle containing 27 lines of code.
+Next Problem clicked @ 1462166615959
+Time spent on this problem: 280 seconds
+<HR>

@@ -1,0 +1,162 @@
+Problem No. 11
+Using Template # 2100
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+} // End of else-clause
+if( numMonth  <=  3 )
+System.out.print( "Season is winter (January-March)");
+short numMonth;
+System.out.print( "Season is summer (July-September)");
+numMonth = stdin.nextShort();
+System.out.print( "Season is spring (April-June)")
+System.out.print( "Season is spring (April-June)");
+System.out.print( "Season is fall (October-December)");
+{
+System.out.print( "Enter the number of the month (1-12)");
+{
+} // End of else-clause
+} // End of if-clause
+{
+{
+{
+if( numMonth  <=  6 )
+{
+else
+} // End of else-clause
+if( numMonth  <=  9 )
+if  numMonth  <=  9
+else
+} // End of if-clause
+else
+} // End of if-clause
+Using Template # 2100
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare numMonth
+// Read numMonth
+// Compute and print the season based on numMonth
+}  // End of method main
+} // End of class Problem
+Using Template # 2100
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to solution at line 9: short numMonth;
+Moved from problem to solution at line 11: System.out.print( "Enter the number of the month (1-12)");
+Moved from problem to solution at line 12: numMonth = stdin.nextShort();
+Moved from problem to solution at line 14: System.out.print( "Season is winter (January-March)");
+Moved from problem to solution at line 15: System.out.print( "Season is spring (April-June)");
+Moved from problem to trash at line 0: System.out.print( "Season is spring (April-June)")
+Moved from problem to solution at line 16: System.out.print( "Season is summer (July-September)");
+Moved from problem to solution at line 17: System.out.print( "Season is fall (October-December)");
+Moved from problem to solution at line 14: if( numMonth  <=  3 )
+Moved from problem to trash at line 1: if  numMonth  <=  9
+Moved from problem to solution at line 16: if( numMonth  <=  6 )
+Moved from problem to solution at line 18: if( numMonth  <=  9 )
+Moved from problem to solution at line 20: else
+Moved from problem to solution at line 15: {
+Moved from problem to solution at line 18: {
+Moved from problem to solution at line 21: {
+Moved from problem to solution at line 24: {
+Reordered from line 24 to 25: {
+Reordered from line 25 to 24: {
+Moved from problem to solution at line 26: } // End of else-clause
+Moved from problem to solution at line 23: } // End of if-clause
+Moved from problem to solution at line 20: } // End of if-clause
+Moved from problem to solution at line 17: } // End of else-clause
+Moved from problem to solution at line 18: else
+Moved from problem to solution at line 23: else
+Moved from problem to trash at line 2: } // End of if-clause
+Moved from problem to trash at line 1: {
+Moved from problem to trash at line 1: {
+Moved from problem to trash at line 3: } // End of else-clause
+Submit Parsons Solution clicked @ 1454781864094
+This line is not in its correct location: } // End of else-clause
+Insert this line in its place: } // End of if-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 17: } // End of if-clause
+Moved from solution to trash at line 3: } // End of else-clause
+Submit Parsons Solution clicked @ 1454781870871
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare numMonth
+Line 11 (1 moves): short numMonth;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Read numMonth
+Line 14 (1 moves): System.out.print( "Enter the number of the month (1-12)");
+Moved from problem to solution at line 11
+Line 15 (1 moves): numMonth = stdin.nextShort();
+Moved from problem to solution at line 12
+Line 17 (0 moves): // Compute and print the season based on numMonth
+Line 18 (1 moves): if( numMonth  <=  3 )
+Moved from problem to solution at line 14
+Line 19 (1 moves): {
+Moved from problem to solution at line 15
+Line 20 (1 moves): System.out.print( "Season is winter (January-March)");
+Moved from problem to solution at line 14
+Line 21 (2 moves): } // End of if-clause
+Moved from problem to trash at line 2
+Moved from trash to solution at line 17
+Line 34 (1 moves): else
+Moved from problem to solution at line 18
+Line 24 (1 moves): if( numMonth  <=  6 )
+Moved from problem to solution at line 16
+Line 25 (1 moves): {
+Moved from problem to solution at line 18
+Line 26 (1 moves): System.out.print( "Season is spring (April-June)");
+Moved from problem to solution at line 15
+Line 27 (1 moves): } // End of if-clause
+Moved from problem to solution at line 20
+Line 28 (1 moves): else
+Moved from problem to solution at line 23
+Line 30 (1 moves): if( numMonth  <=  9 )
+Moved from problem to solution at line 18
+Line 31 (1 moves): {
+Moved from problem to solution at line 21
+Line 32 (1 moves): System.out.print( "Season is summer (July-September)");
+Moved from problem to solution at line 16
+Line 33 (1 moves): } // End of if-clause
+Moved from problem to solution at line 23
+Line 34 (1 moves): else
+Moved from problem to solution at line 20
+Line 35 (3 moves): {
+Moved from problem to solution at line 24
+Reordered from line 24 to 25
+Reordered from line 25 to 24
+Line 36 (1 moves): System.out.print( "Season is fall (October-December)");
+Moved from problem to solution at line 17
+Line 37 (1 moves): } // End of else-clause
+Moved from problem to solution at line 26
+Line 40 (0 moves): }  // End of method main
+Line 42 (0 moves): } // End of class Problem
+LINE 26 (1 moves): System.out.print( "Season is spring (April-June)")
+Moved from problem to trash at line 0
+LINE 30 (1 moves): if  numMonth  <=  9
+Moved from problem to trash at line 1
+Line 35 (1 moves): {
+Moved from problem to trash at line 1
+Line 29 (1 moves): {
+Moved from problem to trash at line 1
+Line 37 (1 moves): } // End of else-clause
+Moved from problem to trash at line 3
+Line 38 (2 moves): } // End of else-clause
+Moved from problem to solution at line 17
+Moved from solution to trash at line 3
+Your Grade:
+You took 31 steps to solve a Parsons puzzle containing 27 lines of code.
+Next Problem clicked @ 1454781871872
+Time spent on this problem: 127 seconds
+<HR>

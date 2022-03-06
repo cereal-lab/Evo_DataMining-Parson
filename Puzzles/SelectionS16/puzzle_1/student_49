@@ -1,0 +1,582 @@
+Problem No. 1
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+if( firstInput  <  secondInput )
+if( firstInput  <=  secondInput )
+int firstInput;
+} // End of if-clause
+{
+System.out.print( "Enter the second value");
+int secondInput;
+int secondInput
+firstInput = stdin.nextInt();
+{
+secondInput = stdin.nextInt();
+System.out.print( firstInput);
+else
+System.out.print( secondInput);
+System.out.print( "Enter the first value");
+} // End of else-clause
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare firstInput
+// Declare secondInput
+// Read firstInput
+// Read secondInput
+// If firstInput is less than secondInput, print firstInput. Otherwise, print secondInput
+}  // End of method main
+} // End of class Problem
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+if( firstInput  <  secondInput )
+if( firstInput  <=  secondInput )
+int firstInput;
+} // End of if-clause
+{
+System.out.print( "Enter the second value");
+int secondInput;
+int secondInput
+firstInput = stdin.nextInt();
+{
+secondInput = stdin.nextInt();
+System.out.print( firstInput);
+else
+System.out.print( secondInput);
+System.out.print( "Enter the first value");
+} // End of else-clause
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare firstInput
+// Declare secondInput
+// Read firstInput
+// Read secondInput
+// If firstInput is less than secondInput, print firstInput. Otherwise, print secondInput
+}  // End of method main
+} // End of class Problem
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Moved from problem to trash at line 0: } // End of else-clause
+Moved from problem to trash at line 1: System.out.print( "Enter the first value");
+Moved from problem to trash at line 2: System.out.print( secondInput);
+Moved from problem to trash at line 3: else
+Moved from problem to trash at line 1: System.out.print( firstInput);
+Moved from problem to trash at line 4: secondInput = stdin.nextInt();
+Moved from problem to trash at line 6: firstInput = stdin.nextInt();
+Moved from problem to trash at line 7: {
+Moved from problem to solution at line 14: System.out.print( "Enter the second value");
+Moved from solution to problem at line 16: System.out.print( "Enter the second value");
+Moved from problem to trash at line 5: int secondInput;
+Moved from problem to trash at line 1: int secondInput
+Moved from problem to trash at line 5: System.out.print( "Enter the second value");
+Moved from problem to trash at line 1: } // End of if-clause
+Moved from problem to trash at line 4: int firstInput;
+Moved from problem to trash at line 2: {
+Moved from problem to trash at line 3: if( firstInput  <=  secondInput )
+Moved from problem to trash at line 4: if( firstInput  <  secondInput )
+Submit Parsons Solution clicked @ 1455336590790
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336592107
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336592341
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336592526
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336592688
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336592841
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336592954
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336593099
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336593236
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336593365
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336593519
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336593672
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336593825
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336593971
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336594132
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336594277
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336594439
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336594600
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336594882
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336595052
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336595189
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336595334
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336595504
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336595657
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 9: System.out.print( "Enter the first value");
+Moved from solution to trash at line 1: System.out.print( "Enter the first value");
+Submit Parsons Solution clicked @ 1455336607423
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 13: else
+Submit Parsons Solution clicked @ 1455336610512
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336611272
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336611522
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336611675
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336611917
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336612094
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 15: System.out.print( firstInput);
+Submit Parsons Solution clicked @ 1455336617157
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336617674
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336617859
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336618077
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336618230
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336618359
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336618504
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Using Tutor selected  @ 1455336623720
+Moved from trash to solution at line 9: secondInput = stdin.nextInt();
+Moved from trash to solution at line 17: System.out.print( secondInput);
+Moved from trash to solution at line 11: firstInput = stdin.nextInt();
+Moved from trash to solution at line 13: int secondInput
+Submit Parsons Solution clicked @ 1455336674606
+This line is not in its correct location: secondInput = stdin.nextInt();
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336675901
+This line is not in its correct location: secondInput = stdin.nextInt();
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336676062
+This line is not in its correct location: secondInput = stdin.nextInt();
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336676207
+This line is not in its correct location: secondInput = stdin.nextInt();
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336676353
+This line is not in its correct location: secondInput = stdin.nextInt();
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336676603
+This line is not in its correct location: secondInput = stdin.nextInt();
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336676780
+This line is not in its correct location: secondInput = stdin.nextInt();
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336676933
+This line is not in its correct location: secondInput = stdin.nextInt();
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 9 to 14: secondInput = stdin.nextInt();
+Submit Parsons Solution clicked @ 1455336680487
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336680979
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336681149
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336681455
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336681697
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 15: System.out.print( "Enter the second value");
+Moved from trash to solution at line 13: } // End of if-clause
+Moved from trash to solution at line 22: } // End of else-clause
+Submit Parsons Solution clicked @ 1455336691363
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336692298
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336692500
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1455336692807
+Other lines should appear before this line: // Declare secondInput
+Insert this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 9: int secondInput;
+Moved from trash to solution at line 24: int firstInput;
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Submit Parsons Solution clicked @ 1455336699317
+This line is not in its correct location: int secondInput;
+Move this line in its place: int firstInput;
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Explain Parsons Solution clicked @ 1455336700027
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare firstInput
+Line 14 (2 moves): int secondInput;
+Moved from problem to trash at line 5
+Moved from trash to solution at line 9
+Line 13 (0 moves): // Declare secondInput
+Line 18 (2 moves): firstInput = stdin.nextInt();
+Moved from problem to trash at line 6
+Moved from trash to solution at line 11
+Line 16 (0 moves): // Read firstInput
+LINE 14 (2 moves): int secondInput
+Moved from problem to trash at line 1
+Moved from trash to solution at line 13
+Line 28 (2 moves): } // End of if-clause
+Moved from problem to trash at line 1
+Moved from trash to solution at line 13
+Line 20 (0 moves): // Read secondInput
+Line 22 (3 moves): secondInput = stdin.nextInt();
+Moved from problem to trash at line 4
+Moved from trash to solution at line 9
+Reordered from line 9 to 14
+Line 21 (4 moves): System.out.print( "Enter the second value");
+Moved from problem to solution at line 14
+Moved from solution to problem at line 16
+Moved from problem to trash at line 5
+Moved from trash to solution at line 15
+Line 24 (0 moves): // If firstInput is less than secondInput, print firstInput. Otherwise, print secondInput
+Line 29 (2 moves): else
+Moved from problem to trash at line 3
+Moved from trash to solution at line 13
+Line 33 (0 moves): }  // End of method main
+Line 27 (2 moves): System.out.print( firstInput);
+Moved from problem to trash at line 1
+Moved from trash to solution at line 15
+Line 31 (2 moves): System.out.print( secondInput);
+Moved from problem to trash at line 2
+Moved from trash to solution at line 17
+Line 32 (2 moves): } // End of else-clause
+Moved from problem to trash at line 0
+Moved from trash to solution at line 22
+Line 11 (2 moves): int firstInput;
+Moved from problem to trash at line 4
+Moved from trash to solution at line 24
+Line 35 (0 moves): } // End of class Problem
+Line 30 (1 moves): {
+Moved from problem to trash at line 7
+Line 26 (1 moves): {
+Moved from problem to trash at line 2
+LINE 25 (1 moves): if( firstInput  <=  secondInput )
+Moved from problem to trash at line 3
+Line 25 (1 moves): if( firstInput  <  secondInput )
+Moved from problem to trash at line 4
+Line 17 (3 moves): System.out.print( "Enter the first value");
+Moved from problem to trash at line 1
+Moved from trash to solution at line 9
+Moved from solution to trash at line 1
+Since you quit, this problem is being marked as not attempted
+Your Grade:
+You took 32 steps before bailing out of a Parsons puzzle containing 16 lines of code.
+Your answer so far is as follows:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare firstInput
+int secondInput;
+// Declare secondInput
+firstInput = stdin.nextInt();
+// Read firstInput
+int secondInput
+} // End of if-clause
+// Read secondInput
+secondInput = stdin.nextInt();
+System.out.print( "Enter the second value");
+// If firstInput is less than secondInput, print firstInput. Otherwise, print secondInput
+else
+}  // End of method main
+System.out.print( firstInput);
+System.out.print( secondInput);
+} // End of else-clause
+int firstInput;
+} // End of class Problem
+The lines you deleted so far are as follows:
+{
+{
+if( firstInput  <=  secondInput )
+if( firstInput  <  secondInput )
+System.out.print( "Enter the first value");
+The correct answer is as follows:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare firstInput
+int firstInput;
+// Declare secondInput
+int secondInput;
+// Read firstInput
+System.out.print( "Enter the first value");
+firstInput = stdin.nextInt();
+// Read secondInput
+System.out.print( "Enter the second value");
+secondInput = stdin.nextInt();
+// If firstInput is less than secondInput, print firstInput. Otherwise, print secondInput
+if( firstInput  <  secondInput )
+{
+System.out.print( firstInput);
+} // End of if-clause
+else
+{
+System.out.print( secondInput);
+} // End of else-clause
+}  // End of method main
+} // End of class Problem
+Click on 'Next Problem' button to go to the next problem
+Next Problem clicked @ 1455336704065
+Time spent on this problem: 188 seconds
+<HR>

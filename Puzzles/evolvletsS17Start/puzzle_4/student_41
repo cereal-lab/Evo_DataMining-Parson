@@ -1,0 +1,145 @@
+Problem No. 4
+Using Template # 100
+The Problem:
+System.out.print(number + " ");}
+else
+int count, number = 0;       // This is line X
+System.out.println(number);
+if (count % NUMBER_OF_PRIMES_PER_LINE == 0)
+final int NUMBER_OF_PRIMES , NUMBER_OF_PRIMES_PER_LINE; //This line should immediately be placed before Line X
+number++;}
+if (number % divisor == 0) {
+if if (number % divisor = 0) {
+}}
+for (int divisor = 2; divisor <= number / 2; divisor++) { // Test if number is prime
+count++; // Increase the count
+public class PrimeNumber {
+}}
+NUMBER_OF_PRIMES_PER_LINE = 10; NUMBER_OF_PRIMES = 50;
+isPrime = false;
+boolean isPrime = true;
+while (count < NUMBER_OF_PRIMES) {
+break;
+count = 0; number = 2; // count : the number of prime numbers, number: A number to be tested for primeness
+public static void main(String[] args) {
+if (isPrime) {
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 22 lines.
+Re-assemble them with 24 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: public class PrimeNumber {
+2. Moved from problem to solution at line 1:   public static void main(String[] args) {
+3. Reordered from line 2 to 1: public class PrimeNumber {
+4. Moved from problem to solution at line 2:     final int NUMBER_OF_PRIMES , NUMBER_OF_PRIMES_PER_LINE; //This line should immediately be placed before Line X
+5. Reordered from line 3 to 2:   public static void main(String[] args) {
+6. Moved from problem to solution at line 3:     int count, number = 0;       // This is line X
+7. Reordered from line 4 to 3:     final int NUMBER_OF_PRIMES , NUMBER_OF_PRIMES_PER_LINE; //This line should immediately be placed before Line X
+8. Moved from problem to solution at line 4:     NUMBER_OF_PRIMES_PER_LINE = 10; NUMBER_OF_PRIMES = 50;
+9. Reordered from line 5 to 4:     int count, number = 0;       // This is line X
+10. Moved from problem to solution at line 5:     count = 0; number = 2; // count : the number of prime numbers, number: A number to be tested for primeness
+11. Reordered from line 6 to 5:     NUMBER_OF_PRIMES_PER_LINE = 10; NUMBER_OF_PRIMES = 50;
+12. Moved from problem to solution at line 6:     while (count < NUMBER_OF_PRIMES) {
+13. Reordered from line 7 to 6:     count = 0; number = 2; // count : the number of prime numbers, number: A number to be tested for primeness
+14. Moved from problem to solution at line 7:       boolean isPrime = true;
+15. Reordered from line 8 to 7:     while (count < NUMBER_OF_PRIMES) {
+16. Moved from problem to solution at line 8:       for (int divisor = 2; divisor <= number / 2; divisor++) { // Test if number is prime
+17. Reordered from line 9 to 8:       boolean isPrime = true;
+18. Moved from problem to solution at line 9:         if (number % divisor == 0) {
+19. Reordered from line 10 to 9:       for (int divisor = 2; divisor <= number / 2; divisor++) { // Test if number is prime
+20. Moved from problem to trash at line 0:        if if (number % divisor = 0) {
+21. Moved from problem to solution at line 10:           isPrime = false;
+22. Reordered from line 11 to 10:         if (number % divisor == 0) {
+23. Moved from problem to solution at line 11:           break;
+24. Reordered from line 12 to 11:           isPrime = false;
+25. Moved from problem to solution at line 12:         }}
+26. Reordered from line 13 to 12:           break;
+27. Moved from problem to solution at line 13:       if (isPrime) {
+28. Reordered from line 14 to 13:         }}
+29. Moved from problem to solution at line 14:         count++; // Increase the count
+30. Reordered from line 15 to 14:       if (isPrime) {
+31. Moved from problem to solution at line 15:         if (count % NUMBER_OF_PRIMES_PER_LINE == 0)
+32. Reordered from line 16 to 15:         count++; // Increase the count
+33. Moved from problem to solution at line 16:           System.out.println(number);
+34. Reordered from line 17 to 16:         if (count % NUMBER_OF_PRIMES_PER_LINE == 0)
+35. Moved from problem to solution at line 17:         else
+36. Reordered from line 18 to 17:           System.out.println(number);
+37. Moved from problem to solution at line 18:           System.out.print(number + " ");}
+38. Reordered from line 19 to 18:         else
+39. Moved from problem to solution at line 19:       number++;}
+40. Reordered from line 20 to 19:           System.out.print(number + " ");}
+41. Moved from problem to solution at line 20:   }}
+42. Reordered from line 21 to 20:       number++;}
+Submit Parsons Solution clicked @ 1488773871616
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (2 moves): public class PrimeNumber {
+1. Moved from problem to solution at line 0
+3. Reordered from line 2 to 1
+Line 2 (2 moves):   public static void main(String[] args) {
+2. Moved from problem to solution at line 1
+5. Reordered from line 3 to 2
+Line 3 (2 moves):     final int NUMBER_OF_PRIMES , NUMBER_OF_PRIMES_PER_LINE; //This line should immediately be placed before Line X
+4. Moved from problem to solution at line 2
+7. Reordered from line 4 to 3
+Line 4 (2 moves):     int count, number = 0;       // This is line X
+6. Moved from problem to solution at line 3
+9. Reordered from line 5 to 4
+Line 5 (2 moves):     NUMBER_OF_PRIMES_PER_LINE = 10; NUMBER_OF_PRIMES = 50;
+8. Moved from problem to solution at line 4
+11. Reordered from line 6 to 5
+Line 6 (2 moves):     count = 0; number = 2; // count : the number of prime numbers, number: A number to be tested for primeness
+10. Moved from problem to solution at line 5
+13. Reordered from line 7 to 6
+Line 7 (2 moves):     while (count < NUMBER_OF_PRIMES) {
+12. Moved from problem to solution at line 6
+15. Reordered from line 8 to 7
+Line 8 (2 moves):       boolean isPrime = true;
+14. Moved from problem to solution at line 7
+17. Reordered from line 9 to 8
+Line 9 (2 moves):       for (int divisor = 2; divisor <= number / 2; divisor++) { // Test if number is prime
+16. Moved from problem to solution at line 8
+19. Reordered from line 10 to 9
+Line 10 (2 moves):         if (number % divisor == 0) {
+18. Moved from problem to solution at line 9
+22. Reordered from line 11 to 10
+Line 11 (2 moves):           isPrime = false;
+21. Moved from problem to solution at line 10
+24. Reordered from line 12 to 11
+Line 12 (2 moves):           break;
+23. Moved from problem to solution at line 11
+26. Reordered from line 13 to 12
+Line 13 (2 moves):         }}
+25. Moved from problem to solution at line 12
+28. Reordered from line 14 to 13
+Line 14 (2 moves):       if (isPrime) {
+27. Moved from problem to solution at line 13
+30. Reordered from line 15 to 14
+Line 15 (2 moves):         count++; // Increase the count
+29. Moved from problem to solution at line 14
+32. Reordered from line 16 to 15
+Line 16 (2 moves):         if (count % NUMBER_OF_PRIMES_PER_LINE == 0)
+31. Moved from problem to solution at line 15
+34. Reordered from line 17 to 16
+Line 17 (2 moves):           System.out.println(number);
+33. Moved from problem to solution at line 16
+36. Reordered from line 18 to 17
+Line 18 (2 moves):         else
+35. Moved from problem to solution at line 17
+38. Reordered from line 19 to 18
+Line 19 (2 moves):           System.out.print(number + " ");}
+37. Moved from problem to solution at line 18
+40. Reordered from line 20 to 19
+Line 20 (2 moves):       number++;}
+39. Moved from problem to solution at line 19
+42. Reordered from line 21 to 20
+Line 21 (1 moves):   }}
+41. Moved from problem to solution at line 20
+Line 10 (27) (1 moves):        if if (number % divisor = 0) {
+20. Moved from problem to trash at line 0
+Your Grade:
+You took 42 steps to solve a Parsons puzzle containing 22 lines of code.
+Next Problem clicked @ 1488773878551
+Time spent on this problem: 469 seconds
+<HR>

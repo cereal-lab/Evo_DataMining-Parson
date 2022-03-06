@@ -1,0 +1,239 @@
+Problem No. 4
+Using Template # 100
+The Problem:
+guess = -1; number = (int)(Math.random() * 101); // Generates a random number between 0 and 100
+import java.util.Scanner;
+System.out.println("Yes, the number is " + number);
+System.out.print("\nEnter your guess: ");
+System.out.println("Your guess is too high");
+else
+public static void main(String[] args) {
+public class GuessNumber {
+Int guess, number;
+int guess, number;
+}}
+else if (guess >= number)
+else if (guess > number)
+Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+while (guess != number) {                 // This is line X
+System.out.println("Your guess is too low");}
+if (guess == number)
+guess = input.nextInt();
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 18 lines.
+Re-assemble them with 19 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: import java.util.Scanner;
+2. Moved from problem to solution at line 1: public class GuessNumber {
+3. Reordered from line 2 to 1: import java.util.Scanner;
+4. Moved from problem to solution at line 2:   public static void main(String[] args) {
+5. Reordered from line 2 to 3:   public static void main(String[] args) {
+6. Moved from problem to solution at line 3: }}
+7. Reordered from line 4 to 3:   public static void main(String[] args) {
+8. Moved from problem to solution at line 4:         System.out.println("Yes, the number is " + number);
+9. Moved from problem to solution at line 4:         System.out.println("Your guess is too high");
+10. Moved from problem to solution at line 4:       else if (guess > number)
+11. Moved from problem to solution at line 4:         System.out.println("Your guess is too low");}
+12. Moved from problem to solution at line 5:       else if (guess >= number)
+13. Reordered from line 5 to 4:       else if (guess >= number)
+14. Moved from problem to solution at line 4:     Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+15. Moved from problem to solution at line 5:     while (guess != number) {                 // This is line X
+16. Moved from problem to solution at line 6:       System.out.print("\nEnter your guess: ");
+17. Moved from problem to solution at line 7:     guess = -1; number = (int)(Math.random() * 101); // Generates a random number between 0 and 100
+18. Moved from solution to problem at line 15:     guess = -1; number = (int)(Math.random() * 101); // Generates a random number between 0 and 100
+19. Moved from problem to solution at line 7:       guess = input.nextInt();
+20. Moved from problem to solution at line 7:     guess = -1; number = (int)(Math.random() * 101); // Generates a random number between 0 and 100
+21. Moved from problem to solution at line 9:       if (guess == number)
+22. Moved from problem to solution at line 9:     Int guess, number;
+23. Moved from problem to trash at line 0:       else
+24. Moved from problem to trash at line 1:     int guess, number;
+Submit Parsons Solution clicked @ 1500856904264
+This line is not in its correct location:     Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+Insert this line in its place:     int guess, number;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+25. Reordered from line 4 to 9:     Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+Submit Parsons Solution clicked @ 1500856924989
+This line is not in its correct location:     while (guess != number) {                 // This is line X
+Insert this line in its place:     int guess, number;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+26. Reordered from line 4 to 8:     while (guess != number) {                 // This is line X
+Submit Parsons Solution clicked @ 1500856940495
+This line is not in its correct location:       System.out.print("\nEnter your guess: ");
+Insert this line in its place:     int guess, number;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+27. Reordered from line 4 to 7:       System.out.print("\nEnter your guess: ");
+Submit Parsons Solution clicked @ 1500856956478
+This line is not in its correct location:     guess = -1; number = (int)(Math.random() * 101); // Generates a random number between 0 and 100
+Insert this line in its place:     int guess, number;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+28. Reordered from line 4 to 6:     guess = -1; number = (int)(Math.random() * 101); // Generates a random number between 0 and 100
+Submit Parsons Solution clicked @ 1500856964928
+This line is not in its correct location:       guess = input.nextInt();
+Insert this line in its place:     int guess, number;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+29. Reordered from line 4 to 5:       guess = input.nextInt();
+Submit Parsons Solution clicked @ 1500856970424
+Sorry, that line has a bug
+Delete this line:     Int guess, number;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+30. Moved from solution to trash at line 1:     Int guess, number;
+Submit Parsons Solution clicked @ 1500856976815
+This line is not in its correct location:       guess = input.nextInt();
+Insert this line in its place:     int guess, number;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+31. Moved from trash to solution at line 4:     int guess, number;
+Submit Parsons Solution clicked @ 1500856998774
+This line is not in its correct location:       guess = input.nextInt();
+Move this line in its place:     guess = -1; number = (int)(Math.random() * 101); // Generates a random number between 0 and 100
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+32. Reordered from line 5 to 6:       guess = input.nextInt();
+Submit Parsons Solution clicked @ 1500857009074
+This line is not in its correct location:       guess = input.nextInt();
+Move this line in its place:     Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+33. Reordered from line 5 to 9:     guess = -1; number = (int)(Math.random() * 101); // Generates a random number between 0 and 100
+Submit Parsons Solution clicked @ 1500857027661
+This line is not in its correct location:       guess = input.nextInt();
+Move this line in its place:     guess = -1; number = (int)(Math.random() * 101); // Generates a random number between 0 and 100
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+34. Reordered from line 5 to 9:       guess = input.nextInt();
+Submit Parsons Solution clicked @ 1500857036050
+This line is not in its correct location:       System.out.print("\nEnter your guess: ");
+Move this line in its place:     guess = -1; number = (int)(Math.random() * 101); // Generates a random number between 0 and 100
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+35. Reordered from line 5 to 8:       System.out.print("\nEnter your guess: ");
+Submit Parsons Solution clicked @ 1500857045107
+This line is not in its correct location:     while (guess != number) {                 // This is line X
+Move this line in its place:     guess = -1; number = (int)(Math.random() * 101); // Generates a random number between 0 and 100
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+36. Reordered from line 5 to 8:     while (guess != number) {                 // This is line X
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Submit Parsons Solution clicked @ 1500857054701
+This line is not in its correct location:     Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+Move this line in its place:     guess = -1; number = (int)(Math.random() * 101); // Generates a random number between 0 and 100
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+37. Reordered from line 5 to 6:     Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+Submit Parsons Solution clicked @ 1500857059672
+This line is not in its correct location:       System.out.print("\nEnter your guess: ");
+Move this line in its place:     while (guess != number) {                 // This is line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+*  Indented line 16: }}
+Explain Parsons Solution clicked @ 1500857067943
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (2 moves): import java.util.Scanner;
+1. Moved from problem to solution at line 0
+3. Reordered from line 2 to 1
+Line 2 (1 moves): public class GuessNumber {
+2. Moved from problem to solution at line 1
+Line 3 (3 moves):   public static void main(String[] args) {
+4. Moved from problem to solution at line 2
+5. Reordered from line 2 to 3
+7. Reordered from line 4 to 3
+Line 4 (2 moves):     int guess, number;
+24. Moved from problem to trash at line 1
+31. Moved from trash to solution at line 4
+Line 5 (5 moves):     guess = -1; number = (int)(Math.random() * 101); // Generates a random number between 0 and 100
+17. Moved from problem to solution at line 7
+18. Moved from solution to problem at line 15
+20. Moved from problem to solution at line 7
+28. Reordered from line 4 to 6
+33. Reordered from line 5 to 9
+Line 6 (3 moves):     Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+14. Moved from problem to solution at line 4
+25. Reordered from line 4 to 9
+37. Reordered from line 5 to 6
+Line 8 (3 moves):       System.out.print("\nEnter your guess: ");
+16. Moved from problem to solution at line 6
+27. Reordered from line 4 to 7
+35. Reordered from line 5 to 8
+Line 7 (3 moves):     while (guess != number) {                 // This is line X
+15. Moved from problem to solution at line 5
+26. Reordered from line 4 to 8
+36. Reordered from line 5 to 8
+Line 9 (4 moves):       guess = input.nextInt();
+19. Moved from problem to solution at line 7
+29. Reordered from line 4 to 5
+32. Reordered from line 5 to 6
+34. Reordered from line 5 to 9
+Line 10 (1 moves):       if (guess == number)
+21. Moved from problem to solution at line 9
+Line 12 (25) (2 moves):       else if (guess >= number)
+12. Moved from problem to solution at line 5
+13. Reordered from line 5 to 4
+Line 15 (1 moves):         System.out.println("Your guess is too low");}
+11. Moved from problem to solution at line 4
+Line 12 (1 moves):       else if (guess > number)
+10. Moved from problem to solution at line 4
+Line 13 (1 moves):         System.out.println("Your guess is too high");
+9. Moved from problem to solution at line 4
+Line 11 (1 moves):         System.out.println("Yes, the number is " + number);
+8. Moved from problem to solution at line 4
+Line 16 (2 moves): }}
+6. Moved from problem to solution at line 3
+*  Indented line 16
+Line 14 (1 moves):       else
+23. Moved from problem to trash at line 0
+Line 4 (22) (2 moves):     Int guess, number;
+22. Moved from problem to solution at line 9
+30. Moved from solution to trash at line 1
+Since you quit, this problem is being marked as not attempted
+Your Grade:
+You took 37 steps before bailing out of a Parsons puzzle containing 18 lines of code.
+Your answer so far is as follows:
+import java.util.Scanner;
+public class GuessNumber {
+public static void main(String[] args) {
+int guess, number;
+guess = -1; number = (int)(Math.random() * 101); // Generates a random number between 0 and 100
+Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+System.out.print("\nEnter your guess: ");
+while (guess != number) {                 // This is line X
+guess = input.nextInt();
+if (guess == number)
+else if (guess >= number)
+System.out.println("Your guess is too low");}
+else if (guess > number)
+System.out.println("Your guess is too high");
+System.out.println("Yes, the number is " + number);
+}}
+The lines you deleted so far are as follows:
+else
+Int guess, number;
+The correct answer is as follows:
+import java.util.Scanner;
+public class GuessNumber {
+public static void main(String[] args) {
+int guess, number;
+guess = -1; number = (int)(Math.random() * 101); // Generates a random number between 0 and 100
+Scanner input = new Scanner(System.in);   //This line should immediately be placed before Line X
+while (guess != number) {                 // This is line X
+System.out.print("\nEnter your guess: ");
+guess = input.nextInt();
+if (guess == number)
+System.out.println("Yes, the number is " + number);
+else if (guess > number)
+System.out.println("Your guess is too high");
+else
+System.out.println("Your guess is too low");}
+}}
+Click on 'Next Problem' button to go to the next problem
+Next Problem clicked @ 1500857072577
+Time spent on this problem: 920 seconds
+<HR>

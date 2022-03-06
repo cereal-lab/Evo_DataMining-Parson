@@ -1,0 +1,182 @@
+Problem No. 5
+Using Template # 2100
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+System.out.print( "Season is fall (October-December)");
+System.out.print( "Season is summer (July-September)");
+int month;
+System.out.print( "Season is spring (April-June)");
+if( month  <=  3 )
+System.out.print( "Season is winter (January-March)");
+System.out.print( "Season is winter (January-March)")
+else
+{
+{
+} // End of if-clause
+} // End of else-clause
+} // End of if-clause
+month = stdin.nextInt();
+{
+System.out.print( "Enter the number of the month (1-12)");
+} // End of else-clause
+} // End of if-clause
+{
+} // End of else-clause
+{
+{
+else
+if( month  < =  6 )
+if( month  <=  6 )
+else
+if( month  <=  9 )
+Using Template # 2100
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare month
+// Read month
+// Compute and print the season based on month
+}  // End of method main
+} // End of class Problem
+Using Template # 2100
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to trash at line 0: System.out.print( "Season is winter (January-March)")
+Moved from problem to trash at line 1: } // End of if-clause
+Moved from problem to trash at line 2: } // End of else-clause
+Moved from problem to trash at line 1: } // End of if-clause
+Moved from problem to trash at line 2: {
+Moved from problem to trash at line 2: {
+Moved from problem to trash at line 5: {
+Moved from problem to trash at line 4: {
+Moved from problem to solution at line 11: if( month  <=  3 )
+Moved from problem to solution at line 9: int month;
+Moved from problem to solution at line 13: System.out.print( "Season is summer (July-September)");
+Moved from problem to solution at line 13: System.out.print( "Season is spring (April-June)");
+Moved from problem to solution at line 13: System.out.print( "Season is winter (January-March)");
+Moved from problem to solution at line 16: System.out.print( "Season is fall (October-December)");
+Moved from problem to solution at line 14: if( month  < =  6 )
+Moved from problem to solution at line 16: if( month  <=  9 )
+Moved from problem to solution at line 18: else
+Moved from problem to trash at line 2: if( month  <=  6 )
+Moved from problem to trash at line 3: } // End of else-clause
+Moved from problem to trash at line 4: } // End of if-clause
+Moved from problem to trash at line 3: } // End of else-clause
+Moved from problem to solution at line 11: System.out.print( "Enter the number of the month (1-12)");
+Moved from problem to solution at line 12: month = stdin.nextInt();
+Moved from problem to trash at line 2: else
+Moved from problem to trash at line 4: {
+Moved from problem to trash at line 1: {
+Moved from problem to trash at line 2: else
+Submit Parsons Solution clicked @ 1461162979573
+Space is not allowed within the relational operator <=.
+Delete this line: if( month  < =  6 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 2: if( month  < =  6 )
+Moved from trash to solution at line 16: } // End of else-clause
+Submit Parsons Solution clicked @ 1461162990956
+This line is not in its correct location: } // End of else-clause
+Insert this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 9: } // End of else-clause
+Moved from trash to solution at line 16: else
+Submit Parsons Solution clicked @ 1461163012985
+This line is not in its correct location: System.out.print( "Season is spring (April-June)");
+Insert this line in its place: if( month  <=  6 )
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 17: if( month  <=  6 )
+Submit Parsons Solution clicked @ 1461163025010
+This line is not in its correct location: if( month  <=  9 )
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 19: else
+Submit Parsons Solution clicked @ 1461163034228
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare month
+Line 11 (1 moves): int month;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Read month
+Line 14 (1 moves): System.out.print( "Enter the number of the month (1-12)");
+Moved from problem to solution at line 11
+Line 15 (1 moves): month = stdin.nextInt();
+Moved from problem to solution at line 12
+Line 17 (0 moves): // Compute and print the season based on month
+Line 18 (1 moves): if( month  <=  3 )
+Moved from problem to solution at line 11
+Line 20 (1 moves): System.out.print( "Season is winter (January-March)");
+Moved from problem to solution at line 13
+Line 34 (2 moves): else
+Moved from problem to trash at line 2
+Moved from trash to solution at line 16
+Line 24 (2 moves): if( month  <=  6 )
+Moved from problem to trash at line 2
+Moved from trash to solution at line 17
+Line 26 (1 moves): System.out.print( "Season is spring (April-June)");
+Moved from problem to solution at line 13
+Line 22 (2 moves): else
+Moved from problem to trash at line 2
+Moved from trash to solution at line 19
+Line 30 (1 moves): if( month  <=  9 )
+Moved from problem to solution at line 16
+Line 32 (1 moves): System.out.print( "Season is summer (July-September)");
+Moved from problem to solution at line 13
+Line 28 (1 moves): else
+Moved from problem to solution at line 18
+Line 36 (1 moves): System.out.print( "Season is fall (October-December)");
+Moved from problem to solution at line 16
+Line 40 (0 moves): }  // End of method main
+Line 42 (0 moves): } // End of class Problem
+LINE 20 (1 moves): System.out.print( "Season is winter (January-March)")
+Moved from problem to trash at line 0
+Line 33 (1 moves): } // End of if-clause
+Moved from problem to trash at line 1
+Line 38 (1 moves): } // End of else-clause
+Moved from problem to trash at line 2
+Line 27 (1 moves): } // End of if-clause
+Moved from problem to trash at line 1
+Line 25 (1 moves): {
+Moved from problem to trash at line 2
+Line 29 (1 moves): {
+Moved from problem to trash at line 2
+Line 23 (1 moves): {
+Moved from problem to trash at line 5
+Line 19 (1 moves): {
+Moved from problem to trash at line 4
+Line 21 (1 moves): } // End of if-clause
+Moved from problem to trash at line 4
+Line 39 (1 moves): } // End of else-clause
+Moved from problem to trash at line 3
+Line 35 (1 moves): {
+Moved from problem to trash at line 4
+Line 31 (1 moves): {
+Moved from problem to trash at line 1
+LINE 24 (2 moves): if( month  < =  6 )
+Moved from problem to solution at line 14
+Moved from solution to trash at line 2
+Line 37 (3 moves): } // End of else-clause
+Moved from problem to trash at line 3
+Moved from trash to solution at line 16
+Moved from solution to trash at line 9
+Your Grade:
+You took 33 steps to solve a Parsons puzzle containing 27 lines of code.
+Next Problem clicked @ 1461163035460
+Time spent on this problem: 179 seconds
+<HR>

@@ -1,0 +1,53 @@
+Problem No. 1
+Using Template # 100
+The Problem:
+System.out.println("Celsius 35 is Fahrenheit degree ");
+public Class CelciusToFah {
+public class CelciusToFah {
+}}
+public static void main(String[] args) {
+System.out.println((9.0 / 5) * 35 + 32);
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 6 lines.
+Re-assemble them with 6 (or fewer) moves for full credit
+Using Template # 100
+The Problem:
+System.out.println("Celsius 35 is Fahrenheit degree ");
+public Class CelciusToFah {
+public class CelciusToFah {
+}}
+public static void main(String[] args) {
+System.out.println((9.0 / 5) * 35 + 32);
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+1. Moved from problem to solution at line 0:  }}
+2. Moved from problem to trash at line 0: public Class CelciusToFah {
+3. Moved from problem to solution at line 1: public class CelciusToFah {
+4. Moved from problem to solution at line 2:   public static void main(String[] args) {
+5. Moved from problem to solution at line 3:     System.out.println("Celsius 35 is Fahrenheit degree ");
+6. Moved from problem to solution at line 4:     System.out.println((9.0 / 5) * 35 + 32);
+Submit Parsons Solution clicked @ 1489271997154
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): public class CelciusToFah {
+3. Moved from problem to solution at line 1
+Line 2 (1 moves):   public static void main(String[] args) {
+4. Moved from problem to solution at line 2
+Line 3 (1 moves):     System.out.println("Celsius 35 is Fahrenheit degree ");
+5. Moved from problem to solution at line 3
+Line 4 (1 moves):     System.out.println((9.0 / 5) * 35 + 32);
+6. Moved from problem to solution at line 4
+Line 5 (1 moves):  }}
+1. Moved from problem to solution at line 0
+Line 1 (8) (1 moves): public Class CelciusToFah {
+2. Moved from problem to trash at line 0
+Your Grade:
+You took 6 steps to solve a Parsons puzzle containing 6 lines of code.
+Next Problem clicked @ 1489271998114
+Time spent on this problem: 20 seconds
+<HR>

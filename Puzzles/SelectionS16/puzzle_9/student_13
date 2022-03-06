@@ -1,0 +1,193 @@
+Problem No. 9
+Using Template # 2107
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+{
+{
+System.out.print( "Troposphere (0-7 miles)");
+short elevation;
+{
+System.out.print( "Thermosphere (51-440 miles)");
+else
+} // End of if-clause
+System.out.print( "Stratosphere (8-30 miles)");
+else
+if( elevation  <=  30 )
+if( elevation  <=  7 )
+System.out.print( "Enter the altitude");
+} // End of else-clause
+else
+{
+{
+{
+} // End of if-clause
+{
+} // End of if-clause
+} // End of else-clause
+System.out.print( "Mesosphere (31-50 miles)");
+} // End of if-clause
+elevation = stdin.nextShort();
+elevation == stdin.nextShort();
+if( elevation  <=  440 )
+if( elevation  <=  440 );
+if( elevation  <=  50 )
+else
+{
+System.out.print( "Exosphere (over 440 miles)");
+} // End of else-clause
+} // End of else-clause
+Using Template # 2107
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare elevation
+// Read elevation
+// Compute and print the name of the atmospheric layer
+}  // End of method main
+} // End of class Problem
+Using Template # 2107
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to trash at line 0: if( elevation  <=  440 );
+Moved from problem to solution at line 9: short elevation;
+Moved from problem to solution at line 11: System.out.print( "Enter the altitude");
+Moved from problem to solution at line 12: elevation == stdin.nextShort();
+Moved from problem to solution at line 14: if( elevation  <=  7 )
+Moved from problem to solution at line 15: {
+Moved from problem to solution at line 16: System.out.print( "Troposphere (0-7 miles)");
+Moved from problem to solution at line 17: } // End of if-clause
+Moved from problem to solution at line 18: else
+Moved from problem to solution at line 18: if( elevation  <=  30 )
+Reordered from line 19 to 18: else
+Moved from problem to solution at line 20: {
+Moved from problem to solution at line 21: System.out.print( "Stratosphere (8-30 miles)");
+Moved from problem to solution at line 22: } // End of if-clause
+Moved from problem to solution at line 23: else
+Moved from problem to solution at line 24: if( elevation  <=  50 )
+Moved from problem to solution at line 25: {
+Moved from problem to solution at line 26: System.out.print( "Mesosphere (31-50 miles)");
+Moved from problem to solution at line 27: } // End of if-clause
+Moved from problem to solution at line 28: else
+Moved from problem to solution at line 29: if( elevation  <=  440 )
+Moved from problem to solution at line 30: {
+Moved from problem to solution at line 31: System.out.print( "Thermosphere (51-440 miles)");
+Moved from problem to solution at line 32: } // End of if-clause
+Moved from problem to solution at line 32: else
+Reordered from line 32 to 34: else
+Reordered from line 34 to 33: else
+Moved from problem to solution at line 34: System.out.print( "Exosphere (over 440 miles)");
+Moved from problem to trash at line 1: } // End of else-clause
+Moved from problem to trash at line 2: } // End of else-clause
+Moved from problem to trash at line 1: elevation = stdin.nextShort();
+Moved from problem to trash at line 3: {
+Moved from problem to trash at line 2: } // End of else-clause
+Moved from problem to trash at line 1: } // End of else-clause
+Moved from problem to trash at line 2: {
+Moved from problem to trash at line 2: {
+Moved from problem to trash at line 2: {
+Submit Parsons Solution clicked @ 1455340042113
+== is comparison operator. Use = operator to assign to elevation
+Delete this line: elevation == stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 13: elevation = stdin.nextShort();
+Moved from solution to trash at line 4: elevation == stdin.nextShort();
+Submit Parsons Solution clicked @ 1455340055863
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare elevation
+Line 11 (1 moves): short elevation;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Read elevation
+Line 14 (1 moves): System.out.print( "Enter the altitude");
+Moved from problem to solution at line 11
+Line 15 (2 moves): elevation = stdin.nextShort();
+Moved from problem to trash at line 1
+Moved from trash to solution at line 13
+Line 17 (0 moves): // Compute and print the name of the atmospheric layer
+Line 18 (1 moves): if( elevation  <=  7 )
+Moved from problem to solution at line 14
+Line 19 (1 moves): {
+Moved from problem to solution at line 15
+Line 20 (1 moves): System.out.print( "Troposphere (0-7 miles)");
+Moved from problem to solution at line 16
+Line 21 (1 moves): } // End of if-clause
+Moved from problem to solution at line 17
+Line 22 (2 moves): else
+Moved from problem to solution at line 18
+Reordered from line 19 to 18
+Line 24 (1 moves): if( elevation  <=  30 )
+Moved from problem to solution at line 18
+Line 25 (1 moves): {
+Moved from problem to solution at line 20
+Line 26 (1 moves): System.out.print( "Stratosphere (8-30 miles)");
+Moved from problem to solution at line 21
+Line 27 (1 moves): } // End of if-clause
+Moved from problem to solution at line 22
+Line 28 (1 moves): else
+Moved from problem to solution at line 23
+Line 30 (1 moves): if( elevation  <=  50 )
+Moved from problem to solution at line 24
+Line 31 (1 moves): {
+Moved from problem to solution at line 25
+Line 32 (1 moves): System.out.print( "Mesosphere (31-50 miles)");
+Moved from problem to solution at line 26
+Line 33 (1 moves): } // End of if-clause
+Moved from problem to solution at line 27
+Line 34 (1 moves): else
+Moved from problem to solution at line 28
+Line 36 (1 moves): if( elevation  <=  440 )
+Moved from problem to solution at line 29
+Line 37 (1 moves): {
+Moved from problem to solution at line 30
+Line 38 (1 moves): System.out.print( "Thermosphere (51-440 miles)");
+Moved from problem to solution at line 31
+Line 39 (1 moves): } // End of if-clause
+Moved from problem to solution at line 32
+Line 40 (3 moves): else
+Moved from problem to solution at line 32
+Reordered from line 32 to 34
+Reordered from line 34 to 33
+Line 42 (1 moves): System.out.print( "Exosphere (over 440 miles)");
+Moved from problem to solution at line 34
+Line 47 (0 moves): }  // End of method main
+Line 49 (0 moves): } // End of class Problem
+LINE 36 (1 moves): if( elevation  <=  440 );
+Moved from problem to trash at line 0
+Line 44 (1 moves): } // End of else-clause
+Moved from problem to trash at line 1
+Line 45 (1 moves): } // End of else-clause
+Moved from problem to trash at line 2
+Line 31 (1 moves): {
+Moved from problem to trash at line 3
+Line 43 (1 moves): } // End of else-clause
+Moved from problem to trash at line 2
+Line 46 (1 moves): } // End of else-clause
+Moved from problem to trash at line 1
+Line 35 (1 moves): {
+Moved from problem to trash at line 2
+Line 23 (1 moves): {
+Moved from problem to trash at line 2
+Line 37 (1 moves): {
+Moved from problem to trash at line 2
+LINE 15 (2 moves): elevation == stdin.nextShort();
+Moved from problem to solution at line 12
+Moved from solution to trash at line 4
+Your Grade:
+You took 39 steps to solve a Parsons puzzle containing 34 lines of code.
+Next Problem clicked @ 1455340081257
+Time spent on this problem: 289 seconds
+<HR>

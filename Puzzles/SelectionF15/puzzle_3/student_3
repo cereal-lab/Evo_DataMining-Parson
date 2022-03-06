@@ -1,0 +1,99 @@
+Problem No. 3
+Using Template # 2000
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+short number;
+short number
+else
+} // End of if-clause
+number == stdin.nextShort();
+number = stdin.nextShort();
+System.out.print( number  +  " is even");
+System.out.print( number  +  " is odd");
+{
+System.out.print( "Enter the number");
+{
+} // End of else-clause
+if( number  %  2  ==  0 )
+Using Template # 2000
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare number
+// Read number
+// Compute and print whether number is odd or even
+}  // End of method main
+} // End of class Problem
+Using Template # 2000
+Stage: Practice / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Moved from problem to solution at line 9: short number;
+Moved from problem to solution at line 9: short number
+Moved from problem to solution at line 12: number == stdin.nextShort();
+Moved from problem to solution at line 13: number = stdin.nextShort();
+Moved from problem to solution at line 15: if( number  %  2  ==  0 )
+Moved from problem to solution at line 12: System.out.print( "Enter the number");
+Moved from problem to solution at line 17: System.out.print( number  +  " is even");
+Moved from problem to solution at line 18: } // End of if-clause
+Moved from problem to solution at line 19: else
+Moved from problem to solution at line 20: System.out.print( number  +  " is odd");
+Moved from problem to solution at line 21: } // End of else-clause
+Moved from problem to solution at line 20: {
+Moved from problem to solution at line 17: {
+Submit Parsons Solution clicked @ 1447802727906
+Every statement must end with a semi-colon ;
+Delete this line: short number
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802738114
+== is comparison operator. Use = operator to assign to number
+Delete this line: number == stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1447802752506
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare number
+Line 11 (1 moves): short number;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Read number
+Line 14 (1 moves): System.out.print( "Enter the number");
+Moved from problem to solution at line 12
+Line 15 (1 moves): number = stdin.nextShort();
+Moved from problem to solution at line 13
+Line 17 (0 moves): // Compute and print whether number is odd or even
+Line 18 (1 moves): if( number  %  2  ==  0 )
+Moved from problem to solution at line 15
+Line 19 (1 moves): {
+Moved from problem to solution at line 17
+Line 20 (1 moves): System.out.print( number  +  " is even");
+Moved from problem to solution at line 17
+Line 21 (1 moves): } // End of if-clause
+Moved from problem to solution at line 18
+Line 22 (1 moves): else
+Moved from problem to solution at line 19
+Line 23 (1 moves): {
+Moved from problem to solution at line 20
+Line 24 (1 moves): System.out.print( number  +  " is odd");
+Moved from problem to solution at line 20
+Line 25 (1 moves): } // End of else-clause
+Moved from problem to solution at line 21
+Line 26 (0 moves): }  // End of method main
+Line 28 (0 moves): } // End of class Problem
+Your Grade:
+You took 11 steps to solve a Parsons puzzle containing 13 lines of code.
+Next Problem clicked @ 1447802754647
+Time spent on this problem: 118 seconds
+<HR>

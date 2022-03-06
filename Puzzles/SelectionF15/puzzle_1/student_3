@@ -1,0 +1,153 @@
+Problem No. 1
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+{
+System.out.print( firstValue);
+{
+} // End of else-clause
+} // End of if-clause
+System.out.print( "Enter the first value");
+if( firstValue  <  secondValue )
+System.out.print( secondValue);
+short secondValue;
+secondValue = Short.parseShort( stdin.readLine() );
+secondValue == Short.parseShort( stdin.readLine() );
+short firstValue;
+firstValue = Short.parseShort( stdin.readLine() );
+else
+System.out.print( "Enter the second value");
+System.out.print( "Enter the second value")
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.io.*;
+public class Problem
+{
+public static void main( String args[] ) throws IOException
+{
+InputStreamReader iStream = new InputStreamReader(System.in);
+BufferedReader stdin = new BufferedReader(iStream);
+// Declare firstValue
+// Declare secondValue
+// Read firstValue
+// Read secondValue
+// If firstValue is less than secondValue, print firstValue. Otherwise, print secondValue
+}  // End of method main
+} // End of class Problem
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+{
+System.out.print( firstValue);
+{
+} // End of else-clause
+} // End of if-clause
+System.out.print( "Enter the first value");
+if( firstValue  <  secondValue )
+System.out.print( secondValue);
+short secondValue;
+secondValue = Short.parseShort( stdin.readLine() );
+secondValue == Short.parseShort( stdin.readLine() );
+short firstValue;
+firstValue = Short.parseShort( stdin.readLine() );
+else
+System.out.print( "Enter the second value");
+System.out.print( "Enter the second value")
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+// The Java program
+import java.io.*;
+public class Problem
+{
+public static void main( String args[] ) throws IOException
+{
+InputStreamReader iStream = new InputStreamReader(System.in);
+BufferedReader stdin = new BufferedReader(iStream);
+// Declare firstValue
+// Declare secondValue
+// Read firstValue
+// Read secondValue
+// If firstValue is less than secondValue, print firstValue. Otherwise, print secondValue
+}  // End of method main
+} // End of class Problem
+Using Template # 2005
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Single.Simple
+The Problem:
+Moved from problem to solution at line 13: secondValue = Short.parseShort( stdin.readLine() );
+Moved from problem to solution at line 12: firstValue = Short.parseShort( stdin.readLine() );
+Moved from problem to solution at line 16: if( firstValue  <  secondValue )
+Moved from problem to solution at line 17: {
+Moved from problem to solution at line 18: } // End of if-clause
+Moved from problem to solution at line 19: {
+Moved from problem to solution at line 20: } // End of else-clause
+Moved from problem to solution at line 14: System.out.print( "Enter the second value");
+Moved from problem to solution at line 12: System.out.print( "Enter the first value");
+Moved from problem to solution at line 11: short firstValue;
+Reordered from line 11 to 10: short firstValue;
+Moved from problem to solution at line 12: short secondValue;
+Moved from problem to trash at line 0: secondValue == Short.parseShort( stdin.readLine() );
+Moved from problem to solution at line 23: else
+Moved from problem to trash at line 1: System.out.print( "Enter the second value")
+Moved from problem to solution at line 22: System.out.print( firstValue);
+Moved from problem to solution at line 26: System.out.print( secondValue);
+Submit Parsons Solution clicked @ 1447346970280
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.io.*;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] ) throws IOException
+Line 7 (0 moves): {
+Line 8 (0 moves): InputStreamReader iStream = new InputStreamReader(System.in);
+Line 9 (0 moves): BufferedReader stdin = new BufferedReader(iStream);
+Line 11 (0 moves): // Declare firstValue
+Line 12 (2 moves): short firstValue;
+Moved from problem to solution at line 11
+Reordered from line 11 to 10
+Line 14 (0 moves): // Declare secondValue
+Line 15 (1 moves): short secondValue;
+Moved from problem to solution at line 12
+Line 17 (0 moves): // Read firstValue
+Line 18 (1 moves): System.out.print( "Enter the first value");
+Moved from problem to solution at line 12
+Line 19 (1 moves): firstValue = Short.parseShort( stdin.readLine() );
+Moved from problem to solution at line 12
+Line 21 (0 moves): // Read secondValue
+Line 22 (1 moves): System.out.print( "Enter the second value");
+Moved from problem to solution at line 14
+Line 23 (1 moves): secondValue = Short.parseShort( stdin.readLine() );
+Moved from problem to solution at line 13
+Line 25 (0 moves): // If firstValue is less than secondValue, print firstValue. Otherwise, print secondValue
+Line 26 (1 moves): if( firstValue  <  secondValue )
+Moved from problem to solution at line 16
+Line 27 (1 moves): {
+Moved from problem to solution at line 17
+Line 28 (1 moves): System.out.print( firstValue);
+Moved from problem to solution at line 22
+Line 29 (1 moves): } // End of if-clause
+Moved from problem to solution at line 18
+Line 30 (1 moves): else
+Moved from problem to solution at line 23
+Line 31 (1 moves): {
+Moved from problem to solution at line 19
+Line 32 (1 moves): System.out.print( secondValue);
+Moved from problem to solution at line 26
+Line 33 (1 moves): } // End of else-clause
+Moved from problem to solution at line 20
+Line 34 (0 moves): }  // End of method main
+Line 36 (0 moves): } // End of class Problem
+LINE 23 (1 moves): secondValue == Short.parseShort( stdin.readLine() );
+Moved from problem to trash at line 0
+LINE 22 (1 moves): System.out.print( "Enter the second value")
+Moved from problem to trash at line 1
+Your Grade:
+You took 17 steps to solve a Parsons puzzle containing 16 lines of code.
+Next Problem clicked @ 1447347007446
+Time spent on this problem: 159 seconds
+<HR>

@@ -1,0 +1,45 @@
+Problem No. 2
+Using Template # 100
+The Problem:
+System.out.prcharln("Celsius 35 is Fahrenheit degree ");
+System.out.println("Celsius 35 is Fahrenheit degree ");
+public class CelciusToFah {
+}}
+System.out.println((9.0 / 5) * 35 + 32);
+System.out.println((9.1 / 5) * 35 + 32);
+public static void main(String[] args) {
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 7 lines.
+Re-assemble them with 7 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0:  }}
+2. Moved from problem to trash at line 0:     System.out.println((9.1 / 5) * 35 + 32);
+3. Moved from problem to solution at line 1:     System.out.println((9.0 / 5) * 35 + 32);
+4. Moved from problem to solution at line 1:     System.out.println("Celsius 35 is Fahrenheit degree ");
+5. Moved from problem to solution at line 1:   public static void main(String[] args) {
+6. Moved from problem to solution at line 1: public class CelciusToFah {
+7. Moved from problem to trash at line 1:     System.out.prcharln("Celsius 35 is Fahrenheit degree ");
+Submit Parsons Solution clicked @ 1489261752497
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): public class CelciusToFah {
+6. Moved from problem to solution at line 1
+Line 2 (1 moves):   public static void main(String[] args) {
+5. Moved from problem to solution at line 1
+Line 3 (1 moves):     System.out.println("Celsius 35 is Fahrenheit degree ");
+4. Moved from problem to solution at line 1
+Line 4 (1 moves):     System.out.println((9.0 / 5) * 35 + 32);
+3. Moved from problem to solution at line 1
+Line 5 (1 moves):  }}
+1. Moved from problem to solution at line 0
+Line 4 (7) (1 moves):     System.out.println((9.1 / 5) * 35 + 32);
+2. Moved from problem to trash at line 0
+Line 3 (11) (1 moves):     System.out.prcharln("Celsius 35 is Fahrenheit degree ");
+7. Moved from problem to trash at line 1
+Your Grade:
+You took 7 steps to solve a Parsons puzzle containing 7 lines of code.
+Next Problem clicked @ 1489261762318
+Time spent on this problem: 88 seconds
+<HR>

@@ -1,0 +1,83 @@
+Problem No. 5
+Using Template # 100
+The Problem:
+System.out.println("           Multiplication Table");
+System.out.prcharln("           Multiplication Table");
+System.out.print(i + " | ");
+System.out.println("\n-----------------------------------------");
+for (int j = 1; j <= 9; j++
+for (int j = 1; j <= 9; j++)
+}}
+System.out.printf("%4d", i * j);}
+for (int i = 1; i <= 9; i++) {
+System.out.println();}
+public static void main(String[] args) {
+System.out.print("   " + j);
+public class MultiplicationTable {
+System.out.print("    ");
+for (int j = 1; j <= 9; j++) {
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 15 lines.
+Re-assemble them with 16 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: }}
+2. Moved from problem to solution at line 1:     System.out.print("    ");
+3. Moved from problem to solution at line 1:         System.out.printf("%4d", i * j);}
+4. Moved from problem to solution at line 1:     for (int i = 1; i <= 9; i++) {
+5. Moved from problem to solution at line 1:       System.out.print(i + " | ");
+6. Moved from problem to trash at line 0:     for (int j = 1; j <= 9; j++
+7. Moved from solution to trash at line 1:     for (int i = 1; i <= 9; i++) {
+8. Moved from problem to solution at line 2:       for (int j = 1; j <= 9; j++) {
+9. Moved from trash to solution at line 1:     for (int i = 1; i <= 9; i++) {
+10. Moved from problem to solution at line 1:     System.out.println("\n-----------------------------------------");
+11. Moved from problem to solution at line 1:       System.out.print("   " + j);
+12. Moved from problem to solution at line 1:     for (int j = 1; j <= 9; j++)
+13. Reordered from line 8 to 1:     System.out.print("    ");
+14. Moved from problem to solution at line 9:       System.out.println();}
+15. Moved from problem to solution at line 1:     System.out.println("           Multiplication Table");
+16. Moved from problem to solution at line 1:   public static void main(String[] args) {
+17. Moved from problem to solution at line 1: public class MultiplicationTable {
+18. Moved from problem to trash at line 1:     System.out.prcharln("           Multiplication Table");
+Submit Parsons Solution clicked @ 1493698879744
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): public class MultiplicationTable {
+17. Moved from problem to solution at line 1
+Line 2 (1 moves):   public static void main(String[] args) {
+16. Moved from problem to solution at line 1
+Line 3 (1 moves):     System.out.println("           Multiplication Table");
+15. Moved from problem to solution at line 1
+Line 4 (2 moves):     System.out.print("    ");
+2. Moved from problem to solution at line 1
+13. Reordered from line 8 to 1
+Line 5 (1 moves):     for (int j = 1; j <= 9; j++)
+12. Moved from problem to solution at line 1
+Line 6 (1 moves):       System.out.print("   " + j);
+11. Moved from problem to solution at line 1
+Line 7 (1 moves):     System.out.println("\n-----------------------------------------");
+10. Moved from problem to solution at line 1
+Line 8 (3 moves):     for (int i = 1; i <= 9; i++) {
+4. Moved from problem to solution at line 1
+7. Moved from solution to trash at line 1
+9. Moved from trash to solution at line 1
+Line 9 (1 moves):       System.out.print(i + " | ");
+5. Moved from problem to solution at line 1
+Line 10 (1 moves):       for (int j = 1; j <= 9; j++) {
+8. Moved from problem to solution at line 2
+Line 11 (1 moves):         System.out.printf("%4d", i * j);}
+3. Moved from problem to solution at line 1
+Line 12 (1 moves):       System.out.println();}
+14. Moved from problem to solution at line 9
+Line 13 (1 moves): }}
+1. Moved from problem to solution at line 0
+Line 5 (5) (1 moves):     for (int j = 1; j <= 9; j++
+6. Moved from problem to trash at line 0
+Line 3 (11) (1 moves):     System.out.prcharln("           Multiplication Table");
+18. Moved from problem to trash at line 1
+Your Grade:
+You took 18 steps to solve a Parsons puzzle containing 15 lines of code.
+Next Problem clicked @ 1493698881116
+Time spent on this problem: 300 seconds
+<HR>

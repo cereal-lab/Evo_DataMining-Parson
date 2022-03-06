@@ -1,0 +1,885 @@
+Problem No. 2
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+letterGrade  =  'D';
+{
+} // End of else-clause
+letterGrade  =  'B';
+{
+{
+{
+{
+numGrade == stdin.nextShort();
+numGrade = stdin.nextShort();
+char letterGrade;
+if( numGrade  >=  80 )
+if( numGrade  >=  70 )
+letterGrade  =  'F';
+letterGrade  =  'A';
+else
+} // End of else-clause
+if( numGrade  >=  90 )
+short numGrade
+short numGrade;
+if( numGrade  >=  55 )
+letterGrade  =  'C';
+{
+{
+} // End of if-clause
+} // End of if-clause
+{
+System.out.print( letterGrade);
+} // End of else-clause
+} // End of if-clause
+} // End of else-clause
+else
+else
+System.out.print( "Enter the numerical grade");
+else
+} // End of if-clause
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare numGrade
+// Declare letterGrade
+// Read numGrade
+// Compute letterGrade based on numGrade
+// Print letterGrade
+}  // End of method main
+} // End of class Problem
+Using Template # 2105
+Stage: Pretest / Feedback Amount: Explanatory / Feedback Type: Demand/Selection.ifElse.Parsons.Nested.Cascading.Simple
+The Problem:
+Moved from problem to solution at line 11: numGrade = stdin.nextShort();
+Moved from problem to solution at line 9: short numGrade;
+Moved from problem to solution at line 11: char letterGrade;
+Moved from problem to solution at line 15: if( numGrade  >=  90 )
+Moved from problem to solution at line 17: System.out.print( letterGrade);
+Moved from problem to solution at line 16: letterGrade  =  'A';
+Moved from problem to solution at line 17: } // End of if-clause
+Moved from problem to solution at line 15: {
+Moved from problem to solution at line 19: else
+Moved from problem to solution at line 20: {
+Moved from problem to solution at line 21: if( numGrade  >=  80 )
+Moved from problem to solution at line 22: letterGrade  =  'B';
+Moved from problem to solution at line 23: } // End of if-clause
+Moved from problem to solution at line 23: else
+Moved from problem to solution at line 24: {
+Moved from problem to solution at line 23: } // End of if-clause
+Moved from problem to solution at line 26: if( numGrade  >=  70 )
+Moved from problem to solution at line 27: letterGrade  =  'C';
+Moved from problem to solution at line 28: } // End of if-clause
+Moved from problem to solution at line 28: if( numGrade  >=  55 )
+Reordered from line 29 to 28: } // End of if-clause
+Moved from problem to trash at line 0: System.out.print( "Enter the numerical grade");
+Moved from problem to trash at line 1: } // End of else-clause
+Moved from problem to trash at line 2: else
+Moved from problem to trash at line 3: else
+Moved from problem to trash at line 3: } // End of else-clause
+Moved from problem to solution at line 29: {
+Moved from trash to solution at line 30: else
+Moved from problem to solution at line 32: letterGrade  =  'D';
+Moved from problem to solution at line 34: {
+Moved from trash to solution at line 34: else
+Moved from problem to solution at line 36: letterGrade  =  'F';
+Moved from trash to solution at line 37: } // End of else-clause
+Moved from problem to trash at line 2: short numGrade
+Moved from problem to trash at line 3: } // End of else-clause
+Moved from problem to trash at line 4: numGrade == stdin.nextShort();
+Moved from problem to trash at line 2: } // End of else-clause
+Moved from problem to trash at line 3: {
+Moved from problem to trash at line 3: {
+Moved from problem to trash at line 3: {
+Submit Parsons Solution clicked @ 1461775473832
+This line is not in its correct location: numGrade = stdin.nextShort();
+Insert this line in its place: System.out.print( "Enter the numerical grade");
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 3: numGrade = stdin.nextShort();
+Moved from trash to solution at line 13: System.out.print( "Enter the numerical grade");
+Submit Parsons Solution clicked @ 1461775687284
+Other lines should appear before this line: // Compute letterGrade based on numGrade
+Insert this line in its place: numGrade = stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 14: numGrade == stdin.nextShort();
+Submit Parsons Solution clicked @ 1461775701889
+== is comparison operator. Use = operator to assign to numGrade
+Delete this line: numGrade == stdin.nextShort();
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 2: numGrade == stdin.nextShort();
+Moved from trash to solution at line 14: numGrade = stdin.nextShort();
+Submit Parsons Solution clicked @ 1461775727187
+This line is not in its correct location: {
+Move this line in its place: if( numGrade  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461775742838
+This line is not in its correct location: {
+Move this line in its place: if( numGrade  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461775743600
+This line is not in its correct location: {
+Move this line in its place: if( numGrade  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461775744479
+This line is not in its correct location: {
+Move this line in its place: if( numGrade  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461775745029
+This line is not in its correct location: {
+Move this line in its place: if( numGrade  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461775745232
+This line is not in its correct location: {
+Move this line in its place: if( numGrade  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461775745373
+This line is not in its correct location: {
+Move this line in its place: if( numGrade  >=  90 )
+This is the code needed to implement this section
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 8: {
+Submit Parsons Solution clicked @ 1461775750491
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 18 to 19: } // End of if-clause
+Submit Parsons Solution clicked @ 1461775803558
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: if( numGrade  >=  80 )
+This code must appear after else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 9: } // End of if-clause
+Submit Parsons Solution clicked @ 1461775816866
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461775818044
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461775818560
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461775818825
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461775819122
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461775819638
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461775819888
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 9: } // End of if-clause
+Submit Parsons Solution clicked @ 1461775824001
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 9: } // End of if-clause
+Submit Parsons Solution clicked @ 1461775828285
+This line is not in its correct location: {
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 26 to 28: {
+Reordered from line 28 to 27: {
+Submit Parsons Solution clicked @ 1461775875997
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 30 to 31: } // End of if-clause
+Submit Parsons Solution clicked @ 1461775883236
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: letterGrade  =  'F';
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 31 to 32: } // End of if-clause
+Reordered from line 32 to 33: } // End of if-clause
+Submit Parsons Solution clicked @ 1461775895601
+This line is not in its correct location: } // End of if-clause
+Move this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 33 to 34: } // End of if-clause
+Submit Parsons Solution clicked @ 1461775902658
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 10: } // End of if-clause
+Moved from trash to solution at line 34: } // End of else-clause
+Submit Parsons Solution clicked @ 1461775921678
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461775924063
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776001243
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776001649
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 1: } // End of else-clause
+Submit Parsons Solution clicked @ 1461776013482
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 33 to 36: } // End of else-clause
+Submit Parsons Solution clicked @ 1461776032435
+Other lines should appear before this line: // Print letterGrade
+Move this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776033891
+Other lines should appear before this line: // Print letterGrade
+Move this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776034505
+Other lines should appear before this line: // Print letterGrade
+Move this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776034780
+Other lines should appear before this line: // Print letterGrade
+Move this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776035091
+Other lines should appear before this line: // Print letterGrade
+Move this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776035310
+Other lines should appear before this line: // Print letterGrade
+Move this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 33: } // End of else-clause
+Submit Parsons Solution clicked @ 1461776047988
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776048984
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776049047
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776049299
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776049377
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776049771
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776049849
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776050084
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776050177
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776050412
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776216807
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776216885
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776217074
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776217152
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776217339
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776217418
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776217605
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776217714
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 32: } // End of else-clause
+Submit Parsons Solution clicked @ 1461776223269
+This line is not in its correct location: } // End of else-clause
+Move this line in its place: letterGrade  =  'F';
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 33 to 32: letterGrade  =  'F';
+Submit Parsons Solution clicked @ 1461776233143
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 3: } // End of else-clause
+Submit Parsons Solution clicked @ 1461776247583
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776248671
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776248749
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776248969
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776249047
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776294559
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776295278
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776295372
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776308467
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776308967
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776309045
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+This code must appear after } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 2: } // End of else-clause
+Submit Parsons Solution clicked @ 1461776316008
+Other lines should appear before this line: // Print letterGrade
+Move this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776355890
+Other lines should appear before this line: // Print letterGrade
+Move this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 36 to 33: } // End of else-clause
+Submit Parsons Solution clicked @ 1461776368593
+Other lines should appear before this line: // Print letterGrade
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 34: } // End of if-clause
+Submit Parsons Solution clicked @ 1461776387032
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776387970
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776388157
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776388346
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776388627
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776388816
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776388959
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776389131
+This line is not in its correct location: } // End of if-clause
+Insert this line in its place: } // End of else-clause
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 26 to 31: else
+Reordered from line 29 to 35: else
+Submit Parsons Solution clicked @ 1461776393431
+This line is not in its correct location: {
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776394337
+This line is not in its correct location: {
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776394493
+This line is not in its correct location: {
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Reordered from line 26 to 22: {
+Submit Parsons Solution clicked @ 1461776411747
+This line is not in its correct location: {
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776412466
+This line is not in its correct location: {
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776412684
+This line is not in its correct location: {
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776412903
+This line is not in its correct location: {
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776413122
+This line is not in its correct location: {
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from solution to trash at line 9: {
+Submit Parsons Solution clicked @ 1461776416922
+This line is not in its correct location: if( numGrade  >=  55 )
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776618349
+This line is not in its correct location: if( numGrade  >=  55 )
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776618771
+This line is not in its correct location: if( numGrade  >=  55 )
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776618896
+This line is not in its correct location: if( numGrade  >=  55 )
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776619052
+This line is not in its correct location: if( numGrade  >=  55 )
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776619130
+This line is not in its correct location: if( numGrade  >=  55 )
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776619302
+This line is not in its correct location: if( numGrade  >=  55 )
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776619380
+This line is not in its correct location: if( numGrade  >=  55 )
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776619615
+This line is not in its correct location: if( numGrade  >=  55 )
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776619693
+This line is not in its correct location: if( numGrade  >=  55 )
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776619868
+This line is not in its correct location: if( numGrade  >=  55 )
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776619946
+This line is not in its correct location: if( numGrade  >=  55 )
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1461776620227
+This line is not in its correct location: if( numGrade  >=  55 )
+Move this line in its place: else
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Moved from trash to solution at line 26: {
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Explain Parsons Solution clicked @ 1461776859429
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (0 moves): // The Java program
+Line 2 (0 moves): import java.util.Scanner;
+Line 3 (0 moves): public class Problem
+Line 4 (0 moves): {
+Line 6 (0 moves): public static void main( String args[] )
+Line 7 (0 moves): {
+Line 8 (0 moves): Scanner stdin = new Scanner( System.in );
+Line 10 (0 moves): // Declare numGrade
+Line 11 (1 moves): short numGrade;
+Moved from problem to solution at line 9
+Line 13 (0 moves): // Declare letterGrade
+Line 14 (1 moves): char letterGrade;
+Moved from problem to solution at line 11
+Line 16 (0 moves): // Read numGrade
+Line 17 (2 moves): System.out.print( "Enter the numerical grade");
+Moved from problem to trash at line 0
+Moved from trash to solution at line 13
+Line 18 (3 moves): numGrade = stdin.nextShort();
+Moved from problem to solution at line 11
+Moved from solution to trash at line 3
+Moved from trash to solution at line 14
+Line 20 (0 moves): // Compute letterGrade based on numGrade
+Line 21 (1 moves): if( numGrade  >=  90 )
+Moved from problem to solution at line 15
+Line 23 (1 moves): letterGrade  =  'A';
+Moved from problem to solution at line 16
+Line 25 (1 moves): else
+Moved from problem to solution at line 19
+Line 26 (1 moves): {
+Moved from problem to solution at line 20
+Line 27 (1 moves): if( numGrade  >=  80 )
+Moved from problem to solution at line 21
+Line 29 (1 moves): letterGrade  =  'B';
+Moved from problem to solution at line 22
+Line 31 (1 moves): else
+Moved from problem to solution at line 23
+Line 32 (1 moves): {
+Moved from problem to solution at line 24
+Line 33 (1 moves): if( numGrade  >=  70 )
+Moved from problem to solution at line 26
+Line 35 (1 moves): letterGrade  =  'C';
+Moved from problem to solution at line 27
+Line 28 (2 moves): {
+Moved from problem to trash at line 3
+Moved from trash to solution at line 26
+Line 39 (1 moves): if( numGrade  >=  55 )
+Moved from problem to solution at line 28
+Line 41 (1 moves): letterGrade  =  'D';
+Moved from problem to solution at line 32
+Line 44 (1 moves): {
+Moved from problem to solution at line 34
+Line 37 (3 moves): else
+Moved from problem to trash at line 2
+Moved from trash to solution at line 30
+Reordered from line 26 to 31
+Line 45 (2 moves): letterGrade  =  'F';
+Moved from problem to solution at line 36
+Reordered from line 33 to 32
+Line 46 (4 moves): } // End of else-clause
+Moved from problem to trash at line 1
+Moved from trash to solution at line 37
+Reordered from line 33 to 36
+Reordered from line 36 to 33
+Line 24 (4 moves): } // End of if-clause
+Moved from problem to solution at line 17
+Reordered from line 18 to 19
+Moved from solution to trash at line 9
+Moved from trash to solution at line 34
+Line 51 (0 moves): // Print letterGrade
+Line 43 (3 moves): else
+Moved from problem to trash at line 3
+Moved from trash to solution at line 34
+Reordered from line 29 to 35
+Line 52 (1 moves): System.out.print( letterGrade);
+Moved from problem to solution at line 17
+Line 53 (0 moves): }  // End of method main
+Line 55 (0 moves): } // End of class Problem
+LINE 11 (1 moves): short numGrade
+Moved from problem to trash at line 2
+Line 34 (1 moves): {
+Moved from problem to trash at line 3
+Line 38 (1 moves): {
+Moved from problem to trash at line 3
+LINE 18 (3 moves): numGrade == stdin.nextShort();
+Moved from problem to trash at line 4
+Moved from trash to solution at line 14
+Moved from solution to trash at line 2
+Line 22 (2 moves): {
+Moved from problem to solution at line 15
+Moved from solution to trash at line 8
+Line 30 (2 moves): } // End of if-clause
+Moved from problem to solution at line 23
+Moved from solution to trash at line 9
+Line 36 (3 moves): } // End of if-clause
+Moved from problem to solution at line 28
+Reordered from line 29 to 28
+Moved from solution to trash at line 9
+Line 42 (6 moves): } // End of if-clause
+Moved from problem to solution at line 23
+Reordered from line 30 to 31
+Reordered from line 31 to 32
+Reordered from line 32 to 33
+Reordered from line 33 to 34
+Moved from solution to trash at line 10
+Line 47 (3 moves): } // End of else-clause
+Moved from problem to trash at line 3
+Moved from trash to solution at line 34
+Moved from solution to trash at line 1
+Line 47 (3 moves): } // End of else-clause
+Moved from problem to trash at line 3
+Moved from trash to solution at line 33
+Moved from solution to trash at line 3
+Line 46 (3 moves): } // End of else-clause
+Moved from problem to trash at line 2
+Moved from trash to solution at line 32
+Moved from solution to trash at line 2
+Line 38 (5 moves): {
+Moved from problem to solution at line 29
+Reordered from line 26 to 28
+Reordered from line 28 to 27
+Reordered from line 26 to 22
+Moved from solution to trash at line 9
+Since you quit, this problem is being marked as not attempted
+Your Grade:
+You took 72 steps before bailing out of a Parsons puzzle containing 36 lines of code.
+Your answer so far is as follows:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare numGrade
+short numGrade;
+// Declare letterGrade
+char letterGrade;
+// Read numGrade
+System.out.print( "Enter the numerical grade");
+numGrade = stdin.nextShort();
+// Compute letterGrade based on numGrade
+if( numGrade  >=  90 )
+letterGrade  =  'A';
+else
+{
+if( numGrade  >=  80 )
+letterGrade  =  'B';
+else
+{
+if( numGrade  >=  70 )
+letterGrade  =  'C';
+{
+if( numGrade  >=  55 )
+letterGrade  =  'D';
+{
+else
+letterGrade  =  'F';
+} // End of else-clause
+} // End of if-clause
+// Print letterGrade
+else
+System.out.print( letterGrade);
+}  // End of method main
+} // End of class Problem
+The lines you deleted so far are as follows:
+short numGrade
+{
+{
+numGrade == stdin.nextShort();
+{
+} // End of if-clause
+} // End of if-clause
+} // End of if-clause
+} // End of else-clause
+} // End of else-clause
+} // End of else-clause
+{
+The correct answer is as follows:
+// The Java program
+import java.util.Scanner;
+public class Problem
+{
+public static void main( String args[] )
+{
+Scanner stdin = new Scanner( System.in );
+// Declare numGrade
+short numGrade;
+// Declare letterGrade
+char letterGrade;
+// Read numGrade
+System.out.print( "Enter the numerical grade");
+numGrade = stdin.nextShort();
+// Compute letterGrade based on numGrade
+if( numGrade  >=  90 )
+{
+letterGrade  =  'A';
+} // End of if-clause
+else
+{
+if( numGrade  >=  80 )
+{
+letterGrade  =  'B';
+} // End of if-clause
+else
+{
+if( numGrade  >=  70 )
+{
+letterGrade  =  'C';
+} // End of if-clause
+else
+{
+if( numGrade  >=  55 )
+{
+letterGrade  =  'D';
+} // End of if-clause
+else
+{
+letterGrade  =  'F';
+} // End of else-clause
+} // End of else-clause
+} // End of else-clause
+} // End of else-clause
+// Print letterGrade
+System.out.print( letterGrade);
+}  // End of method main
+} // End of class Problem
+Click on 'Next Problem' button to go to the next problem
+Next Problem clicked @ 1461777235994
+Time spent on this problem: 2461 seconds
+<HR>

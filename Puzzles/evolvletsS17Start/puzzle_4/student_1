@@ -1,0 +1,66 @@
+Problem No. 4
+Using Template # 100
+The Problem:
+System.out.print("Enter a year: ");     // This is line X
+Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+public class LeapYear {
+boolean isLeapYear =  (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+boolean isLeapYear =  (year / 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+public static void main(String args[]) {
+import java.util.Scanner;
+int year = input.nextInt();
+}}
+System.out.println(year + " is a leap year? " + isLeapYear);
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 10 lines.
+Re-assemble them with 11 (or fewer) moves for full credit
+1. Moved from problem to solution at line 0: }}
+2. Moved from problem to solution at line 1: import java.util.Scanner;
+3. Moved from problem to solution at line 2: public class LeapYear {
+4. Moved from problem to solution at line 3:   public static void main(String args[]) {
+5. Moved from problem to solution at line 4:     Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+6. Moved from problem to solution at line 5:     System.out.print("Enter a year: ");     // This is line X
+7. Moved from problem to solution at line 4:     int year = input.nextInt();
+8. Moved from problem to solution at line 7:     System.out.println(year + " is a leap year? " + isLeapYear);
+9. Moved from problem to solution at line 7:     boolean isLeapYear =  (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+Submit Parsons Solution clicked @ 1488849660007
+Please clear all the lines from the left panel before submitting your answer.
+10. Moved from problem to trash at line 0:     boolean isLeapYear =  (year / 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+Submit Parsons Solution clicked @ 1488849664276
+This line is not in its correct location:     int year = input.nextInt();
+Move this line in its place:     Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+11. Reordered from line 4 to 6:     int year = input.nextInt();
+Submit Parsons Solution clicked @ 1488849677714
+Your Answer:
+Here is a summary of your actions sorted by line
+Line 1 (1 moves): import java.util.Scanner;
+2. Moved from problem to solution at line 1
+Line 2 (1 moves): public class LeapYear {
+3. Moved from problem to solution at line 2
+Line 3 (1 moves):   public static void main(String args[]) {
+4. Moved from problem to solution at line 3
+Line 4 (1 moves):     Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+5. Moved from problem to solution at line 4
+Line 5 (1 moves):     System.out.print("Enter a year: ");     // This is line X
+6. Moved from problem to solution at line 5
+Line 6 (2 moves):     int year = input.nextInt();
+7. Moved from problem to solution at line 4
+11. Reordered from line 4 to 6
+Line 7 (1 moves):     boolean isLeapYear =  (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+9. Moved from problem to solution at line 7
+Line 8 (1 moves):     System.out.println(year + " is a leap year? " + isLeapYear);
+8. Moved from problem to solution at line 7
+Line 9 (1 moves): }}
+1. Moved from problem to solution at line 0
+Line 7 (36) (1 moves):     boolean isLeapYear =  (year / 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+10. Moved from problem to trash at line 0
+Your Grade:
+You took 11 steps to solve a Parsons puzzle containing 10 lines of code.
+Next Problem clicked @ 1488849708924
+Time spent on this problem: 304 seconds
+<HR>

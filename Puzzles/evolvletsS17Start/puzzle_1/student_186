@@ -1,0 +1,324 @@
+Problem No. 1
+Using Template # 100
+The Problem:
+System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+public class TestBooleanOperators {
+Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+}}
+int number = input.nextInt();
+import java.util.Scanner;
+System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 1) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+public static void main(String[] args) {
+public static void Main(String[] args) {
+System.out.print("Enter an integer: "); // This is line X
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+This problem contains 11 lines.
+Re-assemble them with 12 (or fewer) moves for full credit
+Using Template # 100
+The Problem:
+System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+public class TestBooleanOperators {
+Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+}}
+int number = input.nextInt();
+import java.util.Scanner;
+System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 1) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+public static void main(String[] args) {
+public static void Main(String[] args) {
+System.out.print("Enter an integer: "); // This is line X
+Using Template # 100
+The Problem:
+Using Template # 100
+The Problem:
+1. Moved from problem to solution at line 0:   public static void main(String[] args) {
+2. Moved from problem to solution at line 1:   public static void Main(String[] args) {
+3. Moved from problem to solution at line 2: public class TestBooleanOperators {
+4. Moved from problem to solution at line 3:     Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+5. Moved from problem to solution at line 4:     int number = input.nextInt();
+6. Moved from problem to solution at line 5:     System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+7. Moved from problem to solution at line 6: import java.util.Scanner;
+8. Moved from problem to solution at line 7:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+9. Moved from problem to solution at line 8:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 1) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+10. Moved from problem to solution at line 9:     System.out.print("Enter an integer: "); // This is line X
+11. Moved from problem to solution at line 10: }}
+12. Reordered from line 10 to 11: }}
+Submit Parsons Solution clicked @ 1489529317154
+Sorry, that line has a bug
+Delete this line:   public static void Main(String[] args) {
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+13. Reordered from line 1 to 11:   public static void Main(String[] args) {
+Submit Parsons Solution clicked @ 1489529328596
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529330728
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529331299
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529331649
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529331856
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529332163
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529332316
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529332456
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529332595
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529332720
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529332985
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529333237
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529333347
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529333486
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529333751
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529334030
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529334280
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529334629
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529334809
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529334990
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529335520
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529335715
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529335896
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529336077
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529336259
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529336412
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529336565
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529336718
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529336872
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529337039
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529338418
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529338654
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529339142
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529339476
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529339811
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+14. Reordered from line 6 to 1:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+15. Reordered from line 7 to 2:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 1) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+16. Reordered from line 6 to 3:     System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+Submit Parsons Solution clicked @ 1489529361347
+This line is not in its correct location:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529362279
+This line is not in its correct location:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529368254
+This line is not in its correct location:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+Submit Parsons Solution clicked @ 1489529370874
+This line is not in its correct location:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+17. Reordered from line 3 to 4:     System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+Submit Parsons Solution clicked @ 1489529380943
+This line is not in its correct location:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+18. Reordered from line 1 to 11:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 0) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+19. Reordered from line 1 to 10:     System.out.println("Is " + number + " divisible by 2 and 3? " +  ((number % 2 == 1) && (number % 3 == 0))); //This line should immediately be placed before Line Y
+20. Reordered from line 2 to 5:     System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+21. Reordered from line 4 to 2: import java.util.Scanner;
+Submit Parsons Solution clicked @ 1489529428786
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+22. Reordered from line 8 to 11: }}
+You have been working on this problem for a while. I recommend that you click on 'Quit' so that I can display the correct answer for you to compare.
+Submit Parsons Solution clicked @ 1489529444541
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+23. Reordered from line 3 to 2:     Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+24. Reordered from line 2 to 4:     Scanner input = new Scanner(System.in); //This line should immediately be placed before Line X
+25. Reordered from line 8 to 3:   public static void Main(String[] args) {
+26. Reordered from line 8 to 4:   public static void main(String[] args) {
+Submit Parsons Solution clicked @ 1489529477805
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+27. Reordered from line 7 to 11:     System.out.println("Is " + number + " divisible by 2 or 3? " +  ((number % 2 == 0) || (number % 3 == 0)));  // This is line Y
+28. Reordered from line 10 to 11: }}
+Submit Parsons Solution clicked @ 1489529496387
+This line is not in its correct location: public class TestBooleanOperators {
+Move this line in its place: import java.util.Scanner;
+Sorry, your solution is not yet complete and correct.
+Please correct your answer
+About Topic selected  @ 1489529505055
+Explain Parsons Solution clicked @ 1489529522910
+Your Answer:
+Here is a summary of your actions sorted by line
+Since you quit, this problem is being marked as not attempted
+Your Grade:
+You took 0 steps before bailing out of a Parsons puzzle containing 21 lines of code.
+Your answer so far is as follows:
+The lines you deleted so far are as follows:
+The correct answer is as follows:
+import java.util.Scanner;
+public class Palindrome {
+public static void main(String[] args) {
+Scanner input = new Scanner(System.in); //This line should  be placed before Line Y
+System.out.print("Enter a string: "); //This line should immediately be placed before Line X
+String s = input.nextLine();          // This is line X
+int low, high, isPalindrome;          // This is line Y
+low= 0; high = s.length() - 1; isPalindrome = true;
+while (low < high) {
+if (s.charAt(low) != s.charAt(high)) {
+isPalindrome = false;
+break;}
+low++; high--;
+}
+if (isPalindrome)
+System.out.println(s + " is a palindrome");
+else
+System.out.println(s + " is not a palindrome");
+}}
+Click on 'Next Problem' button to go to the next problem
+Next Problem clicked @ 1489529526210
+Time spent on this problem: 305 seconds
+<HR>
